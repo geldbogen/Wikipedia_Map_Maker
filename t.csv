@@ -1,0 +1,488 @@
+item,itemLabel_x,lat_x,lon_x,location_x,distance_x,sitelinks_x,itemLabel_y,lat_y,lon_y,location_y,distance_y,sitelinks_y,_merge
+http://www.wikidata.org/entity/Q270,,,,,,,Warschau,52.23,21.011111111111,Point(21.011111111 52.23),1.802,273,right_only
+http://www.wikidata.org/entity/Q54169,,,,,,,Woiwodschaft Masowien,52.333333333333,21.1,Point(21.1 52.333333333),11.196,107,right_only
+http://www.wikidata.org/entity/Q211274,,,,,,,Volksrepublik Polen,52.21666667,21.03333333,Point(21.03333333 52.21666667),3.007,65,right_only
+http://www.wikidata.org/entity/Q207272,,,,,,,Zweite Polnische Republik,52.23,21.011111111111,Point(21.011111111 52.23),1.802,63,right_only
+http://www.wikidata.org/entity/Q152115,,,,,,,Herzogtum Warschau,52.233333,21.016667,Point(21.016667 52.233333),1.286,60,right_only
+http://www.wikidata.org/entity/Q221457,,,,,,,Kongresspolen,52.233333,21.016667,Point(21.016667 52.233333),1.286,57,right_only
+http://www.wikidata.org/entity/Q154607,,,,,,,Warschauer Ghetto,52.246111111111,20.995833333333,Point(20.995833333 52.246111111),2.086,54,right_only
+http://www.wikidata.org/entity/Q1139084,,,,,,,Warschauer Altstadt,52.2498,21.0122,Point(21.0122 52.2498),1.189,39,right_only
+http://www.wikidata.org/entity/Q248999,,,,,,,Ząbki,52.292777777778,21.116111111111,Point(21.116111111 52.292777777),8.228,33,right_only
+http://www.wikidata.org/entity/Q778313,,,,,,,Piastów,52.18435,20.83952,Point(20.83952 52.18435),14.306,33,right_only
+http://www.wikidata.org/entity/Q1615800,,,,,,,Marki,52.333333333333,21.1,Point(21.1 52.333333333),11.196,32,right_only
+http://www.wikidata.org/entity/Q199017,,,,,,,Zielonka,52.300833333333,21.158611111111,Point(21.158611111 52.300833333),11.05,31,right_only
+http://www.wikidata.org/entity/Q1637419,,,,,,,Praga,52.251980555556,21.050830555556,Point(21.050830555 52.251980555),1.936,29,right_only
+http://www.wikidata.org/entity/Q7095,,,,,,,Śródmieście,52.233333333333,21.016666666667,Point(21.016666666 52.233333333),1.286,28,right_only
+http://www.wikidata.org/entity/Q570767,,,,,,,Ober Ost,52.233055555556,21.02,Point(21.02 52.233055555),1.218,27,right_only
+http://www.wikidata.org/entity/Q1906235,,,,,,,Łomianki,52.333333333333,20.883333333333,Point(20.883333333 52.333333333),13.944,26,right_only
+http://www.wikidata.org/entity/Q1020136,,,,,,,Wola,52.233333333333,20.957222222222,Point(20.957222222 52.233333333),4.822,24,right_only
+http://www.wikidata.org/entity/Q7101,,,,,,,Bemowo,52.238611111111,20.913333333333,Point(20.913333333 52.238611111),7.698,23,right_only
+http://www.wikidata.org/entity/Q254994,,,,,,,Erzbistum Warschau,52.248833333333,21.013583333333,Point(21.013583333 52.248833333),1.05,23,right_only
+http://www.wikidata.org/entity/Q1017790,,,,,,,Ochota,52.216388888889,20.981111111111,Point(20.981111111 52.216388888),4.288,22,right_only
+http://www.wikidata.org/entity/Q1634585,,,,,,,Mokotów,52.2,21.016944444444,Point(21.016944444 52.2),4.86,22,right_only
+http://www.wikidata.org/entity/Q127098,,,,,,,Żoliborz,52.266666666667,20.983333333333,Point(20.983333333 52.266666666),3.9,21,right_only
+http://www.wikidata.org/entity/Q1247360,,,,,,,Targówek,52.282222222222,21.064166666667,Point(21.064166666 52.282222222),5.038,21,right_only
+http://www.wikidata.org/entity/Q857304,,,,,,,Bielany,52.288888888889,20.933888888889,Point(20.933888888 52.288888888),8.065,21,right_only
+http://www.wikidata.org/entity/Q168886,,,,,,,Powązki-Friedhof,52.251944444444,20.972777777778,Point(20.972777777 52.251944444),3.756,21,right_only
+http://www.wikidata.org/entity/Q7089,,,,,,,Wawer,52.213888888889,21.158055555556,Point(21.158055555 52.213888888),9.563,20,right_only
+http://www.wikidata.org/entity/Q1280107,,,,,,,Ursynów,52.141666666667,21.033333333333,Point(21.033333333 52.141666666),11.316,20,right_only
+http://www.wikidata.org/entity/Q1887504,,,,,,,Wilanów,52.166666666667,21.083333333333,Point(21.083333333 52.166666666),9.375,20,right_only
+http://www.wikidata.org/entity/Q855983,,,,,,,Białołęka,52.32127,20.97204,Point(20.97204 52.32127),9.413,19,right_only
+http://www.wikidata.org/entity/Q2326873,,,,,,,Gmina Stare Babice,52.25,20.85,Point(20.85 52.25),12.014,19,right_only
+http://www.wikidata.org/entity/Q1671187,,,,,,,Włochy,52.2,20.916666666667,Point(20.916666666 52.2),8.878,19,right_only
+http://www.wikidata.org/entity/Q1494474,,,,,,,Rembertów,52.258888888889,21.161111111111,Point(21.161111111 52.258888888),9.349,19,right_only
+http://www.wikidata.org/entity/Q1851596,,,,,,,Ursus,52.19517,20.88419,Point(20.88419 52.19517),11.054,19,right_only
+http://www.wikidata.org/entity/Q2520566,,,,,,,Warsaw Governorate,52.2333,21.0167,Point(21.0167 52.2333),1.289,19,right_only
+http://www.wikidata.org/entity/Q1801709,,,,,,,Wesoła,52.245856,21.223696,Point(21.223696 52.245856),13.453,18,right_only
+http://www.wikidata.org/entity/Q2107492,,,,,,,Praga-Południe,52.241727777778,21.083866666667,Point(21.083866666 52.241727777),3.935,18,right_only
+http://www.wikidata.org/entity/Q769291,,,,,,,Gmina Raszyn,52.158888888889,20.926388888889,Point(20.926388888 52.158888888),11.593,18,right_only
+http://www.wikidata.org/entity/Q2107497,,,,,,,Praga-Północ,52.263333333333,21.028333333333,Point(21.028333333 52.263333333),2.227,18,right_only
+http://www.wikidata.org/entity/Q785690,,,,,,,Gmina Łomianki,52.333333333333,20.883333333333,Point(20.883333333 52.333333333),13.944,17,right_only
+http://www.wikidata.org/entity/Q1716786,,,,,,,Jüdischer Friedhof an der Okopowa-Straße,52.2475,20.974722222222,Point(20.974722222 52.2475),3.53,16,right_only
+http://www.wikidata.org/entity/Q2460544,,,,,,,Gmina Michałowice (Powiat Pruszkowski),52.17,20.8833,Point(20.8833 52.17),12.698,15,right_only
+http://www.wikidata.org/entity/Q2951945,,,,,,,Falenty,52.13505,20.92399,Point(20.92399 52.13505),13.909,15,right_only
+http://www.wikidata.org/entity/Q2790054,,,,,,,Powązki Militärfriedhof,52.258333333333,20.953055555556,Point(20.953055555 52.258333333),5.246,14,right_only
+http://www.wikidata.org/entity/Q989813,,,,,,,Raszyn,52.158888888889,20.926388888889,Point(20.926388888 52.158888888),11.593,14,right_only
+http://www.wikidata.org/entity/Q1862707,,,,,,,Polnisches Militärordinariat,52.241388888889,21.015,Point(21.015 52.241388888),0.789,14,right_only
+http://www.wikidata.org/entity/Q1885838,,,,,,,Woiwodschaft Warschau,52.2505,21.0101,Point(21.0101 52.2505),1.351,14,right_only
+http://www.wikidata.org/entity/Q2042544,,,,,,,Reguły,52.170277777778,20.859444444444,Point(20.859444444 52.170277777),13.965,13,right_only
+http://www.wikidata.org/entity/Q622524,,,,,,,Laski,52.29399,20.84724,Point(20.84724 52.29399),13.412,13,right_only
+http://www.wikidata.org/entity/Q1572695,,,,,,,Sowjetischer Militärfriedhof in Warschau,52.2025,20.986666666667,Point(20.986666666 52.2025),5.278,12,right_only
+http://www.wikidata.org/entity/Q5213673,,,,,,,Falenty Duże,52.13055556,20.91277778,Point(20.91277778 52.13055556),14.731,12,right_only
+http://www.wikidata.org/entity/Q1108280,,,,,,,Warsaw New Town,52.2528,21.0081,Point(21.0081 52.2528),1.616,12,right_only
+http://www.wikidata.org/entity/Q2233524,,,,,,,Jaworowa,52.1445,20.95762,Point(20.95194 52.145),12.048,12,right_only
+http://www.wikidata.org/entity/Q1860646,,,,,,,Bistum Warschau-Praga,52.2517,21.0306,Point(21.0306 52.2517),0.977,12,right_only
+http://www.wikidata.org/entity/Q6419810,,,,,,,Klaudyn,52.27782,20.86613,Point(20.86613 52.27782),11.544,12,right_only
+http://www.wikidata.org/entity/Q1875990,,,,,,,Stare Babice,52.25,20.85,Point(20.85 52.25),12.014,11,right_only
+http://www.wikidata.org/entity/Q2845900,,,,,,,Masovian Voivodeship,52.2333,21.0167,Point(21.0167 52.2333),1.289,11,right_only
+http://www.wikidata.org/entity/Q7856620,,,,,,,"Turów, Masovian Voivodeship",52.3167,21.2,Point(21.2 52.3167),14.367,11,right_only
+http://www.wikidata.org/entity/Q4307307,,,,,,,Lubiczów,52.24417,20.86167,Point(20.86167 52.24417),11.197,11,right_only
+http://www.wikidata.org/entity/Q6450470,,,,,,,Kwirynów,52.25,20.85,Point(20.85 52.25),12.014,11,right_only
+http://www.wikidata.org/entity/Q5213474,,,,,,,Falenty Nowe,52.13,20.92833333,Point(20.92833333 52.13),14.258,11,right_only
+http://www.wikidata.org/entity/Q1967916,,,,,,,Blizne Łaszczyńskiego,52.24444,20.88556,Point(20.88556 52.24444),9.571,11,right_only
+http://www.wikidata.org/entity/Q1128426,,,,,,,Mariensztat,52.24640278,21.016925,Point(21.01731 52.24555),0.649,11,right_only
+http://www.wikidata.org/entity/Q3308731,,,,,,,Michałowice,52.17,20.88333333,Point(20.88089 52.17435),12.522,11,right_only
+http://www.wikidata.org/entity/Q2190060,,,,,,,Masovia Governorate,52.3483,21.1028,Point(21.1028 52.3483),12.781,10,right_only
+http://www.wikidata.org/entity/Q2329582,,,,,,,Babice Nowe,52.24775,20.86478,Point(20.86478 52.24775),10.996,10,right_only
+http://www.wikidata.org/entity/Q4981891,,,,,,,Bródno-Friedhof,52.27888889,21.03611111,Point(21.03611111 52.27888889),4.01,10,right_only
+http://www.wikidata.org/entity/Q1253462,,,,,,,Polnische Bischofskonferenz,52.2397995,20.9829998,Point(20.9829998 52.2397995),2.963,10,right_only
+http://www.wikidata.org/entity/Q6495150,,,,,,,Latchorzew,52.2458,20.8558,Point(20.85892 52.24525),11.386,10,right_only
+http://www.wikidata.org/entity/Q6156314,,,,,,,"Janów, Warsaw West County",52.26666667,20.845,Point(20.845 52.26666667),12.599,10,right_only
+http://www.wikidata.org/entity/Q650655,,,,,,,Macierzysz,52.22444444,20.85916667,Point(20.85916667 52.22444444),11.563,10,right_only
+http://www.wikidata.org/entity/Q3648191,,,,,,,Muranów,52.251386,20.994459,Point(20.994459 52.251386),2.334,10,right_only
+http://www.wikidata.org/entity/Q1025277,,,,,,,Woiwodschaft Warschau (1919–1939),52.2505,21.0101,Point(21.0101 52.2505),1.351,10,right_only
+http://www.wikidata.org/entity/Q928683,,,,,,,"Puchały, Pruszków County",52.15008,20.90149,Point(20.90149 52.15008),13.405,9,right_only
+http://www.wikidata.org/entity/Q1931952,,,,,,,Michałów-Grabina,52.36306,21.02194,Point(21.02194 52.36306),13.314,9,right_only
+http://www.wikidata.org/entity/Q5288903,,,,,,,Ossów,52.3095,21.22785,Point(21.21666667 52.3),14.413,9,right_only
+http://www.wikidata.org/entity/Q6454508,,,,,,,Kępa Okrzewska,52.13527778,21.15305556,Point(21.15305556 52.13527778),14.807,9,right_only
+http://www.wikidata.org/entity/Q6364882,,,,,,,Nowe Grocholice,52.15722222,20.90833333,Point(20.90833333 52.15722222),12.496,9,right_only
+http://www.wikidata.org/entity/Q5242362,,,,,,,"Dawidy, Pruszków County",52.13472222,20.97583333,Point(20.97583333 52.13472222),12.555,9,right_only
+http://www.wikidata.org/entity/Q4973923,,,,,,,"Bronisze, Masovian Voivodeship",52.2,20.83333333,Point(20.83333333 52.2),13.989,9,right_only
+http://www.wikidata.org/entity/Q2602411,,,,,,,Blizne Jasińskiego,52.24431,20.87622,Point(20.87622 52.24431),10.207,9,right_only
+http://www.wikidata.org/entity/Q7384731,,,,,,,"Rybie, Pruszków County",52.15229,20.93655,Point(20.93655 52.15229),11.823,9,right_only
+http://www.wikidata.org/entity/Q3909693,,,,,,,Powiśle (Warschau),52.2374,21.0295,Point(21.0295 52.2374),0.7,9,right_only
+http://www.wikidata.org/entity/Q8071642,,,,,,,Zielonki-Wieś,52.2528,20.8117,Point(20.8117 52.2528),14.635,9,right_only
+http://www.wikidata.org/entity/Q7999190,,,,,,,Wieruchów,52.23685,20.82709,Point(20.82709 52.23685),13.572,9,right_only
+http://www.wikidata.org/entity/Q6166089,,,,,,,"Jawczyce, Masovian Voivodeship",52.21472222,20.85888889,Point(20.85888889 52.21472222),11.826,9,right_only
+http://www.wikidata.org/entity/Q8080372,,,,,,,"Łady, Pruszków County",52.1256,20.9558,Point(20.9558 52.1256),13.943,8,right_only
+http://www.wikidata.org/entity/Q5212969,,,,,,,Opacz Mała,52.16666667,20.9,Point(20.9 52.16666667),12.106,8,right_only
+http://www.wikidata.org/entity/Q1379798,,,,,,,Evangelisch-Augsburgischer Friedhof,52.24138889,20.97111111,Point(20.97111111 52.24138889),3.752,8,right_only
+http://www.wikidata.org/entity/Q4802053,,,,,,,Rembelszczyzna,52.37811,21.02938,Point(21.02938 52.37811),14.986,8,right_only
+http://www.wikidata.org/entity/Q7599350,,,,,,,Stanisławów Pierwszy,52.37485,21.05184,Point(21.05184 52.37485),14.726,8,right_only
+http://www.wikidata.org/entity/Q8071641,,,,,,,Zielonki-Parcela,52.2503,20.8208,Point(20.8208 52.2503),14.0,8,right_only
+http://www.wikidata.org/entity/Q7197078,,,,,,,Piotrkówek Duży,52.21666667,20.81666667,Point(20.81666667 52.21666667),14.57,8,right_only
+http://www.wikidata.org/entity/Q5212952,,,,,,,Dawidy Bankowe,52.12166667,20.97944444,Point(20.97944444 52.12166667),13.899,8,right_only
+http://www.wikidata.org/entity/Q2448004,,,,,,,orthodoxer Friedhof in Warschau,52.226739,20.934471,Point(20.934471 52.226739),6.509,7,right_only
+http://www.wikidata.org/entity/Q11785653,,,,,,,"Mory, Warsaw West County",52.21555556,20.86666667,Point(20.86666667 52.21555556),11.291,7,right_only
+http://www.wikidata.org/entity/Q7197079,,,,,,,Piotrkówek Mały,52.22555556,20.81416667,Point(20.81416667 52.22555556),14.569,7,right_only
+http://www.wikidata.org/entity/Q8080693,,,,,,,Łomianki Dolne,52.3506,20.9036,Point(20.9036 52.3506),14.548,7,right_only
+http://www.wikidata.org/entity/Q722316,,,,,,,Evangelisch-Reformierter Friedhof in Warschau,52.23944444,20.97305556,Point(20.97305556 52.23944444),3.64,7,right_only
+http://www.wikidata.org/entity/Q8510782,,,,,,,Bródno Jewish Cemetery,52.2703,21.0383,Point(21.0383 52.2703),3.109,7,right_only
+http://www.wikidata.org/entity/Q2254318,,,,,,,Opacz Kolonia,52.171619444444,20.89655,Point(20.89655 52.171619444),11.898,7,right_only
+http://www.wikidata.org/entity/Q4821615,,,,,,,Augustówek,52.35,21.06666667,Point(21.06666667 52.35),12.175,7,right_only
+http://www.wikidata.org/entity/Q11779435,,,,,,,Michałowice-Wieś,52.1603,20.8942,Point(20.8942 52.1603),12.888,6,right_only
+http://www.wikidata.org/entity/Q6928126,,,,,,,"Mościska, Warsaw West County",52.28333333,20.86666667,Point(20.86666667 52.28333333),11.728,6,right_only
+http://www.wikidata.org/entity/Q11752019,,,,,,,Kępa Oborska,52.1444,21.1486,Point(21.1486 52.1444),13.81,6,right_only
+http://www.wikidata.org/entity/Q3545698,,,,,,,"Zamienie, Piaseczno County",52.1142,20.9772,Point(20.9772 52.1142),14.742,6,right_only
+http://www.wikidata.org/entity/Q11714716,,,,,,,Izabelin B,52.285555555556,20.829444444444,Point(20.829444444 52.285555555),14.184,6,right_only
+http://www.wikidata.org/entity/Q7425174,,,,,,,Saska Kępa,52.2327,21.0596,Point(21.0596 52.2327),2.568,6,right_only
+http://www.wikidata.org/entity/Q8512005,,,,,,,Wilanów Cemetery,52.1672,21.0825,Point(21.0825 52.1672),9.297,5,right_only
+http://www.wikidata.org/entity/Q9347198,,,,,,,Strzykuły,52.2333,20.8167,Point(20.8167 52.2333),14.304,5,right_only
+http://www.wikidata.org/entity/Q4104078,,,,,,,Warsaw-Bielsk diocese,52.25478,21.033324,Point(21.033324 52.25478),1.362,5,right_only
+http://www.wikidata.org/entity/Q2395469,,,,,,,Tatarisch-Islamischer Friedhof (Warschau),52.25305556,20.965,Point(20.965 52.25305556),4.299,5,right_only
+http://www.wikidata.org/entity/Q2120061,,,,,,,Pyry,52.11666667,21.01666667,Point(21.01666667 52.11666667),14.1,5,right_only
+http://www.wikidata.org/entity/Q9364515,,,,,,,"Ujazdów, Warsaw",52.219444,21.030556,Point(21.030556 52.219444),2.675,5,right_only
+http://www.wikidata.org/entity/Q7398155,,,,,,,"Sadyba, Warsaw",52.188747222222,21.068766666667,Point(21.068766666 52.188747222),6.73,5,right_only
+http://www.wikidata.org/entity/Q11782027,,,,,,,"Mirów, Warsaw",52.23222222,20.99111111,Point(20.99111111 52.23222222),2.686,5,right_only
+http://www.wikidata.org/entity/Q7970904,,,,,,,Warsaw Insurgents Cemetery,52.226111111111,20.934166666667,Point(20.934166666 52.226111111),6.549,5,right_only
+http://www.wikidata.org/entity/Q4213812,,,,,,,Cmentarz Karaimski,52.2328,20.9417,Point(20.9417 52.2328),5.868,5,right_only
+http://www.wikidata.org/entity/Q5609975,,,,,,,Grochów,52.2408,21.0879,Point(21.0879 52.2408),4.215,5,right_only
+http://www.wikidata.org/entity/Q7970888,,,,,,,Warsaw City Council,52.231667,21.006389,Point(21.006389 52.231667),1.869,5,right_only
+http://www.wikidata.org/entity/Q6343955,,,,,,,"Kabaty, Warsaw",52.13012,21.08148,Point(21.08148 52.13012),13.143,5,right_only
+http://www.wikidata.org/entity/Q6358262,,,,,,,Kamionek,52.244722222222,21.055833333333,Point(21.055833333 52.244722222),2.028,5,right_only
+http://www.wikidata.org/entity/Q733924,,,,,,,Kolonia Lubeckiego,52.2189,20.9836,Point(20.9836 52.2189),3.972,4,right_only
+http://www.wikidata.org/entity/Q9249200,,,,,,,Q9249200,52.3255,20.884,Point(20.884 52.3255),13.301,4,right_only
+http://www.wikidata.org/entity/Q686419,,,,,,,"Ożarów, Masovian Voivodeship",52.21222222,20.835,Point(20.835 52.21222222),13.47,4,right_only
+http://www.wikidata.org/entity/Q9351270,,,,,,,"Szeligi, Warsaw West County",52.2292,20.8633,Point(20.8633 52.2292),11.199,4,right_only
+http://www.wikidata.org/entity/Q9397425,,,,,,,Żerań,52.313067,20.995303,Point(20.995303 52.313067),8.031,4,right_only
+http://www.wikidata.org/entity/Q11701010,,,,,,,Gocław,52.233055555556,21.087777777778,Point(21.087777777 52.233055555),4.351,4,right_only
+http://www.wikidata.org/entity/Q9302654,,,,,,,Radość,52.185555555556,21.187222222222,Point(21.187222222 52.185555555),12.717,4,right_only
+http://www.wikidata.org/entity/Q8512566,,,,,,,Italienischer Militärfriedhof Warschau,52.298545,20.943393,Point(20.943393 52.298545),8.328,4,right_only
+http://www.wikidata.org/entity/Q16581633,,,,,,,Natolin,52.139466,21.052774,Point(21.052774 52.139466),11.692,4,right_only
+http://www.wikidata.org/entity/Q7082802,,,,,,,Okęcie,52.18333333,20.95,Point(20.95 52.18333333),8.452,4,right_only
+http://www.wikidata.org/entity/Q5202220,,,,,,,"Czyste, Warsaw",52.23138889,20.97222222,Point(20.97222222 52.23138889),3.904,4,right_only
+http://www.wikidata.org/entity/Q9190269,,,,,,,Chomiczówka,52.276915,20.921101,Point(20.921101 52.276915),8.064,4,right_only
+http://www.wikidata.org/entity/Q4424037,,,,,,,Służew Cemetery (Renety Street),52.17,21.045,Point(21.045 52.17),8.256,4,right_only
+http://www.wikidata.org/entity/Q13420333,,,,,,,Warsaw Department,52.2333,21.0167,Point(21.0167 52.2333),1.289,4,right_only
+http://www.wikidata.org/entity/Q5575662,,,,,,,Gocławek,52.2381,21.1193,Point(21.1193 52.2381),6.37,4,right_only
+http://www.wikidata.org/entity/Q9154799,,,,,,,Anin,52.218093,21.165601,Point(21.165601 52.218093),9.904,4,right_only
+http://www.wikidata.org/entity/Q7970905,,,,,,,19th electoral district for the Sejm of the Republic of Poland,52.2333,21.0167,Point(21.0167 52.2333),1.289,4,right_only
+http://www.wikidata.org/entity/Q7084555,,,,,,,Old Mokotów,52.20416667,21.01472222,Point(21.01472222 52.20416667),4.425,4,right_only
+http://www.wikidata.org/entity/Q11788209,,,,,,,"Młynów, Warsaw",52.239221,20.960061,Point(20.960061 52.239221),4.522,3,right_only
+http://www.wikidata.org/entity/Q4343504,,,,,,,Denkmal für die Opfer der Katastrophe von Smolensk,52.2561,20.9533,Point(20.9533 52.2561),5.157,3,right_only
+http://www.wikidata.org/entity/Q1737083,,,,,,,Kaukasisch-Islamischer Friedhof (Warschau),52.24333333,20.96972222,Point(20.96972222 52.24333333),3.841,3,right_only
+http://www.wikidata.org/entity/Q8510972,,,,,,,Służew Cemetery,52.1725,21.034444444444,Point(21.034444444 52.1725),7.898,3,right_only
+http://www.wikidata.org/entity/Q4821619,,,,,,,"Augustówka, Warsaw",52.190497222222,21.081838888889,Point(21.081838888 52.190497222),6.995,3,right_only
+http://www.wikidata.org/entity/Q8510860,,,,,,,Cholera epidemic cemetery in Warsaw,52.26856,21.029761,Point(21.029761 52.26856),2.814,3,right_only
+http://www.wikidata.org/entity/Q108342442,,,,,,,Stary Imielin,52.149166666667,21.029722222222,Point(21.029722222 52.149166666),10.475,3,right_only
+http://www.wikidata.org/entity/Q104816854,,,,,,,Ursynów Północny,52.158888888889,21.028055555556,Point(21.028055555 52.158888888),9.392,3,right_only
+http://www.wikidata.org/entity/Q9379148,,,,,,,Wyczółki,52.158888888889,20.999166666667,Point(20.999166666 52.158888888),9.569,3,right_only
+http://www.wikidata.org/entity/Q105041010,,,,,,,Ursynów-Centrum,52.152777777778,21.045555555556,Point(21.045555555 52.152777777),10.157,3,right_only
+http://www.wikidata.org/entity/Q101579681,,,,,,,Jeziorki,52.119444444444,21.008333333333,Point(21.008333333 52.119444444),13.83,3,right_only
+http://www.wikidata.org/entity/Q5201987,,,,,,,Czerniaków,52.207383333333,21.051088888889,Point(21.051088888 52.207383333),4.345,3,right_only
+http://www.wikidata.org/entity/Q7510811,,,,,,,"Sielce, Warsaw",52.201333333333,21.039566666667,Point(21.039566666 52.201333333),4.76,3,right_only
+http://www.wikidata.org/entity/Q9275268,,,,,,,"Grabów, Warsaw",52.143482,21.005439,Point(21.005439 52.143482),11.193,3,right_only
+http://www.wikidata.org/entity/Q9249255,,,,,,,Dąbrówka,52.108611111111,21.026111111111,Point(21.026111111 52.108611111),14.981,3,right_only
+http://www.wikidata.org/entity/Q9303696,,,,,,,Rakowitz,52.2026,20.9781,Point(20.9781 52.2026),5.588,3,right_only
+http://www.wikidata.org/entity/Q8080690,,,,,,,Łomianki Chopina,52.3486,20.8892,Point(20.8892 52.3486),14.956,3,right_only
+http://www.wikidata.org/entity/Q7667551,,,,,,,Służewiec,52.1769,21.0075,Point(21.0075 52.1769),7.496,3,right_only
+http://www.wikidata.org/entity/Q7510768,,,,,,,Siekierki,52.208211111111,21.083527777778,Point(21.083527777 52.208211111),5.527,3,right_only
+http://www.wikidata.org/entity/Q8512815,,,,,,,Military cemetery in Powsin,52.1203,21.1031,Point(21.1031 52.1203),14.653,3,right_only
+http://www.wikidata.org/entity/Q8039763,,,,,,,"Wyględów, Warsaw",52.1967,20.9931,Point(20.9931 52.1967),5.654,3,right_only
+http://www.wikidata.org/entity/Q9387680,,,,,,,Załuski,52.169167,20.939361,Point(20.939361 52.169167),10.148,3,right_only
+http://www.wikidata.org/entity/Q7667544,,,,,,,"Służew, Warsaw",52.169273,21.031476,Point(21.031476 52.169273),8.244,3,right_only
+http://www.wikidata.org/entity/Q11803453,,,,,,,Evangelical Reformed Parish in Warsaw,52.2438,20.9985,Point(20.9985 52.2438),1.882,3,right_only
+http://www.wikidata.org/entity/Q8510786,,,,,,,Northern Communal Cemetery in Warsaw,52.300833333333,20.895833333333,Point(20.895833333 52.300833333),10.929,3,right_only
+http://www.wikidata.org/entity/Q9371651,,,,,,,"Wawrzyszew, Warsaw",52.283347,20.932475,Point(20.932475 52.283347),7.772,3,right_only
+http://www.wikidata.org/entity/Q11798154,,,,,,,Olszynka Grochowska,52.25014,21.10574,Point(21.10574 52.25014),5.472,3,right_only
+http://www.wikidata.org/entity/Q932405,,,,,,,"Wierzbno, Warsaw",52.1944,21.0144,Point(21.0144 52.1944),5.501,3,right_only
+http://www.wikidata.org/entity/Q7606696,,,,,,,"Stegny, Warsaw",52.177641666667,21.047994444444,Point(21.047994444 52.177641666),7.456,3,right_only
+http://www.wikidata.org/entity/Q8511843,,,,,,,Czerniaków Cemetery,52.188333333333,21.063055555556,Point(21.063055555 52.188333333),6.614,3,right_only
+http://www.wikidata.org/entity/Q4150018,,,,,,,Ivan Skvartsov family vault,52.242,20.9724,Point(20.9724 52.242),3.661,3,right_only
+http://www.wikidata.org/entity/Q8510724,,,,,,,Wola Cemetery,52.2278,20.9344,Point(20.9344 52.2278),6.481,3,right_only
+http://www.wikidata.org/entity/Q4937226,,,,,,,Boernerowo,52.25,20.9,Point(20.9 52.25),8.619,3,right_only
+http://www.wikidata.org/entity/Q11690361,,,,,,,"Chrzanów, Warsaw",52.22338,20.885455,Point(20.885455 52.22338),9.834,3,right_only
+http://www.wikidata.org/entity/Q6440725,,,,,,,"Ksawerów, Warsaw",52.18361111,21.01861111,Point(21.01861111 52.18361111),6.662,3,right_only
+http://www.wikidata.org/entity/Q11810913,,,,,,,Vincent de Paul Parochy in Warsaw,52.2767,21.0425,Point(21.0425 52.2767),3.872,2,right_only
+http://www.wikidata.org/entity/Q8510873,,,,,,,Forest Cemetery in Laski,52.2981,20.8356,Point(20.8356 52.2981),14.322,2,right_only
+http://www.wikidata.org/entity/Q11806932,,,,,,,Church of Divine Mercy in Warsaw,52.2247,21.0678,Point(21.0678 52.2247),3.514,2,right_only
+http://www.wikidata.org/entity/Q11803659,,,,,,,Church of Saint Mary of Częstochowa in Warsaw,52.2264,21.0402,Point(21.0402 52.2264),2.114,2,right_only
+http://www.wikidata.org/entity/Q11807392,,,,,,,Surroundings of the Saints Peter and Paul church in Warsaw Pyry,52.1255,21.0166,Point(21.0166 52.1255),13.119,2,right_only
+http://www.wikidata.org/entity/Q8512539,,,,,,,Friedhof Pyry,52.1278,21.0094,Point(21.0094 52.1278),12.898,2,right_only
+http://www.wikidata.org/entity/Q65175608,,,,,,,Q65175608,52.346055555556,20.929055555556,Point(20.929055555 52.346055555),13.191,2,right_only
+http://www.wikidata.org/entity/Q9395946,,,,,,,"Śródmieście Południowe, Warsaw",52.222869,21.015817,Point(21.015817 52.222869),2.383,2,right_only
+http://www.wikidata.org/entity/Q9395945,,,,,,,Śródmieście Północne,52.237931,21.006589,Point(21.006589 52.237931),1.461,2,right_only
+http://www.wikidata.org/entity/Q3708442,,,,,,,Polish Catholic Church Diocese of Warsaw,52.2164,21.045,Point(21.045 52.2164),3.26,2,right_only
+http://www.wikidata.org/entity/Q9339313,,,,,,,"Solec, Warsaw",52.2248,21.0418,Point(21.0418 52.2248),2.322,2,right_only
+http://www.wikidata.org/entity/Q9378187,,,,,,,"Wrzeciono, Warsaw",52.292861,20.940028,Point(20.940028 52.292861),8.04,2,right_only
+http://www.wikidata.org/entity/Q11803569,,,,,,,Surroundings of Saints Michael Archangel and Florian Basilica in Warsaw,52.2517,21.0306,Point(21.0306 52.2517),0.977,2,right_only
+http://www.wikidata.org/entity/Q11788935,,,,,,,Nadwiśle,52.167997,21.147079,Point(21.147079 52.167997),11.752,2,right_only
+http://www.wikidata.org/entity/Q8512536,,,,,,,Cemetery in Powsin,52.1203,21.1042,Point(21.1042 52.1203),14.68,2,right_only
+http://www.wikidata.org/entity/Q110390154,,,,,,,Nowy Służewiec,52.172222222222,20.981944444444,Point(20.981944444 52.172222222),8.462,2,right_only
+http://www.wikidata.org/entity/Q11770949,,,,,,,Marysin Wawerski,52.23234,21.1369,Point(21.1369 52.23234),7.641,2,right_only
+http://www.wikidata.org/entity/Q11804513,,,,,,,Church of the Immaculate Heart of Mary in Warsaw,52.2444,21.1033,Point(21.1033 52.2444),5.255,2,right_only
+http://www.wikidata.org/entity/Q975202,,,,,,,Pantheon of Great Polish People,52.1586,21.0711,Point(21.0711 52.1586),9.909,2,right_only
+http://www.wikidata.org/entity/Q9353328,,,,,,,"Słodowiec, Warsaw",52.272947,20.958053,Point(20.958053 52.272947),5.684,2,right_only
+http://www.wikidata.org/entity/Q9332681,,,,,,,Sady Żoliborskie,52.267433,20.970456,Point(20.970456 52.267433),4.641,2,right_only
+http://www.wikidata.org/entity/Q11816309,,,,,,,"Piaski, Warsaw",52.268547,20.943547,Point(20.943547 52.268547),6.281,2,right_only
+http://www.wikidata.org/entity/Q11810910,,,,,,,Saint Vincent Pallotti Parochy in Warsaw,52.2492,21.0494,Point(21.0494 52.2492),1.712,2,right_only
+http://www.wikidata.org/entity/Q8511385,,,,,,,Parish Cemetery in Zerzeń,52.1928,21.1411,Point(21.1411 52.1928),9.64,2,right_only
+http://www.wikidata.org/entity/Q9332677,,,,,,,Sadul,52.209327777778,21.151513888889,Point(21.151513888 52.209327777),9.34,2,right_only
+http://www.wikidata.org/entity/Q11780110,,,,,,,Miedzeszyn,52.170176,21.194446,Point(21.194446 52.170176),14.061,2,right_only
+http://www.wikidata.org/entity/Q8512400,,,,,,,Świętokrzyski-Friedhof in Warschau,52.2261,21.0072,Point(21.0072 52.2261),2.311,2,right_only
+http://www.wikidata.org/entity/Q11783708,,,,,,,Międzylesie,52.207936,21.188073,Point(21.188073 52.207936),11.711,2,right_only
+http://www.wikidata.org/entity/Q9343796,,,,,,,Old Praga,52.24847,21.03667,Point(21.03667 52.24847),0.916,2,right_only
+http://www.wikidata.org/entity/Q11751666,,,,,,,Ł Quarter at Military Cemetery in Warsaw,52.2557,20.9524,Point(20.9524 52.2557),5.204,2,right_only
+http://www.wikidata.org/entity/Q9352003,,,,,,,Szmulowizna,52.25599,21.0541,Point(21.0541 52.25599),2.367,2,right_only
+http://www.wikidata.org/entity/Q11744696,,,,,,,"Koło, Warsaw",52.245148,20.945587,Point(20.945587 52.245148),5.487,2,right_only
+http://www.wikidata.org/entity/Q11806908,,,,,,,Divine Mercy Chapel in Warsaw,52.2247,21.0156,Point(21.0156 52.2247),2.194,2,right_only
+http://www.wikidata.org/entity/Q11803277,,,,,,,Parafia Ewangelicko-Augsburska Wniebowstąpienia Pańskiego w Warszawie,52.2117,21.0192,Point(21.0192 52.2117),3.55,2,right_only
+http://www.wikidata.org/entity/Q65162595,,,,,,,Q65162595,52.352947216125,21.017915450724,Point(21.01791545 52.352947216),12.199,2,right_only
+http://www.wikidata.org/entity/Q9249288,,,,,,,Dąbrówka Szlachecka,52.346419,20.957805,Point(20.957805 52.346419),12.367,2,right_only
+http://www.wikidata.org/entity/Q11808254,,,,,,,Parish of St. Faustyna Kowalska in Warsaw,52.2861,21.0425,Point(21.0425 52.2861),4.883,2,right_only
+http://www.wikidata.org/entity/Q9389357,,,,,,,Pentecostal church in Warsaw,52.2311,20.9962,Point(20.9962 52.2311),2.451,2,right_only
+http://www.wikidata.org/entity/Q11690867,,,,,,,Grabów Cemetery in Warsaw,52.1492,21.0061,Point(21.0061 52.1492),10.557,2,right_only
+http://www.wikidata.org/entity/Q9352047,,,,,,,"Szopy, Warsaw",52.18421,21.02547,Point(21.02547 52.18421),6.575,2,right_only
+http://www.wikidata.org/entity/Q8511115,,,,,,,Polish-Soviet War cemetery in Ossów,52.305,21.2217,Point(21.2217 52.305),14.968,2,right_only
+http://www.wikidata.org/entity/Q8512549,,,,,,,Tarchomin Cemetery,52.3294,20.9564,Point(20.9564 52.3294),10.679,2,right_only
+http://www.wikidata.org/entity/Q9288959,,,,,,,"Henryków, Warsaw",52.3322,20.968,Point(20.968 52.3322),10.641,2,right_only
+http://www.wikidata.org/entity/Q25415989,,,,,,,"Młociny, Warsaw",52.311336111111,20.920458333333,Point(20.920458333 52.311336111),10.432,2,right_only
+http://www.wikidata.org/entity/Q11807751,,,,,,,Surroundings of the Saint Anne church in Warsaw-Wilanów,52.1661,21.0877,Point(21.0877 52.1661),9.559,2,right_only
+http://www.wikidata.org/entity/Q97931331,,,,,,,Powsinek,52.15,21.1,Point(21.1 52.15),11.536,2,right_only
+http://www.wikidata.org/entity/Q11808236,,,,,,,Surroundings of the Saint Elisabeth of Hungary Sanctuary in Warsaw,52.1233,21.1019,Point(21.1019 52.1233),14.312,2,right_only
+http://www.wikidata.org/entity/Q11752905,,,,,,,Las,52.214832,21.118872,Point(21.118872 52.214832),7.067,2,right_only
+http://www.wikidata.org/entity/Q9381252,,,,,,,Wólka Węglowa,52.300733333333,20.893336111111,Point(20.893336111 52.300733333),11.061,2,right_only
+http://www.wikidata.org/entity/Q8510828,,,,,,,Wawrzyszewski Cemetery,52.2789,20.9269,Point(20.9269 52.2789),7.825,2,right_only
+http://www.wikidata.org/entity/Q11819256,,,,,,,"Placówka, Warsaw",52.295736,20.904364,Point(20.904364 52.295736),10.128,2,right_only
+http://www.wikidata.org/entity/Q11833489,,,,,,,Radiowo,52.284475,20.897883,Point(20.897883 52.284475),9.853,2,right_only
+http://www.wikidata.org/entity/Q8512552,,,,,,,Cemetery in Włochy - Ryżowa street,52.1942,20.9136,Point(20.9136 52.1942),9.414,2,right_only
+http://www.wikidata.org/entity/Q11793427,,,,,,,New Praga,52.26333333,21.02833333,Point(21.02833333 52.26333333),2.227,2,right_only
+http://www.wikidata.org/entity/Q11806993,,,,,,,Q11806993,52.2661,21.1742,Point(21.1742 52.2661),10.391,2,right_only
+http://www.wikidata.org/entity/Q11815481,,,,,,,Pelcowizna,52.27598,21.02063,Point(21.02063 52.27598),3.648,2,right_only
+http://www.wikidata.org/entity/Q9389360,,,,,,,Zbór KZ Warszawa-Wola,52.218,20.9079,Point(20.9079 52.218),8.531,2,right_only
+http://www.wikidata.org/entity/Q9389341,,,,,,,Pentecostal church in Zacisze,52.2821,21.075,Point(21.075 52.2821),5.443,2,right_only
+http://www.wikidata.org/entity/Q8512560,,,,,,,Cemetery in Włochy - Fasolowa street,52.1972,20.9161,Point(20.9161 52.1972),9.083,2,right_only
+http://www.wikidata.org/entity/Q9332950,,,,,,,"Salomea, Warsaw",52.189767,20.926722,Point(20.926722 52.189767),9.02,2,right_only
+http://www.wikidata.org/entity/Q11724147,,,,,,,"Jelonki, Warsaw",52.228488,20.905928,Point(20.905928 52.228488),8.35,2,right_only
+http://www.wikidata.org/entity/Q8511002,,,,,,,Cmentarz mariawicki w Warszawie,52.2239,20.9306,Point(20.9306 52.2239),6.856,2,right_only
+http://www.wikidata.org/entity/Q9180919,,,,,,,"Brzeziny, Warsaw",52.3231,21.0328,Point(21.0328 52.3231),8.879,2,right_only
+http://www.wikidata.org/entity/Q11798430,,,,,,,Opacz Wielka,52.179192,20.92516,Point(20.92516 52.179192),9.91,2,right_only
+http://www.wikidata.org/entity/Q11808371,,,,,,,Saint Gregory church in Warsaw,52.202380555556,20.956261111111,Point(20.956261111 52.202380555),6.588,2,right_only
+http://www.wikidata.org/entity/Q8512556,,,,,,,Marysin Wawerski Friedhof,52.2406,21.1647,Point(21.1647 52.2406),9.439,2,right_only
+http://www.wikidata.org/entity/Q8512819,,,,,,,Q8512819,52.2336,21.1586,Point(21.1586 52.2336),9.084,2,right_only
+http://www.wikidata.org/entity/Q9374272,,,,,,,"Wiktoryn, Warsaw",52.2035,20.932722,Point(20.932722 52.2035),7.753,2,right_only
+http://www.wikidata.org/entity/Q8512824,,,,,,,Memorial cemetery in Wawer,52.2231,21.1456,Point(21.1456 52.2231),8.441,2,right_only
+http://www.wikidata.org/entity/Q11833730,,,,,,,"Raków, Warsaw",52.197319,20.950156,Point(20.950156 52.197319),7.278,2,right_only
+http://www.wikidata.org/entity/Q8512532,,,,,,,Cemetery in Okęcie,52.1836,20.9489,Point(20.9489 52.1836),8.475,2,right_only
+http://www.wikidata.org/entity/Q11791427,,,,,,,"Niedźwiadek, Warsaw",52.1967,20.8708,Point(20.8708 52.1967),11.784,2,right_only
+http://www.wikidata.org/entity/Q8510966,,,,,,,Gołąbki Cemetery,52.1994,20.8686,Point(20.868889 52.199667),11.761,2,right_only
+http://www.wikidata.org/entity/Q26256351,,,,,,,Stara Miłosna Cemetery,52.222888888889,21.216305555556,Point(21.216305555 52.222888888),13.149,2,right_only
+http://www.wikidata.org/entity/Q9351235,,,,,,,Szczęśliwice,52.2075,20.9578,Point(20.9578 52.2075),6.128,2,right_only
+http://www.wikidata.org/entity/Q9355606,,,,,,,Tarchomin,52.3181,20.9619,Point(20.9619 52.3181),9.39,2,right_only
+http://www.wikidata.org/entity/Q11793735,,,,,,,Nowodwory,52.3361,20.9411,Point(20.9411 52.3361),11.824,2,right_only
+http://www.wikidata.org/entity/Q11809349,,,,,,,Surroundings of the Saint Catherine of Alexandria church in Warsaw,52.1721,21.0447,Point(21.0447 52.1721),8.022,2,right_only
+http://www.wikidata.org/entity/Q11740485,,,,,,,"Kobiałka, Warsaw",52.3558,21.0383,Point(21.0383 52.3558),12.531,2,right_only
+http://www.wikidata.org/entity/Q8510959,,,,,,,Kamionkowski Cemetery in Warsaw,52.2469,21.0531,Point(21.0531 52.2469),1.878,2,right_only
+http://www.wikidata.org/entity/Q104817562,,,,,,,Stary Służew,52.163611111111,21.045277777778,Point(21.045277777 52.163611111),8.961,2,right_only
+http://www.wikidata.org/entity/Q65175610,,,,,,,Wesoła Cemetery,52.251833333333,21.212027777778,Point(21.212027777 52.251833333),12.69,2,right_only
+http://www.wikidata.org/entity/Q11808548,,,,,,,Surroundings of the Immaculate Conception of St. Mary church in Warsaw,52.21972,20.98361,Point(20.98361 52.21972),3.91,2,right_only
+http://www.wikidata.org/entity/Q11805693,,,,,,,Q11805693,52.2519,21.2129,Point(21.2129 52.2519),12.75,1,right_only
+http://www.wikidata.org/entity/Q11808415,,,,,,,Q11808415,52.3264,21.1061,Point(21.1061 52.3264),10.718,1,right_only
+http://www.wikidata.org/entity/Q11802425,,,,,,,"Paluch, Warsaw",52.153788888889,20.971011111111,Point(20.971011111 52.153788888),10.643,1,right_only
+http://www.wikidata.org/entity/Q9193593,,,,,,,Q9193593,52.166351,20.984752,Point(20.984752 52.166351),9.013,1,right_only
+http://www.wikidata.org/entity/Q11801665,,,,,,,Q11801665,52.3617,21.0471,Point(21.0471 52.3617),13.237,1,right_only
+http://www.wikidata.org/entity/Q11805461,,,,,,,Q11805461,52.2542,21.0092,Point(21.0092 52.2542),1.669,1,right_only
+http://www.wikidata.org/entity/Q11806962,,,,,,,Q11806962,52.2564,21.2314,Point(21.2314 52.2564),14.048,1,right_only
+http://www.wikidata.org/entity/Q11831902,,,,,,,Pustelnik,52.3514,21.1197,Point(21.1197 52.3514),13.595,1,right_only
+http://www.wikidata.org/entity/Q11807305,,,,,,,Q11807305,52.288,21.1074,Point(21.1074 52.288),7.432,1,right_only
+http://www.wikidata.org/entity/Q11806701,,,,,,,Q11806701,52.2787,21.1261,Point(21.1261 52.2787),7.857,1,right_only
+http://www.wikidata.org/entity/Q11805013,,,,,,,Q11805013,52.3142,21.1144,Point(21.1144 52.3142),9.906,1,right_only
+http://www.wikidata.org/entity/Q11808027,,,,,,,Q11808027,52.2853,21.0831,Point(21.0831 52.2853),6.065,1,right_only
+http://www.wikidata.org/entity/Q11804338,,,,,,,Q11804338,52.2606,21.0458,Point(21.0458 52.2606),2.339,1,right_only
+http://www.wikidata.org/entity/Q8511067,,,,,,,Old Believers' Cemetery in Kamionek,52.2461,21.0661,Point(21.0661 52.2461),2.738,1,right_only
+http://www.wikidata.org/entity/Q9389085,,,,,,,Q9389085,52.2506,21.0693,Point(21.0693 52.2506),3.047,1,right_only
+http://www.wikidata.org/entity/Q11805315,,,,,,,Q11805315,52.3356,20.9747,Point(20.9747 52.3356),10.838,1,right_only
+http://www.wikidata.org/entity/Q11807300,,,,,,,Holy Trinity parish,52.247611,21.011444,Point(21.011444 52.247611),1.107,1,right_only
+http://www.wikidata.org/entity/Q11806732,,,,,,,Q11806732,52.2661,21.0686,Point(21.0686 52.2661),3.841,1,right_only
+http://www.wikidata.org/entity/Q11809759,,,,,,,Q11809759,52.2733,21.0631,Point(21.0631 52.2733),4.174,1,right_only
+http://www.wikidata.org/entity/Q11811085,,,,,,,Q11811085,52.2794,20.9463,Point(20.9463 52.2794),6.752,1,right_only
+http://www.wikidata.org/entity/Q11795653,,,,,,,Stara Ochota,52.216649,20.977181,Point(20.977181 52.216649),4.464,1,right_only
+http://www.wikidata.org/entity/Q115108089,,,,,,,Consistory of the Evangelical Church of the Augsburg Confession in Poland,52.248702777778,21.006625,Point(21.006625 52.248702777),1.456,1,right_only
+http://www.wikidata.org/entity/Q11808589,,,,,,,Q11808589,52.3192,20.9406,Point(20.9406 52.3192),10.246,1,right_only
+http://www.wikidata.org/entity/Q9389345,,,,,,,Q9389345,52.2728,21.0496,Point(21.0496 52.2728),3.644,1,right_only
+http://www.wikidata.org/entity/Q11805042,,,,,,,Q11805042,52.3208,20.9567,Point(20.9567 52.3208),9.822,1,right_only
+http://www.wikidata.org/entity/Q11808351,,,,,,,Q11808351,52.3313,20.9464,Point(20.9464 52.3313),11.183,1,right_only
+http://www.wikidata.org/entity/Q11832683,,,,,,,Płudy,52.3423,20.9782,Point(20.9782 52.3423),11.475,1,right_only
+http://www.wikidata.org/entity/Q11770896,,,,,,,Marymont-Ruda,52.284745,20.982996,Point(20.982996 52.284745),5.46,1,right_only
+http://www.wikidata.org/entity/Q11806812,,,,,,,Q11806812,52.2969,20.9615,Point(20.9615 52.2969),7.403,1,right_only
+http://www.wikidata.org/entity/Q11808502,,,,,,,Q11808502,52.2908,21.0028,Point(21.0028 52.2908),5.51,1,right_only
+http://www.wikidata.org/entity/Q11807488,,,,,,,Q11807488,52.2827,20.9819,Point(20.9819 52.2827),5.311,1,right_only
+http://www.wikidata.org/entity/Q9389361,,,,,,,Q9389361,52.2431,21.1887,Point(21.1887 52.2431),11.068,1,right_only
+http://www.wikidata.org/entity/Q11803749,,,,,,,Q11803749,52.2522,21.1694,Point(21.1694 52.2522),9.802,1,right_only
+http://www.wikidata.org/entity/Q11806575,,,,,,,Q11806575,52.229056,21.057167,Point(21.057167 52.229056),2.644,1,right_only
+http://www.wikidata.org/entity/Q11803705,,,,,,,Q11803705,52.2336,21.0594,Point(21.0594 52.2336),2.511,1,right_only
+http://www.wikidata.org/entity/Q11803408,,,,,,,Q11803408,52.2381,21.0106,Point(21.0106 52.2381),1.208,1,right_only
+http://www.wikidata.org/entity/Q11806851,,,,,,,Q11806851,52.3187,21.198484,Point(21.198484 52.3187),14.41,1,right_only
+http://www.wikidata.org/entity/Q8510927,,,,,,,Q8510927,52.1825,21.2192,Point(21.2192 52.1825),14.791,1,right_only
+http://www.wikidata.org/entity/Q8512546,,,,,,,Rembertów Cemetery,52.2503,21.1775,Point(21.1775 52.2503),10.334,1,right_only
+http://www.wikidata.org/entity/Q11803890,,,,,,,Q11803890,52.3109,21.1504,Point(21.1504 52.3109),11.309,1,right_only
+http://www.wikidata.org/entity/Q11804781,,,,,,,Q11804781,52.2217,21.2206,Point(21.2206 52.2217),13.46,1,right_only
+http://www.wikidata.org/entity/Q11808990,,,,,,,Q11808990,52.2956,21.1587,Point(21.1587 52.2956),10.729,1,right_only
+http://www.wikidata.org/entity/Q15830615,,,,,,,Ghetto Rembertów,52.263083,21.145833,Point(21.145833 52.263083),8.438,1,right_only
+http://www.wikidata.org/entity/Q11808263,,,,,,,Parish of Saint Felix of Cantalice in Warsaw,52.2369,21.1561,Point(21.1561 52.2369),8.878,1,right_only
+http://www.wikidata.org/entity/Q11803042,,,,,,,Q11803042,52.2464,21.0528,Point(21.0528 52.2464),1.847,1,right_only
+http://www.wikidata.org/entity/Q11804024,,,,,,,Q11804024,52.2169,21.1628,Point(21.1628 52.2169),9.761,1,right_only
+http://www.wikidata.org/entity/Q11786663,,,,,,,Q11786663,52.251176,20.994888,Point(20.994888 52.251176),2.298,1,right_only
+http://www.wikidata.org/entity/Q9276451,,,,,,,"Grodzisk, Warsaw",52.317168,21.063335,Point(21.063335 52.317168),8.589,1,right_only
+http://www.wikidata.org/entity/Q11809408,,,,,,,Q11809408,52.2344,20.9766,Point(20.9766 52.2344),3.516,1,right_only
+http://www.wikidata.org/entity/Q9344049,,,,,,,Q9344049,52.3213,21.1039,Point(21.1039 52.3213),10.154,1,right_only
+http://www.wikidata.org/entity/Q11804490,,,,,,,Q11804490,52.2982,21.1037,Point(21.1037 52.2982),8.066,1,right_only
+http://www.wikidata.org/entity/Q11803997,,,,,,,Q11803997,52.3442,21.1164,Point(21.1164 52.3442),12.784,1,right_only
+http://www.wikidata.org/entity/Q11811086,,,,,,,Q11811086,52.2631,21.1581,Point(21.1581 52.2631),9.247,1,right_only
+http://www.wikidata.org/entity/Q11691041,,,,,,,Q11691041,52.3508,21.1014,Point(21.1014 52.3508),12.998,1,right_only
+http://www.wikidata.org/entity/Q11808166,,,,,,,Q11808166,52.2461,21.1906,Point(21.1906 52.2461),11.201,1,right_only
+http://www.wikidata.org/entity/Q11810720,,,,,,,Q11810720,52.2388,21.0291,Point(21.0291 52.2388),0.544,1,right_only
+http://www.wikidata.org/entity/Q11690179,,,,,,,Choszczówka,52.3525,20.9753,Point(20.9753 52.3525),12.619,1,right_only
+http://www.wikidata.org/entity/Q9350778,,,,,,,"Szamocin, Warsaw",52.3452,21.0172,Point(21.0172 52.3452),11.341,1,right_only
+http://www.wikidata.org/entity/Q11808110,,,,,,,Q11808110,52.2144,21.1519,Point(21.1519 52.2144),9.15,1,right_only
+http://www.wikidata.org/entity/Q9371581,,,,,,,Wawer,52.218478,21.148681,Point(21.148681 52.218478),8.792,1,right_only
+http://www.wikidata.org/entity/Q11807213,,,,,,,Q11807213,52.2878,21.0678,Point(21.0678 52.2878),5.698,1,right_only
+http://www.wikidata.org/entity/Q11809741,,,,,,,Q11809741,52.3019,21.0489,Point(21.0489 52.3019),6.692,1,right_only
+http://www.wikidata.org/entity/Q8510776,,,,,,,Q8510776,52.2953,21.0491,Point(21.0491 52.2953),5.984,1,right_only
+http://www.wikidata.org/entity/Q11807317,,,,,,,Q11807317,52.2294,21.0853,Point(21.0853 52.2294),4.317,1,right_only
+http://www.wikidata.org/entity/Q11810289,,,,,,,Q11810289,52.2211,21.0878,Point(21.0878 52.2211),4.874,1,right_only
+http://www.wikidata.org/entity/Q11810309,,,,,,,Q11810309,52.2268,21.1054,Point(21.1054 52.2268),5.703,1,right_only
+http://www.wikidata.org/entity/Q11804036,,,,,,,Q11804036,52.2398,21.081,Point(21.081 52.2398),3.756,1,right_only
+http://www.wikidata.org/entity/Q11804568,,,,,,,Q11804568,52.2589,21.0597,Point(21.0597 52.2589),2.866,1,right_only
+http://www.wikidata.org/entity/Q11803156,,,,,,,Q11803156,52.2683,21.0525,Point(21.0525 52.2683),3.304,1,right_only
+http://www.wikidata.org/entity/Q11805350,,,,,,,Q11805350,52.2354,21.1125,Point(21.1125 52.2354),5.947,1,right_only
+http://www.wikidata.org/entity/Q9375923,,,,,,,Witolin,52.236553,21.112309,Point(21.112309 52.236553),5.916,1,right_only
+http://www.wikidata.org/entity/Q11809249,,,,,,,Q11809249,52.215,21.1178,Point(21.1178 52.215),6.993,1,right_only
+http://www.wikidata.org/entity/Q9296038,,,,,,,Q9296038,52.2665,21.0387,Point(21.0387 52.2665),2.713,1,right_only
+http://www.wikidata.org/entity/Q11803009,,,,,,,Q11803009,52.2486,21.0136,Point(21.0136 52.2486),1.034,1,right_only
+http://www.wikidata.org/entity/Q11811068,,,,,,,Q11811068,52.2929,21.0285,Point(21.0285 52.2929),5.512,1,right_only
+http://www.wikidata.org/entity/Q11804247,,,,,,,Q11804247,52.2867,21.0235,Point(21.0235 52.2867),4.824,1,right_only
+http://www.wikidata.org/entity/Q11804052,,,,,,,Q11804052,52.2567,21.0278,Point(21.0278 52.2567),1.489,1,right_only
+http://www.wikidata.org/entity/Q11687947,,,,,,,Białołęka Dworska,52.3424,21.0046,Point(21.0046 52.3424),11.111,1,right_only
+http://www.wikidata.org/entity/Q9340550,,,,,,,Q9340550,52.285,21.0069,Point(21.0069 52.285),4.813,1,right_only
+http://www.wikidata.org/entity/Q11810803,,,,,,,Q11810803,52.2356,21.1339,Point(21.1339 52.2356),7.388,1,right_only
+http://www.wikidata.org/entity/Q11809978,,,,,,,Q11809978,52.3206,21.0658,Point(21.0658 52.3206),9.004,1,right_only
+http://www.wikidata.org/entity/Q11809772,,,,,,,Q11809772,52.3256,21.0489,Point(21.0489 52.3256),9.276,1,right_only
+http://www.wikidata.org/entity/Q11810690,,,,,,,Q11810690,52.3136,21.0672,Point(21.0672 52.3136),8.296,1,right_only
+http://www.wikidata.org/entity/Q11806992,,,,,,,Q11806992,52.2517,21.0883,Point(21.0883 52.2517),4.333,1,right_only
+http://www.wikidata.org/entity/Q11806655,,,,,,,Q11806655,52.2475,21.0089,Point(21.0089 52.2475),1.261,1,right_only
+http://www.wikidata.org/entity/Q11753000,,,,,,,Las Bielański,52.293584,20.958245,Point(20.958245 52.293584),7.249,1,right_only
+http://www.wikidata.org/entity/Q11805479,,,,,,,Q11805479,52.2474,21.0897,Point(21.0897 52.2474),4.351,1,right_only
+http://www.wikidata.org/entity/Q11808020,,,,,,,Parish of Saint Barbara in Warsaw,52.2265,21.0074,Point(21.0074 52.2265),2.266,1,right_only
+http://www.wikidata.org/entity/Q11698124,,,,,,,"Filtry, Warsaw",52.220201,20.996627,Point(20.996627 52.220201),3.265,1,right_only
+http://www.wikidata.org/entity/Q33609272,,,,,,,Catacombs at Powązki Cemetery,52.252444,20.977556,Point(20.977556 52.252444),3.458,1,right_only
+http://www.wikidata.org/entity/Q11806697,,,,,,,Q11806697,52.269,20.9569,Point(20.9569 52.269),5.508,1,right_only
+http://www.wikidata.org/entity/Q11770894,,,,,,,Marymont-Kaskada,52.27745,20.963396,Point(20.963396 52.27745),5.71,1,right_only
+http://www.wikidata.org/entity/Q8512833,,,,,,,Q8512833,52.3294,20.9564,Point(20.9564 52.3294),10.679,1,right_only
+http://www.wikidata.org/entity/Q11805495,,,,,,,Q11805495,52.2915,20.9397,Point(20.9397 52.2915),7.954,1,right_only
+http://www.wikidata.org/entity/Q9344012,,,,,,,"Stare Bielany, Warsaw",52.2812,20.9508,Point(20.9508 52.2812),6.633,1,right_only
+http://www.wikidata.org/entity/Q11805180,,,,,,,Q11805180,52.2428,20.995,Point(20.995 52.2428),2.121,1,right_only
+http://www.wikidata.org/entity/Q11289864,,,,,,,Q11289864,52.2441,20.9888,Point(20.9888 52.2441),2.543,1,right_only
+http://www.wikidata.org/entity/Q11745065,,,,,,,Q11745065,52.2302,20.9925,Point(20.9925 52.2302),2.717,1,right_only
+http://www.wikidata.org/entity/Q11290023,,,,,,,Q11290023,52.24,20.9836,Point(20.9836 52.24),2.92,1,right_only
+http://www.wikidata.org/entity/Q11805931,,,,,,,Q11805931,52.1472,21.1366,Point(21.1366 52.1472),13.076,1,right_only
+http://www.wikidata.org/entity/Q8512887,,,,,,,Q8512887,52.1514,21.1292,Point(21.1292 52.1514),12.404,1,right_only
+http://www.wikidata.org/entity/Q11812992,,,,,,,Q11812992,52.281,20.9279,Point(20.9279 52.281),7.888,1,right_only
+http://www.wikidata.org/entity/Q11808398,,,,,,,Q11808398,52.2967,20.8989,Point(20.8989 52.2967),10.495,1,right_only
+http://www.wikidata.org/entity/Q9295097,,,,,,,"Huta, Warsaw",52.29603,20.916732,Point(20.916732 52.29603),9.472,1,right_only
+http://www.wikidata.org/entity/Q11810691,,,,,,,Q11810691,52.206,21.0182,Point(21.0182 52.206),4.188,1,right_only
+http://www.wikidata.org/entity/Q11805694,,,,,,,Q11805694,52.1588,21.0722,Point(21.0722 52.1588),9.911,1,right_only
+http://www.wikidata.org/entity/Q9386826,,,,,,,"Zamość, Warsaw",52.1324,21.1099,Point(21.1099 52.1324),13.593,1,right_only
+http://www.wikidata.org/entity/Q9183492,,,,,,,Błonia Wilanowskie,52.1551,21.0806,Point(21.0806 52.1551),10.491,1,right_only
+http://www.wikidata.org/entity/Q8512829,,,,,,,Q8512829,52.227056,20.944222,Point(20.9439 52.2272),5.88,1,right_only
+http://www.wikidata.org/entity/Q11810891,,,,,,,Q11810891,52.2269,20.9442,Point(20.9442 52.2269),5.871,1,right_only
+http://www.wikidata.org/entity/Q11811071,,,,,,,Q11811071,52.1489,21.0144,Point(21.0144 52.1489),10.532,1,right_only
+http://www.wikidata.org/entity/Q11807635,,,,,,,Q11807635,52.2054,20.9999,Point(20.9999 52.2054),4.582,1,right_only
+http://www.wikidata.org/entity/Q11809799,,,,,,,Q11809799,52.3411,20.8846,Point(20.8846 52.3411),14.519,1,right_only
+http://www.wikidata.org/entity/Q11809761,,,,,,,Q11809761,52.3261,20.8864,Point(20.8864 52.3261),13.229,1,right_only
+http://www.wikidata.org/entity/Q11803958,,,,,,,Q11803958,52.3084,20.9234,Point(20.9234 52.3084),10.058,1,right_only
+http://www.wikidata.org/entity/Q11695804,,,,,,,Dąbrowa Leśna,52.3258,20.8889,Point(20.8889 52.3258),13.084,1,right_only
+http://www.wikidata.org/entity/Q9394294,,,,,,,Q9394294,52.3425,20.8883,Point(20.8883 52.3425),14.471,1,right_only
+http://www.wikidata.org/entity/Q9394292,,,,,,,Q9394292,52.3336,20.9036,Point(20.9036 52.3336),13.045,1,right_only
+http://www.wikidata.org/entity/Q9394289,,,,,,,Q9394289,52.3411,20.8986,Point(20.8986 52.3411),13.906,1,right_only
+http://www.wikidata.org/entity/Q9394287,,,,,,,Q9394287,52.3336,20.8961,Point(20.8961 52.3336),13.376,1,right_only
+http://www.wikidata.org/entity/Q9394286,,,,,,,Q9394286,52.3369,20.8906,Point(20.8906 52.3369),13.899,1,right_only
+http://www.wikidata.org/entity/Q9394285,,,,,,,Q9394285,52.3372,20.8983,Point(20.8983 52.3372),13.583,1,right_only
+http://www.wikidata.org/entity/Q9249221,,,,,,,Q9249221,52.3342,20.8742,Point(20.8742 52.3342),14.451,1,right_only
+http://www.wikidata.org/entity/Q9249219,,,,,,,Q9249219,52.3361,20.8844,Point(20.8844 52.3361),14.117,1,right_only
+http://www.wikidata.org/entity/Q7066014,,,,,,,Nowa Jerozolima,52.223836111111,20.982427777778,Point(20.982427777 52.223836111),3.683,1,right_only
+http://www.wikidata.org/entity/Q11806524,,,,,,,Q11806524,52.1964,21.1344,Point(21.1344 52.1964),9.035,1,right_only
+http://www.wikidata.org/entity/Q11803216,,,,,,,Q11803216,52.1717,21.1617,Point(21.1617 52.1717),12.198,1,right_only
+http://www.wikidata.org/entity/Q9389358,,,,,,,Q9389358,52.1614,21.0365,Point(21.0365 52.1614),9.139,1,right_only
+http://www.wikidata.org/entity/Q9261567,,,,,,,Fort Bema,52.262027,20.937281,Point(20.937281 52.262027),6.395,1,right_only
+http://www.wikidata.org/entity/Q9168579,,,,,,,Bemowo-Lotnisko,52.257038,20.915674,Point(20.915674 52.257038),7.672,1,right_only
+http://www.wikidata.org/entity/Q8512524,,,,,,,Q8512524,52.2625,20.8981,Point(20.8981 52.2625),8.971,1,right_only
+http://www.wikidata.org/entity/Q33461447,,,,,,,Military cemetery in Laski,52.290619,20.835984,Point(20.835984 52.290619),13.966,1,right_only
+http://www.wikidata.org/entity/Q33461412,,,,,,,Laski Cemetery,52.299256,20.836475,Point(20.836475 52.299256),14.324,1,right_only
+http://www.wikidata.org/entity/Q24036276,,,,,,,Q24036276,52.254833333333,20.930666666667,Point(20.930666666 52.254833333),6.623,1,right_only
+http://www.wikidata.org/entity/Q11804326,,,,,,,Q11804326,52.2708,20.9278,Point(20.9278 52.2708),7.356,1,right_only
+http://www.wikidata.org/entity/Q11804149,,,,,,,Q11804149,52.2625,20.8972,Point(20.8972 52.2625),9.031,1,right_only
+http://www.wikidata.org/entity/Q11803947,,,,,,,Q11803947,52.2553,20.9211,Point(20.9211 52.2553),7.272,1,right_only
+http://www.wikidata.org/entity/Q11809549,,,,,,,Q11809549,52.1704,21.0064,Point(21.0064 52.1704),8.222,1,right_only
+http://www.wikidata.org/entity/Q11806264,,,,,,,Q11806264,52.1578,21.0306,Point(21.0306 52.1578),9.517,1,right_only
+http://www.wikidata.org/entity/Q11805668,,,,,,,Q11805668,52.2044,20.9739,Point(20.9739 52.2044),5.604,1,right_only
+http://www.wikidata.org/entity/Q11805043,,,,,,,Q11805043,52.1942,20.9927,Point(20.9927 52.1942),5.92,1,right_only
+http://www.wikidata.org/entity/Q11803219,,,,,,,Q11803219,52.2365,20.9386,Point(20.9386 52.2365),6.008,1,right_only
+http://www.wikidata.org/entity/Q11808194,,,,,,,Q11808194,52.1754,21.0364,Point(21.0364 52.1754),7.587,1,right_only
+http://www.wikidata.org/entity/Q9193610,,,,,,,Q9193610,52.152463,21.061703,Point(21.061703 52.152463),10.392,1,right_only
+http://www.wikidata.org/entity/Q11806809,,,,,,,Q11806809,52.1529,21.0612,Point(21.0612 52.1529),10.337,1,right_only
+http://www.wikidata.org/entity/Q11810761,,,,,,,Q11810761,52.1478,21.0436,Point(21.0436 52.1478),10.69,1,right_only
+http://www.wikidata.org/entity/Q93219508,,,,,,,Q93219508,52.244188,20.882086,Point(20.882086 52.244188),9.807,1,right_only
+http://www.wikidata.org/entity/Q11805900,,,,,,,Q11805900,52.2254,20.9113,Point(20.9113 52.2254),8.07,1,right_only
+http://www.wikidata.org/entity/Q11809054,,,,,,,Q11809054,52.1935,20.8856,Point(20.8856 52.1935),11.062,1,right_only
+http://www.wikidata.org/entity/Q11804778,,,,,,,Q11804778,52.1889,20.8728,Point(20.8728 52.1889),12.073,1,right_only
+http://www.wikidata.org/entity/Q11804525,,,,,,,Q11804525,52.1953,20.8726,Point(20.8726 52.1953),11.744,1,right_only
+http://www.wikidata.org/entity/Q11692065,,,,,,,"Czechowice, Warsaw",52.18823,20.87773,Point(20.87773 52.18823),11.822,1,right_only
+http://www.wikidata.org/entity/Q9389154,,,,,,,Q9389154,52.197,20.8883,Point(20.8883 52.197),10.71,1,right_only
+http://www.wikidata.org/entity/Q9338071,,,,,,,"Skorosze, Warsaw",52.189028,20.899772,Point(20.899772 52.189028),10.516,1,right_only
+http://www.wikidata.org/entity/Q11811087,,,,,,,Q11811087,52.2399,20.9169,Point(20.9169 52.2399),7.447,1,right_only
+http://www.wikidata.org/entity/Q11803707,,,,,,,Q11803707,52.2241,20.9314,Point(20.9314 52.2241),6.797,1,right_only
+http://www.wikidata.org/entity/Q11803010,,,,,,,Q11803010,52.2343,20.9133,Point(20.9133 52.2343),7.748,1,right_only
+http://www.wikidata.org/entity/Q11702552,,,,,,,Groty,52.24947,20.881475,Point(20.881475 52.24947),9.872,1,right_only
+http://www.wikidata.org/entity/Q9283606,,,,,,,Górce,52.2428,20.9106,Point(20.9106 52.2428),7.866,1,right_only
+http://www.wikidata.org/entity/Q9261641,,,,,,,Fort Radiowo,52.25543,20.888057,Point(20.888057 52.25543),9.495,1,right_only
+http://www.wikidata.org/entity/Q11810743,,,,,,,Q11810743,52.207,20.905,Point(20.905 52.207),9.187,1,right_only
+http://www.wikidata.org/entity/Q11807212,,,,,,,Q11807212,52.198,20.9017,Point(20.9017 52.198),9.862,1,right_only
+http://www.wikidata.org/entity/Q11806496,,,,,,,Q11806496,52.2513,20.8421,Point(20.8421 52.2513),12.56,1,right_only
+http://www.wikidata.org/entity/Q11804260,,,,,,,Q11804260,52.2032,20.9251,Point(20.9251 52.2032),8.203,1,right_only
+http://www.wikidata.org/entity/Q11810696,,,,,,,Q11810696,52.1501,20.9169,Point(20.9169 52.1501),12.764,1,right_only
+http://www.wikidata.org/entity/Q11809929,,,,,,,Q11809929,52.1761,20.8519,Point(20.8519 52.1761),14.03,1,right_only
+http://www.wikidata.org/entity/Q11808637,,,,,,,Q11808637,52.2033,20.8633,Point(20.8633 52.2033),11.952,1,right_only
+http://www.wikidata.org/entity/Q11806417,,,,,,,Q11806417,52.1701,20.8925,Point(20.8925 52.1701),12.216,1,right_only
+http://www.wikidata.org/entity/Q11803931,,,,,,,Q11803931,52.1921,20.8613,Point(20.8613 52.1921),12.592,1,right_only
+http://www.wikidata.org/entity/Q11803863,,,,,,,Q11803863,52.188,20.8439,Point(20.8439 52.188),13.856,1,right_only
+http://www.wikidata.org/entity/Q11803077,,,,,,,Q11803077,52.1898,20.8288,Point(20.8288 52.1898),14.702,1,right_only
+http://www.wikidata.org/entity/Q11808317,,,,,,,Q11808317,52.1895,20.9607,Point(20.9607 52.1895),7.464,1,right_only
+http://www.wikidata.org/entity/Q11810707,,,,,,,Q11810707,52.1881,21.0674,Point(21.0674 52.1881),6.756,1,right_only
+http://www.wikidata.org/entity/Q11808125,,,,,,,Q11808125,52.1938,21.0573,Point(21.0573 52.1938),5.904,1,right_only
+http://www.wikidata.org/entity/Q11805035,,,,,,,Q11805035,52.1788,21.0485,Point(21.0485 52.1788),7.337,1,right_only
+http://www.wikidata.org/entity/Q11806776,,,,,,,Q11806776,52.1954,20.977,Point(20.977 52.1954),6.295,1,right_only
+http://www.wikidata.org/entity/Q11804998,,,,,,,Q11804998,52.1836,21.0192,Point(21.0192 52.1836),6.66,1,right_only
+http://www.wikidata.org/entity/Q11803754,,,,,,,Q11803754,52.1899,21.0138,Point(21.0138 52.1899),6.002,1,right_only
+http://www.wikidata.org/entity/Q11809839,,,,,,,Q11809839,52.1989,21.025,Point(21.025 52.1989),4.943,1,right_only
+http://www.wikidata.org/entity/Q9340549,,,,,,,Q9340549,52.1945,21.0237,Point(21.0237 52.1945),5.434,1,right_only
+http://www.wikidata.org/entity/Q11807766,,,,,,,Q11807766,52.1743,21.0625,Point(21.0625 52.1743),8.067,1,right_only
+http://www.wikidata.org/entity/Q11812972,,,,,,,Q11812972,52.2251,20.9971,Point(20.9971 52.2251),2.833,1,right_only
+http://www.wikidata.org/entity/Q11807529,,,,,,,Q11807529,52.2291,21.0223,Point(21.0223 52.2291),1.605,1,right_only
+http://www.wikidata.org/entity/Q9389359,,,,,,,Q9389359,52.2345,21.0227,Point(21.0227 52.2345),1.011,1,right_only
+http://www.wikidata.org/entity/Q16978450,,,,,,,Q16978450,52.2467,21.0011,Point(21.0011 52.2467),1.745,1,right_only
+http://www.wikidata.org/entity/Q11803411,,,,,,,Q11803411,52.2203,21.0184,Point(21.0184 52.2203),2.616,1,right_only
+http://www.wikidata.org/entity/Q8511407,,,,,,,Q8511407,52.242,21.016,Point(21.016 52.242),0.706,1,right_only
+http://www.wikidata.org/entity/Q9389362,,,,,,,Q9389362,52.2674,20.976,Point(20.976 52.2674),4.336,1,right_only
+http://www.wikidata.org/entity/Q11807110,,,,,,,Q11807110,52.2386,21.0167,Point(21.0167 52.2386),0.831,1,right_only
+http://www.wikidata.org/entity/Q11710667,,,,,,,Q11710667,52.2269,21.0408,Point(21.0408 52.2269),2.084,1,right_only
+http://www.wikidata.org/entity/Q11807228,,,,,,,Q11807228,52.2314,21.0397,Point(21.0397 52.2314),1.618,1,right_only
+http://www.wikidata.org/entity/Q11810591,,,,,,,Q11810591,52.2669,20.9837,Point(20.9837 52.2669),3.899,1,right_only
+http://www.wikidata.org/entity/Q11804023,,,,,,,Q11804023,52.2745,20.9747,Point(20.9747 52.2745),4.925,1,right_only
+http://www.wikidata.org/entity/Q117817258,,,,,,,Muranów (municipal neighbourhood),52.251111111111,20.994166666667,Point(20.994166666 52.251111111),2.341,1,right_only
+http://www.wikidata.org/entity/Q117817308,,,,,,,"Centrum, Warsaw",52.235277777778,21.013333333333,Point(21.013333333 52.235277777),1.251,1,right_only
+http://www.wikidata.org/entity/Q11808893,,,,,,,Q11808893,52.2658,20.9762,Point(20.9762 52.2658),4.217,1,right_only
+http://www.wikidata.org/entity/Q11811047,,,,,,,Q11811047,52.2333,20.9608,Point(20.9608 52.2333),4.587,1,right_only
+http://www.wikidata.org/entity/Q11689123,,,,,,,Buraków,52.3242,20.9156,Point(20.9156 52.3242),11.72,1,right_only
+http://www.wikidata.org/entity/Q11806845,,,,,,,Q11806845,52.3238,20.9189,Point(20.9189 52.3238),11.542,1,right_only
+http://www.wikidata.org/entity/Q11811096,,,,,,,Q11811096,52.3411,20.9342,Point(20.9342 52.3411),12.539,1,right_only
+http://www.wikidata.org/entity/Q11809057,,,,,,,Q11809057,52.2447,20.9469,Point(20.9469 52.2447),5.396,1,right_only
+http://www.wikidata.org/entity/Q11808660,,,,,,,Q11808660,52.2536,21.0006,Point(21.0006 52.2536),2.079,1,right_only
+http://www.wikidata.org/entity/Q11807874,,,,,,,Q11807874,52.2429,21.0045,Point(21.0045 52.2429),1.474,1,right_only
+http://www.wikidata.org/entity/Q11810520,,,,,,,Q11810520,52.2273,20.9588,Point(20.9588 52.2273),4.92,1,right_only
+http://www.wikidata.org/entity/Q11804987,,,,,,,Q11804987,52.2108,20.9703,Point(20.9703 52.2108),5.249,1,right_only
+http://www.wikidata.org/entity/Q11804976,,,,,,,Q11804976,52.2083,21.0824,Point(21.0824 52.2083),5.465,1,right_only
+http://www.wikidata.org/entity/Q11809393,,,,,,,Q11809393,52.202,21.0409,Point(21.0409 52.202),4.706,1,right_only
+http://www.wikidata.org/entity/Q16549342,,,,,,,Falenica-Miedzeszyn Ghetto,52.1666666667,21.15,Point(21.15 52.166666666),11.997,1,right_only
+http://www.wikidata.org/entity/Q11810680,,,,,,,Q11810680,52.2106,21.0468,Point(21.0468 52.2106),3.904,1,right_only
+http://www.wikidata.org/entity/Q11803901,,,,,,,Q11803901,52.1694,21.2001,Point(21.2001 52.1694),14.426,1,right_only
+http://www.wikidata.org/entity/Q9390198,,,,,,,Zerzeń,52.200516666667,21.144775,Point(21.144775 52.200516666),9.38,1,right_only
+http://www.wikidata.org/entity/Q11809424,,,,,,,Q11809424,52.2674,20.9428,Point(20.9428 52.2674),6.271,1,right_only
+http://www.wikidata.org/entity/Q11809008,,,,,,,Q11809008,52.2622,20.9513,Point(20.9513 52.2622),5.508,1,right_only
+http://www.wikidata.org/entity/Q11289931,,,,,,,Q11289931,52.2588,20.9624,Point(20.9624 52.2588),4.666,1,right_only
+http://www.wikidata.org/entity/Q9389073,,,,,,,Q9389073,52.2474,20.9673,Point(20.9673 52.2474),4.031,1,right_only
+http://www.wikidata.org/entity/Q11826929,,,,,,,Q11826929,52.216639,20.975167,Point(20.975167 52.216639),4.568,1,right_only
+http://www.wikidata.org/entity/Q11710664,,,,,,,Q11710664,52.2373,20.991,Point(20.991 52.2373),2.485,1,right_only
+http://www.wikidata.org/entity/Q9389040,,,,,,,Q9389040,52.2373,20.991,Point(20.991 52.2373),2.485,1,right_only
+http://www.wikidata.org/entity/Q11803271,,,,,,,Q11803271,52.2657,20.9909,Point(20.9909 52.2657),3.454,1,right_only
+http://www.wikidata.org/entity/Q9344505,,,,,,,Old Żoliborz,52.266489,20.988478,Point(20.988478 52.266489),3.632,1,right_only
+http://www.wikidata.org/entity/Q11806633,,,,,,,Q11806633,52.235,21.0036,Point(21.0036 52.235),1.793,1,right_only
+http://www.wikidata.org/entity/Q11804821,,,,,,,Q11804821,52.2189,21.0178,Point(21.0178 52.2189),2.777,1,right_only
+http://www.wikidata.org/entity/Q11807543,,,,,,,Q11807543,52.2375,20.9927,Point(20.9927 52.2375),2.367,1,right_only
+http://www.wikidata.org/entity/Q124546907,,,,,,,Q124546907,52.200555555556,20.867777777778,Point(20.867777777 52.200555555),11.789,1,right_only
+http://www.wikidata.org/entity/Q11803770,,,,,,,Q11803770,52.1857,21.1925,Point(21.1925 52.1857),13.021,1,right_only
+http://www.wikidata.org/entity/Q11803547,,,,,,,Q11803547,52.2064,21.1819,Point(21.1819 52.2064),11.377,1,right_only
+http://www.wikidata.org/entity/Q9388984,,,,,,,Q9388984,52.194,21.2034,Point(21.2034 52.194),13.263,1,right_only
+http://www.wikidata.org/entity/Q11810288,,,,,,,Q11810288,52.1298,21.0557,Point(21.0557 52.1298),12.785,1,right_only
+http://www.wikidata.org/entity/Q11806874,,,,,,,Q11806874,52.137,21.0649,Point(21.0649 52.137),12.116,1,right_only
+http://www.wikidata.org/entity/Q11805666,,,,,,,Q11805666,52.1379,21.048,Point(21.048 52.1379),11.819,1,right_only
