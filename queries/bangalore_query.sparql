@@ -1,18 +1,35 @@
-SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?thing WHERE {
+SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?thing ?articleEN ?articleDE WHERE {
   SERVICE wikibase:around {
     ?item wdt:P625 ?location .
-    bd:serviceParam wikibase:center "Point(72.87647614906784,19.073572676210706)"^^geo:wktLiteral .
+    bd:serviceParam wikibase:center "Point(77.55273 12.98313)"^^geo:wktLiteral .
     bd:serviceParam wikibase:radius "45" . # Radius in kilometers 12°58'31.3"N 77°35'27.3"E
     bd:serviceParam wikibase:distance ?distance .
   }.
   ?item wikibase:sitelinks ?sitelinks.
   ?item p:P625 ?coordinate .
   ?item wdt:P31 ?thing.
+  # third level administrative region
   MINUS {?thing wdt:P279 wd:Q13221722}
+  # electoral unit
   MINUS {?thing wdt:P279* wd:Q192611}
+  # metro station
+  MINUS {?thing wdt:P279 wd:Q928830}
+  
+  MINUS {?thing wdt:P279* wd:Q19953632}
  ?coordinate psv:P625 ?coordinate_node .
  ?coordinate_node wikibase:geoLatitude ?lat .
  ?coordinate_node wikibase:geoLongitude ?lon
+ FILTER(?sitelinks > 0)
+   OPTIONAL {
+      ?articleEN schema:about ?item .
+      ?articleEN schema:inLanguage "en" .
+      ?articleEN schema:isPartOf <https://en.wikipedia.org/> .
+    }
+  OPTIONAL {
+      ?articleDE schema:about ?item .
+      ?articleDE schema:inLanguage "de" .
+      ?articleDE schema:isPartOf <https://de.wikipedia.org/> .
+    }
         
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
