@@ -1,0 +1,19 @@
+SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?thing WHERE {
+  SERVICE wikibase:around {
+    ?item wdt:P625 ?location .
+    bd:serviceParam wikibase:center "Point(72.87647614906784,19.073572676210706)"^^geo:wktLiteral .
+    bd:serviceParam wikibase:radius "45" . # Radius in kilometers 12°58'31.3"N 77°35'27.3"E
+    bd:serviceParam wikibase:distance ?distance .
+  }.
+  ?item wikibase:sitelinks ?sitelinks.
+  ?item p:P625 ?coordinate .
+  ?item wdt:P31 ?thing.
+  MINUS {?thing wdt:P279 wd:Q13221722}
+  MINUS {?thing wdt:P279* wd:Q192611}
+ ?coordinate psv:P625 ?coordinate_node .
+ ?coordinate_node wikibase:geoLatitude ?lat .
+ ?coordinate_node wikibase:geoLongitude ?lon
+        
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY ?distance
