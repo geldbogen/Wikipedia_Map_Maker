@@ -6,6 +6,7 @@ airport railway station
 underground metro station
 underground station
 railway station
+railway stop
 ground station
 metro station
 bus station

@@ -1,0 +1,17 @@
+SELECT ?item ?itemLabel ?placeLabel ?lat ?lon ?location ?distance ?sitelinks WHERE {
+  SERVICE wikibase:around {
+    ?place wdt:P625 ?location .
+    bd:serviceParam wikibase:center "Point()"^^geo:wktLiteral .
+    bd:serviceParam wikibase:radius "35" . # Radius in kilometers
+    bd:serviceParam wikibase:distance ?distance .
+  }.
+  ?item wikibase:sitelinks ?sitelinks.
+  ?item wdt:P119 ?place.
+  ?place p:P625 ?coordinate .
+ ?coordinate psv:P625 ?coordinate_node .
+ ?coordinate_node wikibase:geoLatitude ?lat .
+ ?coordinate_node wikibase:geoLongitude ?lon
+        
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY ?distance

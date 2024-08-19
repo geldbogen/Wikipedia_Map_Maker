@@ -1,7 +1,7 @@
 SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?thing ?articleEN ?articleDE WHERE {
   SERVICE wikibase:around {
     ?item wdt:P625 ?location .
-    bd:serviceParam wikibase:center "Point(77.55273 12.98313)"^^geo:wktLiteral .
+    bd:serviceParam wikibase:center "Point()"^^geo:wktLiteral .
     bd:serviceParam wikibase:radius "45" . # Radius in kilometers 12°58'31.3"N 77°35'27.3"E
     bd:serviceParam wikibase:distance ?distance .
   }.
@@ -33,4 +33,4 @@ SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?th
         
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
-ORDER BY ?distance
+ORDER BY DESC(?sitelinks)

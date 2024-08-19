@@ -8,15 +8,15 @@ class wikidata_fetcher():
         with open(sparql_file_path, 'r') as f:
             self.query = f.read()
 
-    def get_value(x, key):
+    def get_value(self, x, key):
             try:
                 return x[key]['value']
             except KeyError:
                 return ''
      
-    def get_wikidata_table_out_of_location(self) -> pd.DataFrame:
-        old_coordinates_string: str = 'Point(77.55273 12.98313)'
-        new_coordinate_string = f'Point({self.lat} {self.lon})'
+    def get_wikidata_table(self) -> pd.DataFrame:
+        old_coordinates_string: str = 'Point()'
+        new_coordinate_string = f'Point({self.lon} {self.lat})'
 
         self.query = self.query.replace(old_coordinates_string,new_coordinate_string)
 
@@ -38,5 +38,6 @@ class wikidata_fetcher():
         for key in bindings_list[0].keys():
             print(key)
             df[key] = [self.get_value(x,key) for x in bindings_list]
-
-        df.to_csv(f'data/{str(self.lat).replace('.','-')}_{str(self.lon).replace('.','-')}.csv',index=False)
+        df['sitelinks'] = df['sitelinks'].apply(lambda x: int(x))
+        df.to_csv(f'''data/{str(self.lat).replace('.','-')}_{str(self.lon).replace('.','-')}.csv''',index=False)
+        return df
