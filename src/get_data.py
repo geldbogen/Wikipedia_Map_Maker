@@ -1,12 +1,18 @@
+from typing import Literal
+
 import requests
 import pandas as pd
 
+
+
 class wikidata_fetcher():
-    def __init__(self, sparql_file_path: str, lat : float, lon : float) -> None:
+    def __init__(self, places_query_file_path: str, grave_query_file_path : str, lat : float, lon : float) -> None:
         self.lat = lat
         self.lon = lon
-        with open(sparql_file_path, 'r') as f:
-            self.query = f.read()
+        with open(places_query_file_path, 'r') as f:
+            self.places_query = f.read()
+        with open(grave_query_file_path, 'r') as f:
+            self.grave_query = f.read()
 
     def get_value(self, x, key):
             try:
@@ -14,11 +20,16 @@ class wikidata_fetcher():
             except KeyError:
                 return ''
      
-    def get_wikidata_table(self) -> pd.DataFrame:
+    def fetch_table(self, what_to_fetch : Literal['places', 'graves']) -> pd.DataFrame:
         old_coordinates_string: str = 'Point()'
         new_coordinate_string = f'Point({self.lon} {self.lat})'
-
-        self.query = self.query.replace(old_coordinates_string,new_coordinate_string)
+        match what_to_fetch:
+            case  'places':
+                self.query = self.places_query.replace(old_coordinates_string,new_coordinate_string)
+            case  'graves':
+                self.query = self.grave_query.replace(old_coordinates_string,new_coordinate_string)
+            case _:
+                raise KeyError
 
         url = "https://query.wikidata.org/sparql"
         headers = {
