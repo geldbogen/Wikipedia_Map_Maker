@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-class wikidata_fetcher():
+class WikidataFetcher():
     def __init__(self, places_query_file_path: str, grave_query_file_path : str, lat : float, lon : float) -> None:
         self.lat = lat
         self.lon = lon
@@ -49,6 +49,6 @@ class wikidata_fetcher():
         for key in bindings_list[0].keys():
             print(key)
             df[key] = [self.get_value(x,key) for x in bindings_list]
-        df['sitelinks'] = df['sitelinks'].apply(lambda x: int(x))
+        df['sitelinks'] = df['sitelinks'].apply(lambda x : int(x))
         df.to_csv(f'''data/{str(self.lat).replace('.','-')}_{str(self.lon).replace('.','-')}.csv''',index=False)
         return df

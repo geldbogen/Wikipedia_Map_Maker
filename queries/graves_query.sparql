@@ -13,6 +13,7 @@ SELECT ?item ?itemLabel ?placeLabel ?lat ?lon ?location ?distance ?sitelinks WHE
  ?coordinate_node wikibase:geoLongitude ?lon
         
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  FILTER(?sitelinks > 99)
 }
 ORDER BY DESC(?sitelinks)
 

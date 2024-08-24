@@ -19,11 +19,11 @@ def fetch_country(country_name : str):
         # create dataframe
         df = pd.DataFrame()
         
-        df['href'] = ['https://www.atlasobscura.com' + x['href'] for x in found_all_list]
+        df['ao_link'] = ['https://www.atlasobscura.com' + x['href'] for x in found_all_list]
         df['lat'] = [x['data-lat'] for x in found_all_list]
         df['lon'] = [x['data-lng'] for x in found_all_list]
-        df['name'] = [x.find('h3', {'class' : 'Card__heading'}, recursive = True).text for x in found_all_list]
-        df['description'] = [x.find('div', {'class' : 'Card__content'}, recursive = True).text for x in found_all_list]
+        df['itemLabel'] = [x.find('h3', {'class' : 'Card__heading'}, recursive = True).text for x in found_all_list]
+        df['ao_description'] = [x.find('div', {'class' : 'Card__content'}, recursive = True).text for x in found_all_list]
         print(df)
         df_complete = pd.concat([df_complete, df])
         # df.to_csv('ao_test.csv', index=False)
@@ -50,4 +50,4 @@ def fetch_country(country_name : str):
     df_complete.to_csv('ao_test.csv', index=False)
     
 
-fetch_country('poland')
+fetch_country('india')

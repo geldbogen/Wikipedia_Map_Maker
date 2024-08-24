@@ -1,3 +1,5 @@
+from typing import Literal
+
 import pandas as pd
 
 with open('data/almost_unimportant_tags.txt', 'r') as f:
@@ -20,16 +22,26 @@ def check_if_unimportant_things_like_colleges_or_hotels(pd_series : pd.Series) -
         case _:
             return False
 
-def get_tier_and_color(sitelinks : int) -> tuple[str,str]:
+def get_tier_and_color(pd_series : pd.Series, which_category : Literal['places','graves','atlas_obscura']) -> tuple[str,str]:
 
-    match sitelinks:
-        case _ if sitelinks >= 20:
-            return ('S','orange')
-        case _ if sitelinks >= 10:
-            return ('A','green')
-        case _ if sitelinks >= 5:
-            return ('B','violet')
-        case _ if sitelinks >= 2:
-            return ('C','yellow')
-        case _ :
-            return ('D','blue')
+    match which_category:
+        case 'places':
+            match pd_series.get('sitelinks',-1):
+                case _ if pd_series.get('sitelinks',-1) >= 20:
+                    return ('S','orange')
+                case _ if pd_series.get('sitelinks',-1) >= 10:
+                    return ('A','green')
+                case _ if pd_series.get('sitelinks',-1) >= 5:
+                    return ('B','violet')
+                case _ if pd_series.get('sitelinks',-1) >= 2:
+                    return ('C','yellow')
+                case _ if pd_series.get('sitelinks',-1) >= 2:
+                    return ('C','yellow')
+                case _ if pd_series.get('sitelinks',-1) == -1:
+                    pass
+                case _ :
+                    return ('D','blue')
+        case 'graves':
+            return ('graves', 'black')
+        case 'atlas_obscura':
+            return ('atlas_obscura', 'gold')

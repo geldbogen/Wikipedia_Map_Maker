@@ -1,0 +1,395 @@
+location,distance,item,lat,lon,sitelinks,itemLabel,placeLabel
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q8442,53.5277,10.3361,206,Otto von Bismarck,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q8442,53.5277,10.3361,206,Otto von Bismarck,Bismarck Mausoleum
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q8442,53.5276,10.33599444,206,Otto von Bismarck,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q8442,53.5276,10.33599444,206,Otto von Bismarck,Bismarck Mausoleum
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q41257,53.624722222222,10.061666666667,107,Heinrich Hertz,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2516,53.624722222222,10.061666666667,106,Helmut Schmidt,Ohlsdorf Cemetery
+Point(10.314682 53.520576),20.055,http://www.wikidata.org/entity/Q76437,53.520576,10.314682,86,Karl Dönitz,Aumühle Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q57066,53.624722222222,10.061666666667,84,James Franck,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q57070,53.624722222222,10.061666666667,83,Gustav Ludwig Hertz,Ohlsdorf Cemetery
+Point(9.978889 53.548333),2.535,http://www.wikidata.org/entity/Q76428,53.548333,9.978889,72,Carl Philipp Emanuel Bach,"St. Michaelis Church, Hamburg"
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q75854,53.55,10.0,69,Georg Philipp Telemann,Hamburg
+Point(9.917777777 53.553888888),6.507,http://www.wikidata.org/entity/Q154367,53.553888888889,9.9177777777778,62,Friedrich Gottlieb Klopstock,Ottensen
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q60113,53.554166666667,9.8416666666667,56,Bernhard von Bülow,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q44470,53.624722222222,10.061666666667,52,Uwe Seeler,Ohlsdorf Cemetery
+Point(9.870833333 53.573888888),9.87,http://www.wikidata.org/entity/Q76412,53.573888888889,9.8708333333333,50,Siegfried Lenz,Friedhof Groß Flottbek
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q77179,53.624722222222,10.061666666667,47,Wilhelm Cuno,Ohlsdorf Cemetery
+Point(9.716666666 53.366666666),28.719,http://www.wikidata.org/entity/Q77102,53.366666666667,9.7166666666667,43,Max Schmeling,Hollenstedt
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q76959,53.624722222222,10.061666666667,42,Ralf Dahrendorf,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q155540,53.624722222222,10.061666666667,42,Hans von Bülow,Ohlsdorf Cemetery
+Point(10.070839 53.57294),4.204,http://www.wikidata.org/entity/Q77338,53.57294,10.070839,42,Matthias Claudius,Historischer Friedhof Wandsbek
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q58799,53.624722222222,10.061666666667,39,Wolfgang Borchert,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q166585,53.624722222222,10.061666666667,39,Philipp Otto Runge,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q57213,53.624722222222,10.061666666667,38,James Last,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q61761,53.624722222222,10.061666666667,37,Pascual Jordano,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q57283,53.624722222222,10.061666666667,36,Emil Artin,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q60185,53.624722222222,10.061666666667,35,Aby Warburg,Ohlsdorf Cemetery
+Point(10.155 53.5925),10.135,http://www.wikidata.org/entity/Q21119,53.5925,10.155,34,Detlev von Liliencron,Rahlstedt Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q158650,53.624722222222,10.061666666667,32,Paul Abraham,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q561231,53.624722222222,10.061666666667,32,Hans Albers,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q61260,53.624722222222,10.061666666667,30,Gustaf Gründgens,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q58760,53.624722222222,10.061666666667,28,Roger Cicero,Ohlsdorf Cemetery
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q77418,53.55,10.0,26,Paul Fleming,Hamburg
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q60817,53.624722222222,10.061666666667,25,C. W. Ceram,Ohlsdorf Cemetery
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q706786,53.55,10.0,25,Josef Posipal,Hamburg
+Point(10.084261111 53.582033333),5.499,http://www.wikidata.org/entity/Q649198,53.582033333333,10.084261111111,25,Ingo Schwichtenberg,Wandsbek
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q61854,53.624722222222,10.061666666667,24,Karl Hein,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q64240,53.624722222222,10.061666666667,24,Willy Fritsch,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q112062,53.624722222222,10.061666666667,24,Monica Bleibtreu,Ohlsdorf Cemetery
+Point(9.795555555 53.514722222),15.209,http://www.wikidata.org/entity/Q60787,53.514722222222,9.7955555555556,23,Arp Schnitger,Neuenfelde
+Point(9.81072 53.5206),14.066,http://www.wikidata.org/entity/Q60787,53.5206,9.81072,23,Arp Schnitger,Saint Pancras
+Point(9.94333333 53.5475),4.864,http://www.wikidata.org/entity/Q63140,53.5475,9.94333333,23,Heinrich Christian Schumacher,Heilig-Geist-Kirchhof Altona
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q59904,53.5277,10.3361,23,Herbert von Bismarck,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q59904,53.5277,10.3361,23,Herbert von Bismarck,Bismarck Mausoleum
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q59904,53.5276,10.33599444,23,Herbert von Bismarck,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q59904,53.5276,10.33599444,23,Herbert von Bismarck,Bismarck Mausoleum
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q69314,53.624722222222,10.061666666667,22,Loki Schmidt,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q65264,53.624722222222,10.061666666667,21,Carl Hagenbeck,Ohlsdorf Cemetery
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q590568,53.55,10.0,21,"Bruno, Duke of Saxony",Hamburg
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q106606,53.554166666667,9.8416666666667,20,Brigitte Kronauer,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q66370,53.624722222222,10.061666666667,20,Heinz Erhardt,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q71646,53.624722222222,10.061666666667,20,Inge Meysel,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q63523,53.624722222222,10.061666666667,19,Helmut Griem,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q77969,53.624722222222,10.061666666667,19,Hellmuth Karasek,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q213877,53.624722222222,10.061666666667,19,Friedrich Ludwig Schröder,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q496339,53.624722222222,10.061666666667,19,Horst Frank,Ohlsdorf Cemetery
+Point(9.994375 53.546),1.668,http://www.wikidata.org/entity/Q61273,53.546,9.994375,19,Heinrich Scheidemann,"St. Catherine's Church, Hamburg"
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q70396,53.624722222222,10.061666666667,18,Alfred Kerr,Ohlsdorf Cemetery
+Point(10.266666666 53.666666666),20.766,http://www.wikidata.org/entity/Q66693,53.666666666667,10.266666666667,18,Hermann Prieß,Großhansdorf
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q64778,53.554166666667,9.8416666666667,17,Zygmunt Chychła,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q62135,53.624722222222,10.061666666667,17,Sexy Cora,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q65561,53.624722222222,10.061666666667,17,Hans Apel,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q66133,53.624722222222,10.061666666667,17,Albert Ballin,Ohlsdorf Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q63054,53.554166666667,9.8416666666667,16,Hans Henny Jahnn,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q76653,53.554166666667,9.8416666666667,16,Heidi Kabel,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q63143,53.624722222222,10.061666666667,16,Otto Witte,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q66225,53.624722222222,10.061666666667,16,"Alois Hitler, Jr.",Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q215804,53.624722222222,10.061666666667,16,Felix von Luckner,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q438662,53.624722222222,10.061666666667,16,Emily Ruete,Ohlsdorf Cemetery
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q67921,53.55,10.0,16,Peter Rühmkorf,Hamburg
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q70282,53.61611111,9.94972222,16,Evelyn Hamann,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q90069,53.61611111,9.94972222,16,Axel von Ambesser,Old Niendorf Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q68559,53.554166666667,9.8416666666667,15,Ernst Witt,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q71895,53.624722222222,10.061666666667,15,Kurt Raab,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q72819,53.624722222222,10.061666666667,15,Harry Meyen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q77353,53.624722222222,10.061666666667,15,Fritz Schumacher,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q535048,53.624722222222,10.061666666667,15,Edwin Scharff,Ohlsdorf Cemetery
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q77267,53.5277,10.3361,15,Johanna von Puttkamer,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q77267,53.5277,10.3361,15,Johanna von Puttkamer,Bismarck Mausoleum
+Point(10.33599444 53.5276),21.32,http://www.wikidata.org/entity/Q77267,53.5276,10.33599444,15,Johanna von Puttkamer,Bismarck Mausoleum
+Point(10.3361 53.5277),21.325,http://www.wikidata.org/entity/Q77267,53.5276,10.33599444,15,Johanna von Puttkamer,Bismarck Mausoleum
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q72643,53.554166666667,9.8416666666667,14,Gustav Schröder,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q77823,53.624722222222,10.061666666667,14,Helmut Thielicke,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q79078,53.624722222222,10.061666666667,14,Wilhelm Blaschke,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q87571,53.624722222222,10.061666666667,14,Wolfgang Kieling,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q107651,53.624722222222,10.061666666667,14,Hanns Lothar,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q449928,53.624722222222,10.061666666667,14,Helmut Zacharias,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q526806,53.624722222222,10.061666666667,14,Julius Stockhausen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q71091,53.624722222222,10.061666666667,13,Paul Bäumer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q73961,53.624722222222,10.061666666667,13,Johann Gerhard Oncken,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q97397,53.624722222222,10.061666666667,13,Mareike Carrière,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q163129,53.624722222222,10.061666666667,13,Eduard Erdmann,Ohlsdorf Cemetery
+Point(9.829486111 53.653180555),16.577,http://www.wikidata.org/entity/Q98669,53.653180555556,9.8294861111111,13,Abel Seyler,Rellingen
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q319042,53.61611111,9.94972222,13,Herb Geller,Old Niendorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q69949,53.624722222222,10.061666666667,12,Reinhard Suhren,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q85179,53.624722222222,10.061666666667,12,Peter Anders,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q91023,53.624722222222,10.061666666667,12,Roger Willemsen,Ohlsdorf Cemetery
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q473756,53.55,9.95,12,Jacob Emden,Jewish cemetery in Hamburg-Altona
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q2001026,53.55,10.0,12,Semyon Aranovich,Hamburg
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q73048,53.55591667,10.05713889,12,Johann Hinrich Wichern,Alter Hammer Friedhof
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q63505,53.624722222222,10.061666666667,11,Oscar Troplowitz,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q67515,53.624722222222,10.061666666667,11,Bruno Snell,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q68147,53.624722222222,10.061666666667,11,Gotthard Günther,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q70449,53.624722222222,10.061666666667,11,Michael Westphal,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q71770,53.624722222222,10.061666666667,11,Frank Wisbar,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q86443,53.624722222222,10.061666666667,11,Gustav Falke,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q102947,53.624722222222,10.061666666667,11,Volker von Collande,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q115211,53.624722222222,10.061666666667,11,Harry Rowohlt,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q567437,53.624722222222,10.061666666667,11,Anny Ahlers,Ohlsdorf Cemetery
+Point(10.033333333 53.383333333),18.951,http://www.wikidata.org/entity/Q315488,53.383333333333,10.033333333333,11,Leopold Graf von Kalckreuth,Seevetal
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q63421,53.55,10.0,11,Max Brauer,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q104581,53.55,10.0,11,Louise Schroeder,Hamburg
+Point(10.241111111 53.674722222),20.043,http://www.wikidata.org/entity/Q87600,53.674722222222,10.241111111111,11,Hellmuth von Mücke,Ahrensburg
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q68069,53.554166666667,9.8416666666667,10,Heinrich Albers-Schönberg,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q77735,53.554166666667,9.8416666666667,10,Hans Jürgen Press,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q72971,53.624722222222,10.061666666667,10,Heinrich Brandler,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q75674,53.624722222222,10.061666666667,10,Hilde Weissner,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q86737,53.624722222222,10.061666666667,10,Wilhelm Michaelsen,Ohlsdorf Cemetery
+Point(10.0377601 53.6215437),7.701,http://www.wikidata.org/entity/Q86897,53.6215437,10.0377601,10,Hans Friedrich Blunck,Ohlsdorf
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q89573,53.624722222222,10.061666666667,10,Renate Ewert,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q104476,53.624722222222,10.061666666667,10,Wilhelm Borchert,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q3110376,53.624722222222,10.061666666667,10,Lev Lunts,Ohlsdorf Cemetery
+Point(9.495346 53.587361),34.602,http://www.wikidata.org/entity/Q119918,53.587361,9.495346,10,Agnes of Hohenstaufen,"Benediktinerabtei St. Maria, Stade"
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q74303,53.549316,9.908065,10,Charlotte Niese,Bernadottestraße
+Point(9.870833333 53.573888888),9.87,http://www.wikidata.org/entity/Q123291,53.573888888889,9.8708333333333,10,Otto Ernst,Friedhof Groß Flottbek
+Point(10.07203 53.573193),4.286,http://www.wikidata.org/entity/Q121937,53.573193,10.07203,10,Heinrich Carl von Schimmelmann,Schimmelmann-Mausoleum
+Point(10.248333333 53.508888888),16.117,http://www.wikidata.org/entity/Q78109,53.508888888889,10.248333333333,10,Gerd Bucerius,Reinbek
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q84844,53.574444444444,9.8013888888889,9,Gustav Seitz,Friedhof Blankenese
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q69397,53.624722222222,10.061666666667,9,Christian Graf von Krockow,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q75208,53.624722222222,10.061666666667,9,Fritz Arndt,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q87505,53.624722222222,10.061666666667,9,Ida Ehre,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q103424,53.624722222222,10.061666666667,9,Alfred Lichtwark,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q110405,53.624722222222,10.061666666667,9,Eric M. Warburg,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1327885,53.624722222222,10.061666666667,9,Elena Luksch-Makowsky,Ohlsdorf Cemetery
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q88948,53.55,9.95,9,Jacob Ettlinger,Jewish cemetery in Hamburg-Altona
+Point(9.978889 53.548333),2.535,http://www.wikidata.org/entity/Q101172,53.548333,9.978889,9,Countess Palatine Barbara of Zweibrücken-Neuburg,"St. Michaelis Church, Hamburg"
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q108680,53.55591667,10.05713889,9,Amalie Sieveking,Alter Hammer Friedhof
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q78076,53.554166666667,9.8416666666667,8,John Rittmeister,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q85910,53.554166666667,9.8416666666667,8,Paul Nevermann,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q68114,53.624722222222,10.061666666667,8,Herbert Weichmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q85312,53.624722222222,10.061666666667,8,Robert Abshagen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q101775,53.624722222222,10.061666666667,8,Gisela von Collande,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q896694,53.624722222222,10.061666666667,8,Michael Jary,Ohlsdorf Cemetery
+Point(9.870833333 53.573888888),9.87,http://www.wikidata.org/entity/Q91327,53.573888888889,9.8708333333333,8,Wolf Graf von Baudissin,Friedhof Groß Flottbek
+Point(9.996389 53.550278),1.361,http://www.wikidata.org/entity/Q74248,53.550278,9.996389,8,Johannes Aepinus,St. Peter's Church
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q87533,53.55,10.0,8,Klaus von Bismarck,Hamburg
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q95711,53.554166666667,9.8416666666667,7,Herbert Heinicke,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q71836,53.624722222222,10.061666666667,7,Domenica Niehoff,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q75105,53.624722222222,10.061666666667,7,Fritz Hartung,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q84788,53.624722222222,10.061666666667,7,Max Alvary,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q107854,53.624722222222,10.061666666667,7,Heinrich Kroll,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q108539,53.624722222222,10.061666666667,7,Gustav Heinrich Kirchenpauer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q115418,53.624722222222,10.061666666667,7,Witta Pohl,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1039975,53.624722222222,10.061666666667,7,Carl Otto Czeschka,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1356095,53.624722222222,10.061666666667,7,Erna Mohr,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1363955,53.624722222222,10.061666666667,7,Josef Dahmen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q6128652,53.624722222222,10.061666666667,7,James Allen Ward,Ohlsdorf Cemetery
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q315824,53.549316,9.908065,7,Felix Woyrsch,Bernadottestraße
+Point(9.990555555 53.5475),1.824,http://www.wikidata.org/entity/Q91457,53.5475,9.9905555555556,7,Simon of Utrecht,"St. Nicholas' Church, Hamburg"
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q72133,53.55,10.0,7,Isaac Bernays,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q1386316,53.55,10.0,7,F.C. Gundlach,Hamburg
+Point(10.03944444 53.61444444),6.951,http://www.wikidata.org/entity/Q96415,53.61444444,10.03944444,7,Carl Melchior,Ohlsdorf Jewish Cemetery
+Point(10.010277777 53.706388888),17.008,http://www.wikidata.org/entity/Q86701,53.706388888889,10.010277777778,7,Ernst Bader,Norderstedt
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q896478,53.554166666667,9.8416666666667,6,Fritz Jöde,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q17590797,53.554166666667,9.8416666666667,6,Otto Lagerfeld,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q87670,53.624722222222,10.061666666667,6,Rudolf Petersen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q91720,53.624722222222,10.061666666667,6,Otto Lauffer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q98137,53.624722222222,10.061666666667,6,Ernst Voss,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q105896,53.624722222222,10.061666666667,6,Werner Veigel,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q320692,53.624722222222,10.061666666667,6,Carlo Karges,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q896520,53.624722222222,10.061666666667,6,Richard Kuöhl,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1579869,53.624722222222,10.061666666667,6,Willy Maertens,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1611949,53.624722222222,10.061666666667,6,Hermann Lause,Ohlsdorf Cemetery
+Point(10.05209 53.62286),8.07,http://www.wikidata.org/entity/Q2613053,53.62286,10.05209,6,Coen Hissink,Dutch memorial cemetery Hamburg
+Point(10.05209 53.62286),8.07,http://www.wikidata.org/entity/Q2613053,53.619809,10.034571,6,Coen Hissink,Dutch memorial cemetery Hamburg
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q4845491,53.624722222222,10.061666666667,6,Manfred Meurer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q14325929,53.624722222222,10.061666666667,6,Carl Tchilinghiryan,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q15455990,53.624722222222,10.061666666667,6,Günther Gensler,Ohlsdorf Cemetery
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q1731573,53.549316,9.908065,6,Karl Helbig,Bernadottestraße
+Point(9.888 53.586),9.21,http://www.wikidata.org/entity/Q120145,53.586,9.888,6,Peter Beil,Altona Main Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q91724,53.624722222222,10.061666666667,5,Richard Ohnsorg,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q99356,53.624722222222,10.061666666667,5,Juliane Louise of East Frisia,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q105543,53.624722222222,10.061666666667,5,Yu-chien Kuan,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q123787,53.624722222222,10.061666666667,5,Karl-Heinz Köpcke,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q721530,53.624722222222,10.061666666667,5,Ascan Lutteroth,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2073615,53.624722222222,10.061666666667,5,Peter Ahrweiler,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q4449528,53.624722222222,10.061666666667,5,Galimyan Tagan,Ohlsdorf Cemetery
+Point(9.954166666 53.307777777),27.626,http://www.wikidata.org/entity/Q1898280,53.307777777778,9.9541666666667,5,Marina Ried,Jesteburg
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q5423155,53.55,9.95,5,Ezekiel Katzenellenbogen,Jewish cemetery in Hamburg-Altona
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q7293953,53.55,9.95,5,Raphael Cohen,Jewish cemetery in Hamburg-Altona
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q99356,53.55,10.0,5,Juliane Louise of East Frisia,Hamburg
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q97409,53.61611111,9.94972222,5,Max Sauerlandt,Old Niendorf Cemetery
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q561780,53.55591667,10.05713889,5,Anna Lühring,Alter Hammer Friedhof
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q105753,53.574444444444,9.8013888888889,4,Gustav Fock,Friedhof Blankenese
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q107472,53.554166666667,9.8416666666667,4,Peter Tamm,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q120598,53.554166666667,9.8416666666667,4,Hans Mahler,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1416382,53.554166666667,9.8416666666667,4,Horst Tietz,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1602322,53.554166666667,9.8416666666667,4,Helga Wex,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1226203,53.624722222222,10.061666666667,4,Dinah Grace,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1379331,53.624722222222,10.061666666667,4,Eva Maria Bauer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1732349,53.624722222222,10.061666666667,4,Karl Meitmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2150112,53.624722222222,10.061666666667,4,Richard Luksch,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q3768954,53.624722222222,10.061666666667,4,Girolamo Masini,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q5162585,53.624722222222,10.061666666667,4,Conrad Poppenhusen,Ohlsdorf Cemetery
+Point(9.94333333 53.5475),4.864,http://www.wikidata.org/entity/Q99876,53.5475,9.94333333,4,Corad Hinrich Donner,Heilig-Geist-Kirchhof Altona
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q5162585,53.55,10.0,4,Conrad Poppenhusen,Hamburg
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q97827,53.61611111,9.94972222,4,Martin Garlieb Amsinck,Old Niendorf Cemetery
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q215396,53.55591667,10.05713889,4,Amandus Augustus Abendroth,Alter Hammer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1330610,53.55591667,10.05713889,4,Elise Averdieck,Alter Hammer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1733018,53.55591667,10.05713889,4,Karl Sieveking,Alter Hammer Friedhof
+Point(10.158553 53.667257),15.753,http://www.wikidata.org/entity/Q1358615,53.667257,10.158553,4,Ernst Hentschel,Waldfriedhof Volksdorf
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1461719,53.554166666667,9.8416666666667,3,Friedrich Richard Ostermeyer,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q20081093,53.554166666667,9.8416666666667,3,Michael Newrzella,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q20184418,53.554166666667,9.8416666666667,3,Klaus Kropfinger,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q100773,53.624722222222,10.061666666667,3,Hans Wilhelm Bansi,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1352568,53.624722222222,10.061666666667,3,Erich Klabunde,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1383167,53.624722222222,10.061666666667,3,Friedhelm Grundmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1465833,53.624722222222,10.061666666667,3,Fritz Bringmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1664054,53.624722222222,10.061666666667,3,Julia Kerr,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1809292,53.624722222222,10.061666666667,3,Lawrence Winters,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2041440,53.624722222222,10.061666666667,3,Ottomar Anton,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2560912,53.624722222222,10.061666666667,3,Werner Bruhns,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q18785211,53.624722222222,10.061666666667,3,Robert Münzel,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q19918286,53.624722222222,10.061666666667,3,Max Lohfing,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q56062550,53.624722222222,10.061666666667,3,Karl Caspar,Ohlsdorf Cemetery
+Point(9.888 53.586),9.21,http://www.wikidata.org/entity/Q15452841,53.586,9.888,3,Rudolf Lodders,Altona Main Cemetery
+Point(9.982672222 53.459258333),10.708,http://www.wikidata.org/entity/Q5109542,53.459258333333,9.9826722222222,3,Christian Donhauser,Harburg
+Point(9.978889 53.548333),2.535,http://www.wikidata.org/entity/Q44192051,53.548333,9.978889,3,Godfried of Oettingen-Oettingen,"St. Michaelis Church, Hamburg"
+Point(9.996389 53.550278),1.361,http://www.wikidata.org/entity/Q215667,53.550278,9.996389,3,Friedrich Ludwig von Moltke,St. Peter's Church
+Point(9.997706 53.549255),1.313,http://www.wikidata.org/entity/Q61899282,53.549255,9.997706,3,Peter von Bredahl,St. Mary's Cathedral
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q2077442,53.61611111,9.94972222,3,Peter Paterna,Old Niendorf Cemetery
+Point(9.955 53.6175),8.189,http://www.wikidata.org/entity/Q2560983,53.6175,9.955,3,Werner Cyprys,Neuer Niendorfer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1694468,53.55591667,10.05713889,3,Johann Heinrich Ohlendorff,Alter Hammer Friedhof
+Point(10.07203 53.573193),4.286,http://www.wikidata.org/entity/Q26399072,53.573193,10.07203,3,Caroline von Schimmelmann,Schimmelmann-Mausoleum
+Point(10.250802777 53.480116666),17.519,http://www.wikidata.org/entity/Q1358608,53.480116666667,10.250802777778,3,Ernst Henning,Friedhof Bergedorf
+Point(10.3135 53.5253),19.887,http://www.wikidata.org/entity/Q1693155,53.5253,10.3135,3,Alexandrine von Schönerer,Aumühle
+Point(10.233305555 53.8),30.915,http://www.wikidata.org/entity/Q1407039,53.8,10.233305555556,3,Theodor von Reventlow,Sülfeld
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q104291,53.554166666667,9.8416666666667,2,Otto zu Stolberg-Wernigerode,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q825775,53.554166666667,9.8416666666667,2,Johann Bernhard Reemtsma,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1462007,53.554166666667,9.8416666666667,2,Friedrich Schnapp,Nienstedten Cemetery
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q1506248,53.574444444444,9.8013888888889,2,Peter Selmer,Friedhof Blankenese
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1555476,53.554166666667,9.8416666666667,2,Gustav-Adolf Harnack,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1582281,53.554166666667,9.8416666666667,2,Hans Scheuerl,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1605345,53.554166666667,9.8416666666667,2,Henneke Gülzow,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1610413,53.554166666667,9.8416666666667,2,Hermann-Hinrich Reemtsma,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1745454,53.554166666667,9.8416666666667,2,Klaus Michael Meyer-Abich,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1763535,53.554166666667,9.8416666666667,2,Philipp Fürchtegott Reemtsma,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q2163425,53.554166666667,9.8416666666667,2,Rolf H. Dittmeyer,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q2561711,53.554166666667,9.8416666666667,2,Werner Kindt,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q18412056,53.554166666667,9.8416666666667,2,Otto Scharlach,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q19258837,53.554166666667,9.8416666666667,2,Alexander Baur,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q19637863,53.554166666667,9.8416666666667,2,Hermann Fürchtegott Reemtsma,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q23062979,53.554166666667,9.8416666666667,2,Carl von Hoeltzke,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q23062983,53.554166666667,9.8416666666667,2,Eike von Hippel,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q29533499,53.554166666667,9.8416666666667,2,Albrecht Zeuner,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q51074645,53.554166666667,9.8416666666667,2,Hans-Jochen Kleineidam,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q55675046,53.554166666667,9.8416666666667,2,Gerhard Wacke,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q61949009,53.554166666667,9.8416666666667,2,Claus-Hunno Hunzinger,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q69057028,53.554166666667,9.8416666666667,2,Otto Stürken,Nienstedten Cemetery
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q94756368,53.574444444444,9.8013888888889,2,Luise Seitz,Friedhof Blankenese
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q94944441,53.574444444444,9.8013888888889,2,Fritz Husmann,Friedhof Blankenese
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q126211,53.624722222222,10.061666666667,2,Johannes Sieveking,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q762903,53.624722222222,10.061666666667,2,August Lütgens,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1039632,53.624722222222,10.061666666667,2,Carl Malsch,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1228303,53.624722222222,10.061666666667,2,Ernst Hanssen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1286828,53.624722222222,10.061666666667,2,Edmund Siemers,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1578594,53.624722222222,10.061666666667,2,Hans Bechly,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1608684,53.624722222222,10.061666666667,2,Herbert Krüger,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1609341,53.624722222222,10.061666666667,2,Herbert Ziemer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1614675,53.624722222222,10.061666666667,2,Hertha Borchert,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1696364,53.624722222222,10.061666666667,2,Johann Theobald Riefesell,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1794061,53.624722222222,10.061666666667,2,Kurt Schmidt-Klevenow,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1872186,53.624722222222,10.061666666667,2,Louise Rösler,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1997137,53.624722222222,10.061666666667,2,Norbert Rohringer,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2638397,53.624722222222,10.061666666667,2,Albert Lezius,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q7004681,53.624722222222,10.061666666667,2,Neville Elliott-Cooper,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q15445079,53.624722222222,10.061666666667,2,Johann Heinrich Schlösser,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q18957768,53.624722222222,10.061666666667,2,Marie Zacharias,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q19964051,53.624722222222,10.061666666667,2,Reinhold Pabel,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q20979851,53.624722222222,10.061666666667,2,Hermann Strasosky,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q20979885,53.624722222222,10.061666666667,2,Agnes Gierck,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q20980038,53.624722222222,10.061666666667,2,Otto von Axen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q26025064,53.624722222222,10.061666666667,2,Inge Bergmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q55435377,53.624722222222,10.061666666667,2,Ernst Hans Eberhard,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q55847908,53.624722222222,10.061666666667,2,Ludwig Mecking,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q60475702,53.624722222222,10.061666666667,2,Karl Gröning,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q63485571,53.624722222222,10.061666666667,2,Frieda Matthaei-Mitscherlich,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q85261677,53.624722222222,10.061666666667,2,Alfred Löwengard,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q95195603,53.624722222222,10.061666666667,2,Antoine Brandeis,Ohlsdorf Cemetery
+Point(9.65735 53.6862),27.896,http://www.wikidata.org/entity/Q1895012,53.6862,9.65735,2,Margarete Pix,Cäcilie-Bleeker-Park
+Point(9.65709 53.6815),27.639,http://www.wikidata.org/entity/Q27579066,53.6815,9.65709,2,Heinrich II. von Barmstede,Kloster Uetersen
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q17308929,53.55,9.95,2,Samuel da Silva,Jewish cemetery in Hamburg-Altona
+Point(9.996389 53.550278),1.361,http://www.wikidata.org/entity/Q20731678,53.550278,9.996389,2,Daniel Stockfleth,St. Peter's Church
+Point(10.128359 53.48274),10.805,http://www.wikidata.org/entity/Q16739499,53.48274,10.128359,2,Klaus-Jürgen Luckey,Friedhof an der Dreieinigkeitskirche Allermöhe
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q1418288,53.61611111,9.94972222,2,Otto Rohse,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q1578365,53.61611111,9.94972222,2,Hans Wilhelm Schreiber,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q1913720,53.61611111,9.94972222,2,Maximilian Heinrich Schinckel,Old Niendorf Cemetery
+Point(9.955 53.6175),8.189,http://www.wikidata.org/entity/Q63485348,53.6175,9.955,2,Friedel Hensch,Neuer Niendorfer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1460238,53.55591667,10.05713889,2,Friedrich Karl Kraft,Alter Hammer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1505277,53.55591667,10.05713889,2,Georg Luis,Alter Hammer Friedhof
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q1692428,53.55591667,10.05713889,2,Johann Arnold Günther,Alter Hammer Friedhof
+Point(10.054203 53.566911),2.917,http://www.wikidata.org/entity/Q20980271,53.566911,10.054203,2,Justus Carl Wilhelm Ruperti,Jacobipark
+Point(10.03944444 53.61444444),6.951,http://www.wikidata.org/entity/Q18957770,53.61444444,10.03944444,2,Max Bachur,Ohlsdorf Jewish Cemetery
+Point(10.03944444 53.61444444),6.951,http://www.wikidata.org/entity/Q60614649,53.61444444,10.03944444,2,Max Lewandowsky,Ohlsdorf Jewish Cemetery
+Point(10.20689 53.36379),24.577,http://www.wikidata.org/entity/Q1541120,53.36379,10.20689,2,Johann Friedrich Hodann,St. Marienkirche
+Point(10.3135 53.5253),19.887,http://www.wikidata.org/entity/Q10371380,53.5253,10.3135,2,Siegfried Breinlinger,Aumühle
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q825562,53.574444444444,9.8013888888889,1,Bernhard Lohse,Friedhof Blankenese
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q1283587,53.574444444444,9.8013888888889,1,Gernot Kahl,Friedhof Blankenese
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1401714,53.554166666667,9.8416666666667,1,Hans-Adolf Hedemann,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1466976,53.554166666667,9.8416666666667,1,Jürgen Deininger,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q1514819,53.554166666667,9.8416666666667,1,Gerrit Winter,Nienstedten Cemetery
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q17322192,53.574444444444,9.8013888888889,1,Heinrich Ferdinand Curschmann,Friedhof Blankenese
+Point(9.801388888 53.574444444),14.381,http://www.wikidata.org/entity/Q18957640,53.574444444444,9.8013888888889,1,Ernst Schrewe,Friedhof Blankenese
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q19958908,53.554166666667,9.8416666666667,1,Kurt Barnekow,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q65123081,53.554166666667,9.8416666666667,1,Elisabeth Bahlmann,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q825094,53.624722222222,10.061666666667,1,Bernhard Gmelin,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1235667,53.624722222222,10.061666666667,1,Josef Bergmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1462526,53.624722222222,10.061666666667,1,Friedrich Thörl,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q1701248,53.624722222222,10.061666666667,1,John Olden,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q2437720,53.624722222222,10.061666666667,1,Tobias Brocher,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q4721695,53.624722222222,10.061666666667,1,Alf Hedge,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q15451286,53.624722222222,10.061666666667,1,Albert Gideon Brinckmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q17126666,53.624722222222,10.061666666667,1,Paul Wichmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q18511765,53.624722222222,10.061666666667,1,Raimund Joachim Höltich,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q18957686,53.624722222222,10.061666666667,1,Helmuth Thomas,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q19287990,53.624722222222,10.061666666667,1,Klaus Barkowsky,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q20980235,53.624722222222,10.061666666667,1,Johannes Schuback,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q21012011,53.624722222222,10.061666666667,1,Jens-Werner Fritsch,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q87539531,53.624722222222,10.061666666667,1,Leny Falk,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q98608876,53.624722222222,10.061666666667,1,Kurt Collien,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q105571482,53.624722222222,10.061666666667,1,Maria Dorothea Hertz,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q105702471,53.624722222222,10.061666666667,1,Henriette Oboussier,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q106648054,53.624722222222,10.061666666667,1,Pieter Keg,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q110491660,53.624722222222,10.061666666667,1,Maria Brinckmann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q110873671,53.624722222222,10.061666666667,1,Albert Warburg,Ohlsdorf Cemetery
+Point(9.931855 53.552604),5.578,http://www.wikidata.org/entity/Q52081738,53.552604,9.931855,1,Moritz Warburg,Jewish cemetery in Hamburg-Ottensen
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q1447753,53.549316,9.908065,1,Franz Keil,Bernadottestraße
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q1741287,53.549316,9.908065,1,Robert Grosse,Bernadottestraße
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q18746801,53.549316,9.908065,1,Otto Voss,Bernadottestraße
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q25858570,53.549316,9.908065,1,Martina Severin-Kaiser,Bernadottestraße
+Point(9.908065 53.549316),7.163,http://www.wikidata.org/entity/Q82515688,53.549316,9.908065,1,Wolfgang Martens,Bernadottestraße
+Point(9.888 53.586),9.21,http://www.wikidata.org/entity/Q2562363,53.586,9.888,1,Werner Riepel,Altona Main Cemetery
+Point(9.916244 53.57144),6.902,http://www.wikidata.org/entity/Q54841649,53.57144,9.916244,1,Hinrich van der Smissen,Mennonite cemetery in Hamburg-Altona
+Point(9.91638889 53.56944444),6.832,http://www.wikidata.org/entity/Q98842957,53.56944444,9.91638889,1,Moses Levi,Jüdischer Friedhof Bornkampsweg
+Point(9.93277778 53.54694444),5.564,http://www.wikidata.org/entity/Q54972620,53.54694444,9.93277778,1,Johann Heinrich Baur,Christianskirche
+Point(9.93277778 53.54694444),5.564,http://www.wikidata.org/entity/Q55191090,53.54694444,9.93277778,1,Ulrikke Antoinette Danneskiold-Laurvig,Christianskirche
+Point(9.9472 53.5489),4.591,http://www.wikidata.org/entity/Q123516128,53.5489,9.9472,1,Q123516128,Altona
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q52113131,53.55,9.95,1,Wulff Salomon Warburg,Jewish cemetery in Hamburg-Altona
+Point(9.994375 53.546),1.668,http://www.wikidata.org/entity/Q18604052,53.546,9.994375,1,Diedrich Moller,"St. Catherine's Church, Hamburg"
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q4499866,53.55,10.0,1,Evgenij Horvat,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q15479896,53.55,10.0,1,Hans Stumpfeldt,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q16129341,53.55,10.0,1,Q16129341,Hamburg
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q15854442,53.61611111,9.94972222,1,Wilhelm Amsinck,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q65682027,53.61611111,9.94972222,1,Herbert von Berenberg-Goßler,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q107178422,53.61611111,9.94972222,1,Dieter Horchler,Old Niendorf Cemetery
+Point(10.05713889 53.55591667),2.713,http://www.wikidata.org/entity/Q18222076,53.55591667,10.05713889,1,Hermann Gries,Alter Hammer Friedhof
+Point(10.070839 53.57294),4.204,http://www.wikidata.org/entity/Q29587229,53.57294,10.070839,1,Arnold Dietrich Schröder,Historischer Friedhof Wandsbek
+Point(10.155 53.5925),10.135,http://www.wikidata.org/entity/Q1581828,53.5925,10.155,1,Hans Poser,Rahlstedt Cemetery
+Point(10.155 53.5925),10.135,http://www.wikidata.org/entity/Q1802874,53.5925,10.155,1,Walter Reimers,Q116895394
+Point(10.158553 53.667257),15.753,http://www.wikidata.org/entity/Q2677229,53.667257,10.158553,1,Dora Bieber-Lux,Waldfriedhof Volksdorf
+Point(10.158553 53.667257),15.753,http://www.wikidata.org/entity/Q23710500,53.667257,10.158553,1,Heinz-Dietrich Wendland,Waldfriedhof Volksdorf
+Point(10.158553 53.667257),15.753,http://www.wikidata.org/entity/Q27876985,53.667257,10.158553,1,Hans-Joachim Widmann,Waldfriedhof Volksdorf
+Point(10.248333333 53.508888888),16.117,http://www.wikidata.org/entity/Q112280299,53.508888888889,10.248333333333,1,Ebelin Bucerius,Reinbek
+Point(10.201944 53.547869),12.281,http://www.wikidata.org/entity/Q113686039,53.547869,10.201944,1,Irmgard Ellen Hell née Neumann,Friedhof Glinde
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q75373800,53.554166666667,9.8416666666667,0,Yvonne Gerschau Freiin von Flotow,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q75373801,53.554166666667,9.8416666666667,0,Ulrich Graf zu Stolberg-Wernigerode,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q94764141,53.554166666667,9.8416666666667,0,Ellinor Jahnn,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q108665447,53.554166666667,9.8416666666667,0,Helmut Bothe,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q111186662,53.554166666667,9.8416666666667,0,Hans Hueckel,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q112962666,53.554166666667,9.8416666666667,0,Heinrich Rodegra,Nienstedten Cemetery
+Point(9.841666666 53.554166666),11.534,http://www.wikidata.org/entity/Q123555567,53.554166666667,9.8416666666667,0,Elsa Wolff-Essberger,Nienstedten Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q28056564,53.624722222222,10.061666666667,0,Otto Schliack,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q38694384,53.624722222222,10.061666666667,0,Theodor Sanders,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q54257183,53.624722222222,10.061666666667,0,Levie Peper,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q55679782,53.624722222222,10.061666666667,0,Heinrich Carl Nikolaus von Reiche,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q55849233,53.624722222222,10.061666666667,0,Gustav Diederichsen,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q117256339,53.624722222222,10.061666666667,0,Emma Biermann,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q118830999,53.624722222222,10.061666666667,0,Q118830999,Ohlsdorf Cemetery
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q119361519,53.624722222222,10.061666666667,0,Ernst Paul Dorn,Ohlsdorf Cemetery
+Point(10.05209 53.62286),8.07,http://www.wikidata.org/entity/Q120717588,53.62286,10.05209,0,Jacobus Petrus Baumann,Dutch memorial cemetery Hamburg
+Point(10.05209 53.62286),8.07,http://www.wikidata.org/entity/Q120717588,53.619809,10.034571,0,Jacobus Petrus Baumann,Dutch memorial cemetery Hamburg
+Point(10.061666666 53.624722222),8.47,http://www.wikidata.org/entity/Q124830734,53.624722222222,10.061666666667,0,Albert Lubisch,Ohlsdorf Cemetery
+Point(9.888 53.586),9.21,http://www.wikidata.org/entity/Q115052741,53.586,9.888,0,Anton Wohinz,Altona Main Cemetery
+Point(9.95 53.55),4.395,http://www.wikidata.org/entity/Q128624651,53.55,9.95,0,Ruben Bendix Goldschmidt,Jewish cemetery in Hamburg-Altona
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q21402689,53.55,10.0,0,Frank McClean,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q94852536,53.55,10.0,0,Karl Hudtwalcker,Hamburg
+Point(10.0 53.55),1.142,http://www.wikidata.org/entity/Q110067667,53.55,10.0,0,Carl Oskar Wanckel,Hamburg
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q55684943,53.61611111,9.94972222,0,Ernest Merck,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q55893706,53.61611111,9.94972222,0,Albrecht D. von Dieckhoff,Old Niendorf Cemetery
+Point(9.94972222 53.61611111),8.235,http://www.wikidata.org/entity/Q94766531,53.61611111,9.94972222,0,Hans Dieckhoff,Old Niendorf Cemetery
+Point(10.01231 53.55513),0.321,http://www.wikidata.org/entity/Q89289452,53.55513,10.01231,0,Pierre Chaunel,St. Georg
+Point(10.03944444 53.61444444),6.951,http://www.wikidata.org/entity/Q107022326,53.61444444,10.03944444,0,Anna Lippmann,Ohlsdorf Jewish Cemetery
+Point(10.083333333 53.583333333),5.535,http://www.wikidata.org/entity/Q122462791,53.583333333333,10.083333333333,0,Albert Baltzer Berns,Wandsbek
+Point(10.250802777 53.480116666),17.519,http://www.wikidata.org/entity/Q110874459,53.480116666667,10.250802777778,0,Hermann Friedrich Messtorff,Friedhof Bergedorf
+Point(10.201944 53.547869),12.281,http://www.wikidata.org/entity/Q114496998,53.547869,10.201944,0,Albrecht Hell,Friedhof Glinde
