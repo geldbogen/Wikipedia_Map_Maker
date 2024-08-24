@@ -1,3 +1,1 @@
-
-division of Karnataka
-neighborhood
+'*{{sleep\n| name=Campingplatz Leipzig Auensee | url=http://www.camping-auensee.de/ | email=\n| address=Gustav-Esche-Straße 5 | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n*{{sleep\n| name=Campingplatz am Kulkwitzer See / LeipzigSeen | url=http://www.leipzigseen.de/ | email=\n| address= | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n*{{sleep\n| name=Caravan-Zentrum Leipzig | url=http://www.caravan-zentrum.de/ | email=\n| address=Prager Straße 200 | lat= | long= | directions=\n| phone= | tollfree= | fax=\n| hours= | price=\n| checkin= | checkout=\n| content=\n}}\n'
