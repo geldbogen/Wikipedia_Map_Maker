@@ -7,6 +7,7 @@ import simplekml
 
 from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleges_or_hotels
 from wikidata_fetcher import WikidataFetcher
+from kml_helper import KmlHelper
 
 class AllFetcher():
 
@@ -73,23 +74,7 @@ class AllFetcher():
         final_df.to_csv(os.path.join(folder_name,f'final_{self.place_name}.csv'))
 
         # create google maps kml file
-        kml = simplekml.Kml()
-        
-        foldername_to_folder = dict()
-        # create folders for toggling on and off
-        for tier_name in list(set(final_df['tier'].to_list())):
-            my_folder = kml.newfolder(name = tier_name)
-            foldername_to_folder[tier_name] = my_folder
-        
-        final_df.apply(lambda x : (foldername_to_folder[x.at['tier']]).
-        newpoint(
-        coords=[(x['lon'], x['lat'])],
-        name = x['itemLabel']
-            ),axis=1)
-        kml.save('mumbai.kml')
-        # kml.newpoint()
-        # my_folder.newpoint()
-
+        KmlHelper(final_df)
 
 if __name__ == '__main__':
     my_all_fetcher = AllFetcher('Mumbai','India', 19.077511363070002, 72.92135126744137)

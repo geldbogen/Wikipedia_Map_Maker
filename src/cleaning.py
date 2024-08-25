@@ -23,10 +23,6 @@ def check_if_unimportant_things_like_colleges_or_hotels(pd_series : pd.Series) -
         case _:
             return False
 
-def create_styled_point(kml_folder : simplekml.Folder, coords : list[tuple], name : str, tier : str):
-    
-    kml_folder.newpoint(coords=coords, name=name)
-    pass
 
 def get_tier_and_color(pd_series : pd.Series, which_category : Literal['places','graves','atlas_obscura']) -> tuple[str,str]:
 
