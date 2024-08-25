@@ -3,6 +3,7 @@ import math
 
 import pandas as pd
 import geopy.distance
+import simplekml
 
 from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleges_or_hotels
 from wikidata_fetcher import WikidataFetcher
@@ -25,7 +26,7 @@ class AllFetcher():
 
         # cleaning
         relevant_ao_df = relevant_ao_df[relevant_ao_df.apply(lambda x : geopy.distance.distance((x['lat'],x['lon']),(self.lat, self.lon)).km < 50,axis = 1)]
-        places_df = places_df[lambda x: not check_if_unimportant_things_like_colleges_or_hotels(x)]
+        places_df = places_df[places_df.apply(lambda x: not check_if_unimportant_things_like_colleges_or_hotels(x),axis=1)]
 
         # drop duplicates
         places_df.drop_duplicates(inplace=True,subset=['item'])
@@ -46,7 +47,10 @@ class AllFetcher():
 
         # saving
         folder_name = os.path.join('data',self.place_name)
-        os.mkdir(folder_name)
+        try:
+            os.mkdir(folder_name)
+        except FileExistsError:
+            pass
 
         # save single files
         places_df.to_csv(os.path.join(folder_name,f'{self.place_name}_places.csv'))
@@ -55,7 +59,37 @@ class AllFetcher():
 
         # now create a final, large file
         final_df = pd.concat([places_df, graves_df, relevant_ao_df])
+
+        # google my maps has problems with reading float values
+
+        def try_convert_to_int(value):
+            try:
+                return int(value)
+            except ValueError:
+                pass
+
+
+        final_df['sitelinks'] = final_df['sitelinks'].apply(lambda x : try_convert_to_int(x))
         final_df.to_csv(os.path.join(folder_name,f'final_{self.place_name}.csv'))
+
+        # create google maps kml file
+        kml = simplekml.Kml()
+        
+        foldername_to_folder = dict()
+        # create folders for toggling on and off
+        for tier_name in list(set(final_df['tier'].to_list())):
+            my_folder = kml.newfolder(name = tier_name)
+            foldername_to_folder[tier_name] = my_folder
+        
+        final_df.apply(lambda x : (foldername_to_folder[x.at['tier']]).
+        newpoint(
+        coords=[(x['lon'], x['lat'])],
+        name = x['itemLabel']
+            ),axis=1)
+        kml.save('mumbai.kml')
+        # kml.newpoint()
+        # my_folder.newpoint()
+
 
 if __name__ == '__main__':
     my_all_fetcher = AllFetcher('Mumbai','India', 19.077511363070002, 72.92135126744137)

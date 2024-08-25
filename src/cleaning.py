@@ -1,6 +1,7 @@
 from typing import Literal
 
 import pandas as pd
+import simplekml
 
 with open('data/almost_unimportant_tags.txt', 'r') as f:
     set_of_almost_unimportant_tags = set(f.read().splitlines())
@@ -13,14 +14,19 @@ with open('data/really_unimportant_tags.txt', 'r') as f:
 def check_if_unimportant_things_like_colleges_or_hotels(pd_series : pd.Series) -> bool:
     sitelinks = pd_series['sitelinks']
     match pd_series['thingLabel']:
-        case _ if pd_series['articleDE'] == '' and pd_series['articleEN'] == '':
+        case _ if pd_series.isna()['articleDE'].all() and pd_series.isna()['articleEN'].all():
             return True
-        case _ if pd_series['thingLabel'] in set_of_really_unimportant_tags:
+        case _ if pd_series.at['thingLabel'] in set_of_really_unimportant_tags:
             return True
-        case _ if pd_series['thingLabel'] in set_of_almost_unimportant_tags and sitelinks < 10:
+        case _ if pd_series.at['thingLabel'] in set_of_almost_unimportant_tags and sitelinks < 10:
             return True
         case _:
             return False
+
+def create_styled_point(kml_folder : simplekml.Folder, coords : list[tuple], name : str, tier : str):
+    
+    kml_folder.newpoint(coords=coords, name=name)
+    pass
 
 def get_tier_and_color(pd_series : pd.Series, which_category : Literal['places','graves','atlas_obscura']) -> tuple[str,str]:
 

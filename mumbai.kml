@@ -1,0 +1,4744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <name>atlas_obscura</name>
+            <Placemark id="1516">
+                <name>
+Elephanta Caves
+</name>
+                <Point id="1515">
+                    <coordinates>72.931636,18.963341,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1518">
+                <name>
+Kalavantin Durg
+</name>
+                <Point id="1517">
+                    <coordinates>73.219847,18.982935,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1520">
+                <name>
+Mahakali Caves
+</name>
+                <Point id="1519">
+                    <coordinates>72.87159,19.128904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1522">
+                <name>
+Antilia
+</name>
+                <Point id="1521">
+                    <coordinates>72.856164,19.017615,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1524">
+                <name>
+Tower of Silence in Mumbai
+</name>
+                <Point id="1523">
+                    <coordinates>72.807148,18.961818,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1526">
+                <name>
+Gilbert Hill
+</name>
+                <Point id="1525">
+                    <coordinates>72.840193,19.120572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1528">
+                <name>
+The Magen David Synagogue
+</name>
+                <Point id="1527">
+                    <coordinates>72.831238,18.966811,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1530">
+                <name>
+Banganga Tank
+</name>
+                <Point id="1529">
+                    <coordinates>72.793621,18.945695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1532">
+                <name>
+Kwan Kung Temple
+</name>
+                <Point id="1531">
+                    <coordinates>72.846058,18.96566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1534">
+                <name>
+Mumbai's Parsi Fire Temples
+</name>
+                <Point id="1533">
+                    <coordinates>72.835823,18.936518,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1536">
+                <name>
+Afghan Church
+</name>
+                <Point id="1535">
+                    <coordinates>72.816241,18.906452,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1538">
+                <name>
+The Lion &amp; Tiger Statues
+</name>
+                <Point id="1537">
+                    <coordinates>72.835448,18.939845,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1540">
+                <name>
+'Urbs Prima In Indis'
+</name>
+                <Point id="1539">
+                    <coordinates>72.834502,18.940372,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1542">
+                <name>
+Chhatrapati Shivaji Terminus
+</name>
+                <Point id="1541">
+                    <coordinates>72.833672,18.94487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1544">
+                <name>
+Kothari Pyau
+</name>
+                <Point id="1543">
+                    <coordinates>72.837004,18.938279,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1546">
+                <name>
+Fort George
+</name>
+                <Point id="1545">
+                    <coordinates>72.838489,18.941237,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1548">
+                <name>
+Ruttonsee Muljee Jetha Fountain
+</name>
+                <Point id="1547">
+                    <coordinates>72.837143,18.935598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1550">
+                <name>
+Bomanjee Hormarjee Wadia Clock Tower
+</name>
+                <Point id="1549">
+                    <coordinates>72.835847,18.934298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1552">
+                <name>
+Fitzgerald Fountain
+</name>
+                <Point id="1551">
+                    <coordinates>72.829338,18.943486,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1554">
+                <name>
+St. Thomas Cathedral
+</name>
+                <Point id="1553">
+                    <coordinates>72.833685,18.9319,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1556">
+                <name>
+Bandra Fort
+</name>
+                <Point id="1555">
+                    <coordinates>72.818359,19.041889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1558">
+                <name>
+Port Trust War Memorial
+</name>
+                <Point id="1557">
+                    <coordinates>72.840139,18.934016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1560">
+                <name>
+Army &amp; Navy Building
+</name>
+                <Point id="1559">
+                    <coordinates>72.830993,18.927915,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1562">
+                <name>
+Old Woman’s Shoe
+</name>
+                <Point id="1561">
+                    <coordinates>72.805718,18.955654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1564">
+                <name>
+Kala Ghoda Statue
+</name>
+                <Point id="1563">
+                    <coordinates>72.831831,18.927864,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <name>A</name>
+            <Placemark id="80">
+                <name>Bandra</name>
+                <Point id="79">
+                    <coordinates>72.840555555556,19.054444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="82">
+                <name>Sanjay Gandhi National Park</name>
+                <Point id="81">
+                    <coordinates>72.9167,19.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="84">
+                <name>Uran</name>
+                <Point id="83">
+                    <coordinates>72.95,18.89,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="86">
+                <name>Neral</name>
+                <Point id="85">
+                    <coordinates>73.32,19.03,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="88">
+                <name>Leopold Cafe</name>
+                <Point id="87">
+                    <coordinates>72.824131,18.914195,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="90">
+                <name>Ambivali Tarf Wankhal</name>
+                <Point id="89">
+                    <coordinates>73.1775,18.8915,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="92">
+                <name>Pen</name>
+                <Point id="91">
+                    <coordinates>73.0833,18.75,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="94">
+                <name>Siddhivinayak Temple, Mumbai</name>
+                <Point id="93">
+                    <coordinates>72.830409,19.01692,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>Nhava Sheva</name>
+                <Point id="95">
+                    <coordinates>72.95,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="98">
+                <name>DY Patil Stadium</name>
+                <Point id="97">
+                    <coordinates>73.026667,19.041944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="100">
+                <name>Worli</name>
+                <Point id="99">
+                    <coordinates>72.815,19.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="102">
+                <name>Kalundre</name>
+                <Point id="101">
+                    <coordinates>73.126944444444,18.980277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="104">
+                <name>Bandra–Worli Sea Link</name>
+                <Point id="103">
+                    <coordinates>72.81725,19.03648,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="106">
+                <name>Mumbai Metropolitan Region</name>
+                <Point id="105">
+                    <coordinates>72.833333333333,18.966666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="108">
+                <name>Bhabha Atomic Research Centre</name>
+                <Point id="107">
+                    <coordinates>72.917777777778,19.004722222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="110">
+                <name>Hindustan Unilever</name>
+                <Point id="109">
+                    <coordinates>72.855436111111,19.113743888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="112">
+                <name>2011 Mumbai bombings</name>
+                <Point id="111">
+                    <coordinates>72.82,18.96,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="114">
+                <name>Taloje Panchnad</name>
+                <Point id="113">
+                    <coordinates>73.0833,19.0833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="116">
+                <name>Powai Lake</name>
+                <Point id="115">
+                    <coordinates>72.91,19.13,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="118">
+                <name>Nariman Point</name>
+                <Point id="117">
+                    <coordinates>72.823,18.926,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="120">
+                <name>Mumbai Monorail</name>
+                <Point id="119">
+                    <coordinates>72.8975,19.061111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="122">
+                <name>Oberoi Trident</name>
+                <Point id="121">
+                    <coordinates>72.820833,18.9275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="124">
+                <name>Chhatrapati Shivaji Maharaj Vastu Sangrahalaya</name>
+                <Point id="123">
+                    <coordinates>72.832222,18.926667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>Kegaon</name>
+                <Point id="125">
+                    <coordinates>72.912,18.885,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="128">
+                <name>Marine Drive</name>
+                <Point id="127">
+                    <coordinates>72.823,18.944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="130">
+                <name>Khoni</name>
+                <Point id="129">
+                    <coordinates>73.0544,19.3113,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="132">
+                <name>Karivali</name>
+                <Point id="131">
+                    <coordinates>73.0396,19.2922,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="134">
+                <name>Katai</name>
+                <Point id="133">
+                    <coordinates>73.0424,19.3078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="136">
+                <name>Colaba</name>
+                <Point id="135">
+                    <coordinates>72.81,18.91,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="138">
+                <name>Juhu Aerodrome</name>
+                <Point id="137">
+                    <coordinates>72.833888888889,19.098055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="140">
+                <name>Gokhivare</name>
+                <Point id="139">
+                    <coordinates>72.8445,19.4125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="142">
+                <name>The Imperial</name>
+                <Point id="141">
+                    <coordinates>72.8129,18.9709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="144">
+                <name>Waliv</name>
+                <Point id="143">
+                    <coordinates>72.8613,19.4255,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="146">
+                <name>Padagha</name>
+                <Point id="145">
+                    <coordinates>73.1833,19.3667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="148">
+                <name>Shelar</name>
+                <Point id="147">
+                    <coordinates>73.0626,19.3259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="150">
+                <name>Mohpada</name>
+                <Point id="149">
+                    <coordinates>73.1796,18.9098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>Bombay Samachar</name>
+                <Point id="151">
+                    <coordinates>72.83423751771,18.932602500625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="154">
+                <name>Dombivli</name>
+                <Point id="153">
+                    <coordinates>73.086718,19.218433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>Mumba Devi Temple</name>
+                <Point id="155">
+                    <coordinates>72.83,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="158">
+                <name>Juhu</name>
+                <Point id="157">
+                    <coordinates>72.83,19.1,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="160">
+                <name>Roman Catholic Diocese of Vasai</name>
+                <Point id="159">
+                    <coordinates>72.811925,19.35105,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>Brabourne Stadium</name>
+                <Point id="161">
+                    <coordinates>72.82472222,18.93222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="164">
+                <name>Konkan division</name>
+                <Point id="163">
+                    <coordinates>72.82583333,18.96472222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>Andheri</name>
+                <Point id="165">
+                    <coordinates>72.846944444444,19.119166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>Ulhas River</name>
+                <Point id="167">
+                    <coordinates>72.7912,19.321,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="170">
+                <name>Chembur</name>
+                <Point id="169">
+                    <coordinates>72.899694444444,19.058711111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="172">
+                <name>Mahim</name>
+                <Point id="171">
+                    <coordinates>72.84,19.035,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>Global Vipassana Pagoda</name>
+                <Point id="173">
+                    <coordinates>72.80605278,19.22805556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>Kopharad</name>
+                <Point id="175">
+                    <coordinates>72.784,19.4433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="178">
+                <name>Navi Mumbai International Airport</name>
+                <Point id="177">
+                    <coordinates>73.079113888889,18.984677777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>Fort Vasai</name>
+                <Point id="179">
+                    <coordinates>72.81460489,19.32987469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="182">
+                <name>Vidyavihar</name>
+                <Point id="181">
+                    <coordinates>72.896,19.08,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="184">
+                <name>Mazagon Dock Shipbuilders</name>
+                <Point id="183">
+                    <coordinates>72.84993,18.96713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>Mahakali Caves</name>
+                <Point id="185">
+                    <coordinates>72.874133,19.130436,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="188">
+                <name>Indian Airlines Flight 171</name>
+                <Point id="187">
+                    <coordinates>72.842666666667,19.088583333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="190">
+                <name>Churchgate</name>
+                <Point id="189">
+                    <coordinates>72.826661816654,18.932315669781,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>Tata Institute of Social Sciences</name>
+                <Point id="191">
+                    <coordinates>72.912483333333,19.044697222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>Indian Coffee House</name>
+                <Point id="193">
+                    <coordinates>74.990258333333,12.500886111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>Tulsi Lake</name>
+                <Point id="195">
+                    <coordinates>72.9179,19.1901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>Mazagaon</name>
+                <Point id="197">
+                    <coordinates>72.85,18.97,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="200">
+                <name>Knesset Eliyahoo</name>
+                <Point id="199">
+                    <coordinates>72.832555555556,18.928138888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="202">
+                <name>South Mumbai</name>
+                <Point id="201">
+                    <coordinates>72.82,18.96,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>Palais Royale</name>
+                <Point id="203">
+                    <coordinates>72.82027778,18.99916667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>Mount Mary Church</name>
+                <Point id="205">
+                    <coordinates>72.8225,19.046666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>Borivali</name>
+                <Point id="207">
+                    <coordinates>72.86,19.23,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>EsselWorld</name>
+                <Point id="209">
+                    <coordinates>72.806,19.232,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="212">
+                <name>Jogeshwari Caves</name>
+                <Point id="211">
+                    <coordinates>72.8570856,19.13884226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="214">
+                <name>Vashi</name>
+                <Point id="213">
+                    <coordinates>73.01,19.08,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>Kon, India</name>
+                <Point id="215">
+                    <coordinates>73.106,19.2489,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="218">
+                <name>Goregaon</name>
+                <Point id="217">
+                    <coordinates>72.85,19.155,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="220">
+                <name>Kharghar</name>
+                <Point id="219">
+                    <coordinates>73.061722222222,19.036147222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>Film City</name>
+                <Point id="221">
+                    <coordinates>72.8867,19.1613,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="224">
+                <name>Mahim Fort</name>
+                <Point id="223">
+                    <coordinates>72.837768,19.039848,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>Mani Bhavan</name>
+                <Point id="225">
+                    <coordinates>72.81137,18.95993,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="228">
+                <name>Aksa Beach</name>
+                <Point id="227">
+                    <coordinates>72.79496667,19.177275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="230">
+                <name>Parel</name>
+                <Point id="229">
+                    <coordinates>72.84,18.99,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="232">
+                <name>Dadar</name>
+                <Point id="231">
+                    <coordinates>72.844763888889,19.017980555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>Rajabai Clock Tower</name>
+                <Point id="233">
+                    <coordinates>72.82999,18.92964,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>2013 Thane building collapse</name>
+                <Point id="235">
+                    <coordinates>73.027722222222,19.170916666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="238">
+                <name>Powai</name>
+                <Point id="237">
+                    <coordinates>72.91,19.12,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>Kamathipura</name>
+                <Point id="239">
+                    <coordinates>72.82,18.96,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="242">
+                <name>Namaste Tower</name>
+                <Point id="241">
+                    <coordinates>72.823257,18.991499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="244">
+                <name>Bombay High Court</name>
+                <Point id="243">
+                    <coordinates>72.830461111111,18.931183333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>Mandapeshwar Caves</name>
+                <Point id="245">
+                    <coordinates>72.85322504,19.24511143,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="4">
+            <name>C</name>
+            <Placemark id="470">
+                <name>Raj Bhavan</name>
+                <Point id="469">
+                    <coordinates>72.793436,18.940194,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="472">
+                <name>INS Shikra</name>
+                <Point id="471">
+                    <coordinates>72.82934722,18.91378611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="474">
+                <name>Air India Building</name>
+                <Point id="473">
+                    <coordinates>72.82200278,18.93048333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="476">
+                <name>Shreepati Arcade</name>
+                <Point id="475">
+                    <coordinates>72.8124194,18.9628316,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="478">
+                <name>Air India Flight 403</name>
+                <Point id="477">
+                    <coordinates>72.87,19.089,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="480">
+                <name>Airoli Bridge</name>
+                <Point id="479">
+                    <coordinates>72.980509,19.150712,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="482">
+                <name>Arthur Road Jail</name>
+                <Point id="481">
+                    <coordinates>72.82976111,18.98519444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="484">
+                <name>Back Bay</name>
+                <Point id="483">
+                    <coordinates>72.81,18.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="486">
+                <name>Marol</name>
+                <Point id="485">
+                    <coordinates>72.882744444444,19.119219444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="488">
+                <name>Kopar Khairane</name>
+                <Point id="487">
+                    <coordinates>73.010555555556,19.103055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="490">
+                <name>Cooperage Ground</name>
+                <Point id="489">
+                    <coordinates>72.828734,18.924449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="492">
+                <name>Sir Cowasji Jehangir Public Hall</name>
+                <Point id="491">
+                    <coordinates>72.8313357,18.9259205,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="494">
+                <name>Cumbala Hill</name>
+                <Point id="493">
+                    <coordinates>72.80583333,18.96583333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="496">
+                <name>Vikhroli</name>
+                <Point id="495">
+                    <coordinates>72.94,19.11,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="498">
+                <name>Eros Cinema</name>
+                <Point id="497">
+                    <coordinates>72.827869317778,18.932130634134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="500">
+                <name>Mahalaxmi Racecourse</name>
+                <Point id="499">
+                    <coordinates>72.82,18.984,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="502">
+                <name>Gate of Mercy Synagogue</name>
+                <Point id="501">
+                    <coordinates>72.836373,18.95226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="504">
+                <name>Japan Airlines Flight 472 (1972)</name>
+                <Point id="503">
+                    <coordinates>72.83888889,19.09916667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="506">
+                <name>Jinnah House</name>
+                <Point id="505">
+                    <coordinates>72.8014,18.9532,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="508">
+                <name>Kadeshwari Devi Temple</name>
+                <Point id="507">
+                    <coordinates>72.81981667,19.04244444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="510">
+                <name>Kalyan International Airport</name>
+                <Point id="509">
+                    <coordinates>73.116852777778,19.179002777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="512">
+                <name>Marvé Beach</name>
+                <Point id="511">
+                    <coordinates>72.7968,19.1973,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="514">
+                <name>Municipal Corporation Building, Mumbai</name>
+                <Point id="513">
+                    <coordinates>72.8353,18.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="516">
+                <name>Indian Institute of Management Mumbai</name>
+                <Point id="515">
+                    <coordinates>72.905,19.13916667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="518">
+                <name>Oshiwara River</name>
+                <Point id="517">
+                    <coordinates>72.81638889,19.15916667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="520">
+                <name>Poisar River</name>
+                <Point id="519">
+                    <coordinates>72.833,19.1833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="522">
+                <name>Regal Cinema</name>
+                <Point id="521">
+                    <coordinates>72.832460181842,18.924618876001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="524">
+                <name>Shri Swaminarayan Mandir, Mumbai</name>
+                <Point id="523">
+                    <coordinates>72.83021667,18.953975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="526">
+                <name>Siddhivinayak Mahaganapati Temple</name>
+                <Point id="525">
+                    <coordinates>73.22166667,19.30055556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="528">
+                <name>Sion, Mumbai</name>
+                <Point id="527">
+                    <coordinates>72.86,19.04,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="530">
+                <name>St. Andrew's Church, Mumbai</name>
+                <Point id="529">
+                    <coordinates>72.8244,19.055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="532">
+                <name>St. John the Baptist Church, Mumbai</name>
+                <Point id="531">
+                    <coordinates>72.975816,19.194967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="534">
+                <name>Turbhe</name>
+                <Point id="533">
+                    <coordinates>73.1,19.4,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="536">
+                <name>Irshalgad</name>
+                <Point id="535">
+                    <coordinates>73.232031,18.933568,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="538">
+                <name>Kamandurg</name>
+                <Point id="537">
+                    <coordinates>72.95638889,19.3825,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="540">
+                <name>Malad Creek</name>
+                <Point id="539">
+                    <coordinates>72.8,19.13333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="542">
+                <name>Mehboob Studio</name>
+                <Point id="541">
+                    <coordinates>72.8253194,19.0523641,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="544">
+                <name>Parsik Hill</name>
+                <Point id="543">
+                    <coordinates>73.02160278,19.16008611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="546">
+                <name>Japanese School of Mumbai</name>
+                <Point id="545">
+                    <coordinates>72.9145324,19.1199595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="548">
+                <name>National Centre for the Performing Arts</name>
+                <Point id="547">
+                    <coordinates>72.8206,18.9251,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="550">
+                <name>Dhanraj Mahal</name>
+                <Point id="549">
+                    <coordinates>72.833567424186,18.92415416622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="552">
+                <name>Masunda Lake</name>
+                <Point id="551">
+                    <coordinates>72.97515,19.19303,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="554">
+                <name>Palava City</name>
+                <Point id="553">
+                    <coordinates>73.073,19.168,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>University Library, Mumbai</name>
+                <Point id="555">
+                    <coordinates>72.830173932178,18.929654677997,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>SS Fort Stikine</name>
+                <Point id="557">
+                    <coordinates>72.844977,18.952777,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="560">
+                <name>Sandor</name>
+                <Point id="559">
+                    <coordinates>72.804165,19.366539,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="562">
+                <name>Bombay Scottish School</name>
+                <Point id="561">
+                    <coordinates>72.83916667,19.03402778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="564">
+                <name>Madras Stock Exchange</name>
+                <Point id="563">
+                    <coordinates>72.833589,18.929681,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="566">
+                <name>1947 Ramdas Ship Disaster</name>
+                <Point id="565">
+                    <coordinates>72.81,18.91,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="568">
+                <name>2000 Mumbai landslide</name>
+                <Point id="567">
+                    <coordinates>72.8961,19.0908,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="570">
+                <name>Ambu Island</name>
+                <Point id="569">
+                    <coordinates>72.7833,19.1333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="572">
+                <name>Andheri Sports Complex</name>
+                <Point id="571">
+                    <coordinates>72.835295,19.129407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="574">
+                <name>Bandra Talao</name>
+                <Point id="573">
+                    <coordinates>72.838245,19.056424,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="576">
+                <name>Bandstand Promenade</name>
+                <Point id="575">
+                    <coordinates>72.819130555556,19.042719444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="578">
+                <name>Center for Excellence in Basic Sciences, Mumbai</name>
+                <Point id="577">
+                    <coordinates>72.85518,19.070555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="580">
+                <name>Central Institute of Fisheries Education</name>
+                <Point id="579">
+                    <coordinates>72.816088888889,19.139841666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="582">
+                <name>Cotton Green</name>
+                <Point id="581">
+                    <coordinates>72.8441,18.9862,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="584">
+                <name>Colaba Causeway</name>
+                <Point id="583">
+                    <coordinates>72.831783228176,18.923542723695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="586">
+                <name>Consulate General of the United States, Mumbai</name>
+                <Point id="585">
+                    <coordinates>72.86861111,19.065,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="588">
+                <name>Dadaji Kondadev Stadium</name>
+                <Point id="587">
+                    <coordinates>72.979758,19.192447,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="590">
+                <name>General Post Office, Mumbai</name>
+                <Point id="589">
+                    <coordinates>72.837038888889,18.938766666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="592">
+                <name>Gloria Church</name>
+                <Point id="591">
+                    <coordinates>72.834166666667,18.975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="594">
+                <name>Haffkine Institute</name>
+                <Point id="593">
+                    <coordinates>72.844,19.002055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="596">
+                <name>Holy Cross Church, Kurla</name>
+                <Point id="595">
+                    <coordinates>72.887333333333,19.083444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="598">
+                <name>Holy Cross High School</name>
+                <Point id="597">
+                    <coordinates>72.886004,19.08295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="600">
+                <name>Indira Gandhi Institute of Development Research</name>
+                <Point id="599">
+                    <coordinates>72.877944,19.167178,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="602">
+                <name>Kalamb Beach</name>
+                <Point id="601">
+                    <coordinates>72.761435,19.403418,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="604">
+                <name>Kausa</name>
+                <Point id="603">
+                    <coordinates>73.02500833,19.16750556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="606">
+                <name>Kemps Corner</name>
+                <Point id="605">
+                    <coordinates>72.8054,18.9629,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="608">
+                <name>King's Circle</name>
+                <Point id="607">
+                    <coordinates>72.855341,19.026734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="610">
+                <name>Kopineshwar Mandir, Thane</name>
+                <Point id="609">
+                    <coordinates>72.977,19.193,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="612">
+                <name>Mazagon Fort</name>
+                <Point id="611">
+                    <coordinates>72.842703,18.965633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="614">
+                <name>Middle Ground Coastal Battery</name>
+                <Point id="613">
+                    <coordinates>72.84775,18.91872,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="616">
+                <name>Morbe Dam</name>
+                <Point id="615">
+                    <coordinates>73.246193,18.925773,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="618">
+                <name>Oyster Rock</name>
+                <Point id="617">
+                    <coordinates>72.8275,18.90222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="620">
+                <name>Pandavkada Falls</name>
+                <Point id="619">
+                    <coordinates>73.063030555556,19.056680555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="622">
+                <name>Poisar</name>
+                <Point id="621">
+                    <coordinates>72.8523,19.2156,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="624">
+                <name>Portuguese Church</name>
+                <Point id="623">
+                    <coordinates>72.83638889,19.01833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="626">
+                <name>Sanpada</name>
+                <Point id="625">
+                    <coordinates>73.01,19.05,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="628">
+                <name>Sassoon Docks</name>
+                <Point id="627">
+                    <coordinates>72.82614167,18.91161389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="630">
+                <name>Sewri Christian Cemetery</name>
+                <Point id="629">
+                    <coordinates>72.851,19.001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="632">
+                <name>Siddharth College of Law, Mumbai</name>
+                <Point id="631">
+                    <coordinates>72.8306,18.931,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="634">
+                <name>Sunk Rock Lighthouse</name>
+                <Point id="633">
+                    <coordinates>72.832562,18.889797,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="636">
+                <name>Tulshi Dam</name>
+                <Point id="635">
+                    <coordinates>72.9186,19.1886,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="638">
+                <name>Vashi Bridge</name>
+                <Point id="637">
+                    <coordinates>72.971612,19.061226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="640">
+                <name>Whistling Woods International Institute</name>
+                <Point id="639">
+                    <coordinates>72.886519665692,19.162465628776,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="642">
+                <name>International Institute for Population Sciences</name>
+                <Point id="641">
+                    <coordinates>72.914861,19.049055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="644">
+                <name>Capitol Cinema</name>
+                <Point id="643">
+                    <coordinates>72.834313,18.939343,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="646">
+                <name>Joseph Baptista Gardens</name>
+                <Point id="645">
+                    <coordinates>72.842703,18.965633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="648">
+                <name>Uran Gas Turbine Power Station</name>
+                <Point id="647">
+                    <coordinates>72.9702089,18.8814393,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="650">
+                <name>New Empire Cinema</name>
+                <Point id="649">
+                    <coordinates>72.834205992558,18.938704514373,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="652">
+                <name>Trombay Thermal Power Station</name>
+                <Point id="651">
+                    <coordinates>72.8991473,19.0018976,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="654">
+                <name>Magen David Synagogue</name>
+                <Point id="653">
+                    <coordinates>72.8322211,18.9669478,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="656">
+                <name>Prong's Lighthouse</name>
+                <Point id="655">
+                    <coordinates>72.79975,18.879238,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="658">
+                <name>Mumbai Academy of the Moving Image</name>
+                <Point id="657">
+                    <coordinates>72.8775,19.0758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="660">
+                <name>St. Teresa's High School</name>
+                <Point id="659">
+                    <coordinates>72.8192,18.9528,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="662">
+                <name>Versova metro station</name>
+                <Point id="661">
+                    <coordinates>72.8213,19.1303,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="664">
+                <name>Railadevi talav</name>
+                <Point id="663">
+                    <coordinates>72.9571,19.1893,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="666">
+                <name>Hiranandani Gardens, Mumbai</name>
+                <Point id="665">
+                    <coordinates>72.911767,19.118986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="668">
+                <name>Wagheshwari Temple</name>
+                <Point id="667">
+                    <coordinates>72.873194444444,19.175361111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="670">
+                <name>INS Sardar Patel</name>
+                <Point id="669">
+                    <coordinates>72.83654444,18.92623889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="672">
+                <name>Dronagiri Fort द्रौणपुर रियासत</name>
+                <Point id="671">
+                    <coordinates>72.935885,18.866958,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="674">
+                <name>Lincoln House</name>
+                <Point id="673">
+                    <coordinates>72.803333333333,18.969444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="676">
+                <name>Omkar 1973</name>
+                <Point id="675">
+                    <coordinates>72.8167,19.0167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="678">
+                <name>Coastal Road</name>
+                <Point id="677">
+                    <coordinates>72.8105,18.9991,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="680">
+                <name>Parsee-Muslim riots</name>
+                <Point id="679">
+                    <coordinates>72.8777,19.076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="682">
+                <name>Parsi Lying-in Hospital</name>
+                <Point id="681">
+                    <coordinates>72.832588,18.935883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="684">
+                <name>Tungareshwar Wildlife Sanctuary</name>
+                <Point id="683">
+                    <coordinates>72.9358,19.3879,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="686">
+                <name>Parel Relief</name>
+                <Point id="685">
+                    <coordinates>72.84735958,19.00066928,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="688">
+                <name>Jama Masjid, Nerul</name>
+                <Point id="687">
+                    <coordinates>73.0205191,19.0346494,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="690">
+                <name>Maharashtra Police Headquarters</name>
+                <Point id="689">
+                    <coordinates>72.833333333333,18.925277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="692">
+                <name>Convocation Hall, University of Mumbai</name>
+                <Point id="691">
+                    <coordinates>72.830027,18.929775,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="694">
+                <name>J. N. Petit Library</name>
+                <Point id="693">
+                    <coordinates>72.8324,18.9345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="696">
+                <name>Wellington Fountain</name>
+                <Point id="695">
+                    <coordinates>72.832318965911,18.925424168991,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="698">
+                <name>Mulji Jetha Fountain</name>
+                <Point id="697">
+                    <coordinates>72.83584,18.93432,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="700">
+                <name>Bomanjee Hormarjee Wadia Clock Tower</name>
+                <Point id="699">
+                    <coordinates>72.835847587918,18.934313630627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="702">
+                <name>Maneckji Seth Agiary</name>
+                <Point id="701">
+                    <coordinates>72.835923613426,18.935196901439,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="704">
+                <name>Tungareshwar Temple</name>
+                <Point id="703">
+                    <coordinates>72.9015,19.4165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="706">
+                <name>Gurdwara Guru Nanak Punjabi Sabha Chakala</name>
+                <Point id="705">
+                    <coordinates>72.858194444444,19.114888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="708">
+                <name>Bombay Dockyard</name>
+                <Point id="707">
+                    <coordinates>72.841,18.9287,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="710">
+                <name>2008 Indian Premier League Final</name>
+                <Point id="709">
+                    <coordinates>73.0267,19.0419,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="712">
+                <name>2010 Mumbai oil spill</name>
+                <Point id="711">
+                    <coordinates>72.876,18.9051,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="714">
+                <name>AICAR Business School</name>
+                <Point id="713">
+                    <coordinates>73.32027778,19.04777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="716">
+                <name>Aditya College</name>
+                <Point id="715">
+                    <coordinates>72.86444444,19.12833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="718">
+                <name>Antarang – Sex Health Information Art Gallery</name>
+                <Point id="717">
+                    <coordinates>72.8243587,18.9674278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="720">
+                <name>Baiganwadi</name>
+                <Point id="719">
+                    <coordinates>72.9258,19.0613,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="722">
+                <name>Ballard Bunder Gatehouse</name>
+                <Point id="721">
+                    <coordinates>72.8403716,18.9336595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="724">
+                <name>Battle of Umberkhind</name>
+                <Point id="723">
+                    <coordinates>73.08333333,18.75,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="726">
+                <name>Four Bungalows</name>
+                <Point id="725">
+                    <coordinates>72.827211111111,19.124713888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="728">
+                <name>Central Library, IIT, Bombay</name>
+                <Point id="727">
+                    <coordinates>72.915075,19.134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="730">
+                <name>Chinatown</name>
+                <Point id="729">
+                    <coordinates>72.846549,18.966012,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="732">
+                <name>Chunabhatti</name>
+                <Point id="731">
+                    <coordinates>72.8692,19.0517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="734">
+                <name>Cross Cafe</name>
+                <Point id="733">
+                    <coordinates>73.0635185,19.0343116,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="736">
+                <name>Cross Maidan</name>
+                <Point id="735">
+                    <coordinates>72.829742,18.936297,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="738">
+                <name>Dava Bazaar</name>
+                <Point id="737">
+                    <coordinates>72.831362,18.946882,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="740">
+                <name>Deonar dumping ground</name>
+                <Point id="739">
+                    <coordinates>72.9197,19.0671,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="742">
+                <name>Dharamtar</name>
+                <Point id="741">
+                    <coordinates>73.0245,18.7054,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="744">
+                <name>Dolphin Lighthouse</name>
+                <Point id="743">
+                    <coordinates>72.835908,18.91431,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="746">
+                <name>Express Towers</name>
+                <Point id="745">
+                    <coordinates>72.822082,18.928062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="748">
+                <name>Kalamboli</name>
+                <Point id="747">
+                    <coordinates>73.1,19.03333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="750">
+                <name>Hindu colony</name>
+                <Point id="749">
+                    <coordinates>72.848647,19.020841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="752">
+                <name>Homi Bhabha Centre for Science Education</name>
+                <Point id="751">
+                    <coordinates>72.928266,19.042337,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="754">
+                <name>Jamnabai Narsee School</name>
+                <Point id="753">
+                    <coordinates>72.8322,19.1056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="756">
+                <name>Jamnalal Bajaj Institute of Management Studies</name>
+                <Point id="755">
+                    <coordinates>72.8123,18.9089,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="758">
+                <name>Liberty Cinema</name>
+                <Point id="757">
+                    <coordinates>72.827259982295,18.941498350944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="760">
+                <name>Mahul Creek</name>
+                <Point id="759">
+                    <coordinates>72.86666667,19.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="762">
+                <name>Manori Creek</name>
+                <Point id="761">
+                    <coordinates>72.78333333,19.18333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="764">
+                <name>Marve Island</name>
+                <Point id="763">
+                    <coordinates>72.79766667,19.19675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="766">
+                <name>Metro INOX</name>
+                <Point id="765">
+                    <coordinates>72.82879722,18.94294444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="768">
+                <name>Mumbai Refinery Mahul</name>
+                <Point id="767">
+                    <coordinates>72.860086,19.011939,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="770">
+                <name>National Sports Club of India</name>
+                <Point id="769">
+                    <coordinates>72.814934,18.986229,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="772">
+                <name>New India Assurance Building</name>
+                <Point id="771">
+                    <coordinates>72.8316503,18.9304161,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="774">
+                <name>Orchid Enclave</name>
+                <Point id="773">
+                    <coordinates>72.8236,18.9676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="776">
+                <name>Our Lady of Egypt Church</name>
+                <Point id="775">
+                    <coordinates>72.86916667,19.07833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="778">
+                <name>Oval Maidan</name>
+                <Point id="777">
+                    <coordinates>72.828861111111,18.929527777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="780">
+                <name>Pali Hill</name>
+                <Point id="779">
+                    <coordinates>72.828363,19.068263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="782">
+                <name>Panju Island</name>
+                <Point id="781">
+                    <coordinates>72.85,19.333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="784">
+                <name>Parsi Gymkhana, Marine Drive</name>
+                <Point id="783">
+                    <coordinates>72.8235,18.9448,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="786">
+                <name>Royal Bombay Yacht Club</name>
+                <Point id="785">
+                    <coordinates>72.8333,18.9234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="788">
+                <name>Royal College of Science, Arts and Commerce</name>
+                <Point id="787">
+                    <coordinates>72.8712,19.2703,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="790">
+                <name>Saint Francis D'Assisi High School</name>
+                <Point id="789">
+                    <coordinates>72.853126,19.244136,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="792">
+                <name>Sir J. J. College of Architecture</name>
+                <Point id="791">
+                    <coordinates>72.833967,18.94473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="794">
+                <name>Sterling Cineplex</name>
+                <Point id="793">
+                    <coordinates>72.833,18.938,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="796">
+                <name>Techfest</name>
+                <Point id="795">
+                    <coordinates>72.9154,19.1336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="798">
+                <name>The Yoga Institute</name>
+                <Point id="797">
+                    <coordinates>72.843153,19.085104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="800">
+                <name>Tolani Maritime Institute</name>
+                <Point id="799">
+                    <coordinates>72.9154,19.1336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="802">
+                <name>Udayachal High School</name>
+                <Point id="801">
+                    <coordinates>72.928055555556,19.101944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="804">
+                <name>Vihar Dam</name>
+                <Point id="803">
+                    <coordinates>72.9106,19.1514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="806">
+                <name>Walk of the Stars</name>
+                <Point id="805">
+                    <coordinates>72.819132,19.042718,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="808">
+                <name>Yazdani Bakery</name>
+                <Point id="807">
+                    <coordinates>72.833,18.933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="810">
+                <name>Kohinoor Square</name>
+                <Point id="809">
+                    <coordinates>72.84154,19.02514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="812">
+                <name>Mahape</name>
+                <Point id="811">
+                    <coordinates>73.0276,19.1183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="814">
+                <name>Bharat Petroleum monorail station</name>
+                <Point id="813">
+                    <coordinates>72.895426,19.035368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="816">
+                <name>Fertiliser Township monorail station</name>
+                <Point id="815">
+                    <coordinates>72.893397,19.043849,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="818">
+                <name>Lokmanya Tilak High School</name>
+                <Point id="817">
+                    <coordinates>72.89,19.06,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="820">
+                <name>Narsee Monjee Institute of Management Studies</name>
+                <Point id="819">
+                    <coordinates>72.836483333333,19.103291666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="822">
+                <name>Chembur monorail station</name>
+                <Point id="821">
+                    <coordinates>72.897469,19.06123,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="824">
+                <name>Maharashtra National Law University, Mumbai</name>
+                <Point id="823">
+                    <coordinates>72.915244444444,19.119102777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="826">
+                <name>Bhakti Park monorail station</name>
+                <Point id="825">
+                    <coordinates>72.877532,19.029072,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="828">
+                <name>Middle Income Group Club Ground</name>
+                <Point id="827">
+                    <coordinates>72.84825,19.05822222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="830">
+                <name>Mysuru Colony monorail station</name>
+                <Point id="829">
+                    <coordinates>72.891277,19.02776,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="832">
+                <name>Rajiv Gandhi Medical College</name>
+                <Point id="831">
+                    <coordinates>72.986746,19.192419,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="834">
+                <name>Wadala Depot</name>
+                <Point id="833">
+                    <coordinates>72.8748,19.0388,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="836">
+                <name>Lodha Park</name>
+                <Point id="835">
+                    <coordinates>72.8272,19.0067,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="838">
+                <name>Sacred Heart Church, Santacruz</name>
+                <Point id="837">
+                    <coordinates>72.838055555556,19.074722222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="840">
+                <name>VNP and RC Marg Junction monorail station</name>
+                <Point id="839">
+                    <coordinates>72.894199,19.0527,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="842">
+                <name>French International School of Bombay</name>
+                <Point id="841">
+                    <coordinates>72.815,19.0039,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="844">
+                <name>Bodni</name>
+                <Point id="843">
+                    <coordinates>72.95,18.88,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="846">
+                <name>Chondhi</name>
+                <Point id="845">
+                    <coordinates>72.8811,18.727,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="848">
+                <name>Veerabhadra Devasthan, Vadhav</name>
+                <Point id="847">
+                    <coordinates>73.0329,18.7603,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="850">
+                <name>Church of Our Lady of Bethlehem</name>
+                <Point id="849">
+                    <coordinates>72.801353,19.291536,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="852">
+                <name>Cafe Mondegar</name>
+                <Point id="851">
+                    <coordinates>72.832126,18.924158,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="854">
+                <name>Phoenix Marketcity Mumbai</name>
+                <Point id="853">
+                    <coordinates>72.8893,19.0866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="856">
+                <name>Darna River</name>
+                <Point id="855">
+                    <coordinates>73.04,19.17944444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="858">
+                <name>Kadva River</name>
+                <Point id="857">
+                    <coordinates>73.04,19.17944444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="860">
+                <name>Lodha Altamount</name>
+                <Point id="859">
+                    <coordinates>72.810419,18.968314,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="862">
+                <name>Bademiya</name>
+                <Point id="861">
+                    <coordinates>72.834573,18.921936,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="864">
+                <name>Mogra Village</name>
+                <Point id="863">
+                    <coordinates>72.848558,19.126589,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="866">
+                <name>Amity University, Mumbai</name>
+                <Point id="865">
+                    <coordinates>73.16264,18.931721,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="868">
+                <name>INS Satavahana</name>
+                <Point id="867">
+                    <coordinates>72.83654444,18.92623889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="870">
+                <name>INS Dwarka</name>
+                <Point id="869">
+                    <coordinates>72.83654444,18.92623889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="872">
+                <name>Parsik tunnel</name>
+                <Point id="871">
+                    <coordinates>73.0051,19.1118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="874">
+                <name>Dharavi Island</name>
+                <Point id="873">
+                    <coordinates>72.8,19.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="876">
+                <name>Artist Village</name>
+                <Point id="875">
+                    <coordinates>73.04276,19.03227,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="878">
+                <name>Nari Gursahani Law College</name>
+                <Point id="877">
+                    <coordinates>73.15,19.22,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="880">
+                <name>House of Love</name>
+                <Point id="879">
+                    <coordinates>72.85976389,19.11603889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="882">
+                <name>University of Mumbai, Thane Sub Campus</name>
+                <Point id="881">
+                    <coordinates>72.986986278462,19.225285657095,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="884">
+                <name>Vivekanand Education Society's Institute of Management Studies and Research</name>
+                <Point id="883">
+                    <coordinates>72.8964,19.0328,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="886">
+                <name>Michael High School, Kurla</name>
+                <Point id="885">
+                    <coordinates>72.883459,19.0835048,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="888">
+                <name>Vartak Nagar, Thane</name>
+                <Point id="887">
+                    <coordinates>72.96,19.21,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="890">
+                <name>Indian Cancer Society</name>
+                <Point id="889">
+                    <coordinates>72.847705,19.00535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="892">
+                <name>Loco Shed, Kalyan</name>
+                <Point id="891">
+                    <coordinates>73.1305,19.23525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="894">
+                <name>Holy Trinity Church, Powai</name>
+                <Point id="893">
+                    <coordinates>72.92147222,19.12963889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="896">
+                <name>Consulate General of the Republic of Poland in Mumbai</name>
+                <Point id="895">
+                    <coordinates>72.82225,18.927417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="898">
+                <name>Indian National Theatre</name>
+                <Point id="897">
+                    <coordinates>72.8078344,18.9575405,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="900">
+                <name>St. Jerome Church (Kashimira)</name>
+                <Point id="899">
+                    <coordinates>72.88378972,19.27366889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="902">
+                <name>Chhatrapati Shivaji Maharaj University</name>
+                <Point id="901">
+                    <coordinates>73.174291666667,18.950388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="904">
+                <name>Saguna Baug</name>
+                <Point id="903">
+                    <coordinates>73.324359,19.041675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="906">
+                <name>Jehangir Nicholson Art Foundation</name>
+                <Point id="905">
+                    <coordinates>72.833173362629,18.926504324137,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="908">
+                <name>Dinshaw Wachha Road</name>
+                <Point id="907">
+                    <coordinates>72.825215288259,18.93067545457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="910">
+                <name>Kasturba Hospital (Mumbai)</name>
+                <Point id="909">
+                    <coordinates>72.829722222222,18.984166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="912">
+                <name>Mumbra Devi Temple</name>
+                <Point id="911">
+                    <coordinates>73.0188,19.1934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="914">
+                <name>Durgadi Fort</name>
+                <Point id="913">
+                    <coordinates>73.1186,19.2454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="916">
+                <name>Mumbai ship-breaking yard</name>
+                <Point id="915">
+                    <coordinates>72.85333333,18.97222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="918">
+                <name>Filmistan</name>
+                <Point id="917">
+                    <coordinates>72.845626,19.165114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="920">
+                <name>Cusrow Baug</name>
+                <Point id="919">
+                    <coordinates>72.829337707935,18.920253704132,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="922">
+                <name>Moghal Masjid, Mumbai</name>
+                <Point id="921">
+                    <coordinates>72.8334339,18.9595403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="924">
+                <name>Third Mumbai</name>
+                <Point id="923">
+                    <coordinates>73.1179,18.9858,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="926">
+                <name>Cathedral of Our Lady of Grace</name>
+                <Point id="925">
+                    <coordinates>72.81194,19.35106,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="5">
+            <name>B</name>
+            <Placemark id="248">
+                <name>Cathedral of the Holy Name</name>
+                <Point id="247">
+                    <coordinates>72.8306699,18.9233592,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="250">
+                <name>Ghatkopar</name>
+                <Point id="249">
+                    <coordinates>72.91,19.08,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>Asiatic Society of Mumbai</name>
+                <Point id="251">
+                    <coordinates>72.83621944,18.93216667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="254">
+                <name>David Sassoon Library</name>
+                <Point id="253">
+                    <coordinates>72.831105,18.927976,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="256">
+                <name>Jama Masjid, Mumbai</name>
+                <Point id="255">
+                    <coordinates>72.8322,18.9491,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>Bhayandar</name>
+                <Point id="257">
+                    <coordinates>72.85,19.31,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="260">
+                <name>Bombay Gymkhana</name>
+                <Point id="259">
+                    <coordinates>72.83121111,18.93743056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="262">
+                <name>Crawford Market</name>
+                <Point id="261">
+                    <coordinates>72.83471,18.947414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>Worli Fort</name>
+                <Point id="263">
+                    <coordinates>72.8166,19.0238,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="266">
+                <name>Kurla</name>
+                <Point id="265">
+                    <coordinates>72.89,19.06,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="268">
+                <name>Girgaum Chowpatty</name>
+                <Point id="267">
+                    <coordinates>72.811,18.951,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>Kalavantin Durg</name>
+                <Point id="269">
+                    <coordinates>73.2195,18.9826,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>Thane Creek</name>
+                <Point id="271">
+                    <coordinates>72.97,19.02,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="274">
+                <name>Jijamata Udyaan</name>
+                <Point id="273">
+                    <coordinates>72.8367457,18.9781154,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="276">
+                <name>Central Railway zone</name>
+                <Point id="275">
+                    <coordinates>72.82583333,18.975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="278">
+                <name>Trombay</name>
+                <Point id="277">
+                    <coordinates>72.9,19.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>Khānderi Island</name>
+                <Point id="279">
+                    <coordinates>72.8131,18.7042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="282">
+                <name>Afghan Church</name>
+                <Point id="281">
+                    <coordinates>72.815076,18.903648,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="284">
+                <name>Bandra Kurla Complex</name>
+                <Point id="283">
+                    <coordinates>72.863,19.0595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>Belapur Fort</name>
+                <Point id="285">
+                    <coordinates>73.028403,19.005524,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="288">
+                <name>Bombay Castle</name>
+                <Point id="287">
+                    <coordinates>72.83777778,18.93194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="290">
+                <name>Castella de Aguada</name>
+                <Point id="289">
+                    <coordinates>72.81858,19.04177,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="292">
+                <name>Cricket Club of India</name>
+                <Point id="291">
+                    <coordinates>72.824745,18.932256,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="294">
+                <name>Dongri Fort</name>
+                <Point id="293">
+                    <coordinates>72.7922,19.3092806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="296">
+                <name>history of Maharashtra</name>
+                <Point id="295">
+                    <coordinates>72.82,18.97,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>Kanjurmarg</name>
+                <Point id="297">
+                    <coordinates>72.94,19.13,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>Upvan Lake</name>
+                <Point id="299">
+                    <coordinates>72.956,19.2216,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>Walkeshwar Temple</name>
+                <Point id="301">
+                    <coordinates>72.794,18.945,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>One Avighna Park</name>
+                <Point id="303">
+                    <coordinates>72.834862,18.994787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>Mumbai Football Arena</name>
+                <Point id="305">
+                    <coordinates>72.836158833333,19.129449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="308">
+                <name>Royal Opera House (Mumbai)</name>
+                <Point id="307">
+                    <coordinates>72.815556,18.956111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="310">
+                <name>Mumbai Television Tower</name>
+                <Point id="309">
+                    <coordinates>72.81646,18.99991,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>Bombay House</name>
+                <Point id="311">
+                    <coordinates>72.8317,18.9318,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="314">
+                <name>Mumbai Trans Harbour Link</name>
+                <Point id="313">
+                    <coordinates>72.741,19.0821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>Ghodbunder Fort</name>
+                <Point id="315">
+                    <coordinates>72.8883,19.2962,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="318">
+                <name>CIRUS reactor</name>
+                <Point id="317">
+                    <coordinates>72.91861111,19.00777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="320">
+                <name>Nariman House</name>
+                <Point id="319">
+                    <coordinates>72.827682,18.916517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="322">
+                <name>Karnala Fort</name>
+                <Point id="321">
+                    <coordinates>73.11805556,18.88166667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="324">
+                <name>Cross Island</name>
+                <Point id="323">
+                    <coordinates>72.85,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="326">
+                <name>Maratha Mandir</name>
+                <Point id="325">
+                    <coordinates>72.822134,18.971183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="328">
+                <name>Vihar Lake</name>
+                <Point id="327">
+                    <coordinates>72.91,19.144,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="330">
+                <name>Jogeshwari</name>
+                <Point id="329">
+                    <coordinates>72.85,19.12,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="332">
+                <name>Flora Fountain</name>
+                <Point id="331">
+                    <coordinates>72.8317,18.9325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="334">
+                <name>Fort</name>
+                <Point id="333">
+                    <coordinates>72.8359,18.935,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="336">
+                <name>Gowalia Tank</name>
+                <Point id="335">
+                    <coordinates>72.8097,18.9625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="338">
+                <name>Hutatma Chowk</name>
+                <Point id="337">
+                    <coordinates>72.831502,18.932431,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="340">
+                <name>Kamala Nehru Park</name>
+                <Point id="339">
+                    <coordinates>72.804960665255,18.955061301617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="342">
+                <name>Karnala Bird Sanctuary</name>
+                <Point id="341">
+                    <coordinates>73.1025,18.90861111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="344">
+                <name>Mahim Bay</name>
+                <Point id="343">
+                    <coordinates>72.825,19.03,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="346">
+                <name>Mumbra</name>
+                <Point id="345">
+                    <coordinates>73.0225,19.18,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="348">
+                <name>Riwa Fort</name>
+                <Point id="347">
+                    <coordinates>72.859982225196,19.051107746295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="350">
+                <name>Santacruz, Mumbai</name>
+                <Point id="349">
+                    <coordinates>72.836,19.0843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="352">
+                <name>Gilbert Hill</name>
+                <Point id="351">
+                    <coordinates>72.84006667,19.12083333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="354">
+                <name>Chaitya Bhoomi</name>
+                <Point id="353">
+                    <coordinates>72.833888888889,19.025,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="356">
+                <name>Madh Fort</name>
+                <Point id="355">
+                    <coordinates>72.79478611,19.13228333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="358">
+                <name>Adarsh Housing Society scam</name>
+                <Point id="357">
+                    <coordinates>72.8167,18.9093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="360">
+                <name>CBD Belapur</name>
+                <Point id="359">
+                    <coordinates>73.03944444,19.01694444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="362">
+                <name>Babulnath</name>
+                <Point id="361">
+                    <coordinates>72.809772222222,18.966363888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="364">
+                <name>Banganga Tank</name>
+                <Point id="363">
+                    <coordinates>72.79359167,18.94688333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="366">
+                <name>Mankhurd</name>
+                <Point id="365">
+                    <coordinates>72.93,19.05,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="368">
+                <name>Bhandup</name>
+                <Point id="367">
+                    <coordinates>72.93,19.14,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="370">
+                <name>Butcher Island</name>
+                <Point id="369">
+                    <coordinates>72.9,18.96,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="372">
+                <name>Dr. Bhau Daji Lad Museum</name>
+                <Point id="371">
+                    <coordinates>72.834806,18.979472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="374">
+                <name>Fort George</name>
+                <Point id="373">
+                    <coordinates>72.83759,18.9409,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="376">
+                <name>Grant Medical College and Sir Jamshedjee Jeejeebhoy Group of Hospitals</name>
+                <Point id="375">
+                    <coordinates>72.83475,18.964143,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="378">
+                <name>Hanging Gardens of Mumbai</name>
+                <Point id="377">
+                    <coordinates>72.804937,18.956724,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="380">
+                <name>Mahalakshmi Temple, Mumbai</name>
+                <Point id="379">
+                    <coordinates>72.80676,18.97771,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="382">
+                <name>Malad</name>
+                <Point id="381">
+                    <coordinates>72.848611111111,19.186111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="384">
+                <name>Mulund</name>
+                <Point id="383">
+                    <coordinates>72.956,19.171680555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="386">
+                <name>Nehru Science Centre</name>
+                <Point id="385">
+                    <coordinates>72.818669,18.990633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="388">
+                <name>Old Woman's Island</name>
+                <Point id="387">
+                    <coordinates>72.829027777778,18.918888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="390">
+                <name>Prabalgad</name>
+                <Point id="389">
+                    <coordinates>73.225294444444,18.971194444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="392">
+                <name>Shiv Mandir, Ambarnath</name>
+                <Point id="391">
+                    <coordinates>73.17664275,19.1986181,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="394">
+                <name>Sion Hillock Fort</name>
+                <Point id="393">
+                    <coordinates>72.86773,19.04666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="396">
+                <name>Underi Island</name>
+                <Point id="395">
+                    <coordinates>72.841280555556,18.705530555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="398">
+                <name>Mira Road</name>
+                <Point id="397">
+                    <coordinates>72.871111111111,19.284166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="400">
+                <name>Mumbai Port Trust</name>
+                <Point id="399">
+                    <coordinates>72.765,18.93833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="402">
+                <name>Three Sixty West Complex</name>
+                <Point id="401">
+                    <coordinates>72.823167,19.011343,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>Taraporewala Aquarium</name>
+                <Point id="403">
+                    <coordinates>72.8201,18.9493,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="406">
+                <name>King Edward Memorial Hospital and Seth Gordhandas Sunderdas Medical College</name>
+                <Point id="405">
+                    <coordinates>72.8418,19.0017,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="408">
+                <name>Lodha Bellissimo</name>
+                <Point id="407">
+                    <coordinates>72.8286213,18.9873173,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>Homi Bhabha National Institute</name>
+                <Point id="409">
+                    <coordinates>72.926008333333,19.033805555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="412">
+                <name>Mumbai Harbour</name>
+                <Point id="411">
+                    <coordinates>72.85,18.96,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="414">
+                <name>Chor Bazaar, Mumbai</name>
+                <Point id="413">
+                    <coordinates>72.8272,18.9603,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>Azad Maidan</name>
+                <Point id="415">
+                    <coordinates>72.831667,18.940278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="418">
+                <name>Govandi</name>
+                <Point id="417">
+                    <coordinates>72.9,19.05,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="420">
+                <name>Bhiwandi-Nizampur Municipal Corporation</name>
+                <Point id="419">
+                    <coordinates>73.064129,19.298969,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>Madh Island</name>
+                <Point id="421">
+                    <coordinates>72.789,19.147,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="424">
+                <name>Jehangir Art Gallery</name>
+                <Point id="423">
+                    <coordinates>72.831703,18.9274559,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="426">
+                <name>Khotachiwadi</name>
+                <Point id="425">
+                    <coordinates>72.8195828,18.9555129,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>Lamington Road</name>
+                <Point id="427">
+                    <coordinates>72.8179252,18.9628378,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="430">
+                <name>Lokhandwala Minerva</name>
+                <Point id="429">
+                    <coordinates>72.8278304,18.9870497,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="432">
+                <name>Mantralaya, Mumbai</name>
+                <Point id="431">
+                    <coordinates>72.826930812963,18.927226350234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>Naigaon</name>
+                <Point id="433">
+                    <coordinates>72.846343,19.351467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="436">
+                <name>Planet Godrej</name>
+                <Point id="435">
+                    <coordinates>72.83,18.98083333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="438">
+                <name>Prithvi Theatre</name>
+                <Point id="437">
+                    <coordinates>72.82572,19.10622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>Sewri Fort</name>
+                <Point id="439">
+                    <coordinates>72.860363,19.000635,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="442">
+                <name>Shivaji Park</name>
+                <Point id="441">
+                    <coordinates>72.838047222222,19.026722222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="444">
+                <name>Sir Jamsetjee Jeejebhoy School of Art</name>
+                <Point id="443">
+                    <coordinates>72.83352,18.94505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>St. Michael's Church</name>
+                <Point id="445">
+                    <coordinates>72.8406,19.0425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="448">
+                <name>St. Thomas Cathedral, Mumbai</name>
+                <Point id="447">
+                    <coordinates>72.8336,18.9317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="450">
+                <name>Titwala</name>
+                <Point id="449">
+                    <coordinates>73.223,19.299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>Vasai Creek</name>
+                <Point id="451">
+                    <coordinates>72.875,19.315,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="454">
+                <name>Lalbaugcha Raja</name>
+                <Point id="453">
+                    <coordinates>72.836666666667,18.990555555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="456">
+                <name>New Panvel</name>
+                <Point id="455">
+                    <coordinates>73.1,18.98,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="458">
+                <name>Institute of Science</name>
+                <Point id="457">
+                    <coordinates>72.830268264735,18.926107635224,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="460">
+                <name>National Gallery of Modern Art, Mumbai</name>
+                <Point id="459">
+                    <coordinates>72.8313,18.9258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="462">
+                <name>ISKCON temple Mumbai</name>
+                <Point id="461">
+                    <coordinates>72.8258,18.9647,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="464">
+                <name>2017 Mumbai stampede</name>
+                <Point id="463">
+                    <coordinates>72.835976,19.007533,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="466">
+                <name>Isle of Bombay</name>
+                <Point id="465">
+                    <coordinates>72.89111,19.13667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="468">
+                <name>Pandavgad Falls</name>
+                <Point id="467">
+                    <coordinates>73.051111111111,19.063055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6">
+            <name>S</name>
+            <Placemark id="10">
+                <name>Mumbai</name>
+                <Point id="9">
+                    <coordinates>72.8775,19.075833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="12">
+                <name>Maharashtra</name>
+                <Point id="11">
+                    <coordinates>72.82,18.97,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14">
+                <name>Thane</name>
+                <Point id="13">
+                    <coordinates>72.963333333333,19.18,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="16">
+                <name>Navi Mumbai</name>
+                <Point id="15">
+                    <coordinates>73.01,19.03,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18">
+                <name>26/11 Mumbai attacks</name>
+                <Point id="17">
+                    <coordinates>72.833333333333,18.921944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20">
+                <name>Elephanta Caves</name>
+                <Point id="19">
+                    <coordinates>72.931388888889,18.963333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22">
+                <name>Chhatrapati Shivaji Maharaj Terminus</name>
+                <Point id="21">
+                    <coordinates>72.8355,18.9398,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="24">
+                <name>Ulhasnagar</name>
+                <Point id="23">
+                    <coordinates>73.15,19.216666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>Chhatrapati Shivaji Maharaj International Airport</name>
+                <Point id="25">
+                    <coordinates>72.868055555556,19.088611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28">
+                <name>Bhiwandi</name>
+                <Point id="27">
+                    <coordinates>73.066666666667,19.3,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="30">
+                <name>Taj Mahal Palace Hotel</name>
+                <Point id="29">
+                    <coordinates>72.833154,18.922585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32">
+                <name>Gateway of India</name>
+                <Point id="31">
+                    <coordinates>72.834705,18.921836,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34">
+                <name>Kalyan-Dombivli</name>
+                <Point id="33">
+                    <coordinates>73.133333333333,19.233333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36">
+                <name>Mira-Bhayandar</name>
+                <Point id="35">
+                    <coordinates>72.85,19.3,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="38">
+                <name>Salsette</name>
+                <Point id="37">
+                    <coordinates>72.9,19.2,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40">
+                <name>Panvel</name>
+                <Point id="39">
+                    <coordinates>73.1,18.98,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42">
+                <name>Dharavi</name>
+                <Point id="41">
+                    <coordinates>72.856388888889,19.044,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44">
+                <name>Ambernath</name>
+                <Point id="43">
+                    <coordinates>73.186,19.209,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="46">
+                <name>Elephanta Island</name>
+                <Point id="45">
+                    <coordinates>72.933888888889,18.9625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="48">
+                <name>Bombay Presidency</name>
+                <Point id="47">
+                    <coordinates>72.833333,18.966667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50">
+                <name>Kalyan</name>
+                <Point id="49">
+                    <coordinates>73.15,19.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="52">
+                <name>Matheran</name>
+                <Point id="51">
+                    <coordinates>73.27083333,18.98888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54">
+                <name>Antilia</name>
+                <Point id="53">
+                    <coordinates>72.809722222222,18.968333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56">
+                <name>Badlapur</name>
+                <Point id="55">
+                    <coordinates>73.262,19.15,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="58">
+                <name>Kanheri Caves</name>
+                <Point id="57">
+                    <coordinates>72.9064,19.2083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60">
+                <name>Virar</name>
+                <Point id="59">
+                    <coordinates>72.8,19.47,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62">
+                <name>Indian Institute of Technology Bombay</name>
+                <Point id="61">
+                    <coordinates>72.916944444444,19.133611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="64">
+                <name>Bombay State</name>
+                <Point id="63">
+                    <coordinates>72.825833333333,18.975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="66">
+                <name>Haji Ali Dargah</name>
+                <Point id="65">
+                    <coordinates>72.8088,18.9825,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="68">
+                <name>Nala Sopara</name>
+                <Point id="67">
+                    <coordinates>72.8613,19.4154,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="70">
+                <name>Tata Institute of Fundamental Research</name>
+                <Point id="69">
+                    <coordinates>72.80601,18.90757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="72">
+                <name>Wankhede Stadium</name>
+                <Point id="71">
+                    <coordinates>72.825722,18.938917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="74">
+                <name>World One</name>
+                <Point id="73">
+                    <coordinates>72.8265301,19.0025407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="76">
+                <name>Victorian Gothic and Art Deco Ensembles of Mumbai</name>
+                <Point id="75">
+                    <coordinates>72.830083,18.929806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="78">
+                <name>India Tower</name>
+                <Point id="77">
+                    <coordinates>72.821348,18.950159,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="7">
+            <name>graves</name>
+            <Placemark id="1514">
+                <name>Bhimrao Ramji Ambedkar</name>
+                <Point id="1513">
+                    <coordinates>72.8775,19.075833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="8">
+            <name>D</name>
+            <Placemark id="928">
+                <name>2002 Mumbai bus bombing</name>
+                <Point id="927">
+                    <coordinates>72.9183,19.0864,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="930">
+                <name>2003 Mumbai bus bombing</name>
+                <Point id="929">
+                    <coordinates>72.9142,19.0952,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="932">
+                <name>Agnel Polytechnic</name>
+                <Point id="931">
+                    <coordinates>72.99126111,19.07736944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="934">
+                <name>Badakabarastan</name>
+                <Point id="933">
+                    <coordinates>72.822944,18.94821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="936">
+                <name>Barns High School</name>
+                <Point id="935">
+                    <coordinates>73.11456667,18.98618889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="938">
+                <name>Bhavan's College, Andheri</name>
+                <Point id="937">
+                    <coordinates>72.835885,19.125023,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="940">
+                <name>Birla College of Arts, Science &amp; Commerce</name>
+                <Point id="939">
+                    <coordinates>73.147241,19.248112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="942">
+                <name>Birla Mandir, Shahad</name>
+                <Point id="941">
+                    <coordinates>73.166368,19.244066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="944">
+                <name>Chandibai Himathmal Mansukhani College</name>
+                <Point id="943">
+                    <coordinates>73.163034,19.220376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="946">
+                <name>Campion School, Mumbai</name>
+                <Point id="945">
+                    <coordinates>72.829962,18.92487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="948">
+                <name>Seven Bungalows</name>
+                <Point id="947">
+                    <coordinates>72.817019444444,19.129052777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="950">
+                <name>Central Park, Kharghar</name>
+                <Point id="949">
+                    <coordinates>73.067408,19.057342,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="952">
+                <name>Church of Our Lady of Health, Cavel</name>
+                <Point id="951">
+                    <coordinates>72.840557,18.949126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="954">
+                <name>Church of Our Lady of Mount Carmel, Bandra</name>
+                <Point id="953">
+                    <coordinates>72.82805556,19.05,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="956">
+                <name>DAV Public School Nerul</name>
+                <Point id="955">
+                    <coordinates>73.015141,19.013013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="958">
+                <name>Devipada</name>
+                <Point id="957">
+                    <coordinates>72.86416667,19.225,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="960">
+                <name>Dhirubhai Ambani Knowledge City</name>
+                <Point id="959">
+                    <coordinates>73.0137,19.1078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="962">
+                <name>Don Bosco High School</name>
+                <Point id="961">
+                    <coordinates>72.858109,19.026024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="964">
+                <name>E.E.E. Sassoon High School</name>
+                <Point id="963">
+                    <coordinates>72.830611,18.966947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="966">
+                <name>Gawand baug</name>
+                <Point id="965">
+                    <coordinates>72.960659,19.224863,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="968">
+                <name>Gokul</name>
+                <Point id="967">
+                    <coordinates>72.832115,18.922887,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="970">
+                <name>Guru Dutt Films</name>
+                <Point id="969">
+                    <coordinates>72.876493175909,19.282041020138,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="972">
+                <name>Guru Nanak Khalsa College</name>
+                <Point id="971">
+                    <coordinates>72.856505,19.025171,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="974">
+                <name>Haj House</name>
+                <Point id="973">
+                    <coordinates>72.835237,18.945333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="976">
+                <name>Hill Grange High School</name>
+                <Point id="975">
+                    <coordinates>72.81027778,18.97194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="978">
+                <name>Holy Family High School</name>
+                <Point id="977">
+                    <coordinates>72.861843,19.116999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="980">
+                <name>Institute of Management and Computer Studies</name>
+                <Point id="979">
+                    <coordinates>72.9546368,19.1879139,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="982">
+                <name>Lokmanya Nagar</name>
+                <Point id="981">
+                    <coordinates>72.978,19.253,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="984">
+                <name>Mahindra Hockey Stadium</name>
+                <Point id="983">
+                    <coordinates>72.826111,18.9375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="986">
+                <name>Mary Immaculate Girls' High School</name>
+                <Point id="985">
+                    <coordinates>72.852361111111,19.248388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="988">
+                <name>Mahatma Gandhi Mission's College of Engineering and Technology</name>
+                <Point id="987">
+                    <coordinates>73.025277777778,19.043055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="990">
+                <name>Middle Ground</name>
+                <Point id="989">
+                    <coordinates>72.85,18.91666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="992">
+                <name>Nossa Senhora de Bom Concelho</name>
+                <Point id="991">
+                    <coordinates>72.86388889,19.04611111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="994">
+                <name>Our Lady of Perpetual Succour High School</name>
+                <Point id="993">
+                    <coordinates>72.90194444,19.05527778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="996">
+                <name>Parle Tilak Vidyalaya English Medium School</name>
+                <Point id="995">
+                    <coordinates>72.84786,19.10345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="998">
+                <name>Patlipada</name>
+                <Point id="997">
+                    <coordinates>72.957019,19.172431,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1000">
+                <name>Phiroze Jeejeebhoy Towers</name>
+                <Point id="999">
+                    <coordinates>72.833589,18.929681,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1002">
+                <name>Queen Mary School, Mumbai</name>
+                <Point id="1001">
+                    <coordinates>72.815,18.9594,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1004">
+                <name>RAF Santacruz</name>
+                <Point id="1003">
+                    <coordinates>72.86805556,19.08861111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1006">
+                <name>Talao Pali</name>
+                <Point id="1005">
+                    <coordinates>72.975,19.193,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1008">
+                <name>SIES College of Arts, Science, and Commerce</name>
+                <Point id="1007">
+                    <coordinates>72.8612799,19.0412525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1010">
+                <name>SIES College of Management Studies</name>
+                <Point id="1009">
+                    <coordinates>73.02323611,19.04256667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1012">
+                <name>SIES College of Commerce and Economics</name>
+                <Point id="1011">
+                    <coordinates>72.8664699,19.0433974,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1014">
+                <name>Sagar College of Science</name>
+                <Point id="1013">
+                    <coordinates>72.91535833,19.13363611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1016">
+                <name>Seth Hirachand Mutha College</name>
+                <Point id="1015">
+                    <coordinates>73.1295,19.2675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1018">
+                <name>Sheth Gopalji Hemraj High School</name>
+                <Point id="1017">
+                    <coordinates>72.859722222222,19.232361111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1020">
+                <name>Shreebalajimandir</name>
+                <Point id="1019">
+                    <coordinates>72.830833333333,19.223055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1022">
+                <name>South Indian Education Society</name>
+                <Point id="1021">
+                    <coordinates>73.023288,19.042827,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1024">
+                <name>South Indian Education Society High School</name>
+                <Point id="1023">
+                    <coordinates>72.85,19.03,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1026">
+                <name>St. Agnes High School, Mumbai</name>
+                <Point id="1025">
+                    <coordinates>72.8309,18.9704,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1028">
+                <name>St. Andrew's College, Mumbai</name>
+                <Point id="1027">
+                    <coordinates>72.8277,19.0568,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1030">
+                <name>St. Andrew's High School, Mumbai</name>
+                <Point id="1029">
+                    <coordinates>72.827742,19.056807,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1032">
+                <name>St. Francis Institute of Management and Research</name>
+                <Point id="1031">
+                    <coordinates>72.85,19.24,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1034">
+                <name>St. John the Baptist High School, Thane</name>
+                <Point id="1033">
+                    <coordinates>72.975424,19.195228,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1036">
+                <name>St. Joseph's Church, Juhu</name>
+                <Point id="1035">
+                    <coordinates>72.8264,19.1072,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1038">
+                <name>St. Stanislaus  School</name>
+                <Point id="1037">
+                    <coordinates>72.829444444444,19.054166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1040">
+                <name>St. Xavier's High School, Vile Parle</name>
+                <Point id="1039">
+                    <coordinates>72.842586,19.099377,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1042">
+                <name>St. Xavier's High School, Fort</name>
+                <Point id="1041">
+                    <coordinates>72.83018889,18.94414167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1044">
+                <name>St. Xavier's Technical Institute</name>
+                <Point id="1043">
+                    <coordinates>72.83833056,19.04593889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1046">
+                <name>Thakur College of Science and Commerce</name>
+                <Point id="1045">
+                    <coordinates>72.8748,19.2065,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1048">
+                <name>The ITA School of Performing Arts</name>
+                <Point id="1047">
+                    <coordinates>72.8468,19.1749,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1050">
+                <name>Tikuji-Ni-Wadi</name>
+                <Point id="1049">
+                    <coordinates>72.9695,19.237,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1052">
+                <name>timeline of the 2008 Mumbai attacks</name>
+                <Point id="1051">
+                    <coordinates>72.812909,18.955552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1054">
+                <name>Training Ship Chanakya</name>
+                <Point id="1053">
+                    <coordinates>73.0071669,19.0179307,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1056">
+                <name>United Stock Exchange</name>
+                <Point id="1055">
+                    <coordinates>72.8597,19.0603,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1058">
+                <name>Utsav Chowk</name>
+                <Point id="1057">
+                    <coordinates>73.0617,19.0362,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1060">
+                <name>Vishwajyot High School</name>
+                <Point id="1059">
+                    <coordinates>73.07286389,19.05272222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1062">
+                <name>Wamanrao Muranjan High School</name>
+                <Point id="1061">
+                    <coordinates>72.9674,19.17395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1064">
+                <name>Ghodbandar</name>
+                <Point id="1063">
+                    <coordinates>72.888909,19.295195,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1066">
+                <name>Q11938836</name>
+                <Point id="1065">
+                    <coordinates>72.78333333,19.4,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1068">
+                <name>G. R. Patil College</name>
+                <Point id="1067">
+                    <coordinates>73.10051,19.197299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1070">
+                <name>Dr. Antonio Da Silva High School and Junior College of Commerce</name>
+                <Point id="1069">
+                    <coordinates>72.840011,19.019945,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1072">
+                <name>Experimental Theater</name>
+                <Point id="1071">
+                    <coordinates>72.8199,18.9252,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1074">
+                <name>Holy Cross Convent High School, Thane</name>
+                <Point id="1073">
+                    <coordinates>72.978997,19.204225,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1076">
+                <name>INS Vajrabahu</name>
+                <Point id="1075">
+                    <coordinates>72.83654444,18.92623889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1078">
+                <name>Our Lady of Immaculate Conception Church, Mt. Poinsur</name>
+                <Point id="1077">
+                    <coordinates>72.85305556,19.24444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1080">
+                <name>RAF Kalyan</name>
+                <Point id="1079">
+                    <coordinates>73.11685278,19.17900278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1082">
+                <name>Godrej BKC</name>
+                <Point id="1081">
+                    <coordinates>72.865,19.0596,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1084">
+                <name>Jacob Circle monorail station</name>
+                <Point id="1083">
+                    <coordinates>72.8286165,18.9831174,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1086">
+                <name>Chemould Prescott Road</name>
+                <Point id="1085">
+                    <coordinates>72.832339,18.935931,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1088">
+                <name>Dr. L. H. Hiranandani College of Pharmacy</name>
+                <Point id="1087">
+                    <coordinates>73.163,19.2204,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1090">
+                <name>Sir Cowasjee Jehangir High School</name>
+                <Point id="1089">
+                    <coordinates>72.8167,18.9717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1092">
+                <name>Dav public school kusmunda</name>
+                <Point id="1091">
+                    <coordinates>73.0151,19.013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1094">
+                <name>L&amp;T Realty</name>
+                <Point id="1093">
+                    <coordinates>72.8886,19.1174,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1096">
+                <name>S. E. S. High School and Junior College</name>
+                <Point id="1095">
+                    <coordinates>72.9676,19.1943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1098">
+                <name>Bombay Presidency Golf Club</name>
+                <Point id="1097">
+                    <coordinates>72.8962612,19.0461896,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1100">
+                <name>B.P. Marine Academy</name>
+                <Point id="1099">
+                    <coordinates>73.038775,19.015961111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1102">
+                <name>Shri Kamaxshi Devi Homeopathic Medical College &amp; Hospital</name>
+                <Point id="1101">
+                    <coordinates>72.91535833,19.13363611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1104">
+                <name>Hancock Bridge, Mumbai</name>
+                <Point id="1103">
+                    <coordinates>72.83867,18.96484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1106">
+                <name>Ambedkar Nagar monorail station</name>
+                <Point id="1105">
+                    <coordinates>72.8442,19.0016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1108">
+                <name>Colaba Woods</name>
+                <Point id="1107">
+                    <coordinates>72.819166666667,18.912944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1110">
+                <name>Signature island</name>
+                <Point id="1109">
+                    <coordinates>72.867,19.0666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1112">
+                <name>St. Mary’s High School SSC</name>
+                <Point id="1111">
+                    <coordinates>72.83616944,18.97011389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1114">
+                <name>Dnyaneshwar Dnyan Mandir High School And Junior College</name>
+                <Point id="1113">
+                    <coordinates>72.9748449,19.1985423,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1116">
+                <name>Maker's Asylum</name>
+                <Point id="1115">
+                    <coordinates>72.87542778,19.11988333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1118">
+                <name>Worli Point</name>
+                <Point id="1117">
+                    <coordinates>72.816666666667,19.016666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1120">
+                <name>Vashi Island</name>
+                <Point id="1119">
+                    <coordinates>72.983333333333,19.066666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1122">
+                <name>Vesāva Island</name>
+                <Point id="1121">
+                    <coordinates>72.816666666667,19.133333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1124">
+                <name>Trombay Island</name>
+                <Point id="1123">
+                    <coordinates>72.9,19.033333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1126">
+                <name>Trombay Peak</name>
+                <Point id="1125">
+                    <coordinates>72.915,19.0192,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1128">
+                <name>Q26778839</name>
+                <Point id="1127">
+                    <coordinates>72.9244,19.4383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1130">
+                <name>Uarashi Reef</name>
+                <Point id="1129">
+                    <coordinates>72.8,19.083333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1132">
+                <name>Shendur</name>
+                <Point id="1131">
+                    <coordinates>72.9385,19.2595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1134">
+                <name>Sheva Island</name>
+                <Point id="1133">
+                    <coordinates>72.95,18.933333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1136">
+                <name>Parhur Peak</name>
+                <Point id="1135">
+                    <coordinates>72.9008,18.6875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1138">
+                <name>Poshpir Island</name>
+                <Point id="1137">
+                    <coordinates>72.763055555556,19.336944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1140">
+                <name>Prongs Reef</name>
+                <Point id="1139">
+                    <coordinates>72.80194,18.88639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1142">
+                <name>Nhāva</name>
+                <Point id="1141">
+                    <coordinates>72.95,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1144">
+                <name>Outer Islet</name>
+                <Point id="1143">
+                    <coordinates>72.758333333333,19.268611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1146">
+                <name>Q26783790</name>
+                <Point id="1145">
+                    <coordinates>72.803333333333,18.953888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1148">
+                <name>Q26783792</name>
+                <Point id="1147">
+                    <coordinates>72.783333333333,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1150">
+                <name>Malangarh</name>
+                <Point id="1149">
+                    <coordinates>73.178333333333,19.109722222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1152">
+                <name>Malet Shelf</name>
+                <Point id="1151">
+                    <coordinates>72.850555555556,18.957777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1154">
+                <name>Manori Point</name>
+                <Point id="1153">
+                    <coordinates>72.782777777778,19.193888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1156">
+                <name>Marva Island</name>
+                <Point id="1155">
+                    <coordinates>72.783333333333,19.166666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1158">
+                <name>Mehtí Khada</name>
+                <Point id="1157">
+                    <coordinates>72.766666666667,19.133333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1160">
+                <name>Karanja Reefs</name>
+                <Point id="1159">
+                    <coordinates>72.889722222222,18.893055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1162">
+                <name>Karanja</name>
+                <Point id="1161">
+                    <coordinates>72.938888888889,18.8575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1164">
+                <name>Q26787450</name>
+                <Point id="1163">
+                    <coordinates>73.115,18.8983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1166">
+                <name>Q26787503</name>
+                <Point id="1165">
+                    <coordinates>72.924722222222,18.901388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1168">
+                <name>Juhu Island</name>
+                <Point id="1167">
+                    <coordinates>73.0,19.083333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1170">
+                <name>Kamandurg</name>
+                <Point id="1169">
+                    <coordinates>72.958055555556,19.3825,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1172">
+                <name>Kankeshwar</name>
+                <Point id="1171">
+                    <coordinates>72.9241,18.7416,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1174">
+                <name>Green Island</name>
+                <Point id="1173">
+                    <coordinates>72.883333333333,18.983333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1176">
+                <name>Green Islet</name>
+                <Point id="1175">
+                    <coordinates>72.766666666667,19.240833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1178">
+                <name>Gull Island</name>
+                <Point id="1177">
+                    <coordinates>72.896666666667,18.834166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1180">
+                <name>Dongri Point</name>
+                <Point id="1179">
+                    <coordinates>72.792777777778,19.31,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1182">
+                <name>Elephanta Spit</name>
+                <Point id="1181">
+                    <coordinates>72.95,18.983333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1184">
+                <name>Q26791150</name>
+                <Point id="1183">
+                    <coordinates>72.80863,18.89168,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1186">
+                <name>Colāba Reef</name>
+                <Point id="1185">
+                    <coordinates>72.832222222222,18.911388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1188">
+                <name>Q26791152</name>
+                <Point id="1187">
+                    <coordinates>72.821388888889,18.888333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1190">
+                <name>Cross Island Reef</name>
+                <Point id="1189">
+                    <coordinates>72.848055555556,18.941388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1192">
+                <name>Bombay Island</name>
+                <Point id="1191">
+                    <coordinates>72.833333333333,19.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1194">
+                <name>Butcher Big Reef</name>
+                <Point id="1193">
+                    <coordinates>72.887777777778,18.961111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1196">
+                <name>Bandra Point</name>
+                <Point id="1195">
+                    <coordinates>72.818333333333,19.0425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1198">
+                <name>Bhandarwada Hill</name>
+                <Point id="1197">
+                    <coordinates>72.8428,18.9664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1200">
+                <name>Avghada</name>
+                <Point id="1199">
+                    <coordinates>72.933333333333,19.2,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1202">
+                <name>Chowpatty beach</name>
+                <Point id="1201">
+                    <coordinates>72.80979,18.95541,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1204">
+                <name>Q26793815</name>
+                <Point id="1203">
+                    <coordinates>72.794722222222,18.938611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1206">
+                <name>School of Law, University of Mumbai</name>
+                <Point id="1205">
+                    <coordinates>72.98691667,19.22513889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1208">
+                <name>NES Ratnam College Of Arts, Science &amp; Commerce</name>
+                <Point id="1207">
+                    <coordinates>72.8612799,19.0412525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1210">
+                <name>2010 Indian Premier League Final</name>
+                <Point id="1209">
+                    <coordinates>73.02666667,19.04194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1212">
+                <name>St. Aloysius High School, Nallasopara</name>
+                <Point id="1211">
+                    <coordinates>72.830381,19.414486,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1214">
+                <name>St. Mary's Orthodox Cathedral, Dadar, Mumbai</name>
+                <Point id="1213">
+                    <coordinates>72.84696528,19.01337472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1216">
+                <name>Critical Art and Media Practice</name>
+                <Point id="1215">
+                    <coordinates>72.863783,19.182106,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1218">
+                <name>Holy Spirit Church Nandakhal</name>
+                <Point id="1217">
+                    <coordinates>72.783334,19.439175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1220">
+                <name>Kurhadia</name>
+                <Point id="1219">
+                    <coordinates>72.916666666667,19.3,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1222">
+                <name>Girij Hill</name>
+                <Point id="1221">
+                    <coordinates>72.7883,19.3825,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1224">
+                <name>Ghatkopar Hill</name>
+                <Point id="1223">
+                    <coordinates>72.9083,19.1092,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1226">
+                <name>Baronda</name>
+                <Point id="1225">
+                    <coordinates>72.8425,19.4492,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1228">
+                <name>High Rock</name>
+                <Point id="1227">
+                    <coordinates>72.766666666667,19.283333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1230">
+                <name>Harvey Patches</name>
+                <Point id="1229">
+                    <coordinates>72.783333333333,19.116666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1232">
+                <name>Gorai Rock</name>
+                <Point id="1231">
+                    <coordinates>72.8,19.233333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1234">
+                <name>Elephanta Rock</name>
+                <Point id="1233">
+                    <coordinates>72.916666666667,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1236">
+                <name>Barancle Rock</name>
+                <Point id="1235">
+                    <coordinates>72.933333333333,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1238">
+                <name>Q31860166</name>
+                <Point id="1237">
+                    <coordinates>72.82558,19.38609,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1240">
+                <name>Q31860165</name>
+                <Point id="1239">
+                    <coordinates>72.82532,19.38597,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1242">
+                <name>Ambā River</name>
+                <Point id="1241">
+                    <coordinates>72.971111111111,18.798888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1244">
+                <name>Bhatsai River</name>
+                <Point id="1243">
+                    <coordinates>73.180277777778,19.286666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1246">
+                <name>Bhogeshwar River</name>
+                <Point id="1245">
+                    <coordinates>73.012777777778,18.801111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1248">
+                <name>Bāvamalang Nadī</name>
+                <Point id="1247">
+                    <coordinates>73.085277777778,19.038611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1250">
+                <name>East Channel Swatch</name>
+                <Point id="1249">
+                    <coordinates>72.816666666667,18.783333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1252">
+                <name>Pir Pau Deep</name>
+                <Point id="1251">
+                    <coordinates>72.916666666667,18.983333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1254">
+                <name>Trombay Channel</name>
+                <Point id="1253">
+                    <coordinates>72.916666666667,18.966666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1256">
+                <name>Bassein Creek</name>
+                <Point id="1255">
+                    <coordinates>72.848611111111,19.323333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1258">
+                <name>Dharamtar Creek</name>
+                <Point id="1257">
+                    <coordinates>72.965277777778,18.817777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1260">
+                <name>Karanja Creek</name>
+                <Point id="1259">
+                    <coordinates>72.9875,18.863888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1262">
+                <name>Nhāva Creek</name>
+                <Point id="1261">
+                    <coordinates>72.95,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1264">
+                <name>Thāna Creek</name>
+                <Point id="1263">
+                    <coordinates>72.973333333333,19.056944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1266">
+                <name>Vehār Lake</name>
+                <Point id="1265">
+                    <coordinates>72.911944444444,19.154166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1268">
+                <name>Edward Theatre</name>
+                <Point id="1267">
+                    <coordinates>72.828973180374,18.94515152148,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1270">
+                <name>Bhandarwada Reservoir</name>
+                <Point id="1269">
+                    <coordinates>72.833333333333,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1272">
+                <name>Malabar Hill Reservoir</name>
+                <Point id="1271">
+                    <coordinates>72.8,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1274">
+                <name>Port of Nhāva-Sheba</name>
+                <Point id="1273">
+                    <coordinates>72.933333333333,18.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1276">
+                <name>Sewri Port</name>
+                <Point id="1275">
+                    <coordinates>72.85,18.983333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1278">
+                <name>Pātālganga River</name>
+                <Point id="1277">
+                    <coordinates>73.071388888889,18.809444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1280">
+                <name>Our Lady of Fatima Church, Kirol</name>
+                <Point id="1279">
+                    <coordinates>72.892886,19.0822839,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1282">
+                <name>St. Xavier's High School, Manickpur</name>
+                <Point id="1281">
+                    <coordinates>72.828225,19.37213889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1284">
+                <name>MGM Institute of Health Sciences</name>
+                <Point id="1283">
+                    <coordinates>73.1051418,19.0172566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1286">
+                <name>Kamala Mills fire</name>
+                <Point id="1285">
+                    <coordinates>72.827539,19.00369,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1288">
+                <name>2018 UY Aviation King Air C90 crash</name>
+                <Point id="1287">
+                    <coordinates>72.904,19.092,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1290">
+                <name>Cheeta Camp</name>
+                <Point id="1289">
+                    <coordinates>72.94,19.03,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1292">
+                <name>Lower Parel monorail station</name>
+                <Point id="1291">
+                    <coordinates>72.831495,18.992994,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1294">
+                <name>Wadala Bridge monorail station</name>
+                <Point id="1293">
+                    <coordinates>72.859315,19.017431,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1296">
+                <name>Acharya Atre Nagar monorail station</name>
+                <Point id="1295">
+                    <coordinates>72.86381,19.02378,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1298">
+                <name>Naigaon monorail station</name>
+                <Point id="1297">
+                    <coordinates>72.847878,19.009529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1300">
+                <name>Dadar (East) monorail station</name>
+                <Point id="1299">
+                    <coordinates>72.852302,19.016311,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1302">
+                <name>GTB Nagar monorail station</name>
+                <Point id="1301">
+                    <coordinates>72.87082,19.036783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1304">
+                <name>Antop Hill monorail station</name>
+                <Point id="1303">
+                    <coordinates>72.866988,19.030203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1306">
+                <name>Mint Colony monorail station</name>
+                <Point id="1305">
+                    <coordinates>72.8431936,18.994474,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1308">
+                <name>Maharashtra College of Arts, Science and Commerce</name>
+                <Point id="1307">
+                    <coordinates>72.826733,18.967879,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1310">
+                <name>2019 Mumbai foot overbridge collapse</name>
+                <Point id="1309">
+                    <coordinates>72.83466,18.942203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1312">
+                <name>Reserve Bank of India Mumbai</name>
+                <Point id="1311">
+                    <coordinates>72.836822222222,18.932966666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1314">
+                <name>Bank Of India Mumbai (main) branch</name>
+                <Point id="1313">
+                    <coordinates>72.831109108805,18.930873064129,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1316">
+                <name>HSBC Bank Main Branch Mumbai branch</name>
+                <Point id="1315">
+                    <coordinates>72.831094,18.931403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1318">
+                <name>Standard Chartered Bank RTGS-HO branch</name>
+                <Point id="1317">
+                    <coordinates>72.830919788889,18.930420261111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1320">
+                <name>Standard Chartered Bank 23-25 M G Road branch</name>
+                <Point id="1319">
+                    <coordinates>72.831369729703,18.934058219811,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1322">
+                <name>Central Bank Of India Mumbai Main Office branch</name>
+                <Point id="1321">
+                    <coordinates>72.831990620799,18.931489621662,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1324">
+                <name>Indian Film &amp; Television Directors’ Association</name>
+                <Point id="1323">
+                    <coordinates>72.834634,19.140407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1326">
+                <name>Gorai Beach</name>
+                <Point id="1325">
+                    <coordinates>72.7808269,19.2419548,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1328">
+                <name>Uttan Lighthouse</name>
+                <Point id="1327">
+                    <coordinates>72.780666,19.278484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1330">
+                <name>Indigo</name>
+                <Point id="1329">
+                    <coordinates>72.831944444444,18.921944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1332">
+                <name>Somaiya Vidyavihar University</name>
+                <Point id="1331">
+                    <coordinates>72.8978,19.0726,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1334">
+                <name>Crawford Market Fountain</name>
+                <Point id="1333">
+                    <coordinates>72.83471,18.947414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1336">
+                <name>Portuguese churches, Mandapeshwar</name>
+                <Point id="1335">
+                    <coordinates>72.85285192,19.24303348,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1338">
+                <name>Bandra suburban railway station building</name>
+                <Point id="1337">
+                    <coordinates>72.840228453513,19.055062297981,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1340">
+                <name>Western Railway Headquarter Building</name>
+                <Point id="1339">
+                    <coordinates>72.828364319033,18.933620807427,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1342">
+                <name>Three Sixty West Tower A</name>
+                <Point id="1341">
+                    <coordinates>72.82261,19.0119,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1344">
+                <name>Three Sixty West Tower B</name>
+                <Point id="1343">
+                    <coordinates>72.82335,19.01097,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1346">
+                <name>Taloja Central Jail</name>
+                <Point id="1345">
+                    <coordinates>73.0683,19.078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1348">
+                <name>Jio World Centre</name>
+                <Point id="1347">
+                    <coordinates>72.8667,19.064,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1350">
+                <name>Chandika Devi Temple, Juchandra</name>
+                <Point id="1349">
+                    <coordinates>72.881666666667,19.360277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1352">
+                <name>Masque</name>
+                <Point id="1351">
+                    <coordinates>72.82562,18.98982,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1354">
+                <name>Indian Mercantile Mansion</name>
+                <Point id="1353">
+                    <coordinates>72.831877957276,18.925051505389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1356">
+                <name>Army &amp; Navy Building</name>
+                <Point id="1355">
+                    <coordinates>72.830921592276,18.927895796261,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1358">
+                <name>Public Works Department building</name>
+                <Point id="1357">
+                    <coordinates>72.83061964676,18.932226691609,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1360">
+                <name>Ivorine</name>
+                <Point id="1359">
+                    <coordinates>72.827944,18.927327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1362">
+                <name>Palm Court</name>
+                <Point id="1361">
+                    <coordinates>72.827928,18.927738,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1364">
+                <name>Moonlight</name>
+                <Point id="1363">
+                    <coordinates>72.827896,18.92675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1366">
+                <name>Sunshine</name>
+                <Point id="1365">
+                    <coordinates>72.827932,18.927038,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1368">
+                <name>Shiv Shanti Bhuvan</name>
+                <Point id="1367">
+                    <coordinates>72.827965,18.928744,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1370">
+                <name>Rajjab Mahal</name>
+                <Point id="1369">
+                    <coordinates>72.827976,18.929041,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1372">
+                <name>Oval View</name>
+                <Point id="1371">
+                    <coordinates>72.827949,18.92802,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1374">
+                <name>Belvedere Court</name>
+                <Point id="1373">
+                    <coordinates>72.827983,18.928337,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1376">
+                <name>Windsor House</name>
+                <Point id="1375">
+                    <coordinates>72.828004,18.93021,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1378">
+                <name>Queen's Court</name>
+                <Point id="1377">
+                    <coordinates>72.828013,18.930455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1380">
+                <name>Empress Court</name>
+                <Point id="1379">
+                    <coordinates>72.828016,18.929365,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1382">
+                <name>Rajesh Mansion</name>
+                <Point id="1381">
+                    <coordinates>72.827992,18.929924,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1384">
+                <name>Motabhoy Mansion</name>
+                <Point id="1383">
+                    <coordinates>72.82803,18.93115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1386">
+                <name>Fairlawn</name>
+                <Point id="1385">
+                    <coordinates>72.82801,18.931376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1388">
+                <name>Green Fields</name>
+                <Point id="1387">
+                    <coordinates>72.828034,18.930707,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1390">
+                <name>Swastik Court</name>
+                <Point id="1389">
+                    <coordinates>72.82804,18.930937,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1392">
+                <name>Sneha Sadan</name>
+                <Point id="1391">
+                    <coordinates>72.827651,18.931263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1394">
+                <name>Court View</name>
+                <Point id="1393">
+                    <coordinates>72.828031,18.931616,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1396">
+                <name>Chheda Sadan</name>
+                <Point id="1395">
+                    <coordinates>72.827654,18.931584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1398">
+                <name>Pankaj Mahal</name>
+                <Point id="1397">
+                    <coordinates>72.827667,18.930292,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1400">
+                <name>Roshera</name>
+                <Point id="1399">
+                    <coordinates>72.827638,18.930007,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1402">
+                <name>Lily Court</name>
+                <Point id="1401">
+                    <coordinates>72.827642,18.930929,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1404">
+                <name>Fairfield</name>
+                <Point id="1403">
+                    <coordinates>72.827663055556,18.930586944444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1406">
+                <name>Mistry Bhavan</name>
+                <Point id="1405">
+                    <coordinates>72.826538,18.929874,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1408">
+                <name>Apeejay House</name>
+                <Point id="1407">
+                    <coordinates>72.82757,18.929518,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1410">
+                <name>Yashodhan Apartments</name>
+                <Point id="1409">
+                    <coordinates>72.824941,18.930478,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1412">
+                <name>CCI Chambers</name>
+                <Point id="1411">
+                    <coordinates>72.824354,18.930757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1414">
+                <name>Ram Mahal</name>
+                <Point id="1413">
+                    <coordinates>72.826228,18.929992,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1416">
+                <name>Ravindra Mansion</name>
+                <Point id="1415">
+                    <coordinates>72.825499,18.930323,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1418">
+                <name>Moti Mahal</name>
+                <Point id="1417">
+                    <coordinates>72.825918,18.930811,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1420">
+                <name>Prem Court</name>
+                <Point id="1419">
+                    <coordinates>72.826642,18.930441,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1422">
+                <name>Rakhi Mahal</name>
+                <Point id="1421">
+                    <coordinates>72.82383,18.93093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1424">
+                <name>Mistry Court</name>
+                <Point id="1423">
+                    <coordinates>72.823514,18.931048,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1426">
+                <name>Riviera</name>
+                <Point id="1425">
+                    <coordinates>72.822389,18.92974,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1428">
+                <name>Vasvani Mansions</name>
+                <Point id="1427">
+                    <coordinates>72.827165,18.930245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1430">
+                <name>Oceana</name>
+                <Point id="1429">
+                    <coordinates>72.822995,18.930873,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1432">
+                <name>Shalimar</name>
+                <Point id="1431">
+                    <coordinates>72.822601,18.930052,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1434">
+                <name>Shanti Kuteer</name>
+                <Point id="1433">
+                    <coordinates>72.822842,18.930537,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1436">
+                <name>Sea Green Hotel</name>
+                <Point id="1435">
+                    <coordinates>72.823808,18.932772,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1438">
+                <name>Soona Mahal</name>
+                <Point id="1437">
+                    <coordinates>72.823926,18.933143,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1440">
+                <name>St. James Court</name>
+                <Point id="1439">
+                    <coordinates>72.823441,18.931807,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1442">
+                <name>Framroz Court</name>
+                <Point id="1441">
+                    <coordinates>72.823598,18.932232,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1444">
+                <name>Jyoti Sadan</name>
+                <Point id="1443">
+                    <coordinates>72.82432,18.93469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1446">
+                <name>Sunder Mahal</name>
+                <Point id="1445">
+                    <coordinates>72.824136,18.93388,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1448">
+                <name>Podar House</name>
+                <Point id="1447">
+                    <coordinates>72.824211,18.934213,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1450">
+                <name>Ganga Vihar</name>
+                <Point id="1449">
+                    <coordinates>72.824549,18.936349,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1452">
+                <name>Firdaus</name>
+                <Point id="1451">
+                    <coordinates>72.824602,18.93669,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1454">
+                <name>Chateau Marine</name>
+                <Point id="1453">
+                    <coordinates>72.824474,18.935508,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1456">
+                <name>Shiv Sadan</name>
+                <Point id="1455">
+                    <coordinates>72.824528,18.935853,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1458">
+                <name>Kapur Mahal</name>
+                <Point id="1457">
+                    <coordinates>72.824657,18.937974,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1460">
+                <name>Zaver Mahal</name>
+                <Point id="1459">
+                    <coordinates>72.824659,18.938357,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1462">
+                <name>Krishna Mahal</name>
+                <Point id="1461">
+                    <coordinates>72.824672,18.937245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1464">
+                <name>Keval Mahal</name>
+                <Point id="1463">
+                    <coordinates>72.824678,18.937608,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1466">
+                <name>Al-Jabreya Court</name>
+                <Point id="1465">
+                    <coordinates>72.82459,18.939509,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1468">
+                <name>Q18019898</name>
+                <Point id="1467">
+                    <coordinates>72.850675,19.028029,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1470">
+                <name>Matruchhaya</name>
+                <Point id="1469">
+                    <coordinates>72.824547,18.939885,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1472">
+                <name>Sonawala Building</name>
+                <Point id="1471">
+                    <coordinates>72.824635,18.93878,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1474">
+                <name>Hem Prabha</name>
+                <Point id="1473">
+                    <coordinates>72.82464,18.939141,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1476">
+                <name>Al-Sabah Court</name>
+                <Point id="1475">
+                    <coordinates>72.824337,18.940998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1478">
+                <name>Giri Kunj</name>
+                <Point id="1477">
+                    <coordinates>72.824476,18.940258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1480">
+                <name>Bharatiya Bhavan</name>
+                <Point id="1479">
+                    <coordinates>72.824416,18.94062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1482">
+                <name>Shri Niketan</name>
+                <Point id="1481">
+                    <coordinates>72.824012,18.942174,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1484">
+                <name>Gobind Mahal</name>
+                <Point id="1483">
+                    <coordinates>72.823919,18.942499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1486">
+                <name>Seksaria</name>
+                <Point id="1485">
+                    <coordinates>72.824229,18.94136,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1488">
+                <name>Bharat Mahal</name>
+                <Point id="1487">
+                    <coordinates>72.824136,18.941867,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1490">
+                <name>Meghdoot</name>
+                <Point id="1489">
+                    <coordinates>72.823558,18.94358,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1492">
+                <name>Parijat</name>
+                <Point id="1491">
+                    <coordinates>72.823766,18.942965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1494">
+                <name>Shanti Niketan</name>
+                <Point id="1493">
+                    <coordinates>72.823679,18.943259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1496">
+                <name>City Civil &amp; Sessions Court</name>
+                <Point id="1495">
+                    <coordinates>72.830146310573,18.92759314722,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1498">
+                <name>Mahim Beach</name>
+                <Point id="1497">
+                    <coordinates>72.8379778,19.0338015,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1500">
+                <name>Oriental Building, Mumbai</name>
+                <Point id="1499">
+                    <coordinates>72.8315455,18.9334368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1502">
+                <name>Al Sa'adah Towers</name>
+                <Point id="1501">
+                    <coordinates>72.831555555556,18.959411111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1504">
+                <name>RNA Mirage</name>
+                <Point id="1503">
+                    <coordinates>72.82125,19.009583333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1506">
+                <name>Annexe Building University offices</name>
+                <Point id="1505">
+                    <coordinates>72.831078930599,18.929331401115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1508">
+                <name>Pisawali</name>
+                <Point id="1507">
+                    <coordinates>73.126111111111,19.215,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1510">
+                <name>INS Vikrant Memorial</name>
+                <Point id="1509">
+                    <coordinates>72.8326661,18.9255443,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1512">
+                <name>Maharshi Karve Road</name>
+                <Point id="1511">
+                    <coordinates>72.827286862508,18.93744141245,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
