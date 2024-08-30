@@ -8,6 +8,7 @@ import simplekml
 from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleges_or_hotels
 from wikidata_fetcher import WikidataFetcher
 from kml_helper import KmlHelper
+from wikivoyage_fetcher import WikivoyageFetcher
 
 class AllFetcher():
 

@@ -50,6 +50,13 @@ class KmlHelper():
         match pd_series.at['tier']:
             case 'atlas_obscura':
                 description = f'''{pd_series['ao_description']} <br> <br> {pd_series['ao_link']}'''
+            case _ if 'wikivoyage' in pd_series.at['tier']:
+                description = f'''
+                category  : {pd_series.at['thingLabel']} <br>
+                address  : {pd_series.at['address']} <br>
+                url  : {pd_series.at['url']} <br>
+                description  : {pd_series.at['description']} <br>
+                '''
             case _:
                 description = f'''\
                     category  : {pd_series.at['thingLabel']} <br>   \
