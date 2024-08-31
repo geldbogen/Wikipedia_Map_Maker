@@ -2,7 +2,7 @@ SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?th
   SERVICE wikibase:around {
     ?item wdt:P625 ?location .
     bd:serviceParam wikibase:center "Point()"^^geo:wktLiteral .
-    bd:serviceParam wikibase:radius "45" . # Radius in kilometers 12°58'31.3"N 77°35'27.3"E
+    bd:serviceParam wikibase:radius "" . # Radius in kilometers 12°58'31.3"N 77°35'27.3"E
     bd:serviceParam wikibase:distance ?distance .
   }.
   ?item wikibase:sitelinks ?sitelinks.

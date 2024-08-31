@@ -2,7 +2,7 @@ SELECT ?item ?itemLabel ?placeLabel ?lat ?lon ?location ?distance ?sitelinks WHE
   SERVICE wikibase:around {
     ?place wdt:P625 ?location .
     bd:serviceParam wikibase:center "Point()"^^geo:wktLiteral .
-    bd:serviceParam wikibase:radius "35" . # Radius in kilometers
+    bd:serviceParam wikibase:radius "" . # Radius in kilometers
     bd:serviceParam wikibase:distance ?distance .
   }.
   ?item wikibase:sitelinks ?sitelinks.

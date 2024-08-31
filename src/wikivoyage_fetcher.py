@@ -86,7 +86,7 @@ class WikivoyageFetcher():
 
     def get_dataframe_from_dictionary_list(self, dict_list : list[dict[str,str]], category : str) -> pd.DataFrame:
         return_frame = pd.DataFrame()
-        return_frame['name'] = [x.get('name', '--') for x in dict_list]
+        return_frame['itemLabel'] = [x.get('name', '--') for x in dict_list]
         return_frame['lat'] = [x.get('lat', '') for x in dict_list]
         return_frame['lon'] = [x.get('long', '') for x in dict_list]
         return_frame['address'] = [x.get('address', '') for x in dict_list]
