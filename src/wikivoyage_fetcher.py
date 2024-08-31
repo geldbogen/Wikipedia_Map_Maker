@@ -8,7 +8,7 @@ from geopy.geocoders import Nominatim
 
 class WikivoyageFetcher():
     def __init__(self, to_fetch_place_name : str) -> None:
-        self.to_fetch_place_name = to_fetch_place_name
+        self.to_fetch_place_name = to_fetch_place_name.lower()
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
         pass
@@ -29,8 +29,7 @@ class WikivoyageFetcher():
         return return_frame
 
     def get_contents_of_wikivoyage_article(self) -> dict[str,str]:
-        place_name = 'leipzig'
-        url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={place_name}&prop=sections&disabletoc=1'
+        url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={self.to_fetch_place_name}&prop=sections&disabletoc=1'
 
         response = requests.get(url)
         r = response.json()
