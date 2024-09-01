@@ -1,4 +1,4 @@
-,itemLabel,lat,lon,address,url,category,description,tier,color
+,itemLabel,lat,lon,address,url,thingLabel,description,tier,color
 0,Tourist Information Centre ,54.34817 ,18.65544 ,Długi Targ 28/29 ,"https://visitgdansk.com/informacje/punkty-informacji-turystycznej,a,3584 ",Understand,}},wikivoyage,red
 1,Tourist Information Point , , ,Rajska 10 ,"https://visitgdansk.com/informacje/punkty-informacji-turystycznej,a,3584 ",Understand,}},wikivoyage,red
 2,Tourist Information Point , , ,Słowackiego 200 st. ,"https://www.gdansk.pl/turystyka/informacja-turystyczna,a,3761 ",Understand,}},wikivoyage,red

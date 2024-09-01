@@ -92,7 +92,7 @@ class WikivoyageFetcher():
         return_frame['address'] = [x.get('address', '') for x in dict_list]
         return_frame['url'] = [x.get('url', '') for x in dict_list]
 
-        return_frame['category'] = [category] * len(return_frame.index.to_list())
+        return_frame['thingLabel'] = [category] * len(return_frame.index.to_list())
 
         return_frame['description'] = [x.get('content', '') for x in dict_list]
 

@@ -27,12 +27,12 @@ class KmlHelper():
         self.style_D.color = '#0066ff' 
 
 
-        self.data_frame.apply(lambda x: self.create_styled_point(x),axis=1)
+        self.data_frame.apply(lambda x: self.create_styled_point(x), axis=1)
         self.kml.save(f'data/{self.place_name}/{self.place_name}.kml')
 
 
 
-        
+
     def get_style(self, pd_series : pd.Series) -> simplekml.IconStyle:
         match pd_series.at['tier']:
             case 'S':
@@ -53,7 +53,7 @@ class KmlHelper():
                 description = f'''{pd_series['description']} <br> <br> {pd_series['link']}'''
             case _ if 'wikivoyage' in pd_series.at['tier']:
                 description = f'''
-                category  : {pd_series.at['category']} <br>
+                category  : {pd_series.at['thingLabel']} <br>
                 address  : {pd_series.at['address']} <br>
                 url  : {pd_series.at['url']} <br>
                 description  : {pd_series.at['description']} <br>
@@ -74,6 +74,7 @@ class KmlHelper():
     def create_styled_point(self, pd_series : pd.Series):
         kml_folder : simplekml.Folder = self.tiername_to_folder_dict[pd_series.at['tier']]
         kml_point = kml_folder.newpoint(name = pd_series.at['itemLabel'], coords = [(pd_series.at['lon'], pd_series.at['lat'])], description = self.get_description(pd_series))
-        kml_point.iconstyle = self.get_style(pd_series)
+        # kml_point.iconstyle = self.get_style(pd_series)
+        kml_point.atomauthor = pd_series.at['thingLabel']
     pass
 
