@@ -79,7 +79,7 @@ class WikivoyageFetcher():
                 if not '=' in thing:
                     continue
                 left_side = thing.split('=')[0].lstrip()
-                right_side = thing.split('=')[1].replace('\n','')
+                right_side = thing.split('=')[1].replace('\n','').replace('}}','')
                 my_dict[left_side] = right_side
             dict_list.append(my_dict.copy())
         return dict_list
