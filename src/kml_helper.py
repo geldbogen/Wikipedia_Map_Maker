@@ -60,6 +60,10 @@ class KmlHelper():
         self.replace_kml_id_in_string('6','icon-1594-000000-highlight')
         self.replace_kml_id_in_string('10','icon-1594-000000')
 
+        # remove first folder, in which simplekml automatically stores the files:
+        self.string_data = self.string_data.replace('<Folder id="11">','',1)
+        self.string_data = self.string_data.replace('</Folder>','',1)
+
         with open(f'data/{self.place_name}/{self.place_name}.kml', 'w') as f:
             f.write(self.string_data)
 
@@ -107,7 +111,7 @@ class KmlHelper():
         kml_folder : simplekml.Folder = self.tiername_to_folder_dict[pd_series.at['tier']]
         kml_point = kml_folder.newpoint(name = pd_series.at['itemLabel'], coords = [(pd_series.at['lon'], pd_series.at['lat'])], description = self.get_description(pd_series))
         # kml_point.iconstyle = self.get_style(pd_series)
-        kml_point.stylemap = self.test_stylemap
+        kml_point.style = self.test_normal_style
     pass
 
     def replace_kml_id_in_string(self, old_id : str, new_id: str):

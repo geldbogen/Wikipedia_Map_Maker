@@ -2,144 +2,126 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
         <name>Unbenannte Karte</name>
+        
             <Style id="icon-1594-000000-normal">
                 <IconStyle id="3">
-                    <color>ff000000</color>
-                    <colorMode>normal</colorMode>
                     <scale>1</scale>
                     <heading>0</heading>
                     <Icon id="4">
                         <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
                     </Icon>
                 </IconStyle>
+                <LabelStyle id="5">
+                    <scale>0</scale>
+                </LabelStyle>
             </Style>
-            <Style id="5">
-                <IconStyle id="icon-1594-000000-highlight">
-                    <color>ff000000</color>
-                    <colorMode>normal</colorMode>
-                    <scale>1</scale>
-                    <heading>0</heading>
-                    <Icon id="7">
-                        <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-                    </Icon>
-                </IconStyle>
-            </Style>
-            <StyleMap id="8">
-                <Pair>
-                    <key>normal</key>
-                    <styleUrl>#icon-1594-000000-normal</styleUrl>
-                </Pair>
-                <Pair>
-                    <key>highlight</key>
-                    <styleUrl>#5</styleUrl>
-                </Pair>
-            </StyleMap>
-            <name>C</name>
-            <Placemark id="31">
-                <name>Kanał Kaszubski</name>
-                <description>                    category  : canal &lt;br&gt;   
-                    sitelinks : 4.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q10975879</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="30">
-                    <coordinates>18.6597,54.3817,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="33">
-                <name>Strzyża</name>
-                <description>                    category  : stream &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Strzy%C5%BCa_(Bach) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q9347205</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="32">
-                    <coordinates>18.64277778,54.37555556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="35">
-                <name>Gdańsk Power Station</name>
-                <description>                    category  : combined heat and power station &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Power_Station &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q5529380</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="34">
-                    <coordinates>18.641694,54.378306,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="37">
-                <name>Island I</name>
-                <description>                    category  : depression &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q49339095</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="36">
-                    <coordinates>18.654444444444,54.3725,0.0</coordinates>
-                </Point>
-            </Placemark>
-        <Folder id="icon-1594-000000">
-            <name>S</name>
-            <Placemark id="25">
-                <name>Gdańsk Shipyard</name>
-                <description>                    category  : shipyard &lt;br&gt;   
-                    sitelinks : 25.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Shipyard &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Werft_Danzig &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1736541</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="24">
-                    <coordinates>18.655238,54.370563,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="11">
             <name>atlas_obscura</name>
-            <Placemark id="39">
+            <Placemark id="41">
                 <name>
 Gdańsk Shipyard
 </name>
                 <description>
 A floundering Polish shipyard was once the soul of the Solidarity movement that capsized communism.
  &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/gdansk-shipyard</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="38">
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="40">
                     <coordinates>18.64877,54.37623,0.0</coordinates>
                 </Point>
             </Placemark>
-        </Folder>
+        
         <Folder id="12">
-            <name>A</name>
+            <name>S</name>
             <Placemark id="27">
-                <name>Ostrów Island</name>
-                <description>                    category  : river island &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Ostr%C3%B3w_Island &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Ostr%C3%B3w_(Gda%C5%84sk) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3491775</description>
-                <styleUrl>#8</styleUrl>
+                <name>Gdańsk Shipyard</name>
+                <description>                    category  : shipyard &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Shipyard &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Werft_Danzig &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1736541</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
                 <Point id="26">
-                    <coordinates>18.654,54.371,0.0</coordinates>
+                    <coordinates>18.655238,54.370563,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
         <Folder id="13">
             <name>B</name>
-            <Placemark id="29">
+            <Placemark id="31">
                 <name>Młyniska</name>
                 <description>                    category  : dzielnica &lt;br&gt;   
                     sitelinks : 5.0 &lt;br&gt;   
                     articleEN : https://en.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;             
                     articleDE : https://de.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q11788180</description>
-                <styleUrl>#8</styleUrl>
-                <Point id="28">
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="30">
                     <coordinates>18.6468,54.3722,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>A</name>
+            <Placemark id="29">
+                <name>Ostrów Island</name>
+                <description>                    category  : river island &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ostr%C3%B3w_Island &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Ostr%C3%B3w_(Gda%C5%84sk) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3491775</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="28">
+                    <coordinates>18.654,54.371,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>C</name>
+            <Placemark id="33">
+                <name>Kanał Kaszubski</name>
+                <description>                    category  : canal &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q10975879</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="32">
+                    <coordinates>18.6597,54.3817,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35">
+                <name>Strzyża</name>
+                <description>                    category  : stream &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Strzy%C5%BCa_(Bach) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q9347205</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="34">
+                    <coordinates>18.64277778,54.37555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="37">
+                <name>Gdańsk Power Station</name>
+                <description>                    category  : combined heat and power station &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Power_Station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5529380</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="36">
+                    <coordinates>18.641694,54.378306,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39">
+                <name>Island I</name>
+                <description>                    category  : depression &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q49339095</description>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+                <Point id="38">
+                    <coordinates>18.654444444444,54.3725,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
