@@ -19,7 +19,7 @@ class AllFetcher():
         self.lon = lon
         self.distance = distance
         
-        self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',lat,lon)
+        self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',lat,lon,distance)
         self.wikivoyage_fetcher = WikivoyageFetcher(place_name)
         self.place_name = place_name
         self.country_name = country_name
@@ -36,7 +36,9 @@ class AllFetcher():
         # itemLabel is the standard column for the name of the place
         relevant_ao_df['itemLabel'] = relevant_ao_df['name']
 
-        wikivoyage_df = self.wikivoyage_fetcher.fetch()
+        # wikivoyage_df = self.wikivoyage_fetcher.fetch()
+        wikivoyage_df = pd.DataFrame()
+        
 
 
         # cleaning
@@ -97,5 +99,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Gdańsk', 'Poland', 54.37291594803361, 18.649425331648146)
+    my_all_fetcher = AllFetcher('Gdańsk', 'Poland', 54.37291594803361, 18.649425331648146, 1)
     my_all_fetcher.go()

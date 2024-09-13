@@ -31,6 +31,7 @@ class WikidataFetcher():
             case  'places':
                 self.query = self.places_query.replace(old_coordinates_string,new_coordinate_string)
                 self.query = self.query.replace(old_distance_string,new_distance_string)
+                print(self.query)
                 
             case  'graves':
                 self.query = self.grave_query.replace(old_coordinates_string,new_coordinate_string)
