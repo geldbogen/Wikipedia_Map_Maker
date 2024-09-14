@@ -3,125 +3,173 @@
     <Document id="1">
         <name>Unbenannte Karte</name>
         
-            <Style id="icon-1594-000000-normal">
-                <IconStyle id="3">
-                    <scale>1</scale>
-                    <heading>0</heading>
-                    <Icon id="4">
-                        <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-                    </Icon>
-                </IconStyle>
-                <LabelStyle id="5">
-                    <scale>0</scale>
-                </LabelStyle>
-            </Style>
+            <Style id="icon-1739-0288D1-normal"/>
+            <Style id="43"/>
+            <StyleMap id="26">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#43</styleUrl>
+                </Pair>
+            </StyleMap>
             <name>atlas_obscura</name>
-            <Placemark id="41">
+            <Placemark id="42">
                 <name>
 Gdańsk Shipyard
 </name>
                 <description>
 A floundering Polish shipyard was once the soul of the Solidarity movement that capsized communism.
  &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/gdansk-shipyard</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="40">
+                <styleUrl>#26</styleUrl>
+                <Point id="41">
                     <coordinates>18.64877,54.37623,0.0</coordinates>
                 </Point>
             </Placemark>
         
         <Folder id="12">
-            <name>S</name>
-            <Placemark id="27">
-                <name>Gdańsk Shipyard</name>
-                <description>                    category  : shipyard &lt;br&gt;   
-                    sitelinks : 25.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Shipyard &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Werft_Danzig &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1736541</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="26">
-                    <coordinates>18.655238,54.370563,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="13">
-            <name>B</name>
-            <Placemark id="31">
-                <name>Młyniska</name>
-                <description>                    category  : dzielnica &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q11788180</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="30">
-                    <coordinates>18.6468,54.3722,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="14">
-            <name>A</name>
-            <Placemark id="29">
-                <name>Ostrów Island</name>
-                <description>                    category  : river island &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Ostr%C3%B3w_Island &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Ostr%C3%B3w_(Gda%C5%84sk) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3491775</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="28">
-                    <coordinates>18.654,54.371,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="15">
+            <Style id="icon-1739-FFEA00-normal"/>
+            <Style id="44"/>
+            <StyleMap id="24">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#44</styleUrl>
+                </Pair>
+            </StyleMap>
             <name>C</name>
-            <Placemark id="33">
+            <Placemark id="34">
                 <name>Kanał Kaszubski</name>
                 <description>                    category  : canal &lt;br&gt;   
                     sitelinks : 4.0 &lt;br&gt;   
                     articleEN :  &lt;br&gt;             
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q10975879</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="32">
+                <styleUrl>#24</styleUrl>
+                <Point id="33">
                     <coordinates>18.6597,54.3817,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="35">
+            <Placemark id="36">
                 <name>Strzyża</name>
                 <description>                    category  : stream &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
                     articleEN :  &lt;br&gt;             
                     articleDE : https://de.wikipedia.org/wiki/Strzy%C5%BCa_(Bach) &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q9347205</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="34">
+                <styleUrl>#24</styleUrl>
+                <Point id="35">
                     <coordinates>18.64277778,54.37555556,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="37">
+            <Placemark id="38">
                 <name>Gdańsk Power Station</name>
                 <description>                    category  : combined heat and power station &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
                     articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Power_Station &lt;br&gt;             
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q5529380</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="36">
+                <styleUrl>#24</styleUrl>
+                <Point id="37">
                     <coordinates>18.641694,54.378306,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="39">
+            <Placemark id="40">
                 <name>Island I</name>
                 <description>                    category  : depression &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
                     articleEN :  &lt;br&gt;             
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q49339095</description>
-                <styleUrl>#icon-1594-000000-normal</styleUrl>
-                <Point id="38">
+                <styleUrl>#24</styleUrl>
+                <Point id="39">
                     <coordinates>18.654444444444,54.3725,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <Style id="icon-1739-7CB342-normal"/>
+            <Style id="45"/>
+            <StyleMap id="icon-1739-7CB342">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#45</styleUrl>
+                </Pair>
+            </StyleMap>
+            <name>A</name>
+            <Placemark id="30">
+                <name>Ostrów Island</name>
+                <description>                    category  : river island &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ostr%C3%B3w_Island &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Ostr%C3%B3w_(Gda%C5%84sk) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3491775</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="29">
+                    <coordinates>18.654,54.371,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <Style id="icon-1739-9C27B0-normal"/>
+            <Style id="46"/>
+            <StyleMap id="22">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#46</styleUrl>
+                </Pair>
+            </StyleMap>
+            <name>B</name>
+            <Placemark id="32">
+                <name>Młyniska</name>
+                <description>                    category  : dzielnica &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/M%C5%82yniska &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q11788180</description>
+                <styleUrl>#22</styleUrl>
+                <Point id="31">
+                    <coordinates>18.6468,54.3722,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <Style id="icon-1739-E65100-normal"/>
+            <Style id="47"/>
+            <StyleMap id="18">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#icon-1739-E65100-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#47</styleUrl>
+                </Pair>
+            </StyleMap>
+            <name>S</name>
+            <Placemark id="28">
+                <name>Gdańsk Shipyard</name>
+                <description>                    category  : shipyard &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gda%C5%84sk_Shipyard &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Werft_Danzig &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1736541</description>
+                <styleUrl>#18</styleUrl>
+                <Point id="27">
+                    <coordinates>18.655238,54.370563,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>

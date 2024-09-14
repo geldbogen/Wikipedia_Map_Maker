@@ -8,6 +8,7 @@ class KmlHelper():
         self.kml = simplekml.Kml()
         self.kml.document.name = 'Unbenannte Karte'
         self.tiername_to_folder_dict = dict()
+        self.final_to_replace_dict  : dict[str,str] = dict()
 
 
         self.test_normal_style = simplekml.Style()
@@ -24,6 +25,8 @@ class KmlHelper():
         self.test_highlight_style.labelstyle = simplekml.LabelStyle(1)
         self.test_highlight_style.iconstyle.colormode = None
         self.test_highlight_style.labelstyle.colormode = None
+        self.test_normal_style._id = 'sadascsds'
+        print(self.test_normal_style._id)
 
 
 
@@ -35,19 +38,33 @@ class KmlHelper():
             self.tiername_to_folder_dict[tier_name] = my_folder
         
         # create the styles
-        self.style_S = simplekml.IconStyle()
-        self.style_S.color = 'ff9900'
-        self.style_S.icon.href = 'http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png'
-        self.style_A = simplekml.IconStyle()
-        self.style_A.color = '009900' 
+        self.style_graves = simplekml.Style()
+        self.style_graves._id = 'icon-1556-FFD600-normal'
 
-        self.style_B = simplekml.IconStyle()
-        self.style_B.color = '6600cc'
-        self.style_C = simplekml.IconStyle()
-        self.style_C.color = 'ffff00'
-        self.style_C.icon.href ='http://maps.google.com/mapfiles/kml/shapes/target.png'
-        self.style_D = simplekml.IconStyle()
-        self.style_D.color = '0066ff' 
+        self.style_S = simplekml.Style()
+        self.style_S._id = 'icon-1739-E65100-normal'
+        self.style_map_S = simplekml.StyleMap(normalstyle=self.style_S)
+
+        self.style_A = simplekml.Style()
+        self.style_A._id = 'icon-1739-7CB342-normal' 
+        self.style_map_A = simplekml.StyleMap(normalstyle=self.style_A)
+        self.style_map_A._id = 'icon-1739-7CB342'
+
+
+        self.style_B = simplekml.Style()
+        self.style_B._id = 'icon-1739-9C27B0-normal'
+        self.style_map_B = simplekml.StyleMap(normalstyle=self.style_B)
+
+
+        self.style_C = simplekml.Style()
+        self.style_C._id = 'icon-1739-FFEA00-normal'
+        self.style_map_C = simplekml.StyleMap(normalstyle=self.style_C)
+
+
+        self.style_D = simplekml.Style()
+        self.style_D._id = 'icon-1739-0288D1-normal' 
+        self.style_map_D = simplekml.StyleMap(normalstyle=self.style_D)
+
 
 
         self.data_frame.apply(lambda x: self.create_styled_point(x), axis=1)
@@ -56,9 +73,9 @@ class KmlHelper():
         with open(f'data/{self.place_name}/{self.place_name}.kml', 'r') as f:
             self.string_data = f.read()
 
-        self.replace_kml_id_in_string('2','icon-1594-000000-normal')
-        self.replace_kml_id_in_string('6','icon-1594-000000-highlight')
-        self.replace_kml_id_in_string('10','icon-1594-000000')
+        # self.replace_kml_id_in_string('2','icon-1594-000000-normal')
+        # self.replace_kml_id_in_string('6','icon-1594-000000-highlight')
+        # self.replace_kml_id_in_string('10','icon-1594-000000')
 
         # remove first folder, in which simplekml automatically stores the files:
         self.string_data = self.string_data.replace('<Folder id="11">','',1)
@@ -69,19 +86,19 @@ class KmlHelper():
 
 
 
-    def get_style(self, pd_series : pd.Series) -> simplekml.IconStyle:
+    def style_the_point(self, pd_series : pd.Series) -> None:
         match pd_series.at['tier']:
             case 'S':
-                return self.style_S
+                return self.style_map_S
             case 'A':
-                return self.style_A
+                return self.style_map_A
             case 'B':
-                return self.style_B
+                return self.style_map_B
             case 'C':
-                return self.style_C
+                return self.style_map_C
             case 'D':
-                return self.style_D
-        return self.style_D
+                return self.style_map_D
+        return self.style_map_D
     
     def get_description(self, pd_series : pd.Series) -> str:
         match pd_series.at['tier']:
@@ -110,9 +127,9 @@ class KmlHelper():
     def create_styled_point(self, pd_series : pd.Series):
         kml_folder : simplekml.Folder = self.tiername_to_folder_dict[pd_series.at['tier']]
         kml_point = kml_folder.newpoint(name = pd_series.at['itemLabel'], coords = [(pd_series.at['lon'], pd_series.at['lat'])], description = self.get_description(pd_series))
-        # kml_point.iconstyle = self.get_style(pd_series)
-        kml_point.style = self.test_normal_style
-    pass
+        kml_point.stylemap = self.style_the_point(pd_series)
+        
+        pass
 
     def replace_kml_id_in_string(self, old_id : str, new_id: str):
         # replace defintions
