@@ -43,50 +43,81 @@ class KmlHelper():
 
         self.style_S = simplekml.Style()
         self.style_S._id = 'icon-1739-E65100-normal'
-        self.style_map_S = simplekml.StyleMap(normalstyle=self.style_S)
+        self.style_S.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        # self.style_S.labelstyle = simplekml.LabelStyle(0)
+
+        self.style_map_S = simplekml.StyleMap(normalstyle=self.style_S,)
+        self.style_map_S._id = 'icon-1739-E65100'
 
         self.style_A = simplekml.Style()
-        self.style_A._id = 'icon-1739-7CB342-normal' 
+        self.style_A._id = 'icon-1739-7CB342-normal'
+        self.style_A.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
         self.style_map_A = simplekml.StyleMap(normalstyle=self.style_A)
         self.style_map_A._id = 'icon-1739-7CB342'
 
 
         self.style_B = simplekml.Style()
         self.style_B._id = 'icon-1739-9C27B0-normal'
+        self.style_B.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
         self.style_map_B = simplekml.StyleMap(normalstyle=self.style_B)
 
 
         self.style_C = simplekml.Style()
         self.style_C._id = 'icon-1739-FFEA00-normal'
+        self.style_C.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
         self.style_map_C = simplekml.StyleMap(normalstyle=self.style_C)
 
 
         self.style_D = simplekml.Style()
         self.style_D._id = 'icon-1739-0288D1-normal' 
+        self.style_D.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
         self.style_map_D = simplekml.StyleMap(normalstyle=self.style_D)
 
+        self.style_atlas_obscura = simplekml.Style()
+        self.style_atlas_obscura._id = 'icon-1594-000000-normal' 
+        self.style_atlas_obscura.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_atlas_obscura = simplekml.StyleMap(normalstyle=self.style_atlas_obscura)
+        
+        self.style_graves = simplekml.Style()
+        self.style_graves._id = 'icon-1556-FFD600-normal' 
+        self.style_graves.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_graves = simplekml.StyleMap(normalstyle=self.style_graves)
+
+
+
+        # create dummy point
+        self.dummy_point = self.kml.newpoint()
+        self.dummy_point.stylemap = self.style_map_S
+        self.dummy_point.stylemap = self.style_map_A
+        self.dummy_point.stylemap = self.style_map_B
+        self.dummy_point.stylemap = self.style_map_C
+        self.dummy_point.stylemap = self.style_map_D
+        self.dummy_point.stylemap = self.style_map_atlas_obscura
+        self.dummy_point.stylemap = self.style_map_graves
 
 
         self.data_frame.apply(lambda x: self.create_styled_point(x), axis=1)
         self.kml.save(f'data/{self.place_name}/{self.place_name}.kml')
 
-        with open(f'data/{self.place_name}/{self.place_name}.kml', 'r') as f:
-            self.string_data = f.read()
 
         # self.replace_kml_id_in_string('2','icon-1594-000000-normal')
         # self.replace_kml_id_in_string('6','icon-1594-000000-highlight')
         # self.replace_kml_id_in_string('10','icon-1594-000000')
 
         # remove first folder, in which simplekml automatically stores the files:
-        self.string_data = self.string_data.replace('<Folder id="11">','',1)
-        self.string_data = self.string_data.replace('</Folder>','',1)
-
-        with open(f'data/{self.place_name}/{self.place_name}.kml', 'w') as f:
-            f.write(self.string_data)
+        # self.string_data = self.string_data.replace('<Folder id="11">','',1)
+        # self.string_data = self.string_data.replace('</Folder>','',1)
 
 
 
-    def style_the_point(self, pd_series : pd.Series) -> None:
+    def style_the_point(self, pd_series : pd.Series) -> simplekml.StyleMap:
         match pd_series.at['tier']:
             case 'S':
                 return self.style_map_S
@@ -98,6 +129,8 @@ class KmlHelper():
                 return self.style_map_C
             case 'D':
                 return self.style_map_D
+            case 'atlas_obscura':
+                return self.style_map_atlas_obscura
         return self.style_map_D
     
     def get_description(self, pd_series : pd.Series) -> str:
@@ -128,7 +161,7 @@ class KmlHelper():
         kml_folder : simplekml.Folder = self.tiername_to_folder_dict[pd_series.at['tier']]
         kml_point = kml_folder.newpoint(name = pd_series.at['itemLabel'], coords = [(pd_series.at['lon'], pd_series.at['lat'])], description = self.get_description(pd_series))
         kml_point.stylemap = self.style_the_point(pd_series)
-        
+
         pass
 
     def replace_kml_id_in_string(self, old_id : str, new_id: str):

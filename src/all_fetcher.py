@@ -36,8 +36,8 @@ class AllFetcher():
         # itemLabel is the standard column for the name of the place
         relevant_ao_df['itemLabel'] = relevant_ao_df['name']
 
-        # wikivoyage_df = self.wikivoyage_fetcher.fetch()
-        wikivoyage_df = pd.DataFrame()
+        wikivoyage_df = self.wikivoyage_fetcher.fetch()
+        # wikivoyage_df = pd.DataFrame()
         
 
 
@@ -99,5 +99,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Gdańsk', 'Poland', 54.37291594803361, 18.649425331648146, 1)
+    my_all_fetcher = AllFetcher('Gdańsk', 'Poland', 54.37291594803361, 18.649425331648146, 10)
     my_all_fetcher.go()
