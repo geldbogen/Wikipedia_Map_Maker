@@ -47,7 +47,4 @@ def fetch_country(country_name : str):
         #     print(a)
         #     break
 
-    df_complete.to_csv('ao_test.csv', index=False)
-    
-
-fetch_country('india')
+    df_complete.to_csv(f'data/ao_country_data/ao_{country_name}.csv', index=False)

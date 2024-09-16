@@ -24,7 +24,7 @@ def check_if_unimportant_things_like_colleges_or_hotels(pd_series : pd.Series) -
             return False
 
 
-def get_tier_and_color(pd_series : pd.Series, which_category : Literal['places','graves','atlas_obscura']) -> tuple[str,str]:
+def  get_tier_and_color(pd_series : pd.Series, which_category : Literal['places','graves','atlas_obscura', 'wikivoyage']) -> tuple[str,str]:
 
     match which_category:
         case 'places':
@@ -47,3 +47,7 @@ def get_tier_and_color(pd_series : pd.Series, which_category : Literal['places',
             return ('graves', 'black')
         case 'atlas_obscura':
             return ('atlas_obscura', 'gold')
+        case 'wikivoyage':
+            return ('wikivoyage', 'red')
+        case _:
+            return ('','')

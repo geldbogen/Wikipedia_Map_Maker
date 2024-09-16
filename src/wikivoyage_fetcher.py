@@ -8,7 +8,7 @@ from geopy.geocoders import Nominatim
 
 class WikivoyageFetcher():
     def __init__(self, to_fetch_place_name : str) -> None:
-        self.to_fetch_place_name = to_fetch_place_name
+        self.to_fetch_place_name = to_fetch_place_name.lower()
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
         pass
@@ -20,7 +20,7 @@ class WikivoyageFetcher():
             wikilist = self.get_wikilist_by_section_number(index)
             content_list = self.get_dictionary_list_of_wikitext(wikilist) 
             frame = self.get_dataframe_from_dictionary_list(content_list,line)
-            self.fill_missing_coordinates_in_frame(frame)
+            frame = self.fill_missing_coordinates_in_frame(frame)
             return_frame = pd.concat([return_frame,frame])
         
 
@@ -29,8 +29,7 @@ class WikivoyageFetcher():
         return return_frame
 
     def get_contents_of_wikivoyage_article(self) -> dict[str,str]:
-        place_name = 'leipzig'
-        url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={place_name}&prop=sections&disabletoc=1'
+        url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={self.to_fetch_place_name}&prop=sections&disabletoc=1'
 
         response = requests.get(url)
         r = response.json()
@@ -80,20 +79,20 @@ class WikivoyageFetcher():
                 if not '=' in thing:
                     continue
                 left_side = thing.split('=')[0].lstrip()
-                right_side = thing.split('=')[1].replace('\n','')
+                right_side = thing.split('=')[1].replace('\n','').replace('}}','')
                 my_dict[left_side] = right_side
             dict_list.append(my_dict.copy())
         return dict_list
 
     def get_dataframe_from_dictionary_list(self, dict_list : list[dict[str,str]], category : str) -> pd.DataFrame:
         return_frame = pd.DataFrame()
-        return_frame['name'] = [x.get('name', '--') for x in dict_list]
+        return_frame['itemLabel'] = [x.get('name', '--') for x in dict_list]
         return_frame['lat'] = [x.get('lat', '') for x in dict_list]
         return_frame['lon'] = [x.get('long', '') for x in dict_list]
         return_frame['address'] = [x.get('address', '') for x in dict_list]
         return_frame['url'] = [x.get('url', '') for x in dict_list]
 
-        return_frame['category'] = [category] * len(return_frame.index.to_list())
+        return_frame['thingLabel'] = [category] * len(return_frame.index.to_list())
 
         return_frame['description'] = [x.get('content', '') for x in dict_list]
 
@@ -102,13 +101,17 @@ class WikivoyageFetcher():
     def fill_missing_coordinates_in_frame(self, df : pd.DataFrame):
 
         def help_function(pd_series : pd.Series):
-            if (pd_series.at['lat'] == '' or pd_series.at['lon']) and pd_series.at['address'].lstrip() != '':
+            if (pd_series.at['lat'].lstrip() == '' or pd_series.at['lon'].lstrip() == '') and pd_series.at['address'].lstrip() != '':
                 location = self.geolocator.geocode(pd_series.at['address'] + ' ' + self.to_fetch_place_name)
                 if location:
-                    pd_series.at['lat'] = location.latitude
-                    pd_series.at['lon'] = location.longitude
+                    print('go')
+                    print(location.longitude)
+                    print(pd_series.at['itemLabel'])
+                    pd_series.replace({'lat':location.latitude, 'lon': location.longitude})
+            return pd_series
 
-        df.apply(help_function,axis=1)
+        df = df.apply(help_function,axis=1)
+        return df
 
 if __name__ == '__main__':
     my_voyage_fetcher = WikivoyageFetcher('Leipzig')
