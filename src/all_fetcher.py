@@ -3,6 +3,7 @@ import math
 
 import pandas as pd
 import geopy.distance
+from geopy.geocoders import Nominatim
 import simplekml
 
 from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleges_or_hotels
@@ -13,8 +14,11 @@ import atlas_obscura_fetcher
 
 class AllFetcher():
 
-    def __init__(self, place_name : str, country_name : str,  lat : float, lon : float, distance : int = 45) -> None:
-
+    def __init__(self, place_name : str, country_name : str,  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
+        if (lat, lon) == (0.0 , 0.0):
+            value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
+            if value:
+                self.lat, self.lon = value.latitude, value.longitude
         self.lat = lat
         self.lon = lon
         self.distance = distance
@@ -99,5 +103,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Gdańsk', 'Poland', 54.37291594803361, 18.649425331648146, 10)
+    my_all_fetcher = AllFetcher('Bangalore', 'India', distance=30)
     my_all_fetcher.go()

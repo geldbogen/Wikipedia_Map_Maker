@@ -20,7 +20,7 @@ class WikivoyageFetcher():
             wikilist = self.get_wikilist_by_section_number(index)
             content_list = self.get_dictionary_list_of_wikitext(wikilist) 
             frame = self.get_dataframe_from_dictionary_list(content_list,line)
-            frame = self.fill_missing_coordinates_in_frame(frame)
+            self.fill_missing_coordinates_in_frame(frame)
             return_frame = pd.concat([return_frame,frame])
         
 
@@ -101,18 +101,31 @@ class WikivoyageFetcher():
     def fill_missing_coordinates_in_frame(self, df : pd.DataFrame):
 
         def help_function(pd_series : pd.Series):
-            if (pd_series.at['lat'].lstrip() == '' or pd_series.at['lon'].lstrip() == '') and pd_series.at['address'].lstrip() != '':
-                location = self.geolocator.geocode(pd_series.at['address'] + ' ' + self.to_fetch_place_name)
+            if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == '') and pd_series.at['address'].strip() != '':
+                location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['address']) + ' ' + self.to_fetch_place_name)
                 if location:
-                    print('go')
-                    print(location.longitude)
-                    print(pd_series.at['itemLabel'])
-                    pd_series.replace({'lat':location.latitude, 'lon': location.longitude})
-            return pd_series
+                    x = location.latitude
+                    y = location.longitude
+                else:
+                    x, y = 0, 0
 
-        df = df.apply(help_function,axis=1)
-        return df
+            else:
+                try:
 
+                    x = float(pd_series.at['lat'].strip())
+                    y = float(pd_series.at['lon'].strip())
+                except ValueError:
+                    x, y = 0, 0
+                
+            return (x,y)
+        df['fetched_coordinates'] = df.apply(help_function,axis=1)
+        df['lat'] = df.apply(lambda x : x.at['fetched_coordinates'][0],axis=1)
+        df['lon'] = df.apply(lambda x : x.at['fetched_coordinates'][1],axis=1)
+    def prepare_address_string_for_geocode(self, address_string : str) -> str:
+        address_string = address_string.strip()
+        address_string = address_string.lstrip('ul. ')
+        # address_string = address_string.strip('ul. ')
+        return address_string
 if __name__ == '__main__':
     my_voyage_fetcher = WikivoyageFetcher('Leipzig')
     df = my_voyage_fetcher.fetch()
