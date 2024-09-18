@@ -16,14 +16,18 @@ class AllFetcher():
 
     def __init__(self, place_name : str, country_name : str,  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
         if (lat, lon) == (0.0 , 0.0):
+            print('asdsadacsas')
             value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
             if value:
                 self.lat, self.lon = value.latitude, value.longitude
-        self.lat = lat
-        self.lon = lon
+            else:
+                self.lat, self.lon = 0.0, 0.0
+        else:
+            self.lat = lat
+            self.lon = lon
         self.distance = distance
         
-        self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',lat,lon,distance)
+        self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',self.lat,self.lon,distance)
         self.wikivoyage_fetcher = WikivoyageFetcher(place_name)
         self.place_name = place_name
         self.country_name = country_name
@@ -103,5 +107,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Bangalore', 'India', distance=30)
+    my_all_fetcher = AllFetcher('Bhopal', 'India', distance=30)
     my_all_fetcher.go()

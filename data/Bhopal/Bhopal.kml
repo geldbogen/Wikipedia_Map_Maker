@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="18">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="19">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="317"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="22">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="318"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="26">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="319"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="320"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="34">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="35">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="321"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="38">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="39">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="322"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="46">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="323"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="66">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="67">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="324"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="325"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="74">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="326"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="78">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="79">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="327"/>
+        <Style id="icon-1517-0288D1-normal">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="328"/>
+        <Style id="icon-1517-0F9D58-normal">
+            <IconStyle id="54">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="329"/>
+        <Style id="icon-1517-FFEA00-normal">
+            <IconStyle id="58">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="330"/>
+        <Style id="icon-1517-FF5252-normal">
+            <IconStyle id="62">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="331"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="82">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="83">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="332"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="86">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="333"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="334"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="94">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="335"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="98">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="336"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="114">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="337"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="106">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="107">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="338"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="102">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="339"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="340"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="341"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="126">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="342"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="122">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="123">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="343"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="118">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="344"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#317</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#318</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="28">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#319</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="32">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#320</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="36">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#321</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="40">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#322</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="48">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#323</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="68">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#324</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="72">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#325</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="76">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#326</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="80">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#327</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="52">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#328</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="56">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#329</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="60">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#330</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="64">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#331</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="84">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#332</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="88">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#333</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="92">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#334</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="96">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#335</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#336</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="116">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#337</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="108">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#338</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="104">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#339</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="112">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#340</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="132">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#341</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="128">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#342</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="124">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#343</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="120">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#344</styleUrl>
+            </Pair>
+        </StyleMap>
+        <name>Unbenannte Karte</name>
+        <Folder id="11">
+            <name>C</name>
+            <Placemark id="228">
+                <name>Indian Institute of Information Technology, Bhopal</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30644802</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="227">
+                    <coordinates>77.408,23.217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="230">
+                <name>People’s University</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/People%27s_University_(Bhopal) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30282416</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="229">
+                    <coordinates>77.423988,23.301237,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="232">
+                <name>Moti Masjid</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Moti_Masjid_(Bhopal) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q97101568</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="231">
+                    <coordinates>77.399057,23.255669,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>RKDF University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/RKDF_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18712513</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="233">
+                    <coordinates>77.355788888889,23.311186111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>School of Planning and Architecture, Bhopal</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/School_of_Planning_and_Architecture,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15614434</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="235">
+                    <coordinates>77.26925,23.299738888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="238">
+                <name>Rajiv Gandhi National Cyber Law Center</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rajiv_Gandhi_National_Cyber_Law_Center &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7286212</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="237">
+                    <coordinates>77.363148,23.187233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>Halali Reservoir</name>
+                <description>                    category  : reservoir &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Halali_Reservoir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5641066</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="239">
+                    <coordinates>77.5,23.33333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="242">
+                <name>Bhadbhada Dam</name>
+                <description>                    category  : dam &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhadbhada_Dam &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4900513</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="241">
+                    <coordinates>77.37888889,23.20833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="244">
+                <name>Golghar Museum</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Golghar_Museum &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28154135</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="243">
+                    <coordinates>77.390192,23.268092,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>Kerwa dam</name>
+                <description>                    category  : dam &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kerwa_Dam &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q27962556</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="245">
+                    <coordinates>77.365169,23.174235,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="248">
+                <name>AISECT University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rabindranath_Tagore_University,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18109451</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="247">
+                    <coordinates>77.564305,23.134273,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="250">
+                <name>Regional Science Centre, Bhopal</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Regional_Science_Centre,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7309144</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="249">
+                    <coordinates>77.412615,23.259933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>Raj Bhavan</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raj_Bhavan,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7285263</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="251">
+                    <coordinates>77.40325,23.240647,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="254">
+                <name>Lower Lake, Bhopal</name>
+                <description>                    category  : lake &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lower_Lake_(Bhopal) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6693559</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="253">
+                    <coordinates>77.405775491281,23.247798025252,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="256">
+                <name>Aishbagh Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Aishbagh_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4699164</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="255">
+                    <coordinates>77.420525,23.25572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>Indian Institute of Forest Management</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Forest_Management &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3783811</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="257">
+                    <coordinates>77.3844,23.2084,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="260">
+                <name>State Museum, Bhopal</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/State_Museum,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q111569741</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="259">
+                    <coordinates>77.3853645,23.235444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="262">
+                <name>Regional Museum of Natural History, Bhopal</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Regional_Museum_of_Natural_History,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q29966796</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="261">
+                    <coordinates>77.426155,23.213743,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>Kamlapati palace</name>
+                <description>                    category  : palace &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kamlapati_Palace &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q27963272</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="263">
+                    <coordinates>77.39791944,23.25094444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="266">
+                <name>National Law Institute University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Law_Institute_University,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6974025</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="265">
+                    <coordinates>77.36333333,23.18705556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="268">
+                <name>Madhya Pradesh Bhoj Open University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Madhya_Pradesh_Bhoj_Open_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6727595</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="267">
+                    <coordinates>77.412905555556,23.193211111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>Gandhi Medical College</name>
+                <description>                    category  : medical college in India &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gandhi_Medical_College,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5520704</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="269">
+                    <coordinates>77.3906,23.2602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>Advanced Materials and Processes Research Institute</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Advanced_Materials_and_Processes_Research_Institute &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3595325</description>
+                <styleUrl>#32</styleUrl>
+                <Point id="271">
+                    <coordinates>77.446008,23.210803,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>A</name>
+            <Placemark id="292">
+                <name>Bhojtal</name>
+                <description>                    category  : lake &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhojtal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4901916</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="291">
+                    <coordinates>77.34,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="294">
+                <name>Van Vihar National Park</name>
+                <description>                    category  : national park &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Van_Vihar_National_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3092357</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="293">
+                    <coordinates>77.36977,23.22948,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="296">
+                <name>Bhojeshwar Temple</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhojeshwar_Temple &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24951898</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="295">
+                    <coordinates>77.5797,23.1003,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>Bhojpur, Madhya Pradesh</name>
+                <description>                    category  : town &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhojpur,_Madhya_Pradesh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bhojpur_(Madhya_Pradesh) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3373052</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="297">
+                    <coordinates>77.595277777778,23.115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>Bhopal division</name>
+                <description>                    category  : division of Madhya Pradesh &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhopal_division &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bhopal_(Division) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q855054</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="299">
+                    <coordinates>77.41666667,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>Bhopal State (1949–1956)</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhopal_State_(1949%E2%80%931956) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bhopal_(Bundesstaat) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4100821</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="301">
+                    <coordinates>77.4,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>Taj-ul-Masajid</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Taj-ul-Masajid &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Taj-ul_Masjid &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3514109</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="303">
+                    <coordinates>77.3928,23.2629,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>Mandideep</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mandideep &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Mandideep &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2446436</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="305">
+                    <coordinates>77.518055555556,23.094444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="308">
+                <name>Bhopal State</name>
+                <description>                    category  : state with limited recognition &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhopal_State &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bhopal_(Staat) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q855044</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="307">
+                    <coordinates>77.4,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>S</name>
+            <Placemark id="310">
+                <name>Raja Bhoj Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 24.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raja_Bhoj_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Bhopal &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7285421</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="309">
+                    <coordinates>77.3375,23.2875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>Bhopal disaster</name>
+                <description>                    category  : chemical accident &lt;br&gt;   
+                    sitelinks : 64.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhopal_disaster &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Katastrophe_von_Bhopal &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q129029</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="311">
+                    <coordinates>77.410555555556,23.280833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="314">
+                <name>Bhopal</name>
+                <description>                    category  : big city &lt;br&gt;   
+                    sitelinks : 113.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhopal &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bhopal &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q80989</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="313">
+                    <coordinates>77.40289,23.25469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>Madhya Pradesh</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 137.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Madhya_Pradesh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Madhya_Pradesh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1188</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="315">
+                    <coordinates>77.417,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>wikivoyage</name>
+            <Placemark id="136">
+                <name>--</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="135">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="138">
+                <name>--</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="137">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="140">
+                <name>--</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="139">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="142">
+                <name>--</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="141">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="144">
+                <name>--</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="143">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="146">
+                <name>The Residency </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 08, Zone -1, Maharana Pratap Nagar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="145">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="148">
+                <name>Noor us Sabah Hotel </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : V.I.P. Road, Koh-e-Fiza  &lt;br&gt;
+                url  : http://www.noorussabahpalace.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="147">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="150">
+                <name>Nisarga </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 211, Zone 1, Maharana Pratap Nagar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="149">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>Lake View Ashoka </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://www.theashokgroup.com  &lt;br&gt;
+                description  : Shiamla Hills Opp. TV Tower Premises. &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="151">
+                    <coordinates>77.3881817034937,23.2427389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="154">
+                <name>Jehan Numa Palace </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 157, Shamla Hill  &lt;br&gt;
+                url  : http://www.hoteljehanumapalace.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="153">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>Hotel Savera Inn </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Lalwani Compound Hamidia Rd  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="155">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="158">
+                <name>Hotel Ganpati </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 256, Zone-2 M.P. Nagar  &lt;br&gt;
+                url  : http://www.hotelganpati.com  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="157">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="160">
+                <name>Hotel Arch Manor </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 243 A, Zone 1 MP Nagar  &lt;br&gt;
+                url  : http://archmanor.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="159">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>Amer Palace </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 209, Zone-1, Maharana Pratap Nagar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="161">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="164">
+                <name>--</name>
+                <description>
+                category  : Drink &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="163">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>Pin &amp; Pan Cafe </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Fortune Business Arcade, near Aakriti Ecocity, Bawadiya Kalan, Salaiya, Bhopal, Madhya Pradesh 462026  &lt;br&gt;
+                url  : https://pinandpancafe.com/  &lt;br&gt;
+                description  : Pin &amp; Pan Cafe - A Global Cuisine Restaurant. &lt;br&gt;
+                </description>
+                <styleUrl>#68</styleUrl>
+                <Point id="165">
+                    <coordinates>77.432877,23.174328,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>Manohar Dairy and Restaurant </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Hamidiya Road  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Clean restaurant with a very wide selection of food and sweets. Tasty but portions are small. They seem to have a few branches in the city. &lt;br&gt;
+                </description>
+                <styleUrl>#68</styleUrl>
+                <Point id="167">
+                    <coordinates>77.407818,23.2642566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="170">
+                <name>Indian Coffee House </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : New Market  &lt;br&gt;
+                url  : http://www.indiancoffeehouse.com  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#68</styleUrl>
+                <Point id="169">
+                    <coordinates>72.874992,19.12515,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="172">
+                <name>Hotel Rajhans </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Tasty and unlimited thalis at a very reasonable price. &lt;br&gt;
+                </description>
+                <styleUrl>#68</styleUrl>
+                <Point id="171">
+                    <coordinates>77.40401,23.26391,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>Chhapan Bhog </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : new market  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Basically a restaurant-cum-sweets shop. &lt;br&gt;
+                </description>
+                <styleUrl>#68</styleUrl>
+                <Point id="173">
+                    <coordinates>77.4002749,23.2352467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>DB city Mall </name>
+                <description>
+                category  : Buy &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://www.dbcity.in/  &lt;br&gt;
+                description  : It has 7 anchor shops, 180 shops, 6-screen multiplex, 4-star hotel and a food court. &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="175">
+                    <coordinates>77.4299,23.2326,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="178">
+                <name>Aashima Mall </name>
+                <description>
+                category  : Buy &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://www.aashimamall.com/  &lt;br&gt;
+                description  : Has a hypermarket, a 7-screen multiplex and food court. &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="177">
+                    <coordinates>77.456182,23.182838,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>--</name>
+                <description>
+                category  : Do &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="179">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="182">
+                <name>Lower Lake </name>
+                <description>
+                category  : See_Lakes &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : This lake is separated from the Upper Lake by an over-bridge. It was created during the Mughal empire. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="181">
+                    <coordinates>77.40565,23.24848,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="184">
+                <name>Upper Lake </name>
+                <description>
+                category  : See_Lakes &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : A beautiful water body created during the time of King Bhoj. The water of Upper Lake was reputed to have cured Raja Bhoj of a skin disease which otherwise remained untreated. Today, you can rent boats, indulge in other water sports related activities and enjoy the splendour of the lake. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="183">
+                    <coordinates>77.33819,23.25324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>Bhimbetka </name>
+                <description>
+                category  : See_Museums &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Bhimbetka is a World Heritage site and has some of the oldest cave paintings of the world. It is about 40&amp;nbsp;km from Bhopal. Taxi from Bhopal is a comfortable option to reach. A guide at the cave paintings is recommended and costs around ₹150. You can go there by bus as well. Tell the bus driver where you are going and he will drop you off at the T junction on main road. Clear signs will now guide you through a 3&amp;nbsp;km walk uphill to the cave paintings. To get back, wait at the main road and waive for a bus or taxi.  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="185">
+                    <coordinates>77.6125,22.937222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="188">
+                <name>Regional Museum of Natural History </name>
+                <description>
+                category  : See_Museums &lt;br&gt;
+                address  : Shahpura Rd, near State Bank, E-5, Arera Colony &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Regional Museum of Natural History, Bhopal is a branch of the National Museum of Natural History, New Delhi, it is the center of an informal environment education, whose main purpose is to make people aware of environmental protection through various internal and external activities. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="187">
+                    <coordinates>77.426155,23.213743,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="190">
+                <name>Bharat Bhavan </name>
+                <description>
+                category  : See_Museums &lt;br&gt;
+                address  : J. Swaminathan Marg, Shamla Hills, Near Upper Lake  &lt;br&gt;
+                url  : http://bharatbhawan.org/  &lt;br&gt;
+                description  : Bharat Bhavan is a world-famous art complex and museum. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="189">
+                    <coordinates>77.39233,23.247024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>Manua Bhan Tekari </name>
+                <description>
+                category  : See_Temples &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : A very beautiful place with an ancient Shwetambar Jain temple on the hill. You can see a beautiful view of Bhopal from this Takeri. You can drive up to the temple but there is limited parking. There is parking available at the base of the hill. Ropeway cable car is available to go up. Tickets are ₹90 for two way ride and ₹60 for one way ride. Cash and UPI payments are accepted. &lt;br&gt;
+                </description>
+                <styleUrl>#112</styleUrl>
+                <Point id="191">
+                    <coordinates>77.36401,23.28326,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>Laxminarayan Temple </name>
+                <description>
+                category  : See_Temples &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#112</styleUrl>
+                <Point id="193">
+                    <coordinates>77.52374,23.25152,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>Bhojeshwar Temple </name>
+                <description>
+                category  : See_Temples &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The construction of the Shiva temple began in the 11th century but was never completed. It boasts the largest monolithic Shivalinga in India. &lt;br&gt;
+                </description>
+                <styleUrl>#112</styleUrl>
+                <Point id="195">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>Taj-ul-Masajid</name>
+                <description>
+                category  : See_Mosques &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : One of the largest mosques in the country. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="197">
+                    <coordinates>77.39291,23.26299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="200">
+                <name>Moti Masjid</name>
+                <description>
+                category  : See_Mosques &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="199">
+                    <coordinates>77.3994280516371,23.25561735,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="202">
+                <name>Jama Masjid</name>
+                <description>
+                category  : See_Mosques &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="201">
+                    <coordinates>77.40202315265574,23.2586788,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>Idgah</name>
+                <description>
+                category  : See_Mosques &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="203">
+                    <coordinates>77.385696,23.2656639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>Taj-ul-Masajid</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : One of the largest mosques in the country. &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="205">
+                    <coordinates>77.39291,23.26299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>Moti Masjid</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="207">
+                    <coordinates>77.3994280516371,23.25561735,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>Jama Masjid</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="209">
+                    <coordinates>77.40202315265574,23.2586788,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="212">
+                <name>Idgah</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#100</styleUrl>
+                <Point id="211">
+                    <coordinates>77.385696,23.2656639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="214">
+                <name>--</name>
+                <description>
+                category  : Get around_By car &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="213">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>--</name>
+                <description>
+                category  : Get around &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="215">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="218">
+                <name>--</name>
+                <description>
+                category  : Get in_By car &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="217">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="220">
+                <name>--</name>
+                <description>
+                category  : Get in_By train &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#120</styleUrl>
+                <Point id="219">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>Raja Bhoj Airport </name>
+                <description>
+                category  : Get in_By plane &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : https://www.aai.aero/en/airports/bhopal  &lt;br&gt;
+                description  : Raja Bhoj Airport's terminal comprises separate sections for domestic and international flights. Separate entry and exit points have been made for national and international flights. A 1,500-capacity car park is outside the airport. [http://airindia.in/ Air India] links Bhopal with [[New Delhi]], [[Ahmedabad]], [[Hyderabad]], [[Indore]], [[Chennai]], [[Kolkata]] and [[Mumbai]]. SpiceJet Airlines, IndiGo Airlines and Air India are providing their servises from this airport.. &lt;br&gt;
+                </description>
+                <styleUrl>#124</styleUrl>
+                <Point id="221">
+                    <coordinates>77.3375,23.2875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="224">
+                <name>Raja Bhoj Airport </name>
+                <description>
+                category  : Get in &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : https://www.aai.aero/en/airports/bhopal  &lt;br&gt;
+                description  : Raja Bhoj Airport's terminal comprises separate sections for domestic and international flights. Separate entry and exit points have been made for national and international flights. A 1,500-capacity car park is outside the airport. [http://airindia.in/ Air India] links Bhopal with [[New Delhi]], [[Ahmedabad]], [[Hyderabad]], [[Indore]], [[Chennai]], [[Kolkata]] and [[Mumbai]]. SpiceJet Airlines, IndiGo Airlines and Air India are providing their servises from this airport.. &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="223">
+                    <coordinates>77.3375,23.2875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>--</name>
+                <description>
+                category  : Understand &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#36</styleUrl>
+                <Point id="225">
+                    <coordinates>77.401989,23.2584857,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>B</name>
+            <Placemark id="274">
+                <name>Makhanalal Chaturvedi National University of Journalism and Communication</name>
+                <description>                    category  : journalism school &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Makhanlal_Chaturvedi_National_University_of_Journalism_and_Communication &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6739364</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="273">
+                    <coordinates>77.431391666667,23.238344444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="276">
+                <name>Indian Institute of Science Education and Research, Bhopal</name>
+                <description>                    category  : research university &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Science_Education_and_Research,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6020697</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="275">
+                    <coordinates>77.275713888889,23.28835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="278">
+                <name>Bhoj Wetland</name>
+                <description>                    category  : lake &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhoj_Wetland &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4901892</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="277">
+                    <coordinates>77.34,23.25,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>Barkatullah University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Barkatullah_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4860912</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="279">
+                    <coordinates>77.45591,23.20253,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="282">
+                <name>Bharat Bhavan</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bharat_Bhavan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2767116</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="281">
+                    <coordinates>77.39233,23.247024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="284">
+                <name>Taj Mahal Palace</name>
+                <description>                    category  : palace &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Taj_Mahal_(palace) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Taj-Mahal-Palast &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7676724</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="283">
+                    <coordinates>77.4167,23.2499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>All India Institute of Medical Sciences, Bhopal</name>
+                <description>                    category  : medical school &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_Bhopal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15177601</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="285">
+                    <coordinates>77.460161111111,23.206758333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="288">
+                <name>Indira Gandhi Rashtriya Manav Sangrahalaya</name>
+                <description>                    category  : anthropology museum &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indira_Gandhi_Rashtriya_Manav_Sangrahalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6025006</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="287">
+                    <coordinates>77.37761,23.232279,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="290">
+                <name>Atal Bihari Vajpayee Hindi University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Hindi_Vishwavidyalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15643496</description>
+                <styleUrl>#28</styleUrl>
+                <Point id="289">
+                    <coordinates>77.419969444444,23.167397222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="134">
+            <styleUrl>#120</styleUrl>
+            <Point id="133">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

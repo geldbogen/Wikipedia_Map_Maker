@@ -1,0 +1,47 @@
+,itemLabel,lat,lon,address,url,thingLabel,description,fetched_coordinates,tier,color
+0,--,23.2584857,77.401989,,,Understand,,"(23.2584857, 77.401989)",wikivoyage,red
+0,Raja Bhoj Airport ,23.2875,77.3375, ,https://www.aai.aero/en/airports/bhopal ,Get in,"Raja Bhoj Airport's terminal comprises separate sections for domestic and international flights. Separate entry and exit points have been made for national and international flights. A 1,500-capacity car park is outside the airport. [http://airindia.in/ Air India] links Bhopal with [[New Delhi]], [[Ahmedabad]], [[Hyderabad]], [[Indore]], [[Chennai]], [[Kolkata]] and [[Mumbai]]. SpiceJet Airlines, IndiGo Airlines and Air India are providing their servises from this airport..","(23.2875, 77.3375)",wikivoyage,red
+0,Raja Bhoj Airport ,23.2875,77.3375, ,https://www.aai.aero/en/airports/bhopal ,Get in_By plane,"Raja Bhoj Airport's terminal comprises separate sections for domestic and international flights. Separate entry and exit points have been made for national and international flights. A 1,500-capacity car park is outside the airport. [http://airindia.in/ Air India] links Bhopal with [[New Delhi]], [[Ahmedabad]], [[Hyderabad]], [[Indore]], [[Chennai]], [[Kolkata]] and [[Mumbai]]. SpiceJet Airlines, IndiGo Airlines and Air India are providing their servises from this airport..","(23.2875, 77.3375)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Get in_By train,,"(23.2584857, 77.401989)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Get in_By car,,"(23.2584857, 77.401989)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Get around,,"(23.2584857, 77.401989)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Get around_By car,,"(23.2584857, 77.401989)",wikivoyage,red
+0,Idgah,23.2656639,77.385696,,,See,,"(23.2656639, 77.385696)",wikivoyage,red
+1,Jama Masjid,23.2586788,77.40202315265574,,,See,,"(23.2586788, 77.40202315265574)",wikivoyage,red
+2,Moti Masjid,23.25561735,77.3994280516371,,,See,,"(23.25561735, 77.3994280516371)",wikivoyage,red
+3,Taj-ul-Masajid,23.26299,77.39291,,,See,One of the largest mosques in the country.,"(23.26299, 77.39291)",wikivoyage,red
+0,Idgah,23.2656639,77.385696,,,See_Mosques,,"(23.2656639, 77.385696)",wikivoyage,red
+1,Jama Masjid,23.2586788,77.40202315265574,,,See_Mosques,,"(23.2586788, 77.40202315265574)",wikivoyage,red
+2,Moti Masjid,23.25561735,77.3994280516371,,,See_Mosques,,"(23.25561735, 77.3994280516371)",wikivoyage,red
+3,Taj-ul-Masajid,23.26299,77.39291,,,See_Mosques,One of the largest mosques in the country.,"(23.26299, 77.39291)",wikivoyage,red
+0,Bhojeshwar Temple ,0.0,0.0, , ,See_Temples,The construction of the Shiva temple began in the 11th century but was never completed. It boasts the largest monolithic Shivalinga in India.,"(0, 0)",wikivoyage,red
+1,Laxminarayan Temple ,23.25152,77.52374, , ,See_Temples,,"(23.25152, 77.52374)",wikivoyage,red
+2,Manua Bhan Tekari ,23.28326,77.36401, , ,See_Temples,A very beautiful place with an ancient Shwetambar Jain temple on the hill. You can see a beautiful view of Bhopal from this Takeri. You can drive up to the temple but there is limited parking. There is parking available at the base of the hill. Ropeway cable car is available to go up. Tickets are ₹90 for two way ride and ₹60 for one way ride. Cash and UPI payments are accepted.,"(23.28326, 77.36401)",wikivoyage,red
+0,Bharat Bhavan ,23.247024,77.39233,"J. Swaminathan Marg, Shamla Hills, Near Upper Lake ",http://bharatbhawan.org/ ,See_Museums,Bharat Bhavan is a world-famous art complex and museum.,"(23.247024, 77.39233)",wikivoyage,red
+1,Regional Museum of Natural History ,23.213743,77.426155,"Shahpura Rd, near State Bank, E-5, Arera Colony", ,See_Museums,"Regional Museum of Natural History, Bhopal is a branch of the National Museum of Natural History, New Delhi, it is the center of an informal environment education, whose main purpose is to make people aware of environmental protection through various internal and external activities.","(23.213743, 77.426155)",wikivoyage,red
+2,Bhimbetka ,22.937222,77.6125, , ,See_Museums,"Bhimbetka is a World Heritage site and has some of the oldest cave paintings of the world. It is about 40&nbsp;km from Bhopal. Taxi from Bhopal is a comfortable option to reach. A guide at the cave paintings is recommended and costs around ₹150. You can go there by bus as well. Tell the bus driver where you are going and he will drop you off at the T junction on main road. Clear signs will now guide you through a 3&nbsp;km walk uphill to the cave paintings. To get back, wait at the main road and waive for a bus or taxi. ","(22.937222, 77.6125)",wikivoyage,red
+0,Upper Lake ,23.25324,77.33819, , ,See_Lakes,"A beautiful water body created during the time of King Bhoj. The water of Upper Lake was reputed to have cured Raja Bhoj of a skin disease which otherwise remained untreated. Today, you can rent boats, indulge in other water sports related activities and enjoy the splendour of the lake.","(23.25324, 77.33819)",wikivoyage,red
+1,Lower Lake ,23.24848,77.40565, , ,See_Lakes,This lake is separated from the Upper Lake by an over-bridge. It was created during the Mughal empire.,"(23.24848, 77.40565)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Do,,"(23.2584857, 77.401989)",wikivoyage,red
+0,Aashima Mall ,23.182838,77.456182, ,http://www.aashimamall.com/ ,Buy,"Has a hypermarket, a 7-screen multiplex and food court.","(23.182838, 77.456182)",wikivoyage,red
+1,DB city Mall ,23.2326,77.4299, ,http://www.dbcity.in/ ,Buy,"It has 7 anchor shops, 180 shops, 6-screen multiplex, 4-star hotel and a food court.","(23.2326, 77.4299)",wikivoyage,red
+0,Chhapan Bhog ,23.2352467,77.4002749,new market , ,Eat,Basically a restaurant-cum-sweets shop.,"(23.2352467, 77.4002749)",wikivoyage,red
+1,Hotel Rajhans ,23.26391,77.40401, , ,Eat,Tasty and unlimited thalis at a very reasonable price.,"(23.26391, 77.40401)",wikivoyage,red
+2,Indian Coffee House ,19.12515,72.874992,New Market ,http://www.indiancoffeehouse.com ,Eat,,"(19.12515, 72.874992)",wikivoyage,red
+3,Manohar Dairy and Restaurant ,23.2642566,77.407818,Hamidiya Road , ,Eat,Clean restaurant with a very wide selection of food and sweets. Tasty but portions are small. They seem to have a few branches in the city.,"(23.2642566, 77.407818)",wikivoyage,red
+4,Pin & Pan Cafe ,23.174328,77.432877,"Fortune Business Arcade, near Aakriti Ecocity, Bawadiya Kalan, Salaiya, Bhopal, Madhya Pradesh 462026 ",https://pinandpancafe.com/ ,Eat,Pin & Pan Cafe - A Global Cuisine Restaurant.,"(23.174328, 77.432877)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Drink,,"(23.2584857, 77.401989)",wikivoyage,red
+0,Amer Palace ,0.0,0.0,"209, Zone-1, Maharana Pratap Nagar ", ,Sleep,,"(0, 0)",wikivoyage,red
+1,Hotel Arch Manor ,0.0,0.0,"243 A, Zone 1 MP Nagar ",http://archmanor.com/ ,Sleep,,"(0, 0)",wikivoyage,red
+2,Hotel Ganpati ,0.0,0.0,"256, Zone-2 M.P. Nagar ",http://www.hotelganpati.com ,Sleep,,"(0, 0)",wikivoyage,red
+3,Hotel Savera Inn ,0.0,0.0,Lalwani Compound Hamidia Rd , ,Sleep,,"(0, 0)",wikivoyage,red
+4,Jehan Numa Palace ,0.0,0.0,"157, Shamla Hill ",http://www.hoteljehanumapalace.com/ ,Sleep,,"(0, 0)",wikivoyage,red
+5,Lake View Ashoka ,23.2427389,77.3881817034937, ,http://www.theashokgroup.com ,Sleep,Shiamla Hills Opp. TV Tower Premises.,"(23.2427389, 77.3881817034937)",wikivoyage,red
+6,Nisarga ,0.0,0.0,"211, Zone 1, Maharana Pratap Nagar ", ,Sleep,,"(0, 0)",wikivoyage,red
+7,Noor us Sabah Hotel ,0.0,0.0,"V.I.P. Road, Koh-e-Fiza ",http://www.noorussabahpalace.com/ ,Sleep,,"(0, 0)",wikivoyage,red
+8,The Residency ,0.0,0.0,"08, Zone -1, Maharana Pratap Nagar ", ,Sleep,,"(0, 0)",wikivoyage,red
+0,--,23.2584857,77.401989,,,Go next,,"(23.2584857, 77.401989)",wikivoyage,red
+1,--,23.2584857,77.401989,,,Go next,,"(23.2584857, 77.401989)",wikivoyage,red
+2,--,23.2584857,77.401989,,,Go next,,"(23.2584857, 77.401989)",wikivoyage,red
+3,--,23.2584857,77.401989,,,Go next,,"(23.2584857, 77.401989)",wikivoyage,red
+4,--,23.2584857,77.401989,,,Go next,,"(23.2584857, 77.401989)",wikivoyage,red

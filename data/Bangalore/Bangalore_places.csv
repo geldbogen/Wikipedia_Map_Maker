@@ -1,0 +1,44 @@
+,item,articleDE,articleEN,location,distance,lat,lon,sitelinks,thing,itemLabel,thingLabel,tier,color
+0,http://www.wikidata.org/entity/Q23538,https://de.wikipedia.org/wiki/%C3%84quator,https://en.wikipedia.org/wiki/Equator,Point(0.0 0.0),0.0,0.0,0.0,154,http://www.wikidata.org/entity/Q146591,equator,circle of latitude,S,orange
+2,http://www.wikidata.org/entity/Q16896007,https://de.wikipedia.org/wiki/Null_Island,https://en.wikipedia.org/wiki/Null_Island,Point(0.0 0.0),0.0,0.0,0.0,24,http://www.wikidata.org/entity/Q960648,Null Island,point of interest,S,orange
+3,http://www.wikidata.org/entity/Q24041662,,https://en.wikipedia.org/wiki/Soul_buoy,Point(0.0 0.0),0.0,0.0,0.0,3,http://www.wikidata.org/entity/Q2922685,Soul buoy,weather buoy,C,yellow
+4,http://www.wikidata.org/entity/Q128406604,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128406604,Natura 2000 protected area,D,blue
+5,http://www.wikidata.org/entity/Q128427526,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128427526,Natura 2000 protected area,D,blue
+6,http://www.wikidata.org/entity/Q128427643,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128427643,Natura 2000 protected area,D,blue
+7,http://www.wikidata.org/entity/Q128428106,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128428106,Natura 2000 protected area,D,blue
+8,http://www.wikidata.org/entity/Q128428716,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128428716,Natura 2000 protected area,D,blue
+9,http://www.wikidata.org/entity/Q128428866,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128428866,Natura 2000 protected area,D,blue
+10,http://www.wikidata.org/entity/Q128429541,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429541,Natura 2000 protected area,D,blue
+11,http://www.wikidata.org/entity/Q128429756,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429756,Natura 2000 protected area,D,blue
+12,http://www.wikidata.org/entity/Q128429916,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429916,Natura 2000 protected area,D,blue
+13,http://www.wikidata.org/entity/Q128429927,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429927,Natura 2000 protected area,D,blue
+14,http://www.wikidata.org/entity/Q128429938,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429938,Natura 2000 protected area,D,blue
+15,http://www.wikidata.org/entity/Q128429948,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429948,Natura 2000 protected area,D,blue
+16,http://www.wikidata.org/entity/Q128429958,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429958,Natura 2000 protected area,D,blue
+17,http://www.wikidata.org/entity/Q128429969,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429969,Natura 2000 protected area,D,blue
+18,http://www.wikidata.org/entity/Q128429980,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429980,Natura 2000 protected area,D,blue
+19,http://www.wikidata.org/entity/Q128429990,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128429990,Natura 2000 protected area,D,blue
+20,http://www.wikidata.org/entity/Q128430001,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430001,Natura 2000 protected area,D,blue
+21,http://www.wikidata.org/entity/Q128430012,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430012,Natura 2000 protected area,D,blue
+22,http://www.wikidata.org/entity/Q128430022,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430022,Natura 2000 protected area,D,blue
+23,http://www.wikidata.org/entity/Q128430032,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430032,Natura 2000 protected area,D,blue
+24,http://www.wikidata.org/entity/Q128430043,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430043,Natura 2000 protected area,D,blue
+25,http://www.wikidata.org/entity/Q128430053,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430053,Natura 2000 protected area,D,blue
+26,http://www.wikidata.org/entity/Q128430063,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430063,Natura 2000 protected area,D,blue
+27,http://www.wikidata.org/entity/Q128430074,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430074,Natura 2000 protected area,D,blue
+28,http://www.wikidata.org/entity/Q128430084,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430084,Natura 2000 protected area,D,blue
+29,http://www.wikidata.org/entity/Q128430095,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430095,Natura 2000 protected area,D,blue
+30,http://www.wikidata.org/entity/Q128430108,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430108,Natura 2000 protected area,D,blue
+31,http://www.wikidata.org/entity/Q128430125,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430125,Natura 2000 protected area,D,blue
+32,http://www.wikidata.org/entity/Q128430141,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430141,Natura 2000 protected area,D,blue
+33,http://www.wikidata.org/entity/Q128430151,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430151,Natura 2000 protected area,D,blue
+34,http://www.wikidata.org/entity/Q128430190,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430190,Natura 2000 protected area,D,blue
+35,http://www.wikidata.org/entity/Q128430203,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430203,Natura 2000 protected area,D,blue
+36,http://www.wikidata.org/entity/Q128430213,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430213,Natura 2000 protected area,D,blue
+37,http://www.wikidata.org/entity/Q128430223,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430223,Natura 2000 protected area,D,blue
+38,http://www.wikidata.org/entity/Q128430234,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430234,Natura 2000 protected area,D,blue
+39,http://www.wikidata.org/entity/Q128430244,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430244,Natura 2000 protected area,D,blue
+40,http://www.wikidata.org/entity/Q128430254,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430254,Natura 2000 protected area,D,blue
+41,http://www.wikidata.org/entity/Q128430264,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430264,Natura 2000 protected area,D,blue
+42,http://www.wikidata.org/entity/Q128430275,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430275,Natura 2000 protected area,D,blue
+43,http://www.wikidata.org/entity/Q128430285,,,Point(0.0 0.0),0.0,0.0,0.0,1,http://www.wikidata.org/entity/Q15069452,Q128430285,Natura 2000 protected area,D,blue

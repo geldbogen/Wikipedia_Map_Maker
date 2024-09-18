@@ -2,6 +2,7 @@ import requests
 import wikitextparser as wtp
 import pandas as pd
 from geopy.geocoders import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
 
 # 'https://en.wikipedia.org/wiki/Special:ApiSandbox#action=parse&format=json&page=house&prop=wikitext&section=3&disabletoc=1'
 
@@ -11,6 +12,7 @@ class WikivoyageFetcher():
         self.to_fetch_place_name = to_fetch_place_name.lower()
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
+        self.geolocator.geocode = RateLimiter(self.geolocator.geocode, min_delay_seconds = 1)
         pass
 
     def fetch(self) -> pd.DataFrame:
@@ -23,6 +25,7 @@ class WikivoyageFetcher():
             self.fill_missing_coordinates_in_frame(frame)
             return_frame = pd.concat([return_frame,frame])
         
+        self.replace_duplicates_in_wikivoyage_frame(return_frame)
 
         return_frame['tier'] = return_frame.apply(lambda x : 'wikivoyage_' + x['description'], axis = 1)
 
@@ -101,8 +104,13 @@ class WikivoyageFetcher():
     def fill_missing_coordinates_in_frame(self, df : pd.DataFrame):
 
         def help_function(pd_series : pd.Series):
-            if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == '') and pd_series.at['address'].strip() != '':
-                location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['address']) + ' ' + self.to_fetch_place_name)
+            if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == ''):
+                
+                if pd_series.at['address'].strip() == '':
+                    location = self.geolocator.geocode(pd_series.at['itemLabel'] + ' ' + self.to_fetch_place_name)
+                else:
+                    location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['address']) + ' ' + self.to_fetch_place_name)
+                
                 if location:
                     x = location.latitude
                     y = location.longitude
@@ -126,6 +134,11 @@ class WikivoyageFetcher():
         address_string = address_string.lstrip('ul. ')
         # address_string = address_string.strip('ul. ')
         return address_string
+    
+    def replace_duplicates_in_wikivoyage_frame(self, wikivoyage_frame : pd.DataFrame):
+        wikivoyage_frame = wikivoyage_frame.iloc[::-1]
+        wikivoyage_frame = wikivoyage_frame.drop_duplicates(subset=['fetched_coordinates'])
+        
 if __name__ == '__main__':
     my_voyage_fetcher = WikivoyageFetcher('Leipzig')
     df = my_voyage_fetcher.fetch()
