@@ -6,7 +6,7 @@ class KmlHelper():
         self.place_name = place_name
         self.data_frame = data_frame.iloc[::-1]
         self.kml = simplekml.Kml()
-        self.kml.document.name = 'Unbenannte Karte'
+        self.kml.name = place_name
         self.tiername_to_folder_dict = dict()
         self.final_to_replace_dict  : dict[str,str] = dict()
 
@@ -26,8 +26,6 @@ class KmlHelper():
         self.test_highlight_style.iconstyle.colormode = None
         self.test_highlight_style.labelstyle.colormode = None
         self.test_normal_style._id = 'sadascsds'
-        print(self.test_normal_style._id)
-
 
 
         self.test_stylemap = simplekml.StyleMap(normalstyle=self.test_normal_style,highlightstyle=self.test_highlight_style)
@@ -234,6 +232,7 @@ class KmlHelper():
         self.dummy_point.stylemap = self.style_map_B
         self.dummy_point.stylemap = self.style_map_C
         self.dummy_point.stylemap = self.style_map_D
+        self.dummy_point.stylemap = self.style_map_graves
         self.dummy_point.stylemap = self.style_map_atlas_obscura
         self.dummy_point.stylemap = self.style_map_wikivoyage_museums
 
@@ -295,6 +294,8 @@ class KmlHelper():
                 return self.style_map_D
             case 'atlas_obscura':
                 return self.style_map_atlas_obscura
+            case 'graves':
+                return self.style_map_graves
             case 'wikivoyage':
                 match pd_series.at['thingLabel']:
                     case 'See_Museums and art galleries':

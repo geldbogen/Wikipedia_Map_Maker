@@ -9,7 +9,7 @@ from geopy.extra.rate_limiter import RateLimiter
 
 class WikivoyageFetcher():
     def __init__(self, to_fetch_place_name : str) -> None:
-        self.to_fetch_place_name = to_fetch_place_name.lower()
+        self.to_fetch_place_name = to_fetch_place_name.replace(' ', '_')
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
         self.geolocator.geocode = RateLimiter(self.geolocator.geocode, min_delay_seconds = 1)
@@ -107,7 +107,9 @@ class WikivoyageFetcher():
             if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == ''):
                 
                 if pd_series.at['address'].strip() == '':
-                    location = self.geolocator.geocode(pd_series.at['itemLabel'] + ' ' + self.to_fetch_place_name)
+                    location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['itemLabel']) + ' ' + self.to_fetch_place_name)
+                    if not location:
+                        location = self.geolocator.geocode(pd_series.at['itemLabel'])
                 else:
                     location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['address']) + ' ' + self.to_fetch_place_name)
                 
@@ -132,6 +134,7 @@ class WikivoyageFetcher():
     def prepare_address_string_for_geocode(self, address_string : str) -> str:
         address_string = address_string.strip()
         address_string = address_string.lstrip('ul. ')
+        address_string = address_string.strip('"')
         # address_string = address_string.strip('ul. ')
         return address_string
     

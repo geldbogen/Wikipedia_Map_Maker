@@ -14,7 +14,7 @@ import atlas_obscura_fetcher
 
 class AllFetcher():
 
-    def __init__(self, place_name : str, country_name : str,  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
+    def __init__(self, place_name : str, country_name : str = '',  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
         if (lat, lon) == (0.0 , 0.0):
             print('asdsadacsas')
             value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
@@ -30,7 +30,14 @@ class AllFetcher():
         self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',self.lat,self.lon,distance)
         self.wikivoyage_fetcher = WikivoyageFetcher(place_name)
         self.place_name = place_name
-        self.country_name = country_name
+
+        if country_name == '':
+            value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
+            if value:
+                self.country_name = value.country
+            
+        else:
+            self.country_name = country_name
 
     def go(self):
         places_df = self.wikidata_fetcher.fetch_table('places')
@@ -40,9 +47,6 @@ class AllFetcher():
         except FileNotFoundError:
             atlas_obscura_fetcher.fetch_country(self.country_name)
             relevant_ao_df = pd.read_csv(os.path.join('data', 'ao_country_data', f'ao_{self.country_name}.csv'.lower()))
-
-        # itemLabel is the standard column for the name of the place
-        relevant_ao_df['itemLabel'] = relevant_ao_df['name']
 
         wikivoyage_df = self.wikivoyage_fetcher.fetch()
         # wikivoyage_df = pd.DataFrame()
@@ -107,5 +111,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Bhopal', 'India', distance=30)
+    my_all_fetcher = AllFetcher('Le Havre', 'France', distance=30)
     my_all_fetcher.go()
