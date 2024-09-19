@@ -611,21 +611,6 @@
             </Pair>
         </StyleMap>
         <Folder id="11">
-            <name>graves</name>
-            <Placemark id="308">
-                <name>André Gide</name>
-                <description>                    category  : nan &lt;br&gt;   
-                    sitelinks : 138.0 &lt;br&gt;   
-                    articleEN : nan &lt;br&gt;             
-                    articleDE : nan &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q47484</description>
-                <styleUrl>#46</styleUrl>
-                <Point id="307">
-                    <coordinates>0.26376,49.664141,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="12">
             <name>C</name>
             <Placemark id="310">
                 <name>Halle d'Étretat</name>
@@ -1204,510 +1189,6 @@
                 </Point>
             </Placemark>
             <Placemark id="406">
-                <name>Hôtel de Brocques</name>
-                <description>                    category  : private mansion &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951844</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="405">
-                    <coordinates>0.11175,49.48906,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="408">
-                <name>Arsenal du Havre</name>
-                <description>                    category  : arsenal &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951843</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="407">
-                    <coordinates>0.10919444444444,49.489166666667,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="410">
-                <name>Château d'Harfleur</name>
-                <description>                    category  : château &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951838</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="409">
-                    <coordinates>0.200012,49.507769,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="412">
-                <name>Église Saint-Pierre de Graimbouville</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951833</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="411">
-                    <coordinates>0.334321,49.575496,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="414">
-                <name>Église Saint-Denis d'Écrainville</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951799</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="413">
-                    <coordinates>0.325288,49.649393,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="416">
-                <name>Château de Cuverville</name>
-                <description>                    category  : château &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951784</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="415">
-                    <coordinates>0.273285,49.658961,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="418">
-                <name>Église Saint-Jean d'Abbetot</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951777</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="417">
-                    <coordinates>0.385932,49.499267,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="420">
-                <name>Église Saint-Léonard</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951776</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="419">
-                    <coordinates>0.41262,49.507481,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="422">
-                <name>Temple protestant de Bolbec</name>
-                <description>                    category  : Protestant church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951740</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="421">
-                    <coordinates>0.472004,49.572636,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="424">
-                <name>Château de Bénouville</name>
-                <description>                    category  : château &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951728</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="423">
-                    <coordinates>0.243893,49.714529,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="426">
-                <name>église Notre-Dame d'Angerville-l'Orcher</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22951715</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="425">
-                    <coordinates>0.28176111111111,49.588369444444,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="428">
-                <name>Château de Saint-Maclou</name>
-                <description>                    category  : château &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22950735</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="427">
-                    <coordinates>0.41177,49.360821,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="430">
-                <name>Église Saint-Martin de Fatouville-Grestain</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22950345</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="429">
-                    <coordinates>0.32721,49.40561,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="432">
-                <name>Église Saint-Ouen de Bouquelon</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22950261</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="431">
-                    <coordinates>0.4902,49.3961,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="434">
-                <name>Église Saint-Mélain de Berville-sur-Mer</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22950249</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="433">
-                    <coordinates>0.3606,49.433,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="436">
-                <name>église Saint-Sauveur de Beaumont-en-Auge</name>
-                <description>                    category  : priory &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q21850137</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="435">
-                    <coordinates>0.1109737,49.2786984,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="438">
-                <name>église Saint-Jean-Baptiste de Barneville-la-Bertran</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q21416497</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="437">
-                    <coordinates>0.18722,49.38833,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="440">
-                <name>Hôtel des Ingénieurs des Tréfileries</name>
-                <description>                    category  : private mansion &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q21169839</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="439">
-                    <coordinates>0.154399,49.490127,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="442">
-                <name>Casino de Trouville-sur-Mer</name>
-                <description>                    category  : casino &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20970987</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="441">
-                    <coordinates>0.078841,49.366132,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="444">
-                <name>Casino of Cabourg</name>
-                <description>                    category  : casino &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20970974</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="443">
-                    <coordinates>-0.116124,49.293714,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="446">
-                <name>Vergetot Churchyard</name>
-                <description>                    category  : cemetery &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20666180</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="445">
-                    <coordinates>0.28080555555556,49.619222222222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="448">
-                <name>Etretat Churchyard Extension</name>
-                <description>                    category  : cemetery &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20644459</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="447">
-                    <coordinates>0.21211111111111,49.7075,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="450">
-                <name>Deauville Communal Cemetery</name>
-                <description>                    category  : cemetery &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20644432</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="449">
-                    <coordinates>0.071666666666667,49.34425,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="452">
-                <name>Honfleur (St. Leonard) Communal Cemetery</name>
-                <description>                    category  : cemetery &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20441099</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="451">
-                    <coordinates>0.2425,49.415417,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="454">
-                <name>Trouville Communal Cemetery</name>
-                <description>                    category  : cemetery &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20230001</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="453">
-                    <coordinates>0.0928056,49.3575,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="456">
-                <name>Chapelle aux lierres</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20127523</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="455">
-                    <coordinates>0.14556,49.40194,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="458">
-                <name>Hôtel de ville de Pont-l'Évêque</name>
-                <description>                    category  : town hall &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q20083809</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="457">
-                    <coordinates>0.183333,49.285,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="460">
-                <name>Aître de Brisgaret</name>
-                <description>                    category  : churchyard &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q19952813</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="459">
-                    <coordinates>0.1964,49.5488,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="462">
-                <name>église Saint-Germain de Drubec</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q19853423</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="461">
-                    <coordinates>0.11361,49.25556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="464">
-                <name>église Saint-Pierre de Saint-Pierre-Azif</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q19806186</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="463">
-                    <coordinates>0.04694,49.29639,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="466">
-                <name>Église Saint-Germain de Branville</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q18925333</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="465">
-                    <coordinates>0.02361,49.27306,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="468">
-                <name>Hôtel Montpensier</name>
-                <description>                    category  : private mansion &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q18736766</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="467">
-                    <coordinates>0.185,49.2853,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="470">
-                <name>chapelle Notre-Dame-de-Grâce d'Équemauville</name>
-                <description>                    category  : chapel &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q18713490</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="469">
-                    <coordinates>0.221691,49.422853,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="472">
-                <name>chapelle Saint-Meuf</name>
-                <description>                    category  : chapel &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q18360995</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="471">
-                    <coordinates>0.28194,49.29778,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="474">
-                <name>Église Saint-Thomas de Touques</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q17855687</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="473">
-                    <coordinates>0.10333,49.34472,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="476">
-                <name>old Honfleur basin, in France</name>
-                <description>                    category  : harbor basin &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q16682634</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="475">
-                    <coordinates>0.233161,49.4203,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="478">
-                <name>Église Saint-Vigor de Saint-Vigor-d'Ymonville</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15953982</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="477">
-                    <coordinates>0.3606,49.4947,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="480">
-                <name>Église Saint-Pierre de Touques</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15953919</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="479">
-                    <coordinates>0.10306,49.3425,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="482">
-                <name>Église Saint-Hymer de Saint-Hymer</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15953686</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="481">
-                    <coordinates>0.17361,49.2533,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="484">
-                <name>Église Saint-Germain</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15953666</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="483">
-                    <coordinates>0.2553,49.5675,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="486">
-                <name>Hôtel des Roches Noires</name>
-                <description>                    category  : apartment &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15950835</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="485">
-                    <coordinates>0.084007,49.372342,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="488">
-                <name>Grenier à sel d'Honfleur</name>
-                <description>                    category  : Salt cellar &lt;br&gt;   
-                    sitelinks : 2.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15950298</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="487">
-                    <coordinates>0.23472,49.4194,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="490">
                 <name>Église Saint-Julien</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1715,11 +1196,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964192</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="489">
+                <Point id="405">
                     <coordinates>0.227031,49.291054,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="492">
+            <Placemark id="408">
                 <name>Prieuré de Saint-Hymer</name>
                 <description>                    category  : priory &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1727,11 +1208,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964185</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="491">
+                <Point id="407">
                     <coordinates>0.1732,49.2532,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="494">
+            <Placemark id="410">
                 <name>Prieuré Saint-Arnoult</name>
                 <description>                    category  : priory &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1739,11 +1220,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964165</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="493">
+                <Point id="409">
                     <coordinates>0.0882,49.3373,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="496">
+            <Placemark id="412">
                 <name>Siège de la vicomté d'Auge</name>
                 <description>                    category  : administrative building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1751,11 +1232,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964124</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="495">
+                <Point id="411">
                     <coordinates>0.182052,49.285162,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="498">
+            <Placemark id="414">
                 <name>Maison 59 rue de Vaucelle</name>
                 <description>                    category  : house &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1763,11 +1244,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964123</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="497">
+                <Point id="413">
                     <coordinates>0.18007,49.28274,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="500">
+            <Placemark id="416">
                 <name>Église Saint-Melaine</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1775,11 +1256,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964105</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="499">
+                <Point id="415">
                     <coordinates>0.18943,49.29194,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="502">
+            <Placemark id="418">
                 <name>Ancien couvent des dominicains de l'Isle</name>
                 <description>                    category  : convent &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1787,11 +1268,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964104</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="501">
+                <Point id="417">
                     <coordinates>0.18274,49.28528,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="504">
+            <Placemark id="420">
                 <name>église Saint-Denis de Pierrefitte-en-Auge</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1799,11 +1280,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964101</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="503">
+                <Point id="419">
                     <coordinates>0.201731,49.258598,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="506">
+            <Placemark id="422">
                 <name>Église Saint-Aubin de Beuzeval</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1811,11 +1292,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964011</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="505">
+                <Point id="421">
                     <coordinates>-0.0498,49.2988,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="508">
+            <Placemark id="424">
                 <name>well, Rue du Puits, Rue Bucaille</name>
                 <description>                    category  : water well &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1823,11 +1304,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22964001</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="507">
+                <Point id="423">
                     <coordinates>0.228487,49.420431,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="510">
+            <Placemark id="426">
                 <name>Manoir de Quiquengrogne</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1835,11 +1316,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963995</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="509">
+                <Point id="425">
                     <coordinates>0.2292,49.4192,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="512">
+            <Placemark id="428">
                 <name>Manoir de Conti</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1847,11 +1328,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963994</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="511">
+                <Point id="427">
                     <coordinates>0.1976,49.4189,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="514">
+            <Placemark id="430">
                 <name>Maison, 30 rue Haute</name>
                 <description>                    category  : house &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1859,11 +1340,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963953</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="513">
+                <Point id="429">
                     <coordinates>0.2321,49.4223,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="516">
+            <Placemark id="432">
                 <name>Maison, 28 rue Haute</name>
                 <description>                    category  : house &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1871,11 +1352,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963951</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="515">
+                <Point id="431">
                     <coordinates>0.2322,49.4223,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="518">
+            <Placemark id="434">
                 <name>Maison, 15 rue Haute</name>
                 <description>                    category  : multi-story urban building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1883,11 +1364,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963946</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="517">
+                <Point id="433">
                     <coordinates>0.2326,49.422,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="520">
+            <Placemark id="436">
                 <name>Église Saint-Étienne d'Honfleur</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1895,11 +1376,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963942</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="519">
+                <Point id="435">
                     <coordinates>0.233725,49.419712,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="522">
+            <Placemark id="438">
                 <name>Croix du cimetière</name>
                 <description>                    category  : cemetery cross &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1907,11 +1388,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963937</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="521">
+                <Point id="437">
                     <coordinates>0.0023,49.2688,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="524">
+            <Placemark id="440">
                 <name>Croix d'Heuland</name>
                 <description>                    category  : monumental cross &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1919,11 +1400,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963936</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="523">
+                <Point id="439">
                     <coordinates>-0.003472,49.27875,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="526">
+            <Placemark id="442">
                 <name>Manoir d'Angerville</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1931,11 +1412,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963929</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="525">
+                <Point id="441">
                     <coordinates>-0.04,49.2829,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="528">
+            <Placemark id="444">
                 <name>Église Saint-Martin de Gonneville-sur-Honfleur</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1943,11 +1424,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963928</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="527">
+                <Point id="443">
                     <coordinates>0.2405,49.3886,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="530">
+            <Placemark id="446">
                 <name>Croix de cimetière</name>
                 <description>                    category  : cemetery cross &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1955,11 +1436,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963865</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="529">
+                <Point id="445">
                     <coordinates>-0.023368,49.261073,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="532">
+            <Placemark id="448">
                 <name>Manoir de Boishibou</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1967,11 +1448,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963863</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="531">
+                <Point id="447">
                     <coordinates>-0.097051,49.286804,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="534">
+            <Placemark id="450">
                 <name>Église Saint-Laurent de Deauville</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1979,11 +1460,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963859</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="533">
+                <Point id="449">
                     <coordinates>0.073975,49.348384,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="536">
+            <Placemark id="452">
                 <name>Manoir de Prétot</name>
                 <description>                    category  : manor house &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -1991,11 +1472,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963819</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="535">
+                <Point id="451">
                     <coordinates>0.13303056,49.31758056,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="538">
+            <Placemark id="454">
                 <name>Manoir des Évêques de Lisieux</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2003,11 +1484,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963818</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="537">
+                <Point id="453">
                     <coordinates>0.13723889,49.31542222,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="540">
+            <Placemark id="456">
                 <name>Église Saint-Martin de Bourgeauville</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2015,11 +1496,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963760</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="539">
+                <Point id="455">
                     <coordinates>0.0551355,49.2730969,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="542">
+            <Placemark id="458">
                 <name>Église de l'Assomption-de-Notre-Dame de Bonneville-la-Louvet</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2027,11 +1508,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22963756</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="541">
+                <Point id="457">
                     <coordinates>0.3391063,49.2751164,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="544">
+            <Placemark id="460">
                 <name>Manoir de l'Écluse</name>
                 <description>                    category  : manor house &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2039,11 +1520,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952233</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="543">
+                <Point id="459">
                     <coordinates>0.287726,49.637065,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="546">
+            <Placemark id="462">
                 <name>Manoir d'Épaville</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2051,11 +1532,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952235</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="545">
+                <Point id="461">
                     <coordinates>0.198,49.5364,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="548">
+            <Placemark id="464">
                 <name>Église Saint-Aubin de Virville</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2063,11 +1544,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952198</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="547">
+                <Point id="463">
                     <coordinates>0.3535,49.5917,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="550">
+            <Placemark id="466">
                 <name>Croix de village de Saint-Romain-de-Colbosc</name>
                 <description>                    category  : monumental cross &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2075,11 +1556,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952167</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="549">
+                <Point id="465">
                     <coordinates>0.3567,49.5302,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="552">
+            <Placemark id="468">
                 <name>Q22952109</name>
                 <description>                    category  : château &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2087,11 +1568,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952109</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="551">
+                <Point id="467">
                     <coordinates>0.4427,49.5643,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="554">
+            <Placemark id="470">
                 <name>château de Saint-Eustache</name>
                 <description>                    category  : château &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2099,11 +1580,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952108</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="553">
+                <Point id="469">
                     <coordinates>0.4517,49.5557,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="556">
+            <Placemark id="472">
                 <name>église Saint-Eustache de Saint-Eustache-la-Forêt</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2111,11 +1592,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952110</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="555">
+                <Point id="471">
                     <coordinates>0.4519,49.5526,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="558">
+            <Placemark id="474">
                 <name>Manoir de Vitanval</name>
                 <description>                    category  : manor estate &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2123,11 +1604,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22952103</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="557">
+                <Point id="473">
                     <coordinates>0.0837,49.5113,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="560">
+            <Placemark id="476">
                 <name>Temple protestant de Montivilliers</name>
                 <description>                    category  : Protestant church building &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2135,11 +1616,11 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22951904</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="559">
+                <Point id="475">
                     <coordinates>0.1958,49.5433,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="562">
+            <Placemark id="478">
                 <name>Château de Mirville</name>
                 <description>                    category  : château &lt;br&gt;   
                     sitelinks : 2.0 &lt;br&gt;   
@@ -2147,8 +1628,512 @@
                     articleDE :  &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q22951897</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="561">
+                <Point id="477">
                     <coordinates>0.444226,49.609466,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="480">
+                <name>Hôtel de Brocques</name>
+                <description>                    category  : private mansion &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951844</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="479">
+                    <coordinates>0.11175,49.48906,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="482">
+                <name>Arsenal du Havre</name>
+                <description>                    category  : arsenal &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951843</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="481">
+                    <coordinates>0.10919444444444,49.489166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="484">
+                <name>Château d'Harfleur</name>
+                <description>                    category  : château &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951838</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="483">
+                    <coordinates>0.200012,49.507769,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="486">
+                <name>Église Saint-Pierre de Graimbouville</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951833</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="485">
+                    <coordinates>0.334321,49.575496,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="488">
+                <name>Église Saint-Denis d'Écrainville</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951799</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="487">
+                    <coordinates>0.325288,49.649393,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="490">
+                <name>Château de Cuverville</name>
+                <description>                    category  : château &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951784</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="489">
+                    <coordinates>0.273285,49.658961,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="492">
+                <name>Église Saint-Jean d'Abbetot</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951777</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="491">
+                    <coordinates>0.385932,49.499267,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="494">
+                <name>Église Saint-Léonard</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951776</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="493">
+                    <coordinates>0.41262,49.507481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="496">
+                <name>Temple protestant de Bolbec</name>
+                <description>                    category  : Protestant church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951740</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="495">
+                    <coordinates>0.472004,49.572636,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="498">
+                <name>Château de Bénouville</name>
+                <description>                    category  : château &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951728</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="497">
+                    <coordinates>0.243893,49.714529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="500">
+                <name>église Notre-Dame d'Angerville-l'Orcher</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22951715</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="499">
+                    <coordinates>0.28176111111111,49.588369444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="502">
+                <name>Château de Saint-Maclou</name>
+                <description>                    category  : château &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22950735</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="501">
+                    <coordinates>0.41177,49.360821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="504">
+                <name>Église Saint-Martin de Fatouville-Grestain</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22950345</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="503">
+                    <coordinates>0.32721,49.40561,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="506">
+                <name>Église Saint-Ouen de Bouquelon</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22950261</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="505">
+                    <coordinates>0.4902,49.3961,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="508">
+                <name>Église Saint-Mélain de Berville-sur-Mer</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22950249</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="507">
+                    <coordinates>0.3606,49.433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="510">
+                <name>église Saint-Sauveur de Beaumont-en-Auge</name>
+                <description>                    category  : priory &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21850137</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="509">
+                    <coordinates>0.1109737,49.2786984,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="512">
+                <name>église Saint-Jean-Baptiste de Barneville-la-Bertran</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21416497</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="511">
+                    <coordinates>0.18722,49.38833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="514">
+                <name>Hôtel des Ingénieurs des Tréfileries</name>
+                <description>                    category  : private mansion &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21169839</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="513">
+                    <coordinates>0.154399,49.490127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="516">
+                <name>Casino de Trouville-sur-Mer</name>
+                <description>                    category  : casino &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20970987</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="515">
+                    <coordinates>0.078841,49.366132,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="518">
+                <name>Casino of Cabourg</name>
+                <description>                    category  : casino &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20970974</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="517">
+                    <coordinates>-0.116124,49.293714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="520">
+                <name>Vergetot Churchyard</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20666180</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="519">
+                    <coordinates>0.28080555555556,49.619222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="522">
+                <name>Etretat Churchyard Extension</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20644459</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="521">
+                    <coordinates>0.21211111111111,49.7075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="524">
+                <name>Deauville Communal Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20644432</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="523">
+                    <coordinates>0.071666666666667,49.34425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="526">
+                <name>Honfleur (St. Leonard) Communal Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20441099</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="525">
+                    <coordinates>0.2425,49.415417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="528">
+                <name>Trouville Communal Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20230001</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="527">
+                    <coordinates>0.0928056,49.3575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="530">
+                <name>Chapelle aux lierres</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20127523</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="529">
+                    <coordinates>0.14556,49.40194,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="532">
+                <name>Hôtel de ville de Pont-l'Évêque</name>
+                <description>                    category  : town hall &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20083809</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="531">
+                    <coordinates>0.183333,49.285,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="534">
+                <name>Aître de Brisgaret</name>
+                <description>                    category  : churchyard &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19952813</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="533">
+                    <coordinates>0.1964,49.5488,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="536">
+                <name>église Saint-Germain de Drubec</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19853423</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="535">
+                    <coordinates>0.11361,49.25556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="538">
+                <name>église Saint-Pierre de Saint-Pierre-Azif</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19806186</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="537">
+                    <coordinates>0.04694,49.29639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="540">
+                <name>Église Saint-Germain de Branville</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18925333</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="539">
+                    <coordinates>0.02361,49.27306,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="542">
+                <name>Hôtel Montpensier</name>
+                <description>                    category  : private mansion &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18736766</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="541">
+                    <coordinates>0.185,49.2853,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="544">
+                <name>chapelle Notre-Dame-de-Grâce d'Équemauville</name>
+                <description>                    category  : chapel &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18713490</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="543">
+                    <coordinates>0.221691,49.422853,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="546">
+                <name>chapelle Saint-Meuf</name>
+                <description>                    category  : chapel &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18360995</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="545">
+                    <coordinates>0.28194,49.29778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="548">
+                <name>Église Saint-Thomas de Touques</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17855687</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="547">
+                    <coordinates>0.10333,49.34472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="550">
+                <name>old Honfleur basin, in France</name>
+                <description>                    category  : harbor basin &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16682634</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="549">
+                    <coordinates>0.233161,49.4203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="552">
+                <name>Église Saint-Vigor de Saint-Vigor-d'Ymonville</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15953982</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="551">
+                    <coordinates>0.3606,49.4947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="554">
+                <name>Église Saint-Pierre de Touques</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15953919</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="553">
+                    <coordinates>0.10306,49.3425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>Église Saint-Hymer de Saint-Hymer</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15953686</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="555">
+                    <coordinates>0.17361,49.2533,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>Église Saint-Germain</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15953666</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="557">
+                    <coordinates>0.2553,49.5675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="560">
+                <name>Hôtel des Roches Noires</name>
+                <description>                    category  : apartment &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15950835</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="559">
+                    <coordinates>0.084007,49.372342,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="562">
+                <name>Grenier à sel d'Honfleur</name>
+                <description>                    category  : Salt cellar &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15950298</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="561">
+                    <coordinates>0.23472,49.4194,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="564">
@@ -2860,18 +2845,6 @@
                 </Point>
             </Placemark>
             <Placemark id="682">
-                <name>Morelle</name>
-                <description>                    category  : river &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Morelle_(Seine) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q47089237</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="681">
-                    <coordinates>0.2281,49.4327,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="684">
                 <name>container catena</name>
                 <description>                    category  : sculpture &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
@@ -2879,11 +2852,11 @@
                     articleDE : https://de.wikipedia.org/wiki/Cat%C3%A8ne_de_Container &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q99422729</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="683">
+                <Point id="681">
                     <coordinates>0.10461115976796,49.484349313674,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="686">
+            <Placemark id="684">
                 <name>Manoir de la Salamandre</name>
                 <description>                    category  : house &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
@@ -2891,11 +2864,11 @@
                     articleDE : https://de.wikipedia.org/wiki/Manoir_de_la_Salamandre &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q98463136</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="685">
+                <Point id="683">
                     <coordinates>0.203842,49.7083,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="688">
+            <Placemark id="686">
                 <name>Ancien couvent des Franciscaines de Deauville</name>
                 <description>                    category  : media library &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
@@ -2903,47 +2876,11 @@
                     articleDE : https://de.wikipedia.org/wiki/Les_Franciscaines_Deauville &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q97365797</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="687">
+                <Point id="685">
                     <coordinates>0.06681,49.3543,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="690">
-                <name>fish Market of Trouville-sur-Mer</name>
-                <description>                    category  : market hall &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Fischhalle_(Trouville-sur-Mer) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22964292</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="689">
-                    <coordinates>0.081781,49.364912,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="692">
-                <name>Grand Hôtel d'Houlgate</name>
-                <description>                    category  : tenement &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Grand_H%C3%B4tel_(Houlgate) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q17629262</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="691">
-                    <coordinates>-0.074,49.3044,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="694">
-                <name>Halles de Dives-sur-Mer</name>
-                <description>                    category  : market hall &lt;br&gt;   
-                    sitelinks : 3.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Markthalle_(Dives-sur-Mer) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q15950336</description>
-                <styleUrl>#34</styleUrl>
-                <Point id="693">
-                    <coordinates>-0.09667,49.2864,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="696">
+            <Placemark id="688">
                 <name>Divette</name>
                 <description>                    category  : river &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
@@ -2951,23 +2888,35 @@
                     articleDE : https://de.wikipedia.org/wiki/Divette_(Dives) &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q3032244</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="695">
+                <Point id="687">
                     <coordinates>-0.1157,49.2824,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="698">
-                <name>Château de Fréfossé</name>
-                <description>                    category  : château &lt;br&gt;   
+            <Placemark id="690">
+                <name>Morelle</name>
+                <description>                    category  : river &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
                     articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Schloss_Fr%C3%A9foss%C3%A9 &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2241090</description>
+                    articleDE : https://de.wikipedia.org/wiki/Morelle_(Seine) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q47089237</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="697">
-                    <coordinates>0.206775,49.69319444,0.0</coordinates>
+                <Point id="689">
+                    <coordinates>0.2281,49.4327,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="700">
+            <Placemark id="692">
+                <name>fish Market of Trouville-sur-Mer</name>
+                <description>                    category  : market hall &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Fischhalle_(Trouville-sur-Mer) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22964292</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="691">
+                    <coordinates>0.081781,49.364912,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="694">
                 <name>Église Saint-Maclou de Sainneville</name>
                 <description>                    category  : church building &lt;br&gt;   
                     sitelinks : 3.0 &lt;br&gt;   
@@ -2975,8 +2924,44 @@
                     articleDE : https://de.wikipedia.org/wiki/St-Maclou_(Sainneville) &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q2315567</description>
                 <styleUrl>#34</styleUrl>
-                <Point id="699">
+                <Point id="693">
                     <coordinates>0.286,49.5572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="696">
+                <name>Grand Hôtel d'Houlgate</name>
+                <description>                    category  : tenement &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Grand_H%C3%B4tel_(Houlgate) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17629262</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="695">
+                    <coordinates>-0.074,49.3044,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="698">
+                <name>Halles de Dives-sur-Mer</name>
+                <description>                    category  : market hall &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Markthalle_(Dives-sur-Mer) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15950336</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="697">
+                    <coordinates>-0.09667,49.2864,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="700">
+                <name>Château de Fréfossé</name>
+                <description>                    category  : château &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Schloss_Fr%C3%A9foss%C3%A9 &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2241090</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="699">
+                    <coordinates>0.206775,49.69319444,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="702">
@@ -3340,15 +3325,15 @@
                 </Point>
             </Placemark>
             <Placemark id="762">
-                <name>Port of Deauville</name>
-                <description>                    category  : port &lt;br&gt;   
+                <name>Grestain Abbey</name>
+                <description>                    category  : abbey &lt;br&gt;   
                     sitelinks : 4.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Port_of_Deauville &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Port_Deauville &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2104666</description>
+                    articleEN : https://en.wikipedia.org/wiki/Grestain_Abbey &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Abtei_Grestain &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2820598</description>
                 <styleUrl>#34</styleUrl>
                 <Point id="761">
-                    <coordinates>0.07131389,49.36456389,0.0</coordinates>
+                    <coordinates>0.32916667,49.40777778,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="764">
@@ -3376,15 +3361,15 @@
                 </Point>
             </Placemark>
             <Placemark id="768">
-                <name>Grestain Abbey</name>
-                <description>                    category  : abbey &lt;br&gt;   
+                <name>Port of Deauville</name>
+                <description>                    category  : port &lt;br&gt;   
                     sitelinks : 4.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Grestain_Abbey &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Abtei_Grestain &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2820598</description>
+                    articleEN : https://en.wikipedia.org/wiki/Port_of_Deauville &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Port_Deauville &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2104666</description>
                 <styleUrl>#34</styleUrl>
                 <Point id="767">
-                    <coordinates>0.32916667,49.40777778,0.0</coordinates>
+                    <coordinates>0.07131389,49.36456389,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="770">
@@ -3508,7 +3493,75 @@
                 </Point>
             </Placemark>
         </Folder>
+        <Folder id="12">
+            <name>atlas_obscura</name>
+            <Placemark id="298">
+                <name>
+Monument L'Oiseau Blanc
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/monument-loiseau-blanc</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="297">
+                    <coordinates>0.207174,49.71123,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>
+Chapel of Notre-Dame-de-Grâce
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/chapel-of-notre-dame-de-grace</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="299">
+                    <coordinates>0.221536,49.422893,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>
+Église Sainte Catherine
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/eglise-sainte-catherine</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="301">
+                    <coordinates>0.232248,49.421182,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>
+Jardin du Tripot
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/jardin-du-tripot</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="303">
+                    <coordinates>0.23265,49.418822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>
+La Maison Bleue
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/la-maison-bleue</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="305">
+                    <coordinates>-0.100024,49.28656,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
         <Folder id="13">
+            <name>graves</name>
+            <Placemark id="308">
+                <name>André Gide</name>
+                <description>                    category  : nan &lt;br&gt;   
+                    sitelinks : 138.0 &lt;br&gt;   
+                    articleEN : nan &lt;br&gt;             
+                    articleDE : nan &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q47484</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="307">
+                    <coordinates>0.26376,49.664141,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
             <name>S</name>
             <Placemark id="874">
                 <name>Stade Jules Deschaseaux</name>
@@ -3583,269 +3636,9 @@
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="14">
-            <name>atlas_obscura</name>
-            <Placemark id="298">
-                <name>
-Monument L'Oiseau Blanc
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/monument-loiseau-blanc</description>
-                <styleUrl>#42</styleUrl>
-                <Point id="297">
-                    <coordinates>0.207174,49.71123,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="300">
-                <name>
-Chapel of Notre-Dame-de-Grâce
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/chapel-of-notre-dame-de-grace</description>
-                <styleUrl>#42</styleUrl>
-                <Point id="299">
-                    <coordinates>0.221536,49.422893,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="302">
-                <name>
-Église Sainte Catherine
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/eglise-sainte-catherine</description>
-                <styleUrl>#42</styleUrl>
-                <Point id="301">
-                    <coordinates>0.232248,49.421182,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="304">
-                <name>
-Jardin du Tripot
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/jardin-du-tripot</description>
-                <styleUrl>#42</styleUrl>
-                <Point id="303">
-                    <coordinates>0.23265,49.418822,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="306">
-                <name>
-La Maison Bleue
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/la-maison-bleue</description>
-                <styleUrl>#42</styleUrl>
-                <Point id="305">
-                    <coordinates>-0.100024,49.28656,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
         <Folder id="15">
-            <name>A</name>
-            <Placemark id="842">
-                <name>Côte Fleurie</name>
-                <description>                    category  : coast &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/C%C3%B4te_Fleurie &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/C%C3%B4te_Fleurie &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2441738</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="841">
-                    <coordinates>-0.0146,49.3192,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="844">
-                <name>Tancarville Bridge</name>
-                <description>                    category  : road bridge &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Tancarville_Bridge &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Pont_de_Tancarville &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2351952</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="843">
-                    <coordinates>0.464722,49.472222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="846">
-                <name>Siege of Harfleur</name>
-                <description>                    category  : siege &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Harfleur &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Belagerung_von_Harfleur &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q815148</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="845">
-                    <coordinates>0.19805555555556,49.506666666667,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="848">
-                <name>Operation Cycle</name>
-                <description>                    category  : battle &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Operation_Cycle &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Operation_Cycle &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q751190</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="847">
-                    <coordinates>0.1,49.483333,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="850">
-                <name>University of Le Havre</name>
-                <description>                    category  : university in France &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_Normandy_University &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Universit%C3%A4t_Le_Havre &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1784954</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="849">
-                    <coordinates>0.12944444,49.49583333,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="852">
-                <name>St. Joseph's Church</name>
-                <description>                    category  : church building &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/St._Joseph%27s_Church,_Le_Havre &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/St.-Joseph_(Le_Havre) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q588555</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="851">
-                    <coordinates>0.10111111111111,49.490972222222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="854">
-                <name>Gare du Havre</name>
-                <description>                    category  : dead-end railway station &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_station &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3098218</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="853">
-                    <coordinates>0.12527777777778,49.492777777778,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="856">
-                <name>Tramway du Havre</name>
-                <description>                    category  : tram system &lt;br&gt;   
-                    sitelinks : 13.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_tramway &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_Le_Havre &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q22683</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="855">
-                    <coordinates>0.1,49.49,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="858">
-                <name>Port of Le Havre</name>
-                <description>                    category  : seaport &lt;br&gt;   
-                    sitelinks : 13.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Port_of_Le_Havre &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Port_du_Havre &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1129891</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="857">
-                    <coordinates>0.1569,49.4705,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="860">
-                <name>Le Havre – Octeville Airport</name>
-                <description>                    category  : airport &lt;br&gt;   
-                    sitelinks : 14.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_%E2%80%93_Octeville_Airport &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Le_Havre &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1409415</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="859">
-                    <coordinates>0.088056,49.533889,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="862">
-                <name>Touques</name>
-                <description>                    category  : river &lt;br&gt;   
-                    sitelinks : 15.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Touques_(river) &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Touques_(Fluss) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q969618</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="861">
-                    <coordinates>0.074166666666667,49.367222222222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="864">
-                <name>Operation Biting</name>
-                <description>                    category  : military operation &lt;br&gt;   
-                    sitelinks : 17.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Operation_Biting &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Operation_Biting &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q304403</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="863">
-                    <coordinates>0.16183333333333,49.671127777778,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="866">
-                <name>Deauville – Saint-Gatien Airport</name>
-                <description>                    category  : airport &lt;br&gt;   
-                    sitelinks : 18.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Deauville%E2%80%93Normandie_Airport &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Deauville &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1708737</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="865">
-                    <coordinates>0.15416666666667,49.365277777778,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="868">
-                <name>Risle</name>
-                <description>                    category  : river &lt;br&gt;   
-                    sitelinks : 18.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Risle &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Risle &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1074385</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="867">
-                    <coordinates>0.3725,49.438611111111,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="870">
-                <name>Operation Ariel</name>
-                <description>                    category  : military operation &lt;br&gt;   
-                    sitelinks : 19.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Operation_Aerial &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Operation_Aerial &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q924671</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="869">
-                    <coordinates>0.1,49.49,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="872">
-                <name>Dives</name>
-                <description>                    category  : river &lt;br&gt;   
-                    sitelinks : 19.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Dives_(river) &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Dives_(Fluss) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q118784</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="871">
-                    <coordinates>-0.0875,49.29805556,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="16">
             <name>B</name>
             <Placemark id="790">
-                <name>Cap d'Antifer</name>
-                <description>                    category  : cape &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN :  &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Kap_d%E2%80%99Antifer &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1728337</description>
-                <styleUrl>#30</styleUrl>
-                <Point id="789">
-                    <coordinates>0.154667,49.657905,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="792">
                 <name>Calonne</name>
                 <description>                    category  : river &lt;br&gt;   
                     sitelinks : 5.0 &lt;br&gt;   
@@ -3853,11 +3646,11 @@ La Maison Bleue
                     articleDE : https://de.wikipedia.org/wiki/Calonne_(Fluss) &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q2934358</description>
                 <styleUrl>#30</styleUrl>
-                <Point id="791">
+                <Point id="789">
                     <coordinates>0.2,49.283333333333,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="794">
+            <Placemark id="792">
                 <name>German torpedo boat Falke</name>
                 <description>                    category  : torpedo boat &lt;br&gt;   
                     sitelinks : 5.0 &lt;br&gt;   
@@ -3865,8 +3658,20 @@ La Maison Bleue
                     articleDE : https://de.wikipedia.org/wiki/Falke_(Schiff,_1927) &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q2693964</description>
                 <styleUrl>#30</styleUrl>
-                <Point id="793">
+                <Point id="791">
                     <coordinates>0.15,49.46666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="794">
+                <name>Cap d'Antifer</name>
+                <description>                    category  : cape &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kap_d%E2%80%99Antifer &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1728337</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="793">
+                    <coordinates>0.154667,49.657905,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="796">
@@ -4074,18 +3879,6 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="830">
-                <name>HNoMS Svenner</name>
-                <description>                    category  : destroyer &lt;br&gt;   
-                    sitelinks : 9.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/HNoMS_Svenner_(G03) &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Svenner &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3381131</description>
-                <styleUrl>#30</styleUrl>
-                <Point id="829">
-                    <coordinates>-0.25,49.45,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="832">
                 <name>Société Nouvelle des Forges et Chantiers de la Méditerranée</name>
                 <description>                    category  : shipyard &lt;br&gt;   
                     sitelinks : 9.0 &lt;br&gt;   
@@ -4093,11 +3886,11 @@ La Maison Bleue
                     articleDE : https://de.wikipedia.org/wiki/Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q3077298</description>
                 <styleUrl>#30</styleUrl>
-                <Point id="831">
+                <Point id="829">
                     <coordinates>5.881,43.108,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="834">
+            <Placemark id="832">
                 <name>Le Havre Cathedral</name>
                 <description>                    category  : Catholic cathedral &lt;br&gt;   
                     sitelinks : 9.0 &lt;br&gt;   
@@ -4105,8 +3898,20 @@ La Maison Bleue
                     articleDE : https://de.wikipedia.org/wiki/Kathedrale_von_Le_Havre &lt;br&gt;              
                     wikidata_link : http://www.wikidata.org/entity/Q2942295</description>
                 <styleUrl>#30</styleUrl>
-                <Point id="833">
+                <Point id="831">
                     <coordinates>0.10833333333333,49.486944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="834">
+                <name>HNoMS Svenner</name>
+                <description>                    category  : destroyer &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/HNoMS_Svenner_(G03) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Svenner &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3381131</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="833">
+                    <coordinates>-0.25,49.45,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="836">
@@ -4146,58 +3951,253 @@ La Maison Bleue
                 </Point>
             </Placemark>
         </Folder>
+        <Folder id="16">
+            <name>A</name>
+            <Placemark id="842">
+                <name>Côte Fleurie</name>
+                <description>                    category  : coast &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/C%C3%B4te_Fleurie &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/C%C3%B4te_Fleurie &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2441738</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="841">
+                    <coordinates>-0.0146,49.3192,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="844">
+                <name>Tancarville Bridge</name>
+                <description>                    category  : road bridge &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tancarville_Bridge &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Pont_de_Tancarville &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2351952</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="843">
+                    <coordinates>0.464722,49.472222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="846">
+                <name>Siege of Harfleur</name>
+                <description>                    category  : siege &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Harfleur &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Belagerung_von_Harfleur &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q815148</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="845">
+                    <coordinates>0.19805555555556,49.506666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="848">
+                <name>Operation Cycle</name>
+                <description>                    category  : battle &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Operation_Cycle &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Operation_Cycle &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q751190</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="847">
+                    <coordinates>0.1,49.483333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="850">
+                <name>University of Le Havre</name>
+                <description>                    category  : university in France &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_Normandy_University &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Universit%C3%A4t_Le_Havre &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1784954</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="849">
+                    <coordinates>0.12944444,49.49583333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="852">
+                <name>St. Joseph's Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Joseph%27s_Church,_Le_Havre &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/St.-Joseph_(Le_Havre) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q588555</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="851">
+                    <coordinates>0.10111111111111,49.490972222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="854">
+                <name>Gare du Havre</name>
+                <description>                    category  : dead-end railway station &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3098218</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="853">
+                    <coordinates>0.12527777777778,49.492777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="856">
+                <name>Tramway du Havre</name>
+                <description>                    category  : tram system &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_tramway &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_Le_Havre &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22683</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="855">
+                    <coordinates>0.1,49.49,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="858">
+                <name>Port of Le Havre</name>
+                <description>                    category  : seaport &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Port_of_Le_Havre &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Port_du_Havre &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1129891</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="857">
+                    <coordinates>0.1569,49.4705,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="860">
+                <name>Le Havre – Octeville Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Le_Havre_%E2%80%93_Octeville_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Le_Havre &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1409415</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="859">
+                    <coordinates>0.088056,49.533889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="862">
+                <name>Touques</name>
+                <description>                    category  : river &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Touques_(river) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Touques_(Fluss) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q969618</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="861">
+                    <coordinates>0.074166666666667,49.367222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="864">
+                <name>Operation Biting</name>
+                <description>                    category  : military operation &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Operation_Biting &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Operation_Biting &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q304403</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="863">
+                    <coordinates>0.16183333333333,49.671127777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="866">
+                <name>Deauville – Saint-Gatien Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Deauville%E2%80%93Normandie_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Deauville &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1708737</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="865">
+                    <coordinates>0.15416666666667,49.365277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="868">
+                <name>Risle</name>
+                <description>                    category  : river &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Risle &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Risle &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1074385</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="867">
+                    <coordinates>0.3725,49.438611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="870">
+                <name>Operation Ariel</name>
+                <description>                    category  : military operation &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Operation_Aerial &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Operation_Aerial &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q924671</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="869">
+                    <coordinates>0.1,49.49,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="872">
+                <name>Dives</name>
+                <description>                    category  : river &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dives_(river) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Dives_(Fluss) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q118784</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="871">
+                    <coordinates>-0.0875,49.29805556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
         <Folder id="17">
             <name>wikivoyage</name>
             <Placemark id="138">
-                <name>--</name>
+                <name>Dieppe</name>
                 <description>
                 category  : Go next &lt;br&gt;
                 address  :  &lt;br&gt;
                 url  :  &lt;br&gt;
-                description  :  &lt;br&gt;
+                description  : Dieppe is an important fishing port and a lovely seaside resort. (100&amp;nbsp;km) &lt;br&gt;
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="137">
-                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
+                    <coordinates>1.0791444,49.9246182,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="140">
-                <name>--</name>
+                <name>Veules les Roses</name>
                 <description>
                 category  : Go next &lt;br&gt;
                 address  :  &lt;br&gt;
                 url  :  &lt;br&gt;
-                description  :  &lt;br&gt;
+                description  : Veules les Roses is a charming village along the shortest river in France. Lovely houses and a nice beach. (65&amp;nbsp;km) &lt;br&gt;
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="139">
-                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
+                    <coordinates>0.7990652,49.8722029,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="142">
-                <name>--</name>
+                <name>Fécamp</name>
                 <description>
                 category  : Go next &lt;br&gt;
                 address  :  &lt;br&gt;
                 url  :  &lt;br&gt;
-                description  :  &lt;br&gt;
+                description  : Fécamp and its &quot;Bénédictine Palace&quot; where the famous liquor is made and also has a nice little town with a long beach and a little port. (40&amp;nbsp;km) &lt;br&gt;
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="141">
-                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
+                    <coordinates>0.374891,49.7577729,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="144">
-                <name>--</name>
+                <name>Étretat</name>
                 <description>
                 category  : Go next &lt;br&gt;
                 address  :  &lt;br&gt;
                 url  :  &lt;br&gt;
-                description  :  &lt;br&gt;
+                description  : Étretat and its exceptional natural site (beautiful white cliffs). (25&amp;nbsp;km) &lt;br&gt;
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="143">
-                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
+                    <coordinates>0.2031905,49.7074621,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="146">
@@ -4708,7 +4708,7 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="224">
-                <name>[https://auzou-chocolat.fr/ Chocolaterie Auzou]</name>
+                <name>--</name>
                 <description>
                 category  : Buy &lt;br&gt;
                 address  :  &lt;br&gt;
@@ -4717,7 +4717,7 @@ La Maison Bleue
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="223">
-                    <coordinates>0.0,0.0,0.0</coordinates>
+                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="226">
@@ -4734,7 +4734,7 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="228">
-                <name>&quot;[https://www.leshallescentrales-lehavre.fr/ Les Halles]&quot;</name>
+                <name>--</name>
                 <description>
                 category  : Buy &lt;br&gt;
                 address  :  &lt;br&gt;
@@ -4743,7 +4743,7 @@ La Maison Bleue
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="227">
-                    <coordinates>0.0,0.0,0.0</coordinates>
+                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="230">
@@ -4825,7 +4825,7 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="242">
-                <name>Stade Océane</name>
+                <name>--</name>
                 <description>
                 category  : Do &lt;br&gt;
                 address  :  &lt;br&gt;
@@ -4834,7 +4834,7 @@ La Maison Bleue
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="241">
-                    <coordinates>0.0,0.0,0.0</coordinates>
+                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="244">
@@ -4851,7 +4851,7 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="246">
-                <name>&quot;forêt de Montgeon&quot;</name>
+                <name>--</name>
                 <description>
                 category  : Do &lt;br&gt;
                 address  :  &lt;br&gt;
@@ -4860,7 +4860,7 @@ La Maison Bleue
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="245">
-                    <coordinates>0.0,0.0,0.0</coordinates>
+                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="248">
@@ -4903,16 +4903,16 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="254">
-                <name>&quot;Pont de Normandie&quot;</name>
+                <name>Honfleur</name>
                 <description>
                 category  : Do &lt;br&gt;
                 address  :  &lt;br&gt;
                 url  :  &lt;br&gt;
-                description  :  &lt;br&gt;
+                description  : Drive over the River Seine on the gorgeous  bridge {{marker|type=do|name=&quot;Pont de Normandie&quot;|lat=49.43058|long=0.27419}}. Then you will be in Honfleur, one of Normandy's prettiest places. &lt;br&gt;
                 </description>
                 <styleUrl>#38</styleUrl>
                 <Point id="253">
-                    <coordinates>0.0,0.0,0.0</coordinates>
+                    <coordinates>0.1717695,49.5064837,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="256">
@@ -4994,16 +4994,23 @@ La Maison Bleue
                 </Point>
             </Placemark>
             <Placemark id="268">
-                <name>Oscar Niemeyer Cultural Centre </name>
+                <name/>
                 <description>
                 category  : See &lt;br&gt;
-                address  : 8 place Niemeyer  &lt;br&gt;
-                url  : http://www.levolcan.com/  &lt;br&gt;
-                description  : Cultural Centre (the Volcano) designed by leading architect Oscar Niemeyer is located in the centre of town. One of the city's most iconic buildings. &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : File:Fçde prin nt.JPG|thumb|150x150px|Cathedral{{see
+| name=Oscar Niemeyer Cultural Centre | alt=Le Volcan | url=http://www.levolcan.com/ | email=
+| address=8 place Niemeyer | lat=49.4906 | long=0.1063 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-08-16
+| content=Cultural Centre (the Volcano) designed by leading architect Oscar Niemeyer is located in the centre of town. One of the city's most iconic buildings.
+}} &lt;br&gt;
                 </description>
                 <styleUrl>#102</styleUrl>
                 <Point id="267">
-                    <coordinates>0.1063,49.4906,0.0</coordinates>
+                    <coordinates>0.1079732,49.4938975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="270">

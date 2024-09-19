@@ -32,10 +32,9 @@ class AllFetcher():
         self.place_name = place_name
 
         if country_name == '':
-            value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
+            value = Nominatim(user_agent="wikipedia-map-maker").reverse(f'{self.lat},{self.lon}').raw['address']['country']
             if value:
-                self.country_name = value.country
-            
+                self.country_name = value
         else:
             self.country_name = country_name
 
@@ -111,5 +110,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Le Havre', 'France', distance=30)
+    my_all_fetcher = AllFetcher('Le Havre', distance=30)
     my_all_fetcher.go()

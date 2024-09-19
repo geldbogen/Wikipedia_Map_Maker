@@ -1,3 +1,5 @@
+import re
+
 import requests
 import wikitextparser as wtp
 import pandas as pd
@@ -75,15 +77,26 @@ class WikivoyageFetcher():
         dict_list : list[dict[str,str]] = []
 
         for entry in wikilist.items:
+            
             print(entry)
             print(type(entry))
+
             my_dict : dict[str, str]= {}
-            for thing in entry.split('|'):
-                if not '=' in thing:
-                    continue
-                left_side = thing.split('=')[0].lstrip()
-                right_side = thing.split('=')[1].replace('\n','').replace('}}','')
-                my_dict[left_side] = right_side
+            
+            # check the case for an ordinary wikivoyage item:
+            if entry.strip().startswith('{{'):
+                for thing in entry.split('|'):
+                    if not '=' in thing:
+                        continue
+                    left_side = thing.split('=')[0].lstrip()
+                    right_side = thing.split('=')[1].replace('\n','').replace('}}','')
+                    my_dict[left_side] = right_side
+            elif '[[' in entry:
+                my_dict = {}
+                my_dict['name'] = re.findall(r'[^\[\]]*', entry)[3]
+                print(re.findall(r'[^\[\]]*', entry))
+                my_dict['content'] = entry.strip().replace('[[','').replace(']]','')
+
             dict_list.append(my_dict.copy())
         return dict_list
 
@@ -107,7 +120,13 @@ class WikivoyageFetcher():
             if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == ''):
                 
                 if pd_series.at['address'].strip() == '':
-                    location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['itemLabel']) + ' ' + self.to_fetch_place_name)
+                    
+                    if 'Go next' in pd_series.at['thingLabel']:
+                        location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['itemLabel']))
+                    else:
+                        location = self.geolocator.geocode(self.prepare_address_string_for_geocode(pd_series.at['itemLabel']) + ' ' + self.to_fetch_place_name)
+                    
+                    
                     if not location:
                         location = self.geolocator.geocode(pd_series.at['itemLabel'])
                 else:
@@ -131,6 +150,7 @@ class WikivoyageFetcher():
         df['fetched_coordinates'] = df.apply(help_function,axis=1)
         df['lat'] = df.apply(lambda x : x.at['fetched_coordinates'][0],axis=1)
         df['lon'] = df.apply(lambda x : x.at['fetched_coordinates'][1],axis=1)
+    
     def prepare_address_string_for_geocode(self, address_string : str) -> str:
         address_string = address_string.strip()
         address_string = address_string.lstrip('ul. ')
