@@ -11,27 +11,31 @@ from geopy.extra.rate_limiter import RateLimiter
 
 class WikivoyageFetcher():
     def __init__(self, to_fetch_place_name : str) -> None:
+        print(to_fetch_place_name)
         self.to_fetch_place_name = to_fetch_place_name.replace(' ', '_')
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
         self.geolocator.geocode = RateLimiter(self.geolocator.geocode, min_delay_seconds = 1)
+        self.return_frame = pd.DataFrame()
         pass
 
     def fetch(self) -> pd.DataFrame:
-        return_frame = pd.DataFrame()
+        # self.return_frame = pd.DataFrame()
         content_dict = self.get_contents_of_wikivoyage_article()
         for index, line in content_dict.items():
+            if line == 'Districts':
+                self.fetch_the_districts(index)
             wikilist = self.get_wikilist_by_section_number(index)
             content_list = self.get_dictionary_list_of_wikitext(wikilist) 
             frame = self.get_dataframe_from_dictionary_list(content_list,line)
             self.fill_missing_coordinates_in_frame(frame)
-            return_frame = pd.concat([return_frame,frame])
+            self.return_frame = pd.concat([self.return_frame,frame])
         
-        self.replace_duplicates_in_wikivoyage_frame(return_frame)
+        self.replace_duplicates_in_wikivoyage_frame(self.return_frame)
 
-        return_frame['tier'] = return_frame.apply(lambda x : 'wikivoyage_' + x['description'], axis = 1)
+        self.return_frame['tier'] = self.return_frame.apply(lambda x : 'wikivoyage_' + x['description'], axis = 1)
 
-        return return_frame
+        return self.return_frame
 
     def get_contents_of_wikivoyage_article(self) -> dict[str,str]:
         url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={self.to_fetch_place_name}&prop=sections&disabletoc=1'
@@ -161,8 +165,21 @@ class WikivoyageFetcher():
     def replace_duplicates_in_wikivoyage_frame(self, wikivoyage_frame : pd.DataFrame):
         wikivoyage_frame = wikivoyage_frame.iloc[::-1]
         wikivoyage_frame = wikivoyage_frame.drop_duplicates(subset=['fetched_coordinates'])
+    
+    def fetch_the_districts(self, section_number : int):
+        url_2 = 'https://en.wikivoyage.org/w/api.php'
+        response = requests.get(url_2, params={
+                                'action': 'parse', 'format': 'json',
+                                'page': self.to_fetch_place_name, 'prop': 'wikitext',
+                                'section' : str(section_number), 'disabletoc' : '1' })
+        parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
+        for link in parsed.wikilinks:
+            district_name = link.target
+            new_fetcher = WikivoyageFetcher(district_name)
+            self.return_frame = pd.concat([self.return_frame,new_fetcher.fetch()])
+
         
 if __name__ == '__main__':
-    my_voyage_fetcher = WikivoyageFetcher('Leipzig')
+    my_voyage_fetcher = WikivoyageFetcher('Munich')
     df = my_voyage_fetcher.fetch()
     df.to_csv('test_wikivoyage_fetcher.csv')
