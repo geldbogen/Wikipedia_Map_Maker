@@ -221,6 +221,24 @@ class KmlHelper():
 
         self.style_map_by_boat = simplekml.StyleMap(normalstyle=self.style_by_boat)
 
+        self.style_do = simplekml.Style()
+        self.style_do._id = 'icon-1731-0288D1-normal' 
+        self.style_do.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_do = simplekml.StyleMap(normalstyle=self.style_do)
+
+        self.style_buy = simplekml.Style()
+        self.style_buy._id = 'icon-1685-0288D1-normal' 
+        self.style_buy.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_buy = simplekml.StyleMap(normalstyle=self.style_buy)
+
+        self.style_go_next = simplekml.Style()
+        self.style_go_next._id = 'icon-1654-0288D1-normal' 
+        self.style_go_next.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_go_next = simplekml.StyleMap(normalstyle=self.style_go_next)
+
 
 
 
@@ -262,6 +280,10 @@ class KmlHelper():
         self.dummy_point.stylemap = self.style_map_by_bus
         self.dummy_point.stylemap = self.style_map_by_plane
         self.dummy_point.stylemap = self.style_map_by_train
+
+        self.dummy_point.stylemap = self.style_map_do
+        self.dummy_point.stylemap = self.style_map_buy
+        self.dummy_point.stylemap = self.style_map_go_next
 
 
 
@@ -343,6 +365,13 @@ class KmlHelper():
                                 return self.style_map_see_temples
                             case _:
                                 return self.style_map_see
+                    case _ if pd_series.at['thingLabel'].startswith('Go next'):
+                        return self.style_map_go_next
+                    case _ if pd_series.at['thingLabel'].startswith('Buy'):
+                        return self.style_map_buy
+                    case _ if pd_series.at['thingLabel'].startswith('Do'):
+                        return self.style_map_do
+                    
 
         return self.style_map_D
     
