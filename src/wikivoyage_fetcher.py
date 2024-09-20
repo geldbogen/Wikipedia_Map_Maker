@@ -23,6 +23,8 @@ class WikivoyageFetcher():
         # self.return_frame = pd.DataFrame()
         content_dict = self.get_contents_of_wikivoyage_article()
         for index, line in content_dict.items():
+            if line != 'Go next':
+                continue
             if line == 'Districts':
                 self.fetch_the_districts(index)
             wikilist = self.get_wikilist_by_section_number(index)
@@ -180,6 +182,6 @@ class WikivoyageFetcher():
 
         
 if __name__ == '__main__':
-    my_voyage_fetcher = WikivoyageFetcher('Munich')
+    my_voyage_fetcher = WikivoyageFetcher('Mumbai')
     df = my_voyage_fetcher.fetch()
     df.to_csv('test_wikivoyage_fetcher.csv')
