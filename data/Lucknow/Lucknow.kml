@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="336"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="337"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="338"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="339"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="340"/>
+        <Style id="icon-1556-FFD600-normal">
+            <IconStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="341"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="39">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="342"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="343"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="67">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="344"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="71">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="345"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="346"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="79">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="347"/>
+        <Style id="icon-1517-0288D1-normal">
+            <IconStyle id="51">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="348"/>
+        <Style id="icon-1517-0F9D58-normal">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="349"/>
+        <Style id="icon-1517-FFEA00-normal">
+            <IconStyle id="59">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="350"/>
+        <Style id="icon-1517-FF5252-normal">
+            <IconStyle id="63">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="351"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="83">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="352"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="87">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="353"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="91">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="354"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="355"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="99">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="356"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="357"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="358"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="359"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="111">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="360"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="361"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="362"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="124">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="363"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="119">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="364"/>
+        <Style id="icon-1731-0288D1-normal">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="365"/>
+        <Style id="icon-1685-0288D1-normal">
+            <IconStyle id="139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="366"/>
+        <Style id="icon-1654-0288D1-normal">
+            <IconStyle id="143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="367"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#336</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#337</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="29">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#338</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="33">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#339</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="37">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#340</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="45">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1556-FFD600-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#341</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="41">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#342</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="49">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#343</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="69">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#344</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="73">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#345</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="77">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#346</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="81">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#347</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="53">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#348</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="57">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#349</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="61">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#350</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="65">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#351</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="85">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#352</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="89">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#353</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="93">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#354</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="97">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#355</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="101">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#356</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="117">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#357</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="109">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#358</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="105">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#359</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="113">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#360</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="133">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#361</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="129">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#362</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="125">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#363</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="121">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#364</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="137">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1731-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#365</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="141">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1685-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#366</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="145">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1654-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#367</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder id="11">
+            <name>B</name>
+            <Placemark id="259">
+                <name>Upper Gangetic Plains moist deciduous forests</name>
+                <description>                    category  : ecoregion &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Upper_Gangetic_Plains_moist_deciduous_forests &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7898660</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="258">
+                    <coordinates>80.916666666667,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>Lucknow Air Force Station</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow_Air_Force_Station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6697767</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="260">
+                    <coordinates>80.891388888889,26.988611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>Dilkusha Kothi</name>
+                <description>                    category  : ruins &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dilkusha_Kothi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5276840</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="262">
+                    <coordinates>80.954,26.831,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name>Ambedkar Memorial</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ambedkar_Memorial_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4741185</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="264">
+                    <coordinates>80.97597,26.84793,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>Atal Bihari Vajpayee Medical University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Medical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q59976887</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="266">
+                    <coordinates>81.0044336,26.8706965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>Husainabad Clock Tower</name>
+                <description>                    category  : clock tower &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Husainabad_Clock_Tower &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18125796</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="268">
+                    <coordinates>80.906788,26.874581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>Shah Najaf Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Imambara_Shah_Najaf &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16978007</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="270">
+                    <coordinates>80.946252777778,26.859730555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>K. D. Singh Babu Stadium, Lucknow</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/K._D._Singh_Babu_Stadium,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6323290</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="272">
+                    <coordinates>80.93773333,26.85538889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>The Residency Lucknow</name>
+                <description>                    category  : building complex &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/The_Residency,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7760279</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="274">
+                    <coordinates>80.9257,26.8618,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>Sanjay Gandhi Post Graduate Institute of Medical Sciences</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sanjay_Gandhi_Postgraduate_Institute_of_Medical_Sciences &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7418428</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="276">
+                    <coordinates>80.94515,26.74334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>King George's Medical University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/King_George%27s_Medical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6411596</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="278">
+                    <coordinates>80.916626,26.867716,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>Sikandar Bagh</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sikandar_Bagh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Sikandar_Bag &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1550186</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="280">
+                    <coordinates>80.925438888889,26.860955555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>A</name>
+            <Placemark id="283">
+                <name>Darul-uloom Nadwatul Ulama</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Darul_Uloom_Nadwatul_Ulama &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Nadwat_al-%CA%BFUlam%C4%81%CA%BE &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4120108</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="282">
+                    <coordinates>80.932514,26.865123,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name>Indian Institute of Management Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q46023</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="284">
+                    <coordinates>80.899372222222,26.937375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>City Montessori School</name>
+                <description>                    category  : school &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5123309</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="286">
+                    <coordinates>80.8942,26.7896,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>Rumi Darwaza</name>
+                <description>                    category  : gate &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rumi_Darwaza &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7379279</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="288">
+                    <coordinates>80.912222222222,26.871111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>United Provinces</name>
+                <description>                    category  : province of British India &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/United_Provinces_(1937%E2%80%931950) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3634604</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="290">
+                    <coordinates>80.947,26.847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>Amethi</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Amethi,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q580988</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="292">
+                    <coordinates>81.15,26.76,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>Chhota Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chota_Imambara &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Chhota_Imambara &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4118173</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="294">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="297">
+                <name>Siege of Lucknow</name>
+                <description>                    category  : siege &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Belagerung_von_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q815165</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="296">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>Babasaheb Bhimrao Ambedkar University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q797585</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="298">
+                    <coordinates>80.9195,26.7718,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>Roman Catholic Diocese of Lucknow</name>
+                <description>                    category  : diocese of the Catholic Church &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bistum_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q392051</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="300">
+                    <coordinates>80.94275,26.85025,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>Nawabganj</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nawabganj,_Barabanki &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Nawabganj_(Barabanki) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q608154</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="302">
+                    <coordinates>81.19,26.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>Uttar Pradesh Legislative Assembly</name>
+                <description>                    category  : Vidhan Sabha &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh_Legislative_Assembly &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7903333</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="304">
+                    <coordinates>80.9442,26.8436,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>University of Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/University_of_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4253367</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="306">
+                    <coordinates>80.9364,26.8656,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>Ekana Cricket Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ekana_Cricket_Stadium &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Ekana_International_Cricket_Stadium &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q109373985</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="308">
+                    <coordinates>81.0168,26.8112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="311">
+                <name>Mohan</name>
+                <description>                    category  : Nagar Panchayat &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohan,_Uttar_Pradesh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1925021</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="310">
+                    <coordinates>80.67,26.78,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>Satrikh</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 16.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Satrikh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2717886</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="312">
+                    <coordinates>81.2,26.87,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>Lucknow division</name>
+                <description>                    category  : division of Uttar Pradesh &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow_division &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Lucknow_(Division) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2483390</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="314">
+                    <coordinates>80.92,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>Gosainganj</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gosainganj,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1707530</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="316">
+                    <coordinates>81.12,26.77,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>Barabanki</name>
+                <description>                    category  : city &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Barabanki &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3780142</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="318">
+                    <coordinates>81.2,26.92,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>Itaunja</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Itaunja &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1756056</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="320">
+                    <coordinates>80.92,27.08,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>Bara Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bara_Imambara &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3630998</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="322">
+                    <coordinates>80.912885,26.869104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>Malihabad</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Malihabad &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2543287</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="324">
+                    <coordinates>80.72,26.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>Kakori</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kakori &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2450968</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="326">
+                    <coordinates>80.8,26.88,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>S</name>
+            <Placemark id="329">
+                <name>Chaudhary Charan Singh Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 29.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chaudhary_Charan_Singh_International_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2672666</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="328">
+                    <coordinates>80.88333333,26.76194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>Awadh</name>
+                <description>                    category  : historical region &lt;br&gt;   
+                    sitelinks : 37.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Awadh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Avadh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q248705</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="330">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="333">
+                <name>Lucknow</name>
+                <description>                    category  : big city &lt;br&gt;   
+                    sitelinks : 115.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q47916</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="332">
+                    <coordinates>80.947,26.847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="335">
+                <name>Uttar Pradesh</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 140.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1498</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="334">
+                    <coordinates>80.91,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>wikivoyage</name>
+            <Placemark id="149">
+                <name>Sunauli</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Sunauli - Nepal can be reached via Bhairawa &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="148">
+                    <coordinates>83.416667,27.5,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>Varanasi</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Varanasi &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="150">
+                    <coordinates>83.0076292,25.3356491,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="153">
+                <name>Prayagraj</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Prayagraj &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="152">
+                    <coordinates>81.8338005,25.4381302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="155">
+                <name>Agra</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Agra &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="154">
+                    <coordinates>78.0098161,27.1752554,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>atlas_obscura</name>
+            <Placemark id="157">
+                <name>
+Indira Gandhi Planetarium
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/indira-gandhi-planetarium</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="156">
+                    <coordinates>80.923624,26.865011,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>
+Bara Imambara
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/bara-imambara</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="158">
+                    <coordinates>80.912695,26.868935,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>C</name>
+            <Placemark id="161">
+                <name>Ghuskar</name>
+                <description>                    category  : administrative territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ghuskar &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q106006872</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="160">
+                    <coordinates>81.18359,26.76753,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="163">
+                <name>Dularmau</name>
+                <description>                    category  : administrative territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dularmau &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q106006858</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="162">
+                    <coordinates>81.06098,26.7927,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="165">
+                <name>Chamartaliya</name>
+                <description>                    category  : administrative territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chamartaliya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q106006848</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="164">
+                    <coordinates>81.16992,26.7629,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="167">
+                <name>General Wali Kothi</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/General_Wali_Kothi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q97705542</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="166">
+                    <coordinates>80.93114823256,26.859731468484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="169">
+                <name>Bibiapur House</name>
+                <description>                    category  : historic site &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bibiyapur_Kothi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q97705529</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="168">
+                    <coordinates>80.9819,26.8222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="171">
+                <name>Department of Urban Development</name>
+                <description>                    category  : government agency &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Department_of_Urban_Development_(Uttar_Pradesh) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q48733824</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="170">
+                    <coordinates>80.944446,26.8404943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>Department of Appointment and Personnel</name>
+                <description>                    category  : government agency &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Department_of_Appointment_and_Personnel &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q48733817</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="172">
+                    <coordinates>80.944446,26.8404943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="175">
+                <name>Department of Home</name>
+                <description>                    category  : government agency &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Department_of_Home_and_Confidential &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q39073876</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="174">
+                    <coordinates>80.944446,26.8404943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="177">
+                <name>Ekana Football Stadium</name>
+                <description>                    category  : venue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ekana_Football_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q124053909</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="176">
+                    <coordinates>81.0201,26.8131,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="179">
+                <name>Alapur</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Alapur &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28178829</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="178">
+                    <coordinates>81.16138889,26.91194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="181">
+                <name>Khwaja Moinuddin Chishti Urdu, Arabi-Farsi University, Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Khwaja_Moinuddin_Chishti_Language_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24943422</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="180">
+                    <coordinates>80.8963037,26.928766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="183">
+                <name>Babu Banarasi Das Indoor Stadium</name>
+                <description>                    category  : arena &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Babu_Banarasi_Das_Indoor_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24928029</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="182">
+                    <coordinates>80.980177,26.853264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="185">
+                <name>Sri Ramakrishna Math, Lucknow</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sri_Ramakrishna_Math,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22909029</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="184">
+                    <coordinates>80.94,26.87416667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>Aishbagh</name>
+                <description>                    category  : human-geographic territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Aishbagh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17049171</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="186">
+                    <coordinates>80.905965087052,26.838892949034,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>Dr. Akhilesh Das Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dr._Akhilesh_Das_Gupta_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15214983</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="188">
+                    <coordinates>81.058481,26.883799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>Musa Bagh</name>
+                <description>                    category  : garden &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Musa_Bagh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6939898</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="190">
+                    <coordinates>80.874238246,26.889842638071,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>Lucknow Zoo</name>
+                <description>                    category  : zoo &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nawab_Wajid_Ali_Shah_Prani_Udyan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6697780</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="192">
+                    <coordinates>80.95463,26.84607,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>Institute of Hotel Management, Lucknow</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Institute_of_Hotel_Management,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6040391</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="194">
+                    <coordinates>80.95,26.893,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>Haj House, Lucknow</name>
+                <description>                    category  : architectural structure &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Haj_House,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5639808</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="196">
+                    <coordinates>80.867717,26.75487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>Dhyan Chand Astroturf Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Major_Dhyan_Chand_Hockey_Stadium,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5269942</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="198">
+                    <coordinates>80.982778,26.930833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>Colvin Taluqdars' College</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5150315</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="200">
+                    <coordinates>80.941,26.8637,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>Bhitauli</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhitauli &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4901844</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="202">
+                    <coordinates>80.92836,26.935294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>Kalli Pashchim</name>
+                <description>                    category  : census town of India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kalli_Pashchim &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q48730526</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="204">
+                    <coordinates>80.9,26.716666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>Samesi</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Samesi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24947374</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="206">
+                    <coordinates>81.1,26.61666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>Christ Church, Lucknow</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Christ_Church,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24943319</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="208">
+                    <coordinates>80.9475,26.845,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>All Saints Garrison Church, Lucknow</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/All_Saints_Garrison_Church,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24943244</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="210">
+                    <coordinates>80.955,26.81111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="213">
+                <name>Indian Institute of Information Technology, Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20647462</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="212">
+                    <coordinates>81.024208333333,26.800833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>National Bureau of Fish Genetic Resources</name>
+                <description>                    category  : facility &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Bureau_of_Fish_Genetic_Resources &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17307607</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="214">
+                    <coordinates>80.933304,26.79127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="217">
+                <name>National Institute of Pharmaceutical Education and Research, Raebareli</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Institute_of_Pharmaceutical_Education_and_Research,_Raebareli &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16964372</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="216">
+                    <coordinates>80.903801,26.724168,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>State museum Lucknow</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/State_Museum,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16919518</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="218">
+                    <coordinates>80.954722222222,26.845277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Amir-ud-daula Public Library</name>
+                <description>                    category  : public library &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Amir-ud-daula_Public_Library &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16238657</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="220">
+                    <coordinates>80.931111111111,26.851111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="223">
+                <name>Raj Bhavan (Uttar Pradesh)</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raj_Bhavan,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15271399</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="222">
+                    <coordinates>80.946495,26.840948,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="225">
+                <name>Indira Nagar, Lucknow</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indira_Nagar,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15228659</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="224">
+                    <coordinates>80.98333333,26.88333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>St. Francis' College</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Francis%27_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7587928</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="226">
+                    <coordinates>80.9436023,26.8513104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="229">
+                <name>Safdarganj</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Safdarganj &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7398428</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="228">
+                    <coordinates>81.2,26.92,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="231">
+                <name>Martin Purwa</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Martin_Purwa &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6776417</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="230">
+                    <coordinates>80.96,26.841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>Gautam Buddh Technical University</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gautam_Buddh_Technical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5527869</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="232">
+                    <coordinates>80.9413,26.9146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="235">
+                <name>Bhartendu Academy of Dramatic Arts</name>
+                <description>                    category  : drama school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bharatendu_Academy_of_Dramatic_Arts &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4901310</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="234">
+                    <coordinates>80.994849,26.853374,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="237">
+                <name>Babu Banarasi Das University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Babu_Banarasi_Das_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4838040</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="236">
+                    <coordinates>81.0568422,26.8888142,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>Bhatkhande Music Institute</name>
+                <description>                    category  : higher education institution &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhatkhande_Sanskriti_Vishwavidyalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3635798</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="238">
+                    <coordinates>80.93305556,26.85361111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>Jama Mosque</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Jama_Mosque,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30676427</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="240">
+                    <coordinates>80.90101,26.87259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="243">
+                <name>Guru Gobind Singh Sports College, Lucknow</name>
+                <description>                    category  : Sports College &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Sports_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q26258541</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="242">
+                    <coordinates>80.9784631,26.9330826,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="245">
+                <name>Janeshwar Mishra Park, Lucknow</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Janeshwar_Mishra_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18126216</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="244">
+                    <coordinates>80.9887,26.8349,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="247">
+                <name>Nadan Mahal</name>
+                <description>                    category  : mausoleum &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nadan_Mahal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17011872</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="246">
+                    <coordinates>80.910848461584,26.854517176986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="249">
+                <name>Dr. A. P. J. Abdul Kalam Technical University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dr._A.P.J._Abdul_Kalam_Technical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7903351</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="248">
+                    <coordinates>80.939991666667,26.944475,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Uttar Pradesh Cricket Association</name>
+                <description>                    category  : sports governing body &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh_Cricket_Association &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7903331</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="250">
+                    <coordinates>81.01527778,26.81055556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="253">
+                <name>University Ground</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/University_Ground_(University_of_Lucknow) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7894707</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="252">
+                    <coordinates>80.93583333,26.86416667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
+                <name>Dr. Ram Manohar Lohia National Law University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dr._Ram_Manohar_Lohiya_National_Law_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5304343</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="254">
+                    <coordinates>80.906961111111,26.783197222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>Central Institute of Medicinal and Aromatic Plants</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Central_Institute_of_Medicinal_and_Aromatic_Plants &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3595736</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="256">
+                    <coordinates>80.9816,26.894,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="147">
+            <styleUrl>#145</styleUrl>
+            <Point id="146">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

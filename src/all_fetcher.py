@@ -110,5 +110,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Le Havre', distance=30)
+    my_all_fetcher = AllFetcher('Lucknow', distance=30)
     my_all_fetcher.go()
