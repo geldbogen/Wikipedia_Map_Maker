@@ -16,7 +16,6 @@ class AllFetcher():
 
     def __init__(self, place_name : str, country_name : str = '',  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
         if (lat, lon) == (0.0 , 0.0):
-            print('asdsadacsas')
             value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
             if value:
                 self.lat, self.lon = value.latitude, value.longitude
@@ -104,11 +103,12 @@ class AllFetcher():
         final_df['sitelinks'] = final_df['sitelinks'].apply(lambda x : try_convert_to_int(x))
         final_df.to_csv(os.path.join(folder_name,f'final_{self.place_name}.csv'))
 
-        # disable D Tier because of limitations in google my maps (yet againg) (optional)
+        # disable D Tier because of limitations in google my maps (yet again) (optional)
         final_df = final_df[final_df['tier'] != 'D']
+
         # create google maps kml file
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Lucknow', distance=30)
+    my_all_fetcher = AllFetcher('Kolkata', distance=5)
     my_all_fetcher.go()

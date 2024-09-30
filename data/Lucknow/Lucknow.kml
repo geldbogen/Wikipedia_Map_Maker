@@ -674,561 +674,6 @@
             </Pair>
         </StyleMap>
         <Folder id="11">
-            <name>B</name>
-            <Placemark id="259">
-                <name>Upper Gangetic Plains moist deciduous forests</name>
-                <description>                    category  : ecoregion &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Upper_Gangetic_Plains_moist_deciduous_forests &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q7898660</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="258">
-                    <coordinates>80.916666666667,26.85,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="261">
-                <name>Lucknow Air Force Station</name>
-                <description>                    category  : airport &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Lucknow_Air_Force_Station &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q6697767</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="260">
-                    <coordinates>80.891388888889,26.988611111111,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="263">
-                <name>Dilkusha Kothi</name>
-                <description>                    category  : ruins &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Dilkusha_Kothi &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q5276840</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="262">
-                    <coordinates>80.954,26.831,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="265">
-                <name>Ambedkar Memorial</name>
-                <description>                    category  : park &lt;br&gt;   
-                    sitelinks : 5.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Ambedkar_Memorial_Park &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q4741185</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="264">
-                    <coordinates>80.97597,26.84793,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="267">
-                <name>Atal Bihari Vajpayee Medical University</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 6.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Medical_University &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q59976887</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="266">
-                    <coordinates>81.0044336,26.8706965,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="269">
-                <name>Husainabad Clock Tower</name>
-                <description>                    category  : clock tower &lt;br&gt;   
-                    sitelinks : 6.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Husainabad_Clock_Tower &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q18125796</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="268">
-                    <coordinates>80.906788,26.874581,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="271">
-                <name>Shah Najaf Imambara</name>
-                <description>                    category  : husayniyya &lt;br&gt;   
-                    sitelinks : 7.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Imambara_Shah_Najaf &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q16978007</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="270">
-                    <coordinates>80.946252777778,26.859730555556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="273">
-                <name>K. D. Singh Babu Stadium, Lucknow</name>
-                <description>                    category  : cricket field &lt;br&gt;   
-                    sitelinks : 7.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/K._D._Singh_Babu_Stadium,_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q6323290</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="272">
-                    <coordinates>80.93773333,26.85538889,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="275">
-                <name>The Residency Lucknow</name>
-                <description>                    category  : building complex &lt;br&gt;   
-                    sitelinks : 8.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/The_Residency,_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q7760279</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="274">
-                    <coordinates>80.9257,26.8618,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="277">
-                <name>Sanjay Gandhi Post Graduate Institute of Medical Sciences</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 8.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Sanjay_Gandhi_Postgraduate_Institute_of_Medical_Sciences &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q7418428</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="276">
-                    <coordinates>80.94515,26.74334,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="279">
-                <name>King George's Medical University</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 8.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/King_George%27s_Medical_University &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q6411596</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="278">
-                    <coordinates>80.916626,26.867716,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="281">
-                <name>Sikandar Bagh</name>
-                <description>                    category  : park &lt;br&gt;   
-                    sitelinks : 9.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Sikandar_Bagh &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Sikandar_Bag &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1550186</description>
-                <styleUrl>#29</styleUrl>
-                <Point id="280">
-                    <coordinates>80.925438888889,26.860955555556,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="12">
-            <name>A</name>
-            <Placemark id="283">
-                <name>Darul-uloom Nadwatul Ulama</name>
-                <description>                    category  : academic institution &lt;br&gt;   
-                    sitelinks : 10.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Darul_Uloom_Nadwatul_Ulama &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Nadwat_al-%CA%BFUlam%C4%81%CA%BE &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q4120108</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="282">
-                    <coordinates>80.932514,26.865123,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="285">
-                <name>Indian Institute of Management Lucknow</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q46023</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="284">
-                    <coordinates>80.899372222222,26.937375,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="287">
-                <name>City Montessori School</name>
-                <description>                    category  : school &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q5123309</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="286">
-                    <coordinates>80.8942,26.7896,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="289">
-                <name>Rumi Darwaza</name>
-                <description>                    category  : gate &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Rumi_Darwaza &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q7379279</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="288">
-                    <coordinates>80.912222222222,26.871111111111,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="291">
-                <name>United Provinces</name>
-                <description>                    category  : province of British India &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/United_Provinces_(1937%E2%80%931950) &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3634604</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="290">
-                    <coordinates>80.947,26.847,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="293">
-                <name>Amethi</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 11.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Amethi,_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q580988</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="292">
-                    <coordinates>81.15,26.76,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="295">
-                <name>Chhota Imambara</name>
-                <description>                    category  : husayniyya &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Chota_Imambara &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Chhota_Imambara &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q4118173</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="294">
-                    <coordinates>80.915833,26.860556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="297">
-                <name>Siege of Lucknow</name>
-                <description>                    category  : siege &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Lucknow &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Belagerung_von_Lucknow &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q815165</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="296">
-                    <coordinates>80.915833,26.860556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="299">
-                <name>Babasaheb Bhimrao Ambedkar University</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q797585</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="298">
-                    <coordinates>80.9195,26.7718,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="301">
-                <name>Roman Catholic Diocese of Lucknow</name>
-                <description>                    category  : diocese of the Catholic Church &lt;br&gt;   
-                    sitelinks : 12.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucknow &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Bistum_Lucknow &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q392051</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="300">
-                    <coordinates>80.94275,26.85025,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="303">
-                <name>Nawabganj</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 13.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Nawabganj,_Barabanki &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Nawabganj_(Barabanki) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q608154</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="302">
-                    <coordinates>81.19,26.94,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="305">
-                <name>Uttar Pradesh Legislative Assembly</name>
-                <description>                    category  : Vidhan Sabha &lt;br&gt;   
-                    sitelinks : 13.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh_Legislative_Assembly &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q7903333</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="304">
-                    <coordinates>80.9442,26.8436,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="307">
-                <name>University of Lucknow</name>
-                <description>                    category  : university &lt;br&gt;   
-                    sitelinks : 13.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/University_of_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q4253367</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="306">
-                    <coordinates>80.9364,26.8656,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="309">
-                <name>Ekana Cricket Stadium</name>
-                <description>                    category  : stadium &lt;br&gt;   
-                    sitelinks : 14.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Ekana_Cricket_Stadium &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Ekana_International_Cricket_Stadium &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q109373985</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="308">
-                    <coordinates>81.0168,26.8112,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="311">
-                <name>Mohan</name>
-                <description>                    category  : Nagar Panchayat &lt;br&gt;   
-                    sitelinks : 15.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Mohan,_Uttar_Pradesh &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1925021</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="310">
-                    <coordinates>80.67,26.78,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="313">
-                <name>Satrikh</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 16.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Satrikh &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2717886</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="312">
-                    <coordinates>81.2,26.87,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="315">
-                <name>Lucknow division</name>
-                <description>                    category  : division of Uttar Pradesh &lt;br&gt;   
-                    sitelinks : 17.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Lucknow_division &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Lucknow_(Division) &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2483390</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="314">
-                    <coordinates>80.92,26.85,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="317">
-                <name>Gosainganj</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 17.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Gosainganj,_Lucknow &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1707530</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="316">
-                    <coordinates>81.12,26.77,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="319">
-                <name>Barabanki</name>
-                <description>                    category  : city &lt;br&gt;   
-                    sitelinks : 18.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Barabanki &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3780142</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="318">
-                    <coordinates>81.2,26.92,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="321">
-                <name>Itaunja</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 18.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Itaunja &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1756056</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="320">
-                    <coordinates>80.92,27.08,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="323">
-                <name>Bara Imambara</name>
-                <description>                    category  : husayniyya &lt;br&gt;   
-                    sitelinks : 19.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Bara_Imambara &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q3630998</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="322">
-                    <coordinates>80.912885,26.869104,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="325">
-                <name>Malihabad</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 19.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Malihabad &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2543287</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="324">
-                    <coordinates>80.72,26.94,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="327">
-                <name>Kakori</name>
-                <description>                    category  : human settlement &lt;br&gt;   
-                    sitelinks : 19.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Kakori &lt;br&gt;             
-                    articleDE :  &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2450968</description>
-                <styleUrl>#icon-1739-7CB342</styleUrl>
-                <Point id="326">
-                    <coordinates>80.8,26.88,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="13">
-            <name>S</name>
-            <Placemark id="329">
-                <name>Chaudhary Charan Singh Airport</name>
-                <description>                    category  : airport &lt;br&gt;   
-                    sitelinks : 29.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Chaudhary_Charan_Singh_International_Airport &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Lucknow &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q2672666</description>
-                <styleUrl>#icon-1739-E65100</styleUrl>
-                <Point id="328">
-                    <coordinates>80.88333333,26.76194444,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="331">
-                <name>Awadh</name>
-                <description>                    category  : historical region &lt;br&gt;   
-                    sitelinks : 37.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Awadh &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Avadh &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q248705</description>
-                <styleUrl>#icon-1739-E65100</styleUrl>
-                <Point id="330">
-                    <coordinates>80.915833,26.860556,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="333">
-                <name>Lucknow</name>
-                <description>                    category  : big city &lt;br&gt;   
-                    sitelinks : 115.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Lucknow &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Lucknow &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q47916</description>
-                <styleUrl>#icon-1739-E65100</styleUrl>
-                <Point id="332">
-                    <coordinates>80.947,26.847,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="335">
-                <name>Uttar Pradesh</name>
-                <description>                    category  : state of India &lt;br&gt;   
-                    sitelinks : 140.0 &lt;br&gt;   
-                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;             
-                    articleDE : https://de.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;              
-                    wikidata_link : http://www.wikidata.org/entity/Q1498</description>
-                <styleUrl>#icon-1739-E65100</styleUrl>
-                <Point id="334">
-                    <coordinates>80.91,26.85,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="14">
-            <name>wikivoyage</name>
-            <Placemark id="149">
-                <name>Sunauli</name>
-                <description>
-                category  : Go next &lt;br&gt;
-                address  :  &lt;br&gt;
-                url  :  &lt;br&gt;
-                description  : Sunauli - Nepal can be reached via Bhairawa &lt;br&gt;
-                </description>
-                <styleUrl>#145</styleUrl>
-                <Point id="148">
-                    <coordinates>83.416667,27.5,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="151">
-                <name>Varanasi</name>
-                <description>
-                category  : Go next &lt;br&gt;
-                address  :  &lt;br&gt;
-                url  :  &lt;br&gt;
-                description  : Varanasi &lt;br&gt;
-                </description>
-                <styleUrl>#145</styleUrl>
-                <Point id="150">
-                    <coordinates>83.0076292,25.3356491,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="153">
-                <name>Prayagraj</name>
-                <description>
-                category  : Go next &lt;br&gt;
-                address  :  &lt;br&gt;
-                url  :  &lt;br&gt;
-                description  : Prayagraj &lt;br&gt;
-                </description>
-                <styleUrl>#145</styleUrl>
-                <Point id="152">
-                    <coordinates>81.8338005,25.4381302,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="155">
-                <name>Agra</name>
-                <description>
-                category  : Go next &lt;br&gt;
-                address  :  &lt;br&gt;
-                url  :  &lt;br&gt;
-                description  : Agra &lt;br&gt;
-                </description>
-                <styleUrl>#145</styleUrl>
-                <Point id="154">
-                    <coordinates>78.0098161,27.1752554,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="15">
-            <name>atlas_obscura</name>
-            <Placemark id="157">
-                <name>
-Indira Gandhi Planetarium
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/indira-gandhi-planetarium</description>
-                <styleUrl>#41</styleUrl>
-                <Point id="156">
-                    <coordinates>80.923624,26.865011,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="159">
-                <name>
-Bara Imambara
-</name>
-                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/bara-imambara</description>
-                <styleUrl>#41</styleUrl>
-                <Point id="158">
-                    <coordinates>80.912695,26.868935,0.0</coordinates>
-                </Point>
-            </Placemark>
-        </Folder>
-        <Folder id="16">
             <name>C</name>
             <Placemark id="161">
                 <name>Ghuskar</name>
@@ -1816,6 +1261,561 @@ Bara Imambara
                 <styleUrl>#33</styleUrl>
                 <Point id="256">
                     <coordinates>80.9816,26.894,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>S</name>
+            <Placemark id="329">
+                <name>Chaudhary Charan Singh Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 29.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chaudhary_Charan_Singh_International_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2672666</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="328">
+                    <coordinates>80.88333333,26.76194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>Awadh</name>
+                <description>                    category  : historical region &lt;br&gt;   
+                    sitelinks : 37.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Awadh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Avadh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q248705</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="330">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="333">
+                <name>Lucknow</name>
+                <description>                    category  : big city &lt;br&gt;   
+                    sitelinks : 115.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q47916</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="332">
+                    <coordinates>80.947,26.847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="335">
+                <name>Uttar Pradesh</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 140.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Uttar_Pradesh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1498</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="334">
+                    <coordinates>80.91,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>B</name>
+            <Placemark id="259">
+                <name>Upper Gangetic Plains moist deciduous forests</name>
+                <description>                    category  : ecoregion &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Upper_Gangetic_Plains_moist_deciduous_forests &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7898660</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="258">
+                    <coordinates>80.916666666667,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>Lucknow Air Force Station</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow_Air_Force_Station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6697767</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="260">
+                    <coordinates>80.891388888889,26.988611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>Dilkusha Kothi</name>
+                <description>                    category  : ruins &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dilkusha_Kothi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5276840</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="262">
+                    <coordinates>80.954,26.831,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name>Ambedkar Memorial</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ambedkar_Memorial_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4741185</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="264">
+                    <coordinates>80.97597,26.84793,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>Atal Bihari Vajpayee Medical University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Medical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q59976887</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="266">
+                    <coordinates>81.0044336,26.8706965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>Husainabad Clock Tower</name>
+                <description>                    category  : clock tower &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Husainabad_Clock_Tower &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18125796</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="268">
+                    <coordinates>80.906788,26.874581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>Shah Najaf Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Imambara_Shah_Najaf &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16978007</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="270">
+                    <coordinates>80.946252777778,26.859730555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>K. D. Singh Babu Stadium, Lucknow</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/K._D._Singh_Babu_Stadium,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6323290</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="272">
+                    <coordinates>80.93773333,26.85538889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>The Residency Lucknow</name>
+                <description>                    category  : building complex &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/The_Residency,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7760279</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="274">
+                    <coordinates>80.9257,26.8618,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>Sanjay Gandhi Post Graduate Institute of Medical Sciences</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sanjay_Gandhi_Postgraduate_Institute_of_Medical_Sciences &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7418428</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="276">
+                    <coordinates>80.94515,26.74334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>King George's Medical University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/King_George%27s_Medical_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6411596</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="278">
+                    <coordinates>80.916626,26.867716,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>Sikandar Bagh</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sikandar_Bagh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Sikandar_Bag &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1550186</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="280">
+                    <coordinates>80.925438888889,26.860955555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>atlas_obscura</name>
+            <Placemark id="157">
+                <name>
+Indira Gandhi Planetarium
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/indira-gandhi-planetarium</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="156">
+                    <coordinates>80.923624,26.865011,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>
+Bara Imambara
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/bara-imambara</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="158">
+                    <coordinates>80.912695,26.868935,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>A</name>
+            <Placemark id="283">
+                <name>Darul-uloom Nadwatul Ulama</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Darul_Uloom_Nadwatul_Ulama &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Nadwat_al-%CA%BFUlam%C4%81%CA%BE &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4120108</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="282">
+                    <coordinates>80.932514,26.865123,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name>Indian Institute of Management Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q46023</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="284">
+                    <coordinates>80.899372222222,26.937375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>City Montessori School</name>
+                <description>                    category  : school &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/City_Montessori_School &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5123309</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="286">
+                    <coordinates>80.8942,26.7896,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>Rumi Darwaza</name>
+                <description>                    category  : gate &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rumi_Darwaza &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7379279</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="288">
+                    <coordinates>80.912222222222,26.871111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>United Provinces</name>
+                <description>                    category  : province of British India &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/United_Provinces_(1937%E2%80%931950) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3634604</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="290">
+                    <coordinates>80.947,26.847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>Amethi</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Amethi,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q580988</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="292">
+                    <coordinates>81.15,26.76,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>Chhota Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chota_Imambara &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Chhota_Imambara &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4118173</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="294">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="297">
+                <name>Siege of Lucknow</name>
+                <description>                    category  : siege &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Belagerung_von_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q815165</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="296">
+                    <coordinates>80.915833,26.860556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>Babasaheb Bhimrao Ambedkar University</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Babasaheb_Bhimrao_Ambedkar_University &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q797585</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="298">
+                    <coordinates>80.9195,26.7718,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>Roman Catholic Diocese of Lucknow</name>
+                <description>                    category  : diocese of the Catholic Church &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucknow &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bistum_Lucknow &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q392051</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="300">
+                    <coordinates>80.94275,26.85025,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>Nawabganj</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nawabganj,_Barabanki &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Nawabganj_(Barabanki) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q608154</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="302">
+                    <coordinates>81.19,26.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>Uttar Pradesh Legislative Assembly</name>
+                <description>                    category  : Vidhan Sabha &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Uttar_Pradesh_Legislative_Assembly &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7903333</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="304">
+                    <coordinates>80.9442,26.8436,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>University of Lucknow</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/University_of_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4253367</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="306">
+                    <coordinates>80.9364,26.8656,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>Ekana Cricket Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ekana_Cricket_Stadium &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Ekana_International_Cricket_Stadium &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q109373985</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="308">
+                    <coordinates>81.0168,26.8112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="311">
+                <name>Mohan</name>
+                <description>                    category  : Nagar Panchayat &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohan,_Uttar_Pradesh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1925021</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="310">
+                    <coordinates>80.67,26.78,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>Satrikh</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 16.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Satrikh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2717886</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="312">
+                    <coordinates>81.2,26.87,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>Lucknow division</name>
+                <description>                    category  : division of Uttar Pradesh &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lucknow_division &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Lucknow_(Division) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2483390</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="314">
+                    <coordinates>80.92,26.85,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>Gosainganj</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gosainganj,_Lucknow &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1707530</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="316">
+                    <coordinates>81.12,26.77,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>Barabanki</name>
+                <description>                    category  : city &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Barabanki &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3780142</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="318">
+                    <coordinates>81.2,26.92,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>Itaunja</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Itaunja &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1756056</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="320">
+                    <coordinates>80.92,27.08,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>Bara Imambara</name>
+                <description>                    category  : husayniyya &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bara_Imambara &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3630998</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="322">
+                    <coordinates>80.912885,26.869104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>Malihabad</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Malihabad &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2543287</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="324">
+                    <coordinates>80.72,26.94,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>Kakori</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kakori &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2450968</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="326">
+                    <coordinates>80.8,26.88,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>wikivoyage</name>
+            <Placemark id="149">
+                <name>Sunauli</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Sunauli - Nepal can be reached via Bhairawa &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="148">
+                    <coordinates>83.416667,27.5,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>Varanasi</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Varanasi &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="150">
+                    <coordinates>83.0076292,25.3356491,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="153">
+                <name>Prayagraj</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Prayagraj &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="152">
+                    <coordinates>81.8338005,25.4381302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="155">
+                <name>Agra</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Agra &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="154">
+                    <coordinates>78.0098161,27.1752554,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>

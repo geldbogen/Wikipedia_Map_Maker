@@ -1,4 +1,5 @@
 import re
+from typing import Literal
 
 import requests
 import wikitextparser as wtp
@@ -27,11 +28,12 @@ class WikivoyageFetcher():
                 continue
             if line == 'Districts':
                 self.fetch_the_districts(index)
-            wikilist = self.get_wikilist_by_section_number(index)
-            content_list = self.get_dictionary_list_of_wikitext(wikilist) 
-            frame = self.get_dataframe_from_dictionary_list(content_list,line)
-            self.fill_missing_coordinates_in_frame(frame)
-            self.return_frame = pd.concat([self.return_frame,frame])
+            list_of_wikilists = self.get_list_of_wikilists_by_section_number(index)
+            for wikilist in list_of_wikilists:
+                content_list = self.get_dictionary_list_of_wikitext(wikilist,headline='Go next') 
+                frame = self.get_dataframe_from_dictionary_list(content_list,line)
+                self.fill_missing_coordinates_in_frame(frame)
+                self.return_frame = pd.concat([self.return_frame,frame])
         
         self.replace_duplicates_in_wikivoyage_frame(self.return_frame)
 
@@ -62,7 +64,7 @@ class WikivoyageFetcher():
         return_dict = {x['index'] : x['line'] for x in response_list_sections}
         return return_dict
 
-    def get_wikilist_by_section_number(self, section_number : int) -> wtp.WikiList | None:
+    def get_list_of_wikilists_by_section_number(self, section_number : int) -> list[wtp.WikiList] | None:
         url_2 = 'https://en.wikivoyage.org/w/api.php'
         response = requests.get(url_2, params={
                                 'action': 'parse', 'format': 'json',
@@ -70,12 +72,12 @@ class WikivoyageFetcher():
                                 'section' : str(section_number), 'disabletoc' : '1' })
         parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
         try:
-            wikilist = parsed.get_lists()[0]
+            wikilist = parsed.get_lists()
         except IndexError:
             return None
         return wikilist
 
-    def get_dictionary_list_of_wikitext(self, wikilist : wtp.WikiList | None) -> list[dict[str,str]]:
+    def get_dictionary_list_of_wikitext(self, wikilist : wtp.WikiList | None, headline : Literal['Go next', ''] = '') -> list[dict[str,str]]:
         
         if not wikilist:
             return [{}]
@@ -98,7 +100,6 @@ class WikivoyageFetcher():
                     right_side = thing.split('=')[1].replace('\n','').replace('}}','')
                     my_dict[left_side] = right_side
             elif '[[' in entry:
-                my_dict = {}
                 my_dict['name'] = re.findall(r'[^\[\]]*', entry)[3]
                 print(re.findall(r'[^\[\]]*', entry))
                 my_dict['content'] = entry.strip().replace('[[','').replace(']]','')
@@ -113,9 +114,7 @@ class WikivoyageFetcher():
         return_frame['lon'] = [x.get('long', '') for x in dict_list]
         return_frame['address'] = [x.get('address', '') for x in dict_list]
         return_frame['url'] = [x.get('url', '') for x in dict_list]
-
         return_frame['thingLabel'] = [category] * len(return_frame.index.to_list())
-
         return_frame['description'] = [x.get('content', '') for x in dict_list]
 
         return return_frame
@@ -182,6 +181,6 @@ class WikivoyageFetcher():
 
         
 if __name__ == '__main__':
-    my_voyage_fetcher = WikivoyageFetcher('Mumbai')
+    my_voyage_fetcher = WikivoyageFetcher('Lucknow')
     df = my_voyage_fetcher.fetch()
     df.to_csv('test_wikivoyage_fetcher.csv')

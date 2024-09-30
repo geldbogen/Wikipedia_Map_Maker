@@ -1,0 +1,2053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="374"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="375"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="376"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="377"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="378"/>
+        <Style id="icon-1556-FFD600-normal">
+            <IconStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="379"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="39">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="380"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="381"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="67">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="382"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="71">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="383"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="384"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="79">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="385"/>
+        <Style id="icon-1517-0288D1-normal">
+            <IconStyle id="51">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="386"/>
+        <Style id="icon-1517-0F9D58-normal">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="387"/>
+        <Style id="icon-1517-FFEA00-normal">
+            <IconStyle id="59">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="388"/>
+        <Style id="icon-1517-FF5252-normal">
+            <IconStyle id="63">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="389"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="83">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="390"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="87">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="391"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="91">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="392"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="393"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="99">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="394"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="395"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="396"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="397"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="111">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="398"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="399"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="400"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="124">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="401"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="119">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="402"/>
+        <Style id="icon-1731-0288D1-normal">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="403"/>
+        <Style id="icon-1685-0288D1-normal">
+            <IconStyle id="139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="404"/>
+        <Style id="icon-1654-0288D1-normal">
+            <IconStyle id="143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="405"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#374</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#375</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="29">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#376</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="33">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#377</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="37">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#378</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="45">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1556-FFD600-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#379</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="41">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#380</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="49">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#381</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="69">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#382</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="73">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#383</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="77">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#384</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="81">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#385</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="53">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#386</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="57">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#387</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="61">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#388</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="65">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#389</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="85">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#390</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="89">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#391</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="93">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#392</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="97">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#393</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="101">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#394</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="117">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#395</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="109">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#396</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="105">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#397</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="113">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#398</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="133">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#399</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="129">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#400</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="125">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#401</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="121">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#402</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="137">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1731-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#403</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="141">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1685-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#404</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="145">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1654-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#405</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder id="11">
+            <name>atlas_obscura</name>
+            <Placemark id="161">
+                <name>
+Devil's Bend (Old Upper Thomson Road)
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/devils-bend-old-upper-thomson-road-singapore</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="160">
+                    <coordinates>103.817653,1.380359,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="163">
+                <name>
+Kebun Baru Birdsinging Club
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/kebun-baru-birdsinging-club</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="162">
+                    <coordinates>103.840563,1.374026,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="165">
+                <name>
+Kwong Wai Siew Peck San Theng
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/kwong-wai-siew-peck-san-theng</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="164">
+                    <coordinates>103.84337,1.345723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="167">
+                <name>
+Kong Meng San Phor Kark See Monastery
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/kong-meng-san-phor-kark-see-monastery</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="166">
+                    <coordinates>103.835812,1.361516,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="169">
+                <name>
+Bukit Brown Cemetery
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/bukit-brown-cemetery</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="168">
+                    <coordinates>103.822942,1.336106,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>B</name>
+            <Placemark id="297">
+                <name>Nanyang Polytechnic</name>
+                <description>                    category  : institute of technology &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nanyang_Polytechnic &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Nanyang_Polytechnic &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6964469</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="296">
+                    <coordinates>103.84901,1.38006,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>Masjid Abdul Hamid</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Masjid_Abdul_Hamid &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q12497249</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="298">
+                    <coordinates>103.841,1.32,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>Syonan Jinja</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Syonan_Shrine &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7662965</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="300">
+                    <coordinates>103.81380555556,1.3482222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>Upper Peirce Reservoir</name>
+                <description>                    category  : reservoir &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Upper_Peirce_Reservoir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7337882</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="302">
+                    <coordinates>103.80194444444,1.3675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>National Orchid Garden</name>
+                <description>                    category  : orchidarium &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Orchid_Garden &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6974666</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="304">
+                    <coordinates>103.8139,1.3157,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>Masjid Al-Muttaqin</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Masjid_Al-Muttaqin &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6783332</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="306">
+                    <coordinates>103.846,1.37049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>Masjid Al-Huda</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Masjid_Al-Huda &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6783328</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="308">
+                    <coordinates>103.7947111,1.32318889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="311">
+                <name>Novena Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Novena_Church &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4504850</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="310">
+                    <coordinates>103.843,1.32181,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>Pathlight School</name>
+                <description>                    category  : special education school &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Pathlight_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q864055</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="312">
+                    <coordinates>103.8544,1.3594,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>MacRitchie Reservoir</name>
+                <description>                    category  : reservoir &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/MacRitchie_Reservoir &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/MacRitchie-Stausee &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7331703</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="314">
+                    <coordinates>103.83111111111,1.3436111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>Bishan-Ang Mo Kio Park</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan-Ang_Mo_Kio_Park &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bishan_Park &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q866299</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="316">
+                    <coordinates>103.83333333333,1.3666666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>Hwa Chong Institution</name>
+                <description>                    category  : junior college &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hwa_Chong_Institution &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q14874255</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="318">
+                    <coordinates>103.803491,1.32654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>Sun Yat Sen Nanyang Memorial Hall</name>
+                <description>                    category  : tourist attraction &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sun_Yat_Sen_Nanyang_Memorial_Hall &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q10123616</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="320">
+                    <coordinates>103.8471,1.3281,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>Thomson Road Grand Prix circuit</name>
+                <description>                    category  : motorsport racing track &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Thomson_Road_Grand_Prix_circuit &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Thomson_Road_Grand_Prix_Circuit &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1141136</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="322">
+                    <coordinates>103.819,1.3832,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>Masjid An-Nahdhah</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Masjid_An-Nahdhah &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4261602</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="324">
+                    <coordinates>103.851,1.35351,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>Kong Meng San Phor Kark See Monastery</name>
+                <description>                    category  : Buddhist temple &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kong_Meng_San_Phor_Kark_See_Monastery &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2890360</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="326">
+                    <coordinates>103.836,1.36144,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="329">
+                <name>Internal Security Department</name>
+                <description>                    category  : government agency &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Internal_Security_Department_(Singapore) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1112557</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="328">
+                    <coordinates>103.84408889,1.32349444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>Central Water Catchment</name>
+                <description>                    category  : planning area of Singapore &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Central_Water_Catchment &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q25171659</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="330">
+                    <coordinates>103.8,1.36666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="333">
+                <name>National Junior College</name>
+                <description>                    category  : junior college &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Junior_College &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/National_Junior_College &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1507273</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="332">
+                    <coordinates>103.804167,1.330278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="335">
+                <name>Bukit Timah</name>
+                <description>                    category  : tourist attraction &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Timah &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22970788</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="334">
+                    <coordinates>103.776375,1.35468056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="337">
+                <name>Toa Payoh ritual murders</name>
+                <description>                    category  : ritual murder &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_ritual_murders &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3307633</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="336">
+                    <coordinates>103.857,1.33694,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="339">
+                <name>Novena</name>
+                <description>                    category  : residential area &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Novena,_Singapore &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Novena_(Singapur) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q985660</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="338">
+                    <coordinates>103.837,1.324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="341">
+                <name>Ang Mo Kio</name>
+                <description>                    category  : planning area of Singapore &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ang_Mo_Kio &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4761845</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="340">
+                    <coordinates>103.84555555556,1.37,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="343">
+                <name>Ministry of Home Affairs, Singapore</name>
+                <description>                    category  : interior ministry &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ministry_of_Home_Affairs_(Singapore) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4294312</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="342">
+                    <coordinates>103.8449,1.32386389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="345">
+                <name>Raffles Institution</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raffles_Institution &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3244528</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="344">
+                    <coordinates>103.843951,1.347598,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>C</name>
+            <Placemark id="171">
+                <name>Rifle Range Nature Park</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rifle_Range_Nature_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q123111983</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="170">
+                    <coordinates>103.7817177791,1.3446254282792,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>Burmese Buddhist Temple</name>
+                <description>                    category  : Buddhist temple &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Burmese_Buddhist_Temple_(Singapore) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q105359408</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="172">
+                    <coordinates>103.84687222222,1.3284166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="175">
+                <name>Eco-Link@BKE</name>
+                <description>                    category  : wildlife corridor &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Eco-Link@BKE &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q65118363</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="174">
+                    <coordinates>103.78356,1.356661,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="177">
+                <name>96.3 Hao FM</name>
+                <description>                    category  : radio station &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/96.3_Hao_FM &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q47482412</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="176">
+                    <coordinates>103.8463687,1.3431067,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="179">
+                <name>Hindhede Nature Park</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hindhede_Nature_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28403800</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="178">
+                    <coordinates>103.7758,1.34874,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="181">
+                <name>Seletar Bus Depot</name>
+                <description>                    category  : bus depot &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Seletar_Bus_Depot &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24401075</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="180">
+                    <coordinates>103.84064,1.39318,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="183">
+                <name>Singapore Korean International School</name>
+                <description>                    category  : international school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Korean_International_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20651870</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="182">
+                    <coordinates>103.7905473,1.345654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="185">
+                <name>Upper Peirce Reservoir Park</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Upper_Peirce_Reservoir_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7898851</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="184">
+                    <coordinates>103.81111111,1.37291667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>Toa Payoh Swimming Complex</name>
+                <description>                    category  : sports venue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_Swimming_Complex &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7811340</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="186">
+                    <coordinates>103.85,1.33049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>Toa Payoh Public Library</name>
+                <description>                    category  : public library &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_Public_Library &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7811334</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="188">
+                    <coordinates>103.8505,1.3335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>Presbyterian High School</name>
+                <description>                    category  : high school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Presbyterian_High_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7240775</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="190">
+                    <coordinates>103.843,1.38303,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>Old Police Academy, Singapore</name>
+                <description>                    category  : police academy &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Old_Police_Academy,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7084749</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="192">
+                    <coordinates>103.83761111,1.32975278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>Nanyang Primary School</name>
+                <description>                    category  : primary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6964473</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="194">
+                    <coordinates>103.8078327,1.321121,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>Nanyang Girls' High School</name>
+                <description>                    category  : high school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nanyang_Girls%27_High_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6964465</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="196">
+                    <coordinates>103.8024,1.3305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>Lorong Chuan</name>
+                <description>                    category  : administrative territorial entity of Singapore &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lorong_Chuan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6681539</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="198">
+                    <coordinates>103.8608,1.3496,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>Kong Hwa School</name>
+                <description>                    category  : primary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kong_Hwa_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6429127</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="200">
+                    <coordinates>103.845,1.35472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>Guangyang Secondary School</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Guangyang_Secondary_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5613706</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="202">
+                    <coordinates>103.85056666667,1.3446944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>Church of the Risen Christ</name>
+                <description>                    category  : parish church &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Church_of_the_Risen_Christ &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5118039</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="204">
+                    <coordinates>103.8506379,1.3348795,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>Chong Boon</name>
+                <description>                    category  : administrative territorial entity of Singapore &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chong_Boon &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5104587</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="206">
+                    <coordinates>103.85581,1.363938,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>Cheng San</name>
+                <description>                    category  : administrative territorial entity of Singapore &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Cheng_San &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5091243</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="208">
+                    <coordinates>103.8541381,1.3726728,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>Catholic Junior College</name>
+                <description>                    category  : junior college &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Catholic_Junior_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5053186</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="210">
+                    <coordinates>103.845,1.35472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="213">
+                <name>Bishan Sports Hall</name>
+                <description>                    category  : sports venue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan_Sports_Hall &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4917333</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="212">
+                    <coordinates>103.850957,1.355543,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>Anglo-Chinese School (Barker Road)</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Anglo-Chinese_School_(Barker_Road) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4763602</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="214">
+                    <coordinates>103.836,1.31969,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="217">
+                <name>Ang Mo Kio Town Garden West</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ang_Mo_Kio_Town_Garden_West &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4761854</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="216">
+                    <coordinates>103.8434332,1.3743688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>Anderson Secondary School</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Anderson_Secondary_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4754186</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="218">
+                    <coordinates>103.851,1.37483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Singapore Islamic Hub</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Islamic_Hub &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30624691</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="220">
+                    <coordinates>103.852322,1.3428081,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="223">
+                <name>Thomson Nature Park</name>
+                <description>                    category  : nature park &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Thomson_Nature_Park &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Thomson_Naturpark &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q65117977</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="222">
+                    <coordinates>103.821074,1.386471,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="225">
+                <name>Frederic Chopin statue in Singapore</name>
+                <description>                    category  : monument &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Chopin-Denkmal_in_Singapur &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16589899</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="224">
+                    <coordinates>103.815,1.31348,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>German European School Singapore</name>
+                <description>                    category  : international school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/German_European_School_Singapore &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/German_European_School_Singapore &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1513891</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="226">
+                    <coordinates>103.79138889,1.34555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="229">
+                <name>Bukit Brown Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Brown_Cemetery &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20052847</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="228">
+                    <coordinates>103.8207959,1.3361057,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="231">
+                <name>Yio Chu Kang</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Yio_Chu_Kang &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q8053778</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="230">
+                    <coordinates>103.84416666667,1.3811111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>Toa Payoh Town Park</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_Town_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7811341</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="232">
+                    <coordinates>103.84778,1.33057,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="235">
+                <name>Toa Payoh Sports Hall</name>
+                <description>                    category  : sports venue &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7811338</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="234">
+                    <coordinates>103.852,1.33037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="237">
+                <name>Thomson</name>
+                <description>                    category  : administrative territorial entity of Singapore &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Thomson,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7795854</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="236">
+                    <coordinates>103.835,1.3554444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>Singapore Chinese Girls' School</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Chinese_Girls%27_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7522931</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="238">
+                    <coordinates>103.8279283,1.321167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>Potong Pasir</name>
+                <description>                    category  : residential area &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Potong_Pasir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7235101</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="240">
+                    <coordinates>103.8561,1.336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="243">
+                <name>National University of Singapore Faculty of Law</name>
+                <description>                    category  : faculty &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_University_of_Singapore_Faculty_of_Law &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6979269</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="242">
+                    <coordinates>103.815,1.3187,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="245">
+                <name>Mountbatten</name>
+                <description>                    category  : administrative territorial entity of Singapore &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mountbatten,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6925743</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="244">
+                    <coordinates>103.8288,1.3142,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="247">
+                <name>Methodist Girls' School</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Methodist_Girls%27_School,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6823826</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="246">
+                    <coordinates>103.783,1.33295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="249">
+                <name>Marymount</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Marymount,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6781618</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="248">
+                    <coordinates>103.8368,1.3539,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Madrasah Irsyad Zuhri Al-Islamiah</name>
+                <description>                    category  : madrasa &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Madrasah_Irsyad_Zuhri_Al-Islamiah &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6728552</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="250">
+                    <coordinates>103.85197222222,1.3426111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="253">
+                <name>Lower Peirce Reservoir</name>
+                <description>                    category  : reservoir &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lower_Peirce_Reservoir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6693708</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="252">
+                    <coordinates>103.82333333333,1.3694444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
+                <name>Lee Kuan Yew School of Public Policy</name>
+                <description>                    category  : public policy school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lee_Kuan_Yew_School_of_Public_Policy &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6514349</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="254">
+                    <coordinates>103.81747,1.3198,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>Institute of Technical Education</name>
+                <description>                    category  : educational organization &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Institute_of_Technical_Education &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6040895</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="256">
+                    <coordinates>103.855177,1.376613,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="259">
+                <name>Church of Saint Francis Xavier</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Church_of_Saint_Francis_Xavier,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5117039</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="258">
+                    <coordinates>103.8637,1.3582,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>Bishan Depot</name>
+                <description>                    category  : motive power depot &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan_Depot &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4917328</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="260">
+                    <coordinates>103.854,1.35529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>Ang Mo Kio Public Library</name>
+                <description>                    category  : public library &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ang_Mo_Kio_Public_Library &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4761842</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="262">
+                    <coordinates>103.845,1.37477,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name>Embassy of France, Singapore</name>
+                <description>                    category  : embassy &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2841807</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="264">
+                    <coordinates>103.814122,1.322199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>Hwa Chong Junior College</name>
+                <description>                    category  : junior college &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hwa_Chong_Junior_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28197076</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="266">
+                    <coordinates>103.803491,1.32654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>The Chinese High School</name>
+                <description>                    category  : high school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/The_Chinese_High_School_(Singapore) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q27965162</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="268">
+                    <coordinates>103.803491,1.32654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>Embassy of Switzerland, Singapore</name>
+                <description>                    category  : embassy &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Embassy_of_Switzerland,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24936775</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="270">
+                    <coordinates>103.78957,1.342539,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>Bukit Timah Road</name>
+                <description>                    category  : street &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Timah_Road &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bukit_Timah_Road &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1003270</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="272">
+                    <coordinates>103.8129,1.3228,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>Balestier and Newton</name>
+                <description>                    category  : district &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q14233915</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="274">
+                    <coordinates>103.8425,1.3216666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>Yio Chu Kang Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Yio_Chu_Kang_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q8053782</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="276">
+                    <coordinates>103.846,1.38331,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>Toa Payoh Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7811339</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="278">
+                    <coordinates>103.853,1.3304,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>The Chinese High School Clock Tower Building</name>
+                <description>                    category  : clock tower &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/The_Chinese_High_School_Clock_Tower_Building &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7722564</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="280">
+                    <coordinates>103.803,1.32639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="283">
+                <name>Singapore Institute of Management</name>
+                <description>                    category  : business school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Institute_of_Management &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7523020</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="282">
+                    <coordinates>103.8,1.32583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name>Sin Ming</name>
+                <description>                    category  : housing estate &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sin_Ming &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7521551</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="284">
+                    <coordinates>103.83679167,1.356525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>Catholic High School</name>
+                <description>                    category  : high school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Catholic_High_School,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5053176</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="286">
+                    <coordinates>103.84472222222,1.3547222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>Burmese Buddhist Temple</name>
+                <description>                    category  : Buddhist temple &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Burmese_Buddhist_Temple &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4999418</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="288">
+                    <coordinates>103.847,1.32842,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>Bukit Timah railway station</name>
+                <description>                    category  : former railway station &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Timah_railway_station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4986974</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="290">
+                    <coordinates>103.781111,1.334167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>Bishan Public Library</name>
+                <description>                    category  : public library &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan_Public_Library &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4917325</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="292">
+                    <coordinates>103.849,1.34984,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>Saint Joseph's Institution</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Joseph%27s_Institution,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3152821</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="294">
+                    <coordinates>103.8284622,1.3229793,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>S</name>
+            <Placemark id="367">
+                <name>Bukit Timah</name>
+                <description>                    category  : hill &lt;br&gt;   
+                    sitelinks : 27.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Timah_Hill &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bukit_Timah_(H%C3%BCgel) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q720209</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="366">
+                    <coordinates>103.776375,1.3546805555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="369">
+                <name>Singapore Island</name>
+                <description>                    category  : island &lt;br&gt;   
+                    sitelinks : 29.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Island &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Pulau_Ujong &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1054746</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="368">
+                    <coordinates>103.8,1.3833333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="371">
+                <name>Straits Settlements</name>
+                <description>                    category  : crown colony &lt;br&gt;   
+                    sitelinks : 37.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Straits_Settlements &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Straits_Settlements &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q376178</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="370">
+                    <coordinates>103.8,1.3666666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="373">
+                <name>Singapore Botanic Gardens</name>
+                <description>                    category  : botanical garden &lt;br&gt;   
+                    sitelinks : 43.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Singapore_Botanic_Gardens &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3046409</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="372">
+                    <coordinates>103.8162,1.3151,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>wikivoyage</name>
+            <Placemark id="149">
+                <name>Pulau Tioman</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Pulau Tioman &amp;mdash; The nearest of Malaysia's East Coast (Malaysia)|East Coast paradise islands, reachable by bus &amp; ferry. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="148">
+                    <coordinates>104.17215641866112,2.8065444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>Malacca</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Malacca &amp;mdash; Once one of the three Straits Settlements, now a sleepy colonial town. 3&amp;ndash;4&amp;nbsp;hr by bus, although it might take a little longer due to border security. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="150">
+                    <coordinates>102.2880962,2.3293744,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="153">
+                <name>Kuala Lumpur</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Kuala Lumpur &amp;mdash; Malaysia's vibrant capital. 45&amp;nbsp;min by plane, 4&amp;ndash;5&amp;nbsp;hr by bus or 10&amp;nbsp;hr by train. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="152">
+                    <coordinates>101.6942371,3.1516964,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="155">
+                <name>Johor Bahru</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Johor Bahru &amp;mdash; Malaysian city just across the Causeway. Just 20&amp;nbsp;min by bus 950 from Woodlands Bus Interchange. Not much to look at, but popular for cheap eating, shopping and Legoland Malaysia. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="154">
+                    <coordinates>103.7649059,1.4581986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="157">
+                <name>Bintan</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Bintan &amp;mdash; Indonesian island just 55&amp;nbsp;min away by ferry, offering both high-end resorts and the &quot;real Indonesia&quot; experience. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="156">
+                    <coordinates>104.56981887122059,1.01965765,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>Batam</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Batam &amp;mdash; The nearest Indonesian island to Singapore, just a short ferry trip away. Mainly industrial and infamous for its vice trade, but has some resorts. &lt;br&gt;
+                </description>
+                <styleUrl>#145</styleUrl>
+                <Point id="158">
+                    <coordinates>104.0383696,1.1030815,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>A</name>
+            <Placemark id="347">
+                <name>Central Catchment Nature Reserve</name>
+                <description>                    category  : nature reserve &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Central_Catchment_Nature_Reserve &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5060520</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="346">
+                    <coordinates>103.8,1.36667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="349">
+                <name>Bishan Stadium</name>
+                <description>                    category  : multi-purpose sports venue &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1108329</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="348">
+                    <coordinates>103.851475,1.354545,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="351">
+                <name>Kallang River</name>
+                <description>                    category  : river &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kallang_River &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kallang_River &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1094417</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="350">
+                    <coordinates>103.87,1.3011111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="353">
+                <name>Singapore Police Force</name>
+                <description>                    category  : government agency &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_Police_Force &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q11081257</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="352">
+                    <coordinates>103.84534444444,1.3243222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="355">
+                <name>Bishan</name>
+                <description>                    category  : tourist attraction &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bishan,_Singapore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3249777</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="354">
+                    <coordinates>103.851,1.35083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="357">
+                <name>Ang Mo Kio MRT station</name>
+                <description>                    category  : Spanish solution &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ang_Mo_Kio_MRT_station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2266049</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="356">
+                    <coordinates>103.84945,1.3700166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="359">
+                <name>Singapore in Federation of Malaysia</name>
+                <description>                    category  : state &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Singapore_in_Malaysia &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4420038</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="358">
+                    <coordinates>103.8,1.36667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="361">
+                <name>Toa Payoh</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 16.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Toa_Payoh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Toa_Payoh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2734905</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="360">
+                    <coordinates>103.85,1.335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="363">
+                <name>Bukit Timah Nature Reserve</name>
+                <description>                    category  : nature reserve &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bukit_Timah_Nature_Reserve &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bukit-Timah-Reservat &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q385725</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="362">
+                    <coordinates>103.80083333333,1.3869444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="365">
+                <name>Bombing of Singapore</name>
+                <description>                    category  : military campaign &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bombing_of_Singapore_(1944%E2%80%931945) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Luftangriffe_auf_Singapur_(1944%E2%80%931945) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q569689</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="364">
+                    <coordinates>103.8,1.36666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="147">
+            <styleUrl>#145</styleUrl>
+            <Point id="146">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

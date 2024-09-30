@@ -1,0 +1,3351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="593"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="24">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="25">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="594"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="28">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="29">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="595"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="32">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="596"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="36">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="37">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="597"/>
+        <Style id="icon-1556-FFD600-normal">
+            <IconStyle id="44">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="598"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="599"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="48">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="49">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="600"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="68">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="601"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="72">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="602"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="76">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="603"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="604"/>
+        <Style id="icon-1517-0288D1-normal">
+            <IconStyle id="52">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="605"/>
+        <Style id="icon-1517-0F9D58-normal">
+            <IconStyle id="56">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="57">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="606"/>
+        <Style id="icon-1517-FFEA00-normal">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="607"/>
+        <Style id="icon-1517-FF5252-normal">
+            <IconStyle id="64">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="608"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="84">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="609"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="88">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="610"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="92">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="611"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="96">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="612"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="613"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="116">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="117">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="614"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="108">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="109">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="615"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="104">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="105">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="616"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="112">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="617"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="132">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="133">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="618"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="128">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="129">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="619"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="124">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="620"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="621"/>
+        <Style id="icon-1731-0288D1-normal">
+            <IconStyle id="136">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="137">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="622"/>
+        <Style id="icon-1685-0288D1-normal">
+            <IconStyle id="140">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="623"/>
+        <Style id="icon-1654-0288D1-normal">
+            <IconStyle id="144">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="145">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="624"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#593</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#594</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="30">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#595</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="34">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#596</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="38">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#597</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="46">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1556-FFD600-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#598</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="42">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#599</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="50">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#600</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="70">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#601</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="74">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#602</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="78">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#603</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="82">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#604</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="54">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#605</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="58">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#606</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="62">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#607</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="66">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1517-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#608</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="86">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#609</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="90">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#610</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="94">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#611</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="98">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#612</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="102">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#613</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="118">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#614</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="110">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#615</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="106">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#616</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="114">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#617</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="134">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#618</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="130">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#619</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="126">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#620</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="122">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#621</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="138">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1731-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#622</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="142">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1685-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#623</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="146">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1654-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#624</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder id="11">
+            <name>S</name>
+            <Placemark id="564">
+                <name>2024 R. G. Kar Medical College and Hospital rape and murder</name>
+                <description>                    category  : murder &lt;br&gt;   
+                    sitelinks : 20.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/2024_Kolkata_rape_and_murder &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q129094549</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="563">
+                    <coordinates>88.3782948,22.6041254,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="566">
+                <name>Fort William</name>
+                <description>                    category  : fort &lt;br&gt;   
+                    sitelinks : 22.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Fort_William,_India &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2750027</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="565">
+                    <coordinates>88.338055555556,22.557777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="568">
+                <name>East Bengal FC</name>
+                <description>                    category  : association football club &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/East_Bengal_FC &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/East_Bengal_FC &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q122981749</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="567">
+                    <coordinates>88.343236111111,22.559461111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="570">
+                <name>Eden Gardens</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Eden_Gardens &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Ranji_Stadium &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2035004</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="569">
+                    <coordinates>88.343333333333,22.564444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="572">
+                <name>Indian Museum</name>
+                <description>                    category  : national museum &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Museum &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Indian_Museum &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1364900</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="571">
+                    <coordinates>88.350833333333,22.558055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="574">
+                <name>Black Hole of Calcutta</name>
+                <description>                    category  : dungeon &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Black_Hole_of_Calcutta &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1202492</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="573">
+                    <coordinates>88.348,22.5734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="576">
+                <name>Howrah Bridge</name>
+                <description>                    category  : cantilever bridge &lt;br&gt;   
+                    sitelinks : 26.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Howrah_Bridge &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Howrah_Bridge &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q739641</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="575">
+                    <coordinates>88.34694,22.58527,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="578">
+                <name>Bengal Presidency</name>
+                <description>                    category  : province of British India &lt;br&gt;   
+                    sitelinks : 26.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bengal_Presidency &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bengalen_(Pr%C3%A4sidentschaft) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q817165</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="577">
+                    <coordinates>88.337778,22.541111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="580">
+                <name>Victoria Memorial</name>
+                <description>                    category  : memorial &lt;br&gt;   
+                    sitelinks : 31.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Victoria_Memorial_(Indien) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1356352</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="579">
+                    <coordinates>88.3425,22.5449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="582">
+                <name>Vivekananda Yuba Bharati Krirangan</name>
+                <description>                    category  : association football venue &lt;br&gt;   
+                    sitelinks : 33.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Salt_Lake_Stadium &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Yuba_Bharati_Krirangan &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q787124</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="581">
+                    <coordinates>88.409167,22.568889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="584">
+                <name>University of Calcutta</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 64.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/University_of_Calcutta &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/University_of_Calcutta &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1145306</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="583">
+                    <coordinates>88.3628,22.575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="586">
+                <name>Howrah</name>
+                <description>                    category  : municipal corporation of West Bengal &lt;br&gt;   
+                    sitelinks : 74.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Howrah &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Haora &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q205697</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="585">
+                    <coordinates>88.329444444444,22.58,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="588">
+                <name>British Raj</name>
+                <description>                    category  : colony &lt;br&gt;   
+                    sitelinks : 93.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/British_Raj &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q129286</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="587">
+                    <coordinates>88.337777777778,22.541111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="590">
+                <name>West Bengal</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 146.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/West_Bengal &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Westbengalen &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1356</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="589">
+                    <coordinates>88.366666666667,22.566666666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="592">
+                <name>Kolkata</name>
+                <description>                    category  : megacity &lt;br&gt;   
+                    sitelinks : 188.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kolkata &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1348</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="591">
+                    <coordinates>88.3638815,22.5726723,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>B</name>
+            <Placemark id="426">
+                <name>Regional Railway Museum</name>
+                <description>                    category  : railway museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rail_Museum,_Howrah &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q56683370</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="425">
+                    <coordinates>88.3404447,22.5786933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>Thanthania Kalibari</name>
+                <description>                    category  : temple &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Thanthania_Kalibari &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7710629</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="427">
+                    <coordinates>88.365555555556,22.580833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="430">
+                <name>Sutanuti</name>
+                <description>                    category  : former village &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sutanuti &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7649902</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="429">
+                    <coordinates>88.365833333333,22.5975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="432">
+                <name>South Kolkata</name>
+                <description>                    category  : geographic region &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7567630</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="431">
+                    <coordinates>88.3638815,22.5726723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>Science City</name>
+                <description>                    category  : science museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Science_City,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7433497</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="433">
+                    <coordinates>88.395833333333,22.540555555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="436">
+                <name>Oriental Seminary</name>
+                <description>                    category  : higher secondary school &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Oriental_Seminary &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7102369</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="435">
+                    <coordinates>88.360099999616,22.592499999921,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="438">
+                <name>Netaji Indoor Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Netaji_Indoor_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6998605</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="437">
+                    <coordinates>88.34166667,22.56612778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>Metropolitan Building</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Metropolitan_Building_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6825020</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="439">
+                    <coordinates>88.3516,22.5637,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="442">
+                <name>Metcalfe Hall</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Metcalfe_Hall &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6823351</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="441">
+                    <coordinates>88.34477234,22.57160378,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="444">
+                <name>Lal Dighi</name>
+                <description>                    category  : artificial pond &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lal_Dighi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6480048</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="443">
+                    <coordinates>88.349,22.572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>Kolkata Town Hall</name>
+                <description>                    category  : town hall &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_Town_Hall &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6427313</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="445">
+                    <coordinates>88.345,22.568055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="448">
+                <name>Howrah Sadar subdivision</name>
+                <description>                    category  : subdivision of West Bengal &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Howrah_Sadar_subdivision &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5922533</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="447">
+                    <coordinates>88.3251045,22.5736296,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="450">
+                <name>Kolkata Race Course</name>
+                <description>                    category  : horse racing venue &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_Race_Course &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5455830</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="449">
+                    <coordinates>88.33648333,22.54431111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>College Street</name>
+                <description>                    category  : street &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/College_Street_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5146558</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="451">
+                    <coordinates>88.363354,22.575514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="454">
+                <name>Calcutta National Medical College</name>
+                <description>                    category  : medical college in India &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_National_Medical_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5018942</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="453">
+                    <coordinates>88.3698861,22.5464277,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="456">
+                <name>Babughat</name>
+                <description>                    category  : ghat &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Babughat &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4838076</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="455">
+                    <coordinates>88.3398,22.5663,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="458">
+                <name>Asutosh Museum of Indian Art</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Asutosh_Museum_of_Indian_Art &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4811954</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="457">
+                    <coordinates>88.36087,22.56983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="460">
+                <name>Academy of Fine Arts, Kolkata</name>
+                <description>                    category  : organization &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Academy_of_Fine_Arts,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4671456</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="459">
+                    <coordinates>88.3453662,22.5429508,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="462">
+                <name>General Post Office, Kolkata</name>
+                <description>                    category  : head post office &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/General_Post_Office,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3350712</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="461">
+                    <coordinates>88.347769444444,22.573052777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="464">
+                <name>South Park Street Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/South_Park_Street_Cemetery &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2972549</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="463">
+                    <coordinates>88.36039,22.546568,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="466">
+                <name>Haqqani Anjuman</name>
+                <description>                    category  : organization &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Haqqani_Anjuman &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18697337</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="465">
+                    <coordinates>88.3838,22.5839,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="468">
+                <name>North Kolkata</name>
+                <description>                    category  : geographic region &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/North_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q14221200</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="467">
+                    <coordinates>88.3638815,22.5726723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="470">
+                <name>Netaji Bhawan</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Netaji_Bhawan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q11325387</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="469">
+                    <coordinates>88.351246,22.537586,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="472">
+                <name>St. Xavier's College</name>
+                <description>                    category  : organization &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Xavier%27s_College,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7592175</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="471">
+                    <coordinates>88.356,22.5484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="474">
+                <name>Prinsep Ghat</name>
+                <description>                    category  : ghat &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Prinsep_Ghat &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7245233</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="473">
+                    <coordinates>88.3316,22.55678,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="476">
+                <name>Nimtala crematorium</name>
+                <description>                    category  : crematorium &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nimtala_Crematorium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7037794</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="475">
+                    <coordinates>88.351692,22.593521,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="478">
+                <name>New Market</name>
+                <description>                    category  : market &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/New_Market,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7010004</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="477">
+                    <coordinates>88.3532,22.5607,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="480">
+                <name>East Kolkata</name>
+                <description>                    category  : geographic region &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/East_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5328741</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="479">
+                    <coordinates>88.3638815,22.5726723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="482">
+                <name>M. P. Birla Planetarium</name>
+                <description>                    category  : planetarium &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Birla_Planetarium,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4916536</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="481">
+                    <coordinates>88.34519444,22.54553333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="484">
+                <name>All India Institute of Hygiene and Public Health</name>
+                <description>                    category  : medical school &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/All_India_Institute_of_Hygiene_and_Public_Health &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4728949</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="483">
+                    <coordinates>88.360033,22.575306,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="486">
+                <name>St. Thomas Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Thomas_Church,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3584578</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="485">
+                    <coordinates>88.352222222222,22.55,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="488">
+                <name>Birla Industrial &amp; Technological Museum</name>
+                <description>                    category  : science museum &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Birla_Industrial_%26_Technological_Museum &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3532605</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="487">
+                    <coordinates>88.363360611111,22.534817194444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="490">
+                <name>Siege of Calcutta</name>
+                <description>                    category  : siege &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Siege_of_Calcutta &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3350705</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="489">
+                    <coordinates>88.337777777778,22.541111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="492">
+                <name>Kolkata flyover collapse</name>
+                <description>                    category  : disaster &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/2016_Kolkata_flyover_collapse &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q23674556</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="491">
+                    <coordinates>88.358255555556,22.586366666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="494">
+                <name>Magen David Synagogue</name>
+                <description>                    category  : synagogue &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Magen_David_Synagogue_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6730097</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="493">
+                    <coordinates>88.35194397,22.57768059,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="496">
+                <name>Bose Institute</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bose_Institute &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4947204</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="495">
+                    <coordinates>88.3937,22.5861,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="498">
+                <name>Birla Mandir</name>
+                <description>                    category  : temple &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Birla_Mandir,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4916530</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="497">
+                    <coordinates>88.365,22.53055556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="500">
+                <name>Bengal Chemicals and Pharmaceuticals</name>
+                <description>                    category  : business &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bengal_Chemicals_and_Pharmaceuticals &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4887610</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="499">
+                    <coordinates>88.399444444444,22.578888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="502">
+                <name>Armenian Church of the Holy Nazareth</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Armenian_Church_of_the_Holy_Nazareth &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3585462</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="501">
+                    <coordinates>88.351,22.579,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="504">
+                <name>Medical College and Hospital, Kolkata</name>
+                <description>                    category  : tertiary referral hospital &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Medical_College_%26_Hospital,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3348933</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="503">
+                    <coordinates>88.3619,22.5736,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="506">
+                <name>Writers' Building</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Writers%27_Building &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q985758</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="505">
+                    <coordinates>88.349634,22.57369,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="508">
+                <name>East Bengal Club</name>
+                <description>                    category  : multisports club &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/East_Bengal_Club &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q621824</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="507">
+                    <coordinates>88.343236111111,22.559461111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="510">
+                <name>St. John's Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._John%27s_Church,_Kolkata &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/St_John%E2%80%99s_(Kolkata) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3051967</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="509">
+                    <coordinates>88.34594727,22.56990433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="512">
+                <name>Shaheed Minar</name>
+                <description>                    category  : monument &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Shaheed_Minar,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7461557</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="511">
+                    <coordinates>88.34923,22.56286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="514">
+                <name>The Sanskrit College and University</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sanskrit_College_and_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7419011</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="513">
+                    <coordinates>88.364286111111,22.575727777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="516">
+                <name>Socialist Unity Centre of India (Communist)</name>
+                <description>                    category  : communist party &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Socialist_Unity_Centre_of_India_(Communist) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3347945</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="515">
+                    <coordinates>88.35558333,22.56386111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="518">
+                <name>Sealdah railway station</name>
+                <description>                    category  : last station &lt;br&gt;   
+                    sitelinks : 8.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sealdah_railway_station &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3347406</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="517">
+                    <coordinates>88.3711047,22.5679661,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="520">
+                <name>Calcutta High Court</name>
+                <description>                    category  : high court &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_High_Court &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Calcutta_High_Court &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1026391</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="519">
+                    <coordinates>88.34333333,22.56833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="522">
+                <name>Marble Palace</name>
+                <description>                    category  : palace &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Marble_Palace_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6755210</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="521">
+                    <coordinates>88.360143,22.582378,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="524">
+                <name>Adi Ganga</name>
+                <description>                    category  : river &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Adi_Ganga &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4682601</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="523">
+                    <coordinates>88.32527778,22.54972222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="526">
+                <name>Jorasanko Thakur Bari</name>
+                <description>                    category  : palace &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Jorasanko_Thakur_Bari &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3347163</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="525">
+                    <coordinates>88.3592,22.585,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>C</name>
+            <Placemark id="190">
+                <name>Chandni Chowk</name>
+                <description>                    category  : administrative territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandni_Chowk,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q112205690</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="189">
+                    <coordinates>88.356666666667,22.565555555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>Nahoum &amp; Sons</name>
+                <description>                    category  : bakery &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nahoum_%26_Sons &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q110984229</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="191">
+                    <coordinates>88.3530294,22.5602866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>College Square Swimming Pool</name>
+                <description>                    category  : swimming pool &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/College_Square_Swimming_Pool &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q97609952</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="193">
+                    <coordinates>88.363539,22.574683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>Electric Loco Shed, Howrah</name>
+                <description>                    category  : motive power depot &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Electric_Loco_Shed,_Howrah &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q97144282</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="195">
+                    <coordinates>88.33524,22.604813,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>Baker Hostel</name>
+                <description>                    category  : university dormitory &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Baker_Hostel &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q90092840</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="197">
+                    <coordinates>88.3589861,22.5588543,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="200">
+                <name>Chandpal Ferry Ghat</name>
+                <description>                    category  : pier &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q86824380</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="199">
+                    <coordinates>88.3404329,22.5683853,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="202">
+                <name>Commons Meetup Kolkata 2019</name>
+                <description>                    category  : Wikimedia meetups in Kolkata &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q79326864</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="201">
+                    <coordinates>88.387361111111,22.593222222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>Church of the Sacred Heart of Jesus</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q68472164</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="203">
+                    <coordinates>88.352694444444,22.564833333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>Rammohun Library and Free Reading Room</name>
+                <description>                    category  : library &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q68023417</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="205">
+                    <coordinates>88.3743365,22.581858,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>Bhot Bagan Math</name>
+                <description>                    category  : vihara &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhot_Bagan_Moth &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q67590242</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="207">
+                    <coordinates>88.357765,22.614695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>Wikisammelan 2019</name>
+                <description>                    category  : recurrent event edition &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q61417193</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="209">
+                    <coordinates>88.361677,22.546414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="212">
+                <name>Documenting Brahmo Samaj Cemetery-Nabodebalay</name>
+                <description>                    category  : Wikimedia projects &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q60054014</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="211">
+                    <coordinates>88.373078055556,22.57505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="214">
+                <name>Chinese Kali Mandir</name>
+                <description>                    category  : temple &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q58623459</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="213">
+                    <coordinates>88.391297,22.547828,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>Taki House Govt Sponsored Multipurpose School for Boys</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Taki_House,_Govt_Sponsored_Multipurpose_School_for_Boys &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q55634621</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="215">
+                    <coordinates>88.3723312,22.57321,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="218">
+                <name>Mitra Institution (Main)</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mitra_Institution_(Main) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q50892513</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="217">
+                    <coordinates>88.368199999837,22.572399999801,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="220">
+                <name>Howrah Zilla School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Howrah_Zilla_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q48727756</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="219">
+                    <coordinates>88.335130000381,22.574520000639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>Bangla Wikisource 10th Anniversary Celebration</name>
+                <description>                    category  : anniversary &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q43386512</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="221">
+                    <coordinates>88.407694111111,22.560624,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="224">
+                <name>Beth-El Synagogue</name>
+                <description>                    category  : synagogue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q40670133</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="223">
+                    <coordinates>88.35055542,22.57050514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>Wikidata workshop Kolkata 2017</name>
+                <description>                    category  : Wikidata workshop &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q40443076</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="225">
+                    <coordinates>88.407694111111,22.560624,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="228">
+                <name>Elite Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Elite_Cinema_Hall,_Calcutta &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q34501238</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="227">
+                    <coordinates>88.3538589,22.5629291,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="230">
+                <name>Residence of Sister Nivedita</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q31724926</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="229">
+                    <coordinates>88.36694722,22.603,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="232">
+                <name>Baba Saheb Ambedkar Education University</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Baba_Saheb_Ambedkar_Education_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30644965</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="231">
+                    <coordinates>88.3559906,22.5302408,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>Mini TTT and MWT Kolkata 2017</name>
+                <description>                    category  : workshop &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28170257</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="233">
+                    <coordinates>88.4076941,22.560624,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>Circular Canal</name>
+                <description>                    category  : canal &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q26791144</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="235">
+                    <coordinates>88.366666666667,22.6,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="238">
+                <name>Abhinav Bharti High School</name>
+                <description>                    category  : private school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Abhinav_Bharati_High_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q23022948</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="237">
+                    <coordinates>88.351541,22.544068,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>St. Andrew's Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q22343101</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="239">
+                    <coordinates>88.350906,22.573081,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="242">
+                <name>Q20508340</name>
+                <description>                    category  : monument &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q20508340</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="241">
+                    <coordinates>88.351,22.579,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="244">
+                <name>Scottish Church Collegiate School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Scottish_Church_Collegiate_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18164352</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="243">
+                    <coordinates>88.360180555556,22.5971,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>Central Calcutta Polytechnic</name>
+                <description>                    category  : polytechnic &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Central_Calcutta_Polytechnic &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17198882</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="245">
+                    <coordinates>88.3717488,22.5599632,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="248">
+                <name>St. James' Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._James%27_Church,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17021121</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="247">
+                    <coordinates>88.36295,22.55505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="250">
+                <name>St. Lawrence High School, Kolkata</name>
+                <description>                    category  : Jesuit school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Lawrence_High_School,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17016720</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="249">
+                    <coordinates>88.3558,22.52871944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>Royal Calcutta Turf Club</name>
+                <description>                    category  : club &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Royal_Calcutta_Turf_Club &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16899442</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="251">
+                    <coordinates>88.3509,22.5509,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="254">
+                <name>Kolkata Eye</name>
+                <description>                    category  : architectural structure &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_Eye &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16893587</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="253">
+                    <coordinates>88.3453,22.5745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="256">
+                <name>Anandamoyee Kalibari</name>
+                <description>                    category  : temple &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16344888</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="255">
+                    <coordinates>88.353055555556,22.593055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>2011 AMRI Hospital fire</name>
+                <description>                    category  : structure fire &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/2011_AMRI_Hospital_fire &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q11826456</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="257">
+                    <coordinates>88.3697,22.5697,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="260">
+                <name>Vivekananda Institution</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Vivekananda_Institution &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7937622</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="259">
+                    <coordinates>88.316510000547,22.578400000551,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="262">
+                <name>St. James' School</name>
+                <description>                    category  : urban school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._James%27_School_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7588404</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="261">
+                    <coordinates>88.3656,22.555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>Sanskrit Collegiate School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sanskrit_Collegiate_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7419009</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="263">
+                    <coordinates>88.36449999998,22.575599999641,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="266">
+                <name>Sailendra Sirkar Vidyalaya</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sailendra_Sircar_Vidyalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7400183</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="265">
+                    <coordinates>88.368500000311,22.59760000013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="268">
+                <name>Roxy Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Roxy_Cinema_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7372457</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="267">
+                    <coordinates>88.3499,22.5622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>Ramkrishna Sarada Mission Sister Nivedita Girls' School</name>
+                <description>                    category  : girls' school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ramakrishna_Sarada_Mission_Sister_Nivedita_Girls%27_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7289695</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="269">
+                    <coordinates>88.366012,22.602737,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>Outram Ghat</name>
+                <description>                    category  : ghat &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Outram_Ghat &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7112897</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="271">
+                    <coordinates>88.338263,22.564167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="274">
+                <name>Mohammedan Sporting Ground</name>
+                <description>                    category  : association football venue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohammedan_Sporting_Ground &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6893503</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="273">
+                    <coordinates>88.345871,22.562342,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="276">
+                <name>Jyoti Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Jyoti_Cinema_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6319406</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="275">
+                    <coordinates>88.3535,22.5636,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="278">
+                <name>Sri Aurobindo Sarani</name>
+                <description>                    category  : street &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Aurobindo_Sarani &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5608247</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="277">
+                    <coordinates>88.371019444444,22.594686111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>Goenka College of Commerce and Business Administration</name>
+                <description>                    category  : business school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Goenka_College_of_Commerce_and_Business_Administration &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5577135</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="279">
+                    <coordinates>88.361394444444,22.569827777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="282">
+                <name>Chatterjee International Center</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chatterjee_International_Center &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5087933</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="281">
+                    <coordinates>88.34800556,22.55325278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="284">
+                <name>Calcutta School of Music</name>
+                <description>                    category  : music school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_School_of_Music &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5018954</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="283">
+                    <coordinates>88.361438888889,22.531769444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>Bhavan's Gangabux Kanoria Vidyamandir</name>
+                <description>                    category  : secondary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhavan%27s_Gangabux_Kanoria_Vidyamandir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4901500</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="285">
+                    <coordinates>88.402844,22.577344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="288">
+                <name>Bagmari-Manicktala Government Sponsored Higher Secondary School</name>
+                <description>                    category  : higher secondary school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bagmari-Manicktala_Government_Sponsored_Higher_Secondary_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4841997</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="287">
+                    <coordinates>88.392800000075,22.58160000041,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="290">
+                <name>Howrah Planetarium and Astronomical Research Centre</name>
+                <description>                    category  : planetarium &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Howrah_Planetarium_and_Astronomical_Research_Centre &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q115705087</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="289">
+                    <coordinates>88.331262,22.5822313,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="292">
+                <name>Tala Bridge</name>
+                <description>                    category  : destroyed building or structure &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tala_Bridge &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q84347413</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="291">
+                    <coordinates>88.3756963,22.6087115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="294">
+                <name>Boat museum</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Boat_Museum,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q56682439</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="293">
+                    <coordinates>88.391,22.582,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="296">
+                <name>Dhakeshwari Mata Temple, Kumortuli</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Dhakeshwari_Mata_Temple,_Kumortuli &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q54317695</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="295">
+                    <coordinates>88.36,22.6,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>Tala Tank</name>
+                <description>                    category  : water tower &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tala_tank &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q31726001</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="297">
+                    <coordinates>88.378888888889,22.61,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>Victoria metro station</name>
+                <description>                    category  : proposed railway station &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Victoria_metro_station_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30639601</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="299">
+                    <coordinates>88.341615,22.551344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>Calcutta International Exhibition</name>
+                <description>                    category  : world's fair &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_International_Exhibition &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q28172108</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="301">
+                    <coordinates>88.350833333333,22.558055555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>Maa Flyover</name>
+                <description>                    category  : overpass &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Maa_Flyover &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21190905</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="303">
+                    <coordinates>88.3879076,22.5414815,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>Old Mission Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Old_Mission_Church,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19950963</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="305">
+                    <coordinates>88.351466,22.5717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="308">
+                <name>Mohun Bagan Ground</name>
+                <description>                    category  : association football venue &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohun_Bagan_Ground &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15254588</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="307">
+                    <coordinates>88.342223,22.562035,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="310">
+                <name>Scottish Cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Scottish_Cemetery_at_Calcutta &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7437647</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="309">
+                    <coordinates>88.362621,22.544835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>University College of Science, Technology &amp; Agriculture</name>
+                <description>                    category  : university campus &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/University_College_of_Science,_Technology_and_Agriculture &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7285591</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="311">
+                    <coordinates>88.373147,22.578863,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="314">
+                <name>New Empire Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/New_Empire_Cinema_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7007106</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="313">
+                    <coordinates>88.3493,22.5605,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>National Institute of Pharmaceutical Education &amp; Research, Kolkata</name>
+                <description>                    category  : pharmacy school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Institute_of_Pharmaceutical_Education_and_Research,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6973689</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="315">
+                    <coordinates>88.398897555572,22.580055000594,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="318">
+                <name>Nandan</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nandan_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6963179</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="317">
+                    <coordinates>88.3455,22.5421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="320">
+                <name>Metro Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Metro_Cinema_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6824536</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="319">
+                    <coordinates>88.3494,22.5641,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="322">
+                <name>Maulana Abul Kalam Azad Institute of Asian Studies</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Maulana_Abul_Kalam_Azad_Institute_of_Asian_Studies &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6792417</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="321">
+                    <coordinates>88.356568,22.533024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="324">
+                <name>Marble Palace Zoo</name>
+                <description>                    category  : zoo &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Marble_Palace_Zoo &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6755206</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="323">
+                    <coordinates>88.3595,22.582,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="326">
+                <name>Mahajati Sadan</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mahajati_Sadan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6732833</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="325">
+                    <coordinates>88.361886111111,22.581147222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="328">
+                <name>Loreto College</name>
+                <description>                    category  : women's college &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Loreto_College,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6680900</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="327">
+                    <coordinates>88.352263888889,22.550169444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="330">
+                <name>Kolkata Little Magazine Library And Research Center</name>
+                <description>                    category  : library &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_Little_Magazine_Library_And_Research_Center &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6427300</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="329">
+                    <coordinates>88.36503,22.57682,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="332">
+                <name>Indian Institute of Social Welfare and Business Management</name>
+                <description>                    category  : business school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Social_Welfare_and_Business_Management &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6020723</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="331">
+                    <coordinates>88.3608,22.5762,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="334">
+                <name>Hindu School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hindu_School,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5766377</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="333">
+                    <coordinates>88.363499999897,22.576100000628,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="336">
+                <name>Hare School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hare_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5656757</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="335">
+                    <coordinates>88.36298,22.575648,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="338">
+                <name>geography of Kolkata</name>
+                <description>                    category  : geography of geographic location &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Geography_of_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5535166</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="337">
+                    <coordinates>88.3638815,22.5726723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="340">
+                <name>Everest House</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Everest_House_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5416955</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="339">
+                    <coordinates>88.34606667,22.54657778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="342">
+                <name>Chaplin Cinema</name>
+                <description>                    category  : movie theater &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chaplin_Cinema_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5073228</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="341">
+                    <coordinates>88.3508,22.5615,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="344">
+                <name>Calcutta Jain Temple</name>
+                <description>                    category  : temple complex &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_Jain_Temple &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5018937</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="343">
+                    <coordinates>88.377842,22.591621,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="346">
+                <name>Calcutta Boys' School</name>
+                <description>                    category  : urban school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_Boys%27_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5018918</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="345">
+                    <coordinates>88.3671,22.562789,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="348">
+                <name>Birla Institute of Liberal Arts and Management Sciences</name>
+                <description>                    category  : institute &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Birla_Institute_of_Liberal_Arts_and_Management_Sciences &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4916519</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="347">
+                    <coordinates>88.351591666667,22.540225,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="350">
+                <name>Bepin Behari Ganguly Street</name>
+                <description>                    category  : street &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bepin_Behari_Ganguly_Street &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4890913</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="349">
+                    <coordinates>88.357922222222,22.569775,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="352">
+                <name>Ballygunge Government High School</name>
+                <description>                    category  : boys' school &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ballygunge_Government_High_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4852149</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="351">
+                    <coordinates>88.354900000084,22.530000000512,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="354">
+                <name>2006 West Bengal train explosion</name>
+                <description>                    category  : train wreck &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/2006_West_Bengal_train_explosion &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4607142</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="353">
+                    <coordinates>88.369,22.569,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="356">
+                <name>2002 attack on American cultural centre in Kolkata</name>
+                <description>                    category  : occurrence &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/2002_attack_on_American_cultural_centre_in_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4600674</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="355">
+                    <coordinates>88.3493367,22.5512931,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="358">
+                <name>Church of the Lord Jesus</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Church_of_the_Lord_Jesus,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3585996</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="357">
+                    <coordinates>88.3577435,22.5585114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="360">
+                <name>Hindi University, Howrah</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Hindi_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q107657111</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="359">
+                    <coordinates>88.3358928,22.596728,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="362">
+                <name>Scottish Church College</name>
+                <description>                    category  : liberal arts college &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Scottish_Church_College &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Scottish_Church_College &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q849950</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="361">
+                    <coordinates>88.369805555556,22.588277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="364">
+                <name>Esplanade Mansions</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Esplanade_Mansions,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q68470889</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="363">
+                    <coordinates>88.348888888889,22.566388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="366">
+                <name>Gaudiya Mission</name>
+                <description>                    category  : religious order &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gaudiya_Mission &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q60761242</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="365">
+                    <coordinates>88.37352,22.60284,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="368">
+                <name>Bankshall Court</name>
+                <description>                    category  : courthouse &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bankshall_Court &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q60752059</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="367">
+                    <coordinates>88.346913,22.57116,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="370">
+                <name>Currency Building</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Currency_Building &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q56245193</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="369">
+                    <coordinates>88.350277777778,22.570555555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="372">
+                <name>National Institute of Cholera and Enteric Diseases</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Institute_for_Research_in_Bacterial_Infections &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30282165</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="371">
+                    <coordinates>88.398635,22.564118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="374">
+                <name>Lower Circular Road cemetery</name>
+                <description>                    category  : cemetery &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lower_Circular_Road_cemetery &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19893393</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="373">
+                    <coordinates>88.3637,22.5478,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="376">
+                <name>Gwalior Monument</name>
+                <description>                    category  : war memorial &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_Monument &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17054319</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="375">
+                    <coordinates>88.33385,22.56068,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="378">
+                <name>Biswa Bangla Mela Prangan</name>
+                <description>                    category  : convention center &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Milan_Mela &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15720491</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="377">
+                    <coordinates>88.3941984,22.5450227,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="380">
+                <name>Lascar War Memorial</name>
+                <description>                    category  : World War I memorial &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lascar_War_Memorial &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15241748</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="379">
+                    <coordinates>88.33,22.55,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="382">
+                <name>Nil Ratan Sircar Medical College and Hospital</name>
+                <description>                    category  : tertiary referral hospital &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nil_Ratan_Sircar_Medical_College_and_Hospital &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q14957107</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="381">
+                    <coordinates>88.370542,22.561894,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="384">
+                <name>Maulana Azad College</name>
+                <description>                    category  : liberal arts college &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Maulana_Azad_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q13059486</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="383">
+                    <coordinates>88.358022222222,22.560719444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="386">
+                <name>Basri Shah Mosque</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Basri_Shah_Mosque &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q13059169</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="385">
+                    <coordinates>88.369722222222,22.608444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="388">
+                <name>Calcutta Cricket and Football Club</name>
+                <description>                    category  : association football club &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_Cricket_and_Football_Club &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q11044609</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="387">
+                    <coordinates>88.363746,22.53346,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="390">
+                <name>West Bengal University of Animal and Fishery Sciences</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/West_Bengal_University_of_Animal_and_Fishery_Sciences &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7984454</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="389">
+                    <coordinates>88.3872554,22.6065406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="392">
+                <name>Subhas Chandra Bose statue</name>
+                <description>                    category  : sculpture &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Subhas_Chandra_Bose_statue_(Shyambazar,_Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7631200</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="391">
+                    <coordinates>88.37363,22.60179,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="394">
+                <name>Star Theatre, Kolkata</name>
+                <description>                    category  : theatre building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Star_Theatre,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7600935</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="393">
+                    <coordinates>88.37045,22.593638888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="396">
+                <name>Swami Vivekananda's Ancestral House &amp; Cultural Centre</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Ramakrishna_Mission_Swami_Vivekananda%27s_Ancestral_House_and_Cultural_Centre &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7288812</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="395">
+                    <coordinates>88.36736111,22.58633333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="398">
+                <name>Rabindra Sadan</name>
+                <description>                    category  : cultural center &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rabindra_Sadan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7278763</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="397">
+                    <coordinates>88.344667,22.541912,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="400">
+                <name>Osmond Memorial Church</name>
+                <description>                    category  : church building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Osmond_Memorial_Church &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7107209</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="399">
+                    <coordinates>88.36305,22.56027,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="402">
+                <name>Mohor Kunja</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohor_Kunja &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6894297</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="401">
+                    <coordinates>88.3425,22.5449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>Millennium Park</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Millennium_Park_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6858910</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="403">
+                    <coordinates>88.3453,22.5745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="406">
+                <name>Kalikata</name>
+                <description>                    category  : former village &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kalikata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6352686</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="405">
+                    <coordinates>88.36666667,22.56666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="408">
+                <name>IPGMER and SSKM Hospital</name>
+                <description>                    category  : medical school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/IPGMER_and_SSKM_Hospital &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5973023</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="407">
+                    <coordinates>88.3399914,22.5396672,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>Sailen Manna Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sailen_Manna_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5922511</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="409">
+                    <coordinates>88.33488889,22.58341667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="412">
+                <name>Government College of Art &amp; Craft</name>
+                <description>                    category  : art academy &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Government_College_of_Art_%26_Craft &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5588733</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="411">
+                    <coordinates>88.350602777778,22.557191666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="414">
+                <name>Girish Mancha</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Girish_Mancha &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5564294</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="413">
+                    <coordinates>88.36476944,22.604075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>Calcutta School of Tropical Medicine</name>
+                <description>                    category  : medical school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Calcutta_School_of_Tropical_Medicine &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5018955</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="415">
+                    <coordinates>88.359927,22.575243,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="418">
+                <name>College Street Coffee House</name>
+                <description>                    category  : coffeehouse &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/College_Street_Coffee_House &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4711938</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="417">
+                    <coordinates>88.36179722,22.57615,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="420">
+                <name>St. Xavier's Collegiate School</name>
+                <description>                    category  : Jesuit school &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Xavier%27s_Collegiate_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2983685</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="419">
+                    <coordinates>88.35596,22.54837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>East Bengal Ground</name>
+                <description>                    category  : association football venue &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/East_Bengal_Ground &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2408126</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="421">
+                    <coordinates>88.343854,22.559479,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="424">
+                <name>Minerva Theatre</name>
+                <description>                    category  : publishing company &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Minerva_Theatre,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q580740</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="423">
+                    <coordinates>88.36194444,22.59027778,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>graves</name>
+            <Placemark id="188">
+                <name>Mother Teresa</name>
+                <description>                    category  : nan &lt;br&gt;   
+                    sitelinks : 189.0 &lt;br&gt;   
+                    articleEN : nan &lt;br&gt;             
+                    articleDE : nan &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30547</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="187">
+                    <coordinates>88.363666479132,22.553067423749,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>A</name>
+            <Placemark id="528">
+                <name>The 42</name>
+                <description>                    category  : skyscraper &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/The_42_(Kolkata) &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/The_42 &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7711913</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="527">
+                    <coordinates>88.34975,22.54835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="530">
+                <name>Nakhoda Masjid</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nakhoda_Mosque &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q12062296</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="529">
+                    <coordinates>88.35583333,22.57638889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="532">
+                <name>R. G. Kar Medical College and Hospital</name>
+                <description>                    category  : tertiary referral hospital &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/R._G._Kar_Medical_College_and_Hospital &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7152833</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="531">
+                    <coordinates>88.378333,22.604167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="534">
+                <name>Rabindra Bharati University</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rabindra_Bharati_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3350524</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="533">
+                    <coordinates>88.359444444444,22.584444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="536">
+                <name>Raj Bhavan</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raj_Bhavan,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3349690</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="535">
+                    <coordinates>88.34752,22.567261,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="538">
+                <name>Presidency division</name>
+                <description>                    category  : division of West Bengal &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Presidency_division &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Presidency_(Division) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1132340</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="537">
+                    <coordinates>88.36666667,22.56666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="540">
+                <name>Great Eastern Hotel</name>
+                <description>                    category  : hotel &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Great_Eastern_Hotel,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q15217311</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="539">
+                    <coordinates>88.3495,22.5684,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="542">
+                <name>Cathedral of the Most Holy Rosary</name>
+                <description>                    category  : cathedral &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Holy_Rosary_Cathedral,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5052457</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="541">
+                    <coordinates>88.352721,22.578664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="544">
+                <name>Presidency University</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Presidency_University,_Kolkata &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2749583</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="543">
+                    <coordinates>88.363201,22.576319,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="546">
+                <name>Sonagachi</name>
+                <description>                    category  : neighborhood &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sonagachi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3124866</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="545">
+                    <coordinates>88.3597,22.5875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="548">
+                <name>Kolkata Metropolitan Area</name>
+                <description>                    category  : conurbation &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_metropolitan_region &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Metropolregion_Kolkata &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3349812</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="547">
+                    <coordinates>88.337777777778,22.541111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="550">
+                <name>Kolkata International Film Festival</name>
+                <description>                    category  : film festival &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kolkata_International_Film_Festival &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kolkata_Film_Festival &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q474265</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="549">
+                    <coordinates>88.341666666667,22.566127777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="552">
+                <name>Tipu Sultan Mosque</name>
+                <description>                    category  : mosque &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tipu_Sultan_Mosque &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3349172</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="551">
+                    <coordinates>88.3520934,22.5655184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="554">
+                <name>Maidan</name>
+                <description>                    category  : urban park &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Maidan_(Kolkata) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q987578</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="553">
+                    <coordinates>88.347222222222,22.551388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>St. Paul's Cathedral</name>
+                <description>                    category  : cathedral &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._Paul%27s_Cathedral,_Kolkata &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/St.-Pauls-Kathedrale_(Kolkata) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1898467</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="555">
+                    <coordinates>88.34667,22.54417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>Vidyasagar Setu</name>
+                <description>                    category  : cable-stayed bridge &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Vidyasagar_Setu &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Vidyasagar_Setu &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1145433</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="557">
+                    <coordinates>88.327777777778,22.556944444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="560">
+                <name>Fort William College</name>
+                <description>                    category  : college &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Fort_William_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2428745</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="559">
+                    <coordinates>88.349634,22.57369,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="562">
+                <name>Direct Action Day</name>
+                <description>                    category  : occurrence &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Direct_Action_Day &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Unruhen_in_Kalkutta_1946 &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2096814</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="561">
+                    <coordinates>88.36,22.58,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>atlas_obscura</name>
+            <Placemark id="164">
+                <name>
+Chinese Kali Mandir
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/chinese-kali-mandir-temple</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="163">
+                    <coordinates>88.391314,22.547651,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>
+Ronald Ross Memorial
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/ronald-ross-memorial</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="165">
+                    <coordinates>88.341482,22.540889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>
+Armenian Church of the Holy Nazareth
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/armenian-church-of-the-holy-nazareth</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="167">
+                    <coordinates>88.351325,22.579622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="170">
+                <name>
+Pen Hospital
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/kolkata-pen-hospital</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="169">
+                    <coordinates>88.351407,22.563299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="172">
+                <name>
+Cathedral of the Most Holy Rosary
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/cathedral-of-the-most-holy-rosary</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="171">
+                    <coordinates>88.353388,22.57862,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>
+Mud Statues of Kumortuli 
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/mud-statues-of-kumortuli</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="173">
+                    <coordinates>88.362708,22.599552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>
+The Black Hole of Calcutta
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/the-black-hole-of-calcutta</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="175">
+                    <coordinates>88.335874,22.554246,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="178">
+                <name>
+Terreti Bazaar 
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/terreti-bazaar</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="177">
+                    <coordinates>88.354801,22.573307,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>
+Terreti Bazaar 
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/terreti-bazaar</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="179">
+                    <coordinates>88.354801,22.573307,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="182">
+                <name>
+Nahoum and Sons
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/nahoum-sons-kolkata-jewish-bakery</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="181">
+                    <coordinates>88.352468,22.560069,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="184">
+                <name>
+College Street
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/college-street</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="183">
+                    <coordinates>88.364466,22.576014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>
+South Park Street Cemetery
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/south-park-street-cemetery</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="185">
+                    <coordinates>88.360592,22.545811,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="17">
+            <name>wikivoyage</name>
+            <Placemark id="150">
+                <name>Bhutan</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Bhutan''' — Tucked away in the corner of the bus station is a small Bhutanese Government kiosk selling tickets for buses running to the Bhutanese border town of Phuentsholing. Buses depart Tu Th Sa at 9PM, and the 18-hr journey costs ₹300. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="149">
+                    <coordinates>90.5119273,27.549511,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>Bangladesh</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Bangladesh''' — Tickets for buses running to the border and Dhaka can be reserved at Shyamoli Yatri Paribahan. Beware that several travel agencies around this area also sell tickets for these buses, but at very inflated prices. At the border, it's best to change money on the Indian side. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="151">
+                    <coordinates>36.0514231,-0.2864982,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="154">
+                <name>Sundarbans National Park</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Sundarbans National Park''' — Part of the largest littoral mangrove in the world, and home to the famous Bengal Tigers. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="153">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>Santiniketan</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Santiniketan''' — Famous for the ''ashramik'' school and university founded by Bengali poet Rabindranath Tagore, the town is also known for its handmade leather crafts and ''kantha'' stitch sarees. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="155">
+                    <coordinates>-75.6275627,6.1212013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="158">
+                <name>Digha</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Digha''' — A beach town in the southern part of the state. Buses from Esplanade Bus Station. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="157">
+                    <coordinates>87.5082534,21.623077,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="160">
+                <name>Darjeeling Hills</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Darjeeling Hills''' — A mountainous region home to Darjeeling, Kalimpong and Mirik. When Darjeeling is your destination, you could travel the last {{km|72}} by a combination of bus/train and the famous Darjeeling Himalayan Railway. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="159">
+                    <coordinates>90.2130565,25.5142686,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>Bishnupur (Rarh)|Bishnupur</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Bishnupur (Rarh)|Bishnupur''' — Famous for terracotta temples, clay sculptures and silk sarees. &lt;br&gt;
+                </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="161">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="148">
+            <styleUrl>#146</styleUrl>
+            <Point id="147">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
