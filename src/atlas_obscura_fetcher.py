@@ -48,3 +48,6 @@ def fetch_country(country_name : str):
         #     break
 
     df_complete.to_csv(f'data/ao_country_data/ao_{country_name}.csv', index=False)
+
+if __name__ == '__main__':
+    fetch_country('Germany')

@@ -25,7 +25,7 @@ class WikivoyageFetcher():
         content_dict = self.get_contents_of_wikivoyage_article()
         for index, line in content_dict.items():
             if line != 'Go next':
-                continue
+                pass
             if line == 'Districts':
                 self.fetch_the_districts(index)
             list_of_wikilists = self.get_list_of_wikilists_by_section_number(index)
@@ -120,7 +120,8 @@ class WikivoyageFetcher():
         return return_frame
 
     def fill_missing_coordinates_in_frame(self, df : pd.DataFrame):
-
+    # TODO add Geoogle Maps support if ordinary lookup fails
+    
         def help_function(pd_series : pd.Series):
             if (pd_series.at['lat'].strip() == '' or pd_series.at['lon'].strip() == ''):
                 

@@ -1,0 +1,4 @@
+location,distance,item,lat,lon,sitelinks,itemLabel,placeLabel
+Point(7.21845 50.6627),11.618,http://www.wikidata.org/entity/Q2492,50.6627,7.21845,141,Konrad Adenauer,Waldfriedhof
+Point(7.090694444 50.735691666),0.702,http://www.wikidata.org/entity/Q7351,50.735691666667,7.0906944444444,127,Robert Schumann,Alter Friedhof Bonn
+Point(6.9215 50.77275),13.254,http://www.wikidata.org/entity/Q42747,50.77275,6.9215,115,Heinrich Böll,Q28036176

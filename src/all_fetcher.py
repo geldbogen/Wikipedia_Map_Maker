@@ -49,8 +49,6 @@ class AllFetcher():
         wikivoyage_df = self.wikivoyage_fetcher.fetch()
         # wikivoyage_df = pd.DataFrame()
         
-
-
         # cleaning
         relevant_ao_df = relevant_ao_df[relevant_ao_df.apply(lambda x : geopy.distance.distance((x['lat'],x['lon']),(self.lat, self.lon)).km < self.distance, axis = 1)]
         places_df = places_df[places_df.apply(lambda x: not check_if_unimportant_things_like_colleges_or_hotels(x),axis=1)]
@@ -89,7 +87,9 @@ class AllFetcher():
         wikivoyage_df.to_csv(os.path.join(folder_name,f'{self.place_name}_wikivoyage.csv'))
 
         # now create a final, large file
-        final_df = pd.concat([places_df, graves_df, relevant_ao_df, wikivoyage_df])
+        final_df = pd.concat([relevant_ao_df, wikivoyage_df.iloc[::-1], graves_df, places_df])
+        final_df['to_drop_key'] = final_df.apply(lambda x: (x.at['lat'], x.at['lon']), axis=1)
+        final_df.drop_duplicates(subset=['lat','lon'],inplace=True)
 
         # google my maps has problems with reading float values
 
@@ -110,5 +110,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Kolkata', distance=5)
+    my_all_fetcher = AllFetcher('Bonn', 'Germany', distance=15)
     my_all_fetcher.go()

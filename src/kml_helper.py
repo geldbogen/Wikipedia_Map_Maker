@@ -95,29 +95,41 @@ class KmlHelper():
 
         self.style_map_wikivoyage_museums = simplekml.StyleMap(normalstyle=self.style_wikivoyage_museums)
         
+        self.style_drink_clubs = simplekml.Style()
+        self.style_drink_clubs._id = 'icon-1798-0288D1-normal' 
+        self.style_drink_clubs.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_drink_clubs = simplekml.StyleMap(normalstyle=self.style_drink_clubs)
+        
         self.style_drink_normal = simplekml.Style()
-        self.style_drink_normal._id = 'icon-1517-0288D1-normal' 
+        self.style_drink_normal._id = 'icon-1798-0288D1-normal' 
         self.style_drink_normal.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_drink_normal = simplekml.StyleMap(normalstyle=self.style_drink_normal)
 
         self.style_drink_budget = simplekml.Style()
-        self.style_drink_budget._id = 'icon-1517-0F9D58-normal' 
+        self.style_drink_budget._id = 'icon-1798-0F9D58-normal' 
         self.style_drink_budget.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_drink_budget = simplekml.StyleMap(normalstyle=self.style_drink_budget)
         
         self.style_drink_mid_range = simplekml.Style()
-        self.style_drink_mid_range._id = 'icon-1517-FFEA00-normal' 
+        self.style_drink_mid_range._id = 'icon-1798-FFEA00-normal' 
         self.style_drink_mid_range.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_drink_mid_range = simplekml.StyleMap(normalstyle=self.style_drink_mid_range)
 
         self.style_drink_splurge = simplekml.Style()
-        self.style_drink_splurge._id = 'icon-1517-FF5252-normal' 
+        self.style_drink_splurge._id = 'icon-1798-FF5252-normal' 
         self.style_drink_splurge.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_drink_splurge = simplekml.StyleMap(normalstyle=self.style_drink_splurge)
+
+        self.style_drink_cafes = simplekml.Style()
+        self.style_drink_cafes._id = 'icon-1534-0288D1-normal' 
+        self.style_drink_cafes.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_drink_cafes = simplekml.StyleMap(normalstyle=self.style_drink_cafes)
 
         self.style_eat_normal = simplekml.Style()
         self.style_eat_normal._id = 'icon-1577-0288D1-normal' 
@@ -185,6 +197,12 @@ class KmlHelper():
 
         self.style_map_see_landmarks = simplekml.StyleMap(normalstyle=self.style_see_landmarks)
 
+        self.style_see_museums_and_galleries = simplekml.Style()
+        self.style_see_museums_and_galleries._id = 'icon-1636-0288D1-normal' 
+        self.style_see_museums_and_galleries.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_see_museums_and_galleries = simplekml.StyleMap(normalstyle=self.style_see_museums_and_galleries)
+
         self.style_see_temples = simplekml.Style()
         self.style_see_temples._id = 'icon-1706-0288D1-normal' 
         self.style_see_temples.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
@@ -227,6 +245,24 @@ class KmlHelper():
 
         self.style_map_do = simplekml.StyleMap(normalstyle=self.style_do)
 
+        self.style_do_festivals = simplekml.Style()
+        self.style_do_festivals._id = 'icon-1511-0288D1-normal' 
+        self.style_do_festivals.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_do_festivals = simplekml.StyleMap(normalstyle=self.style_do_festivals)
+        
+        self.style_do_cinema = simplekml.Style()
+        self.style_do_cinema._id = 'icon-1635-0288D1-normal' 
+        self.style_do_cinema.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_do_cinema = simplekml.StyleMap(normalstyle=self.style_do_cinema)
+
+        self.style_do_music = simplekml.Style()
+        self.style_do_music._id = 'icon-1637-0288D1-normal' 
+        self.style_do_music.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_do_music = simplekml.StyleMap(normalstyle=self.style_do_music)
+
         self.style_buy = simplekml.Style()
         self.style_buy._id = 'icon-1685-0288D1-normal' 
         self.style_buy.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
@@ -238,6 +274,24 @@ class KmlHelper():
         self.style_go_next.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_go_next = simplekml.StyleMap(normalstyle=self.style_go_next)
+
+        self.style_go_around_bike = simplekml.Style()
+        self.style_go_around_bike._id = 'icon-1522-0288D1-normal' 
+        self.style_go_around_bike.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_go_around_bike = simplekml.StyleMap(normalstyle=self.style_go_around_bike)
+
+        self.style_learn = simplekml.Style()
+        self.style_learn._id = 'icon-1726-0288D1-normal' 
+        self.style_learn.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_learn = simplekml.StyleMap(normalstyle=self.style_learn)
+
+        self.style_tourist_information = simplekml.Style()
+        self.style_tourist_information._id = 'icon-1726-0288D1-normal' 
+        self.style_tourist_information.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
+
+        self.style_map_tourist_information = simplekml.StyleMap(normalstyle=self.style_tourist_information)
 
 
 
@@ -264,6 +318,8 @@ class KmlHelper():
         self.dummy_point.stylemap = self.style_map_drink_budget
         self.dummy_point.stylemap = self.style_map_drink_mid_range
         self.dummy_point.stylemap = self.style_map_drink_splurge
+        self.dummy_point.stylemap = self.style_map_drink_cafes
+        self.dummy_point.stylemap = self.style_map_drink_clubs
 
         self.dummy_point.stylemap = self.style_map_sleep_normal
         self.dummy_point.stylemap = self.style_map_sleep_budget
@@ -275,6 +331,7 @@ class KmlHelper():
         self.dummy_point.stylemap = self.style_map_see_landmarks
         self.dummy_point.stylemap = self.style_map_see_parks
         self.dummy_point.stylemap = self.style_map_see_temples
+        self.dummy_point.stylemap = self.style_map_see_museums_and_galleries
 
         self.dummy_point.stylemap = self.style_map_by_boat
         self.dummy_point.stylemap = self.style_map_by_bus
@@ -282,8 +339,15 @@ class KmlHelper():
         self.dummy_point.stylemap = self.style_map_by_train
 
         self.dummy_point.stylemap = self.style_map_do
+        self.dummy_point.stylemap = self.style_map_do_festivals
+        self.dummy_point.stylemap = self.style_map_do_music
+        self.dummy_point.stylemap = self.style_map_do_cinema
+
         self.dummy_point.stylemap = self.style_map_buy
         self.dummy_point.stylemap = self.style_map_go_next
+        self.dummy_point.stylemap = self.style_map_go_around_bike
+        self.dummy_point.stylemap = self.style_map_learn
+        self.dummy_point.stylemap = self.style_map_tourist_information
 
 
 
@@ -320,8 +384,10 @@ class KmlHelper():
                 return self.style_map_graves
             case 'wikivoyage':
                 match pd_series.at['thingLabel']:
-                    case 'See_Museums and art galleries':
-                        return self.style_map_wikivoyage_museums
+                    case _ if 'Museums' in pd_series.at['thingLabel']:
+                        return self.style_map_see_museums_and_galleries
+                    case _ if 'Tourist information' in pd_series.at['thingLabel']:
+                        return self.style_map_tourist_information
                     # eat categories
                     case _ if pd_series.at['thingLabel'].startswith('Eat'):
                         match pd_series.at['thingLabel']:
@@ -333,6 +399,20 @@ class KmlHelper():
                                 return self.style_map_eat_splurge
                             case _:
                                 return self.style_map_eat_normal
+                    case _ if pd_series.at['thingLabel'].startswith('Drink'):
+                        match pd_series.at['thingLabel']:
+                            case _ if 'Budget' in pd_series.at['thingLabel']:
+                                return self.style_map_drink_budget
+                            case _ if 'Mid-range' in pd_series.at['thingLabel']:
+                                return self.style_map_drink_mid_range
+                            case _ if 'Splurge' in pd_series.at['thingLabel']:
+                                return self.style_map_drink_splurge
+                            case _ if 'Clubs' in pd_series.at['thingLabel']:
+                                return self.style_map_drink_clubs
+                            case _ if 'Cafe' in pd_series.at['thingLabel']:
+                                return self.style_map_drink_cafes
+                            case _:
+                                return self.style_map_drink_normal
                     case _ if pd_series.at['thingLabel'].startswith('Sleep'):
                         match pd_series.at['thingLabel']:
                             case _ if 'Budget' in pd_series.at['thingLabel']:
@@ -367,10 +447,25 @@ class KmlHelper():
                                 return self.style_map_see
                     case _ if pd_series.at['thingLabel'].startswith('Go next'):
                         return self.style_map_go_next
+                    case _ if pd_series.at['thingLabel'].startswith('Get around'):
+                        match pd_series.at['thingLabel']:
+                            case _ if 'bike' in pd_series.at['thingLabel']:
+                                return self.style_map_go_around_bike
+                        return self.style_map_go_next
                     case _ if pd_series.at['thingLabel'].startswith('Buy'):
                         return self.style_map_buy
+                    case _ if pd_series.at['thingLabel'].startswith('Learn'):
+                        return self.style_map_learn
                     case _ if pd_series.at['thingLabel'].startswith('Do'):
-                        return self.style_map_do
+                        match pd_series.at['thingLabel']:
+                            case _ if 'Festivals' in pd_series.at['thingLabel']:
+                                return self.style_map_do_festivals
+                            case _ if 'Cinema' in pd_series.at['thingLabel']:
+                                return self.style_map_do_cinema
+                            case _ if 'Music' in pd_series.at['thingLabel']:
+                                return self.style_map_do_music
+                            case _:
+                                return self.style_map_do
                     
 
         return self.style_map_D
