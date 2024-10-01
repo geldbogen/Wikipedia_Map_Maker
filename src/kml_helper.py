@@ -288,7 +288,7 @@ class KmlHelper():
         self.style_map_learn = simplekml.StyleMap(normalstyle=self.style_learn)
 
         self.style_tourist_information = simplekml.Style()
-        self.style_tourist_information._id = 'icon-1726-0288D1-normal' 
+        self.style_tourist_information._id = 'icon-1608-0288D1-normal' 
         self.style_tourist_information.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_tourist_information = simplekml.StyleMap(normalstyle=self.style_tourist_information)
