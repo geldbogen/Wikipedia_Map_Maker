@@ -14,7 +14,7 @@ import atlas_obscura_fetcher
 
 class AllFetcher():
 
-    def __init__(self, place_name : str, country_name : str = '',  lat : float = 0.0, lon : float = 0.0, distance : int = 45) -> None:
+    def __init__(self, place_name : str, country_name : str = '',  lat : float = 0.0, lon : float = 0.0, distance : int = 45, debug_mode : bool = False) -> None:
         if (lat, lon) == (0.0 , 0.0):
             value = Nominatim(user_agent="wikipedia-map-maker").geocode(place_name)
             if value:
@@ -25,9 +25,10 @@ class AllFetcher():
             self.lat = lat
             self.lon = lon
         self.distance = distance
+        self.debug_mode = debug_mode
         
         self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',self.lat,self.lon,distance)
-        self.wikivoyage_fetcher = WikivoyageFetcher(place_name)
+        self.wikivoyage_fetcher = WikivoyageFetcher(place_name, (self.lat, self.lon), self.distance, self.debug_mode)
         self.place_name = place_name
 
         if country_name == '':
@@ -110,5 +111,5 @@ class AllFetcher():
         KmlHelper(self.place_name, final_df)
 
 if __name__ == '__main__':
-    my_all_fetcher = AllFetcher('Bonn', 'Germany', distance=15)
+    my_all_fetcher = AllFetcher('Mumbai', 'India', distance=15, debug_mode=False)
     my_all_fetcher.go()
