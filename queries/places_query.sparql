@@ -16,6 +16,13 @@ SELECT ?item ?itemLabel ?lat ?lon ?location ?distance ?sitelinks ?thingLabel ?th
   MINUS {?thing wdt:P279 wd:Q928830}
   
   MINUS {?thing wdt:P279* wd:Q19953632}
+  
+  MINUS {?thing wdt:P279* wd:Q3389680}
+  # second level administrative region
+  MINUS {?thing wdt:P279* wd:Q13220204}
+  
+  # city
+  MINUS {?thing wdt:P279* wd:Q515}
  ?coordinate psv:P625 ?coordinate_node .
  ?coordinate_node wikibase:geoLatitude ?lat .
  ?coordinate_node wikibase:geoLongitude ?lon
