@@ -10,7 +10,7 @@
 1,Salt Lake City,0.0,0.0,,,Get in,'''U.S. Highway 40''' connects Denver to Salt Lake City to the west.,"(0, 0)",wikivoyage,red
 2,--,39.7392364,-104.984862,,,Get in,,"(39.7392364, -104.984862)",wikivoyage,red
 3,Colorado Springs,0.0,0.0,,,Get in,"'''Interstate 25'''  connects Denver to Colorado Springs in the south and Cheyenne, Wyoming in the north.","(0, 0)",wikivoyage,red
-4,Boulder,39.7611187,-105.0081014,,,Get in,'''U.S. Highway 36''' connects to the northwestern suburbs and on to Boulder.,"(39.7611187, -105.0081014)",wikivoyage,red
+4,Boulder,39.7585496,-105.011396,,,Get in,'''U.S. Highway 36''' connects to the northwestern suburbs and on to Boulder.,"(39.7585496, -105.011396)",wikivoyage,red
 5,--,39.7392364,-104.984862,,,Get in,,"(39.7392364, -104.984862)",wikivoyage,red
 6,--,39.7392364,-104.984862,,,Get in,,"(39.7392364, -104.984862)",wikivoyage,red
 0,--,39.7392364,-104.984862,,,Get in,,"(39.7392364, -104.984862)",wikivoyage,red
@@ -25,7 +25,7 @@
 1,Salt Lake City,0.0,0.0,,,Get in_By highway,'''U.S. Highway 40''' connects Denver to Salt Lake City to the west.,"(0, 0)",wikivoyage,red
 2,--,39.7392364,-104.984862,,,Get in_By highway,,"(39.7392364, -104.984862)",wikivoyage,red
 3,Colorado Springs,0.0,0.0,,,Get in_By highway,"'''Interstate 25'''  connects Denver to Colorado Springs in the south and Cheyenne, Wyoming in the north.","(0, 0)",wikivoyage,red
-4,Boulder,39.7611187,-105.0081014,,,Get in_By highway,'''U.S. Highway 36''' connects to the northwestern suburbs and on to Boulder.,"(39.7611187, -105.0081014)",wikivoyage,red
+4,Boulder,39.7585496,-105.011396,,,Get in_By highway,'''U.S. Highway 36''' connects to the northwestern suburbs and on to Boulder.,"(39.7585496, -105.011396)",wikivoyage,red
 5,--,39.7392364,-104.984862,,,Get in_By highway,,"(39.7392364, -104.984862)",wikivoyage,red
 6,--,39.7392364,-104.984862,,,Get in_By highway,,"(39.7392364, -104.984862)",wikivoyage,red
 0,--,39.7392364,-104.984862,,,Get in_By bus,,"(39.7392364, -104.984862)",wikivoyage,red
@@ -333,7 +333,7 @@
 4,Sheraton Denver Downtown ,39.7416,-104.989,1550 Court Pl ,http://www.sheratondenverdowntown.com ,Sleep,"On the 16th Street Pedestrian Mall in downtown, 3 1/2 blocks from the Denver Convention Center.","(39.7416, -104.989)",wikivoyage,red
 5,SpringHill Suites Denver Downtown ,39.7473,-105.0042,1190 Auraria Parkway ,https://www.marriott.com/hotels/travel/densd-springhill-suites-denver-downtown/ ,Sleep,Across from the Ball Arena in LoDo.,"(39.7473, -105.0042)",wikivoyage,red
 6,Hyatt Place Denver Tech Center ,0.0,0.0,8300 East Crescent Parkway ,https://denvertechcenter.place.hyatt.com/en/hotel/home.html ,Sleep,,"(0, 0)",wikivoyage,red
-7,Aloft Denver North Westminster ,39.7742941,-104.9923981,14780 Delaware St ,https://www.marriott.com/en-us/hotels/denan-aloft-denver-north-westminster/overview/ ,Sleep,,"(39.7742941, -104.9923981)",wikivoyage,red
+7,Aloft Denver North Westminster ,39.7220322,-104.9928409,14780 Delaware St ,https://www.marriott.com/en-us/hotels/denan-aloft-denver-north-westminster/overview/ ,Sleep,,"(39.7220322, -104.9928409)",wikivoyage,red
 8,Courtyard Denver Cherry Creek ,39.69073,-104.94195,1475 S Colorado Blvd ,https://www.marriott.com/en-us/hotels/dench-courtyard-denver-cherry-creek/overview/ ,Sleep,,"(39.69073, -104.94195)",wikivoyage,red
 9,Residence Inn Denver Cherry Creek ,39.70507,-104.93839,670 S Colorado Blvd ,https://www.marriott.com/en-us/hotels/denrs-residence-inn-denver-cherry-creek/overview/ ,Sleep,,"(39.70507, -104.93839)",wikivoyage,red
 10,Hilton Garden Inn Denver/Cherry Creek ,39.70532,-104.93983,600 S Colorado Blvd ,https://www.hilton.com/en/hotels/denckgi-hilton-garden-inn-denver-cherry-creek/ ,Sleep,,"(39.70532, -104.93983)",wikivoyage,red
@@ -356,7 +356,7 @@
 4,Sheraton Denver Downtown ,39.7416,-104.989,1550 Court Pl ,http://www.sheratondenverdowntown.com ,Sleep_Mid-range,"On the 16th Street Pedestrian Mall in downtown, 3 1/2 blocks from the Denver Convention Center.","(39.7416, -104.989)",wikivoyage,red
 5,SpringHill Suites Denver Downtown ,39.7473,-105.0042,1190 Auraria Parkway ,https://www.marriott.com/hotels/travel/densd-springhill-suites-denver-downtown/ ,Sleep_Mid-range,Across from the Ball Arena in LoDo.,"(39.7473, -105.0042)",wikivoyage,red
 6,Hyatt Place Denver Tech Center ,0.0,0.0,8300 East Crescent Parkway ,https://denvertechcenter.place.hyatt.com/en/hotel/home.html ,Sleep_Mid-range,,"(0, 0)",wikivoyage,red
-7,Aloft Denver North Westminster ,39.7742941,-104.9923981,14780 Delaware St ,https://www.marriott.com/en-us/hotels/denan-aloft-denver-north-westminster/overview/ ,Sleep_Mid-range,,"(39.7742941, -104.9923981)",wikivoyage,red
+7,Aloft Denver North Westminster ,39.7220322,-104.9928409,14780 Delaware St ,https://www.marriott.com/en-us/hotels/denan-aloft-denver-north-westminster/overview/ ,Sleep_Mid-range,,"(39.7220322, -104.9928409)",wikivoyage,red
 8,Courtyard Denver Cherry Creek ,39.69073,-104.94195,1475 S Colorado Blvd ,https://www.marriott.com/en-us/hotels/dench-courtyard-denver-cherry-creek/overview/ ,Sleep_Mid-range,,"(39.69073, -104.94195)",wikivoyage,red
 9,Residence Inn Denver Cherry Creek ,39.70507,-104.93839,670 S Colorado Blvd ,https://www.marriott.com/en-us/hotels/denrs-residence-inn-denver-cherry-creek/overview/ ,Sleep_Mid-range,,"(39.70507, -104.93839)",wikivoyage,red
 10,Hilton Garden Inn Denver/Cherry Creek ,39.70532,-104.93983,600 S Colorado Blvd ,https://www.hilton.com/en/hotels/denckgi-hilton-garden-inn-denver-cherry-creek/ ,Sleep_Mid-range,,"(39.70532, -104.93983)",wikivoyage,red
@@ -387,7 +387,7 @@
 1,--,39.7392364,-104.984862,,,Stay safe_Altitude sickness,,"(39.7392364, -104.984862)",wikivoyage,red
 2,--,39.7392364,-104.984862,,,Stay safe_Altitude sickness,,"(39.7392364, -104.984862)",wikivoyage,red
 3,--,39.7392364,-104.984862,,,Stay safe_Altitude sickness,,"(39.7392364, -104.984862)",wikivoyage,red
-0,Cherry Creek North ,39.7156478,-104.9525486, ,http://www.cherrycreeknorth.com/ ,Connect,Entire area has free WiFi provided by the Cherry Creek North Business District.,"(39.7156478, -104.9525486)",wikivoyage,red
+0,Cherry Creek North ,39.7160644,-104.9528584, ,http://www.cherrycreeknorth.com/ ,Connect,Entire area has free WiFi provided by the Cherry Creek North Business District.,"(39.7160644, -104.9528584)",wikivoyage,red
 1,Peaberry Coffee ,0.0,0.0, ,http://www.peaberrycoffee.com/ ,Connect,"Multiple locations. Free WiFi, but you have to ask the barrista for username and password.","(0, 0)",wikivoyage,red
 2,Panera Bread ,0.0,0.0,multiple locations ,http://www.panera.com/cafes/wifi.php ,Connect,Free Wifi at most if not all locations.,"(0, 0)",wikivoyage,red
 3,Starbucks ,0.0,0.0,many locations ,http://starbucks.com ,Connect,free wifi at participating places,"(0, 0)",wikivoyage,red
@@ -407,7 +407,7 @@
 13,Thailand ,0.0,0.0, ,http://www.thaidenver.com/ ,Connect,,"(0, 0)",wikivoyage,red
 14,--,39.7392364,-104.984862,,,Connect,,"(39.7392364, -104.984862)",wikivoyage,red
 15,United Kingdom ,39.7427,-104.9875,"1675 Broadway, Suite 1030 ",http://ukinusa.fco.gov.uk/en/about-us/other-locations/denver/ ,Connect,,"(39.7427, -104.9875)",wikivoyage,red
-0,Cherry Creek North ,39.7156478,-104.9525486, ,http://www.cherrycreeknorth.com/ ,Connect_Wireless internet,Entire area has free WiFi provided by the Cherry Creek North Business District.,"(39.7156478, -104.9525486)",wikivoyage,red
+0,Cherry Creek North ,39.7160644,-104.9528584, ,http://www.cherrycreeknorth.com/ ,Connect_Wireless internet,Entire area has free WiFi provided by the Cherry Creek North Business District.,"(39.7160644, -104.9528584)",wikivoyage,red
 1,Peaberry Coffee ,0.0,0.0, ,http://www.peaberrycoffee.com/ ,Connect_Wireless internet,"Multiple locations. Free WiFi, but you have to ask the barrista for username and password.","(0, 0)",wikivoyage,red
 2,Panera Bread ,0.0,0.0,multiple locations ,http://www.panera.com/cafes/wifi.php ,Connect_Wireless internet,Free Wifi at most if not all locations.,"(0, 0)",wikivoyage,red
 3,Starbucks ,0.0,0.0,many locations ,http://starbucks.com ,Connect_Wireless internet,free wifi at participating places,"(0, 0)",wikivoyage,red
