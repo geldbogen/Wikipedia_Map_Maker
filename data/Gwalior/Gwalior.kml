@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="330"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="331"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="332"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="333"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="334"/>
+        <Style id="icon-1556-FFD600-normal">
+            <IconStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="335"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="39">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="336"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="337"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="338"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="79">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="339"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="83">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="340"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="87">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="341"/>
+        <Style id="icon-1798-0288D1-normal">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="342"/>
+        <Style id="icon-1798-0F9D58-normal">
+            <IconStyle id="59">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="343"/>
+        <Style id="icon-1798-FFEA00-normal">
+            <IconStyle id="63">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="344"/>
+        <Style id="icon-1798-FF5252-normal">
+            <IconStyle id="67">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="345"/>
+        <Style id="icon-1534-0288D1-normal">
+            <IconStyle id="71">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="346"/>
+        <Style id="347"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="91">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="348"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="349"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="99">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="350"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="351"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="352"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="353"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="354"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="111">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="355"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="124">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="356"/>
+        <Style id="357"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="358"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="359"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="360"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="361"/>
+        <Style id="icon-1731-0288D1-normal">
+            <IconStyle id="147">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="148">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="362"/>
+        <Style id="icon-1511-0288D1-normal">
+            <IconStyle id="151">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="152">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="363"/>
+        <Style id="icon-1637-0288D1-normal">
+            <IconStyle id="159">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="160">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="364"/>
+        <Style id="icon-1635-0288D1-normal">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="365"/>
+        <Style id="icon-1685-0288D1-normal">
+            <IconStyle id="163">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="164">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="366"/>
+        <Style id="icon-1654-0288D1-normal">
+            <IconStyle id="167">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="367"/>
+        <Style id="icon-1522-0288D1-normal">
+            <IconStyle id="171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="172">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="368"/>
+        <Style id="icon-1726-0288D1-normal">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="369"/>
+        <Style id="icon-1608-0288D1-normal">
+            <IconStyle id="179">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="180">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="370"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#330</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#331</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="29">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#332</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="33">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#333</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="37">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#334</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="45">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1556-FFD600-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#335</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="41">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#336</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="49">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#337</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="77">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#338</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="81">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#339</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="85">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#340</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="89">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#341</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="57">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#342</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="61">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#343</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="65">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#344</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="69">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#345</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="73">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1534-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#346</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="53">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#347</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="93">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#348</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="97">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#349</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="101">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#350</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="105">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#351</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="109">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#352</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="129">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#353</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="117">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#354</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="113">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#355</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="125">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#356</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="121">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#357</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="145">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#358</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="141">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#359</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="137">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#360</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="133">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#361</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="149">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1731-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#362</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="153">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1511-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#363</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="161">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1637-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#364</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="157">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1635-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#365</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="165">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1685-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#366</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="169">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1654-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#367</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="173">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1522-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#368</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="177">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1726-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#369</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="181">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1608-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#370</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder id="11">
+            <name>wikivoyage</name>
+            <Placemark id="245">
+                <name>Gwalior Airport </name>
+                <description>
+                category  : Get in_By plane &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : One of four airports in the region. It is also the site of an Indian Air Force Base. Gwalior airport has some scheduled domestic services from New Delhi, Mumbai, Ahmadabad, Bangalore, Kolkata, Hyderabad, Jammu and Indore on daily basis. &lt;br&gt;
+                </description>
+                <styleUrl>#137</styleUrl>
+                <Point id="244">
+                    <coordinates>78.227778,26.293333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="247">
+                <name>Gwalior Junction railway station </name>
+                <description>
+                category  : Get in_By train &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#133</styleUrl>
+                <Point id="246">
+                    <coordinates>78.1826037,26.2162438,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="249">
+                <name>Gujari Mahal Archaeological Museum </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://archaeology.mp.gov.in/en-us/Museums/State-Level-Museums/Gujri-Mahal-Museum-Gwalior  &lt;br&gt;
+                description  : The museum has a diverse range of exhibits, including sculptures made from terracotta, bronze and stone, paintings, inscriptions, weapons and other excavated material from the Sunga, Gupta and Pratihara dynasties. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="248">
+                    <coordinates>78.1705511,26.2341237,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Gwalior Zoo </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : This is one of many of the beautiful zoological parks of Madhya Pradesh. This park includes a white tiger, golden pheasants, sambhar, bison, and many other animals. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="250">
+                    <coordinates>78.16786098735881,26.209275849999997,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="253">
+                <name>Italian Garden </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : an ideal picnic spot for the whole family or a group of school children. The garden adjacent to the palace grounds is built in Italian style. Beautiful fountains, cascading waters make this is a beautiful place. The lush green gardens make the place even more beautiful. It is very closely connected to the Moti Mahal, the former Palace of Scindia dynasty which is now turned into a Government office. The garden is also connected with the Baiji Ki Tal which is a garden along with a beautiful pool. The major attractions here are the boating area and stone fountains add to the beauty and splendor of this park. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="252">
+                    <coordinates>-1.369108928180049,50.786511000000004,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
+                <name> Kheda Pati</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="254">
+                    <coordinates>79.9289742,23.8511117,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>Moti Mahal </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="256">
+                    <coordinates>78.172506,26.207364,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="259">
+                <name>Tighra Dam </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : A great place for an outing, boating and other water facilities are available.  &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="258">
+                    <coordinates>78.001667,26.221389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>Gwalior Fort </name>
+                <description>
+                category  : See_Landmarks &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#117</styleUrl>
+                <Point id="260">
+                    <coordinates>78.1689,26.2303,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>Jai Vilas Palace </name>
+                <description>
+                category  : See_Landmarks &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://www.jaivilasmuseum.org/  &lt;br&gt;
+                description  : A former residential palace turned museum of Scindias. Contains the world's largest chandelier as well as many diverse collections of antiques and gadgets. &lt;br&gt;
+                </description>
+                <styleUrl>#117</styleUrl>
+                <Point id="262">
+                    <coordinates>78.16859,26.20472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name> Achaleshwar</name>
+                <description>
+                category  : See_Religious buildings &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="264">
+                    <coordinates>72.56350153057433,23.0800732,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>Gopachal </name>
+                <description>
+                category  : See_Religious buildings &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The largest statue of Lord Parshvanath (seated on a lotus carved out of one stone) in the world) &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="266">
+                    <coordinates>78.1681714,26.2161503,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name> Koteshwar</name>
+                <description>
+                category  : See_Religious buildings &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : An historical temple dedicated to the Hindu gov Shiva.  &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="268">
+                    <coordinates>78.1612907,26.2274101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name> Sun Temple</name>
+                <description>
+                category  : See_Religious buildings &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The Surya Mandir or Sun Temple is one of the most spectacular shrines as well as an architectural wonder that adorns the city of Gwalior. As the name suggests, the temple is dedicated to the holy Sun God and was constructed in 1988 by the famous industrialist G.D. Birla. Built on the lines of legendary Sun Temple at Konark, Orissa, the Sun Temple of Gwalior is a magnificent amalgam of exquisite architecture in red sandstone and pearly white marble. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="270">
+                    <coordinates>79.61456305384945,29.6323214,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>--</name>
+                <description>
+                category  : Buy &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#165</styleUrl>
+                <Point id="272">
+                    <coordinates>78.1573628,26.2037247,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>Bahdura Sweets </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  :  Lohiya Bazaar Road  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Famous for its ladoos and gulab jamun. All of the sweets are made from pure ghee. &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="274">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>Chotiwala Restaurant </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Racecourse Road, LNUPE Campus, Kampoo  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="276">
+                    <coordinates>78.194684,26.224473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>Double Hatth Ras </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Gandhi Rd, Thatipur  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Multi-cuisine restaurant. &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="278">
+                    <coordinates>78.203174,26.214748,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>Kwality </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Captain Upmanyu Singh Marg  &lt;br&gt;
+                url  : http://www.kwalitygwalior.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="280">
+                    <coordinates>78.189329,26.208394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="283">
+                <name>Lazeez Restaurant </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  :  Sanatan Dharm Mandir Road, Lashkar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="282">
+                    <coordinates>78.164101,26.199314,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name> Raj Bhog </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Dindayal Mall Maharani Laxmibai Marg  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="284">
+                    <coordinates>78.166498,26.209443,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>SS Kachoriwala </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Naya Bazar Road Kampoo, Lashkar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : An institution at Gwalior for over 60 years, the samosas, jalebis and of course kachoris are not to be missed. Try the bedai kachori which is stuffed with potato curry inside. &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="286">
+                    <coordinates>78.1551,26.1936,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>Volga </name>
+                <description>
+                category  : Eat &lt;br&gt;
+                address  : Jayendraganj, Shinde Ki Chhawani  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="288">
+                    <coordinates>78.163315,26.203517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>Cafe Coffee Day </name>
+                <description>
+                category  : Eat_Cafes &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Inside Ushar Kiran Palace &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="290">
+                    <coordinates>78.1707045,26.215383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>Indian Coffee House </name>
+                <description>
+                category  : Eat_Cafes &lt;br&gt;
+                address  : LNUPE Campus, Kampoo  &lt;br&gt;
+                url  : http://www.indiancoffeehouse.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#77</styleUrl>
+                <Point id="292">
+                    <coordinates>78.183195,26.215532,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>D'N'D </name>
+                <description>
+                category  : Drink &lt;br&gt;
+                address  : Dindayal City Mall - 2nd floor - M.L.B. Road  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : DND is the only discotheque bar ongoing in Gwalior city. &lt;br&gt;
+                </description>
+                <styleUrl>#57</styleUrl>
+                <Point id="294">
+                    <coordinates>78.166265,26.209589,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="297">
+                <name>The Central Park </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Madhav Rao Scindia Marg, City Center  &lt;br&gt;
+                url  : https://thecentralpark.org/  &lt;br&gt;
+                description  : 3 star deluxe hotel. &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="296">
+                    <coordinates>78.187809,26.211364,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>Hotel Shelter </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Padav Circle, Laxman Pura, Lashkar  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="298">
+                    <coordinates>78.177424,26.213097,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>Hotel Sudarshan </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Jinsi Road 1, Chhaparewala Pul  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="300">
+                    <coordinates>78.162185,26.204866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>Hotel Surbhi </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Naya Bazar, Lashkar  &lt;br&gt;
+                url  : http://www.hotelsurbhi.hostel.com/  &lt;br&gt;
+                description  : 25 rooms divided into Deluxe, AC and Executive, In-room amenities include: cable television, telephone, and an attached bathroom with modern fittings and hot/cold water. Room and laundry service are also available. &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="302">
+                    <coordinates>78.155139,26.194092,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>Landmark </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 47, Manik Vilas Colony, Jhansi Road  &lt;br&gt;
+                url  : http://www.hotellandmarkgwalior.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="304">
+                    <coordinates>78.180835,26.212298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>Regency </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="306">
+                    <coordinates>78.186653,26.215333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>SitaManor </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Gandhi Road, Thatipur  &lt;br&gt;
+                url  : http://www.hotelsitamanor.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="308">
+                    <coordinates>78.192058,26.213444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="311">
+                <name>Tansen Residency </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : 6 A, Gandhi Road  &lt;br&gt;
+                url  : http://www.mpstdc.com/properties/mpt-tansen-residency-gwalior/  &lt;br&gt;
+                description  : Govt Tourist Lodge.  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="310">
+                    <coordinates>78.187282,26.214203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>The Usha Kiran Palace </name>
+                <description>
+                category  : Sleep &lt;br&gt;
+                address  : Jayendraganj Lashkar  &lt;br&gt;
+                url  : http://www.tajhotels.com/leisure/usha-kiran-palace-gwalior/default.htm  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#93</styleUrl>
+                <Point id="312">
+                    <coordinates>78.166314,26.203981,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>Agra</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Agra (128&amp;nbsp;km) - Famous for Taj Mahal, Red Fort. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="314">
+                    <coordinates>78.0098161,27.1752554,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>Bhind</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Bhind (64.0 km) - Famous for Chambal river and its bandits, chhatri of Malhar Rao Holkar. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="316">
+                    <coordinates>78.75,26.5,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>Datia</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Datia (75 km) - Famous for temples. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="318">
+                    <coordinates>78.5,25.75,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>Jhansi</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Jhansi , around 100 km from Gwalior - famous for Rani Jhansi Fort. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="320">
+                    <coordinates>78.65278023546288,25.529855,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>Orchha</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Orchha , around 120 km from Gwalior. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="322">
+                    <coordinates>78.6402465,25.3528706,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>Shivpuri</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Shivpuri (119.5 km) - Ancient town and a sacred place. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="324">
+                    <coordinates>77.82788660942335,25.374121549999998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>Sonagir</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Sonagir (60 km on the Jhansi road) - famous for Jain temples. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="326">
+                    <coordinates>78.4092119,25.7298086,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>S</name>
+            <Placemark id="243">
+                <name>Gwalior</name>
+                <description>                    category  : big city &lt;br&gt;   
+                    sitelinks : 86.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Gwalior &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q158467</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="242">
+                    <coordinates>78.1775,26.2125,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>atlas_obscura</name>
+            <Placemark id="329">
+                <name>
+Sasbahu Temples
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/sasbahu-temples</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="328">
+                    <coordinates>78.167927,26.223256,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>A</name>
+            <Placemark id="231">
+                <name>Roman Catholic Diocese of Gwalior</name>
+                <description>                    category  : diocese of the Catholic Church &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Gwalior &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Bistum_Gwalior &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q869350</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="230">
+                    <coordinates>78.158225,26.205425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>Gwalior division</name>
+                <description>                    category  : division of Madhya Pradesh &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_division &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Gwalior_(Division) &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1557788</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="232">
+                    <coordinates>78.16666667,26.23333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="235">
+                <name>Morar Cantonment</name>
+                <description>                    category  : cantonment town &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Morar_Cantonment &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2725698</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="234">
+                    <coordinates>78.224722222222,26.226388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="237">
+                <name>Gwalior Airport</name>
+                <description>                    category  : airport &lt;br&gt;   
+                    sitelinks : 15.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Gwalior &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2247561</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="236">
+                    <coordinates>78.227777777778,26.293333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>Madhya Bharat</name>
+                <description>                    category  : state of India &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Madhya_Bharat &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Madhya_Bharat &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1308627</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="238">
+                    <coordinates>78.17,26.22,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>Gwalior Fort</name>
+                <description>                    category  : fortress &lt;br&gt;   
+                    sitelinks : 19.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_Fort &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2487545</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="240">
+                    <coordinates>78.1689,26.2303,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>C</name>
+            <Placemark id="185">
+                <name>Gwalior West</name>
+                <description>                    category  : suburb &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_West &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q30624894</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="184">
+                    <coordinates>78.0766,26.239,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>Lakshmibai National University of Physical Education</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Lakshmibai_National_Institute_of_Physical_Education &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18127108</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="186">
+                    <coordinates>78.193241666667,26.220397222222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>Usha Kiran Palace</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Usha_Kiran_Palace &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q17141350</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="188">
+                    <coordinates>78.166,26.204,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>Scindia School</name>
+                <description>                    category  : boarding school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Scindia_School &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q12068524</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="190">
+                    <coordinates>78.1672,26.2175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>Scindia Kanya Vidyalaya</name>
+                <description>                    category  : boarding school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Scindia_Kanya_Vidyalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7433922</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="192">
+                    <coordinates>78.1785,26.2094,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>Adhyatma Niketan</name>
+                <description>                    category  : ashram &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Adhyatma_Niketan &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4682567</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="194">
+                    <coordinates>78.1,26.14,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>Chaturbhuj Temple</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chaturbhuj_Temple,_Gwalior &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q44545847</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="196">
+                    <coordinates>78.16993252,26.23087537,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rajmata_Vijayaraje_Scindia_Krishi_Vishwa_Vidyalaya &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16885121</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="198">
+                    <coordinates>78.198244444444,26.219208333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>Rail Spring Karkhana</name>
+                <description>                    category  : factory &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rail_Spring_Karkhana &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7283915</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="200">
+                    <coordinates>78.186611111111,26.143530555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>Gwalior inscription of Mihirakula</name>
+                <description>                    category  : geographical feature &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gwalior_inscription_of_Mihirakula &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5623269</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="202">
+                    <coordinates>78.178024,26.221521,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>Gajara Raja Medical College</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gajara_Raja_Medical_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5517565</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="204">
+                    <coordinates>78.162004,26.194172,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>Bandholi</name>
+                <description>                    category  : Village in India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bandholi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q4854568</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="206">
+                    <coordinates>78.285,26.185,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>Raja Mansingh Tomar Music &amp; Arts University</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raja_Mansingh_Tomar_Music_%26_Arts_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q13185359</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="208">
+                    <coordinates>78.179022222222,26.190925,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>Jiwaji University, Gwalior</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Jiwaji_University &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6203498</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="210">
+                    <coordinates>78.194916666667,26.20085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="213">
+                <name>Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Indian_Institute_of_Information_Technology_and_Management &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6020617</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="212">
+                    <coordinates>78.174592,26.248468,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>B</name>
+            <Placemark id="215">
+                <name>Gujari Mahal Archaeological Museum</name>
+                <description>                    category  : archaeological museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gujari_Mahal_Archaeological_Museum &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q40888544</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="214">
+                    <coordinates>78.168627,26.230047,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="217">
+                <name>Gwalior International Cricket Stadium</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Shrimant_Madhavrao_Scindia_Cricket_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24748068</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="216">
+                    <coordinates>78.125,26.234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>Sasbahu Temple</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sasbahu_Temple,_Gwalior &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7424948</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="218">
+                    <coordinates>78.17025,26.22394444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Roop Singh Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Captain_Roop_Singh_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3515393</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="220">
+                    <coordinates>78.183581,26.210683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="223">
+                <name>Gird</name>
+                <description>                    category  : region of India &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gird,_India &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3634648</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="222">
+                    <coordinates>78.2,26.2,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="225">
+                <name>Gopachal rock-cut Jain monuments</name>
+                <description>                    category  : architectural structure &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gopachal_rock-cut_Jain_monuments &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q12424488</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="224">
+                    <coordinates>78.1675,26.214777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>Jai Vilas Mahal</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Jai_Vilas_Mahal &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6123487</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="226">
+                    <coordinates>78.16859,26.20472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="229">
+                <name>Teli ka Temple</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Teli_ka_Mandir &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Teli-ka-Mandir &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1800304</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="228">
+                    <coordinates>78.165888888889,26.220305555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="183">
+            <styleUrl>#181</styleUrl>
+            <Point id="182">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

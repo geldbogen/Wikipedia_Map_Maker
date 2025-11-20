@@ -1,0 +1,53 @@
+item,articleDE,articleEN,location,distance,lat,lon,sitelinks,thing,itemLabel,thingLabel
+http://www.wikidata.org/entity/Q1393339,https://de.wikipedia.org/wiki/Kulpahar,https://en.wikipedia.org/wiki/Kulpahar,Point(79.641 25.319),8.069,25.319,79.641,21,http://www.wikidata.org/entity/Q2322432,Kulpahar,Nagar Panchayat
+http://www.wikidata.org/entity/Q1393339,https://de.wikipedia.org/wiki/Kulpahar,https://en.wikipedia.org/wiki/Kulpahar,Point(79.641 25.319),8.069,25.319,79.641,21,http://www.wikidata.org/entity/Q515,Kulpahar,city
+http://www.wikidata.org/entity/Q886602,https://de.wikipedia.org/wiki/Charkhari,https://en.wikipedia.org/wiki/Charkhari,Point(79.75 25.4),6.145,25.4,79.75,20,http://www.wikidata.org/entity/Q486972,Charkhari,human settlement
+http://www.wikidata.org/entity/Q2720072,,"https://en.wikipedia.org/wiki/Niwari,_Madhya_Pradesh",Point(79.71 25.43),7.617,25.43,79.71,19,http://www.wikidata.org/entity/Q486972,"Niwari, Madhya Pradesh",human settlement
+http://www.wikidata.org/entity/Q1224113,,https://en.wikipedia.org/wiki/Niwari,Point(79.71 25.43),7.617,25.43,79.71,3,http://www.wikidata.org/entity/Q4167410,Niwari,Wikimedia disambiguation page
+http://www.wikidata.org/entity/Q7296951,,"https://en.wikipedia.org/wiki/Rawatpura,_Kulpahar",Point(79.662722222 25.260686111),12.034,25.260686111111,79.662722222222,3,http://www.wikidata.org/entity/Q56436498,"Rawatpura, Kulpahar",Village in India
+http://www.wikidata.org/entity/Q26806710,,,Point(79.591111111 25.365833333),11.554,25.365833333333,79.591111111111,1,http://www.wikidata.org/entity/Q12284,Belāsāgar Canal,canal
+http://www.wikidata.org/entity/Q26806711,,,Point(79.565 25.332222222),14.541,25.332222222222,79.565,1,http://www.wikidata.org/entity/Q12284,Churāri Minor,canal
+http://www.wikidata.org/entity/Q26806715,,,Point(79.646111111 25.389444444),6.768,25.389444444444,79.646111111111,1,http://www.wikidata.org/entity/Q54050,Q26806715,hill
+http://www.wikidata.org/entity/Q26806712,,,Point(79.596666666 25.358611111),10.991,25.358611111111,79.596666666667,1,http://www.wikidata.org/entity/Q12284,Lohāri Minor,canal
+http://www.wikidata.org/entity/Q26806718,,,Point(79.690277777 25.393333333),3.867,25.393333333333,79.690277777778,1,http://www.wikidata.org/entity/Q12284,Arjun Main Canal,canal
+http://www.wikidata.org/entity/Q26806716,,,Point(79.590833333 25.366388888),11.584,25.366388888889,79.590833333333,1,http://www.wikidata.org/entity/Q12284,Gorahri Minor,canal
+http://www.wikidata.org/entity/Q26807753,,,Point(79.655 25.242222222),14.229,25.242222222222,79.655,1,http://www.wikidata.org/entity/Q54050,Q26807753,hill
+http://www.wikidata.org/entity/Q26807759,,,Point(79.652222222 25.292222222),9.419,25.292222222222,79.652222222222,1,http://www.wikidata.org/entity/Q12284,Bamhauri Minor,canal
+http://www.wikidata.org/entity/Q26807762,,,Point(79.691666666 25.290277777),8.06,25.290277777778,79.691666666667,1,http://www.wikidata.org/entity/Q12284,Sirmaur Minor,canal
+http://www.wikidata.org/entity/Q26807763,,,Point(79.646944444 25.292777777),9.684,25.292777777778,79.646944444444,1,http://www.wikidata.org/entity/Q12284,Kulpahār Minor,canal
+http://www.wikidata.org/entity/Q26807760,,,Point(79.722222222 25.296388888),7.431,25.296388888889,79.722222222222,1,http://www.wikidata.org/entity/Q54050,Q26807760,hill
+http://www.wikidata.org/entity/Q26807761,,,Point(79.691111111 25.29),8.1,25.29,79.691111111111,1,http://www.wikidata.org/entity/Q12284,Mauhāri Minor,canal
+http://www.wikidata.org/entity/Q26807770,,,Point(79.663888888 25.329444444),5.54,25.329444444444,79.663888888889,1,http://www.wikidata.org/entity/Q54050,Q26807770,hill
+http://www.wikidata.org/entity/Q26807771,,,Point(79.583333333 25.332777777),12.737,25.332777777778,79.583333333333,1,http://www.wikidata.org/entity/Q12284,Dwāsi Minor,canal
+http://www.wikidata.org/entity/Q26807768,,,Point(79.5875 25.3325),12.34,25.3325,79.5875,1,http://www.wikidata.org/entity/Q12284,Sungra Minor,canal
+http://www.wikidata.org/entity/Q26807769,,,Point(79.634722222 25.317222222),8.698,25.317222222222,79.634722222222,1,http://www.wikidata.org/entity/Q190429,Q26807769,depression
+http://www.wikidata.org/entity/Q31291762,,,Point(79.745653 25.307556),7.209,25.307556,79.745653,1,http://www.wikidata.org/entity/Q55488,Charkhari Road railway station,railway station
+http://www.wikidata.org/entity/Q32236774,,,Point(79.705555555 25.359722222),0.213,25.359722222222,79.705555555556,1,http://www.wikidata.org/entity/Q4022,Arjun Nadi,river
+http://www.wikidata.org/entity/Q32303898,,,Point(79.647222222 25.362222222),5.907,25.362222222222,79.647222222222,1,http://www.wikidata.org/entity/Q4022,Badhori Nadi,river
+http://www.wikidata.org/entity/Q32449915,,,Point(79.667777777 25.415277777),7.098,25.415277777778,79.667777777778,1,http://www.wikidata.org/entity/Q4022,Barhori Nadi,river
+http://www.wikidata.org/entity/Q32487294,,,Point(79.759166666 25.299444444),8.734,25.299444444444,79.759166666667,1,http://www.wikidata.org/entity/Q4022,Bhairon Nadi,river
+http://www.wikidata.org/entity/Q32488012,,,Point(79.691388888 25.356111111),1.591,25.356111111111,79.691388888889,1,http://www.wikidata.org/entity/Q4022,Bharwa Nadi,river
+http://www.wikidata.org/entity/Q33228114,,,Point(79.829722222 25.402222222),13.223,25.402222222222,79.829722222222,1,http://www.wikidata.org/entity/Q187223,Bamhauriā Tāl,lagoon
+http://www.wikidata.org/entity/Q33228274,,,Point(79.750277777 25.395555555),5.834,25.395555555556,79.750277777778,1,http://www.wikidata.org/entity/Q187223,Bansī Tāl,lagoon
+http://www.wikidata.org/entity/Q33248643,,,Point(79.721111111 25.241111111),13.482,25.241111111111,79.721111111111,1,http://www.wikidata.org/entity/Q187223,Dūlha Tāl,lagoon
+http://www.wikidata.org/entity/Q33264462,,,Point(79.751666666 25.391111111),5.64,25.391111111111,79.751666666667,1,http://www.wikidata.org/entity/Q187223,Jai Sāgar,lagoon
+http://www.wikidata.org/entity/Q33267749,,,Point(79.649166666 25.291666666),9.648,25.291666666667,79.649166666667,1,http://www.wikidata.org/entity/Q187223,Kulpahār Sāgar,lagoon
+http://www.wikidata.org/entity/Q33287132,,,Point(79.760555555 25.430277777),9.399,25.430277777778,79.760555555556,1,http://www.wikidata.org/entity/Q187223,Malkhān Tāl,lagoon
+http://www.wikidata.org/entity/Q33293754,,,Point(79.703888888 25.27),10.187,25.27,79.703888888889,1,http://www.wikidata.org/entity/Q187223,Māral Tāl,lagoon
+http://www.wikidata.org/entity/Q33316232,,,Point(79.736111111 25.436388888),8.849,25.436388888889,79.736111111111,1,http://www.wikidata.org/entity/Q187223,Thākur Tāl,lagoon
+http://www.wikidata.org/entity/Q34897422,,,Point(79.662777777 25.439722222),9.712,25.439722222222,79.662777777778,1,http://www.wikidata.org/entity/Q4022,Sūkha Nadi,river
+http://www.wikidata.org/entity/Q34918111,,,Point(79.691111111 25.381944444),2.713,25.381944444444,79.691111111111,1,http://www.wikidata.org/entity/Q131681,Raipur Reservoir,reservoir
+http://www.wikidata.org/entity/Q34937612,,,Point(79.590555555 25.366111111),11.611,25.366111111111,79.590555555556,1,http://www.wikidata.org/entity/Q591942,Bhatewara Distributary,distributary
+http://www.wikidata.org/entity/Q34951318,,,Point(79.716944444 25.389166666),3.257,25.389166666667,79.716944444444,1,http://www.wikidata.org/entity/Q591942,Pachpahra Distributary,distributary
+http://www.wikidata.org/entity/Q49317136,,,Point(79.656944444 25.335833333),5.702,25.335833333333,79.656944444444,1,http://www.wikidata.org/entity/Q10313934,Q49317136,intermittent lake
+http://www.wikidata.org/entity/Q49317312,,,Point(79.564166666 25.325833333),14.798,25.325833333333,79.564166666667,1,http://www.wikidata.org/entity/Q10313934,Q49317312,intermittent lake
+http://www.wikidata.org/entity/Q49317426,,,Point(79.717777777 25.270833333),10.161,25.270833333333,79.717777777778,1,http://www.wikidata.org/entity/Q10313934,Q49317426,intermittent lake
+http://www.wikidata.org/entity/Q49317430,,,Point(79.633333333 25.325),8.36,25.325,79.633333333333,1,http://www.wikidata.org/entity/Q10313934,Q49317430,intermittent lake
+http://www.wikidata.org/entity/Q49317583,,,Point(79.653333333 25.33),6.353,25.33,79.653333333333,1,http://www.wikidata.org/entity/Q10313934,Q49317583,intermittent lake
+http://www.wikidata.org/entity/Q49317615,,,Point(79.689722222 25.395),4.059,25.395,79.689722222222,1,http://www.wikidata.org/entity/Q10313934,Q49317615,intermittent lake
+http://www.wikidata.org/entity/Q49317682,,,Point(79.703333333 25.493055555),14.62,25.493055555556,79.703333333333,1,http://www.wikidata.org/entity/Q10313934,Q49317682,intermittent lake
+http://www.wikidata.org/entity/Q49317962,,,Point(79.679722222 25.450277777),10.208,25.450277777778,79.679722222222,1,http://www.wikidata.org/entity/Q10313934,Q49317962,intermittent lake
+http://www.wikidata.org/entity/Q49318265,,,Point(79.719722222 25.436666666),8.46,25.436666666667,79.719722222222,1,http://www.wikidata.org/entity/Q10313934,Q49318265,intermittent lake
+http://www.wikidata.org/entity/Q49318335,,,Point(79.701388888 25.456388888),10.55,25.456388888889,79.701388888889,1,http://www.wikidata.org/entity/Q10313934,Q49318335,intermittent lake
+http://www.wikidata.org/entity/Q63355106,,https://en.wikipedia.org/wiki/Kulpahar_Railway_Station,Point(79.63751 25.29552),10.068,25.29552,79.63751,1,http://www.wikidata.org/entity/Q55488,Kulpahar railway station,railway station
+http://www.wikidata.org/entity/Q97124412,,,Point(79.751354131 25.401639384),6.37,25.40163938458,79.751354131172,1,http://www.wikidata.org/entity/Q53060,Dyudhi Darwaza,gate

@@ -176,12 +176,14 @@ class WikivoyageFetcher():
                                 'section' : str(section_number), 'disabletoc' : '1' })
         parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
         for link in parsed.wikilinks:
+            if link.target in  ['Manhattan', 'Asia']:
+                continue
             district_name = link.target
             new_fetcher = WikivoyageFetcher(district_name)
             self.return_frame = pd.concat([self.return_frame,new_fetcher.fetch()])
 
         
 if __name__ == '__main__':
-    my_voyage_fetcher = WikivoyageFetcher('Lucknow')
+    my_voyage_fetcher = WikivoyageFetcher('Chandigarh')
     df = my_voyage_fetcher.fetch()
     df.to_csv('test_wikivoyage_fetcher.csv')
