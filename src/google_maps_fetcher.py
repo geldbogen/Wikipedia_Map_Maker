@@ -5,14 +5,16 @@ import pandas as pd
 from dotenv import load_dotenv, find_dotenv
 import os
 load_dotenv(find_dotenv())
-GOOGLE_MAPS_API_KEY = os.getenv('maps_api_key')
+GOOGLE_MAPS_API_KEY = os.getenv(('maps_api_key'), 'ERROR_FETCHING_KEY')
 
-
-def search_nearby_places(latitude, longitude, radius=500.0, included_types=None, max_results=10):
-    """
-    Search for nearby places using Google Maps Places API (New).
-    
-    Args:
+class GoogleMapsFetcher:
+    def __init__(self, api_key: str = GOOGLE_MAPS_API_KEY):
+        self.api_key = api_key
+    def search_nearby_places(self, latitude, longitude, radius=500.0, included_types=None, max_results=10) -> pd.DataFrame:
+        """
+        Search for nearby places using Google Maps Places API (New).
+        
+        Args:
         latitude: Center point latitude
         longitude: Center point longitude
         radius: Search radius in meters (default: 500.0)
@@ -20,36 +22,46 @@ def search_nearby_places(latitude, longitude, radius=500.0, included_types=None,
         max_results: Maximum number of results (default: 10)
     
     Returns:
-        JSON response from the API
+        pandas DataFrame with place information
+        with the following columns:
+            - name
+            - rating
+            - user_rating_count
+            - latitude
+            - longitude
+            - price_level
     """
-    if included_types is None:
-        included_types = ["restaurant"]
-    
-    url = 'https://places.googleapis.com/v1/places:searchNearby'
-    
-    headers = {
-        'Content-Type': 'application/json',
-        'X-Goog-Api-Key': GOOGLE_MAPS_API_KEY,
-        'X-Goog-FieldMask': 'places.displayName,places.rating,places.location,places.userRatingCount,places.priceLevel'
-    }
-    
-    payload = {
-        "includedTypes": included_types,
-        "locationRestriction": {
-            "circle": {
-                "center": {
-                    "latitude": latitude,
-                    "longitude": longitude
-                },
-                "radius": radius
+        if included_types is None:
+            included_types = ["restaurant"]
+        
+        url = 'https://places.googleapis.com/v1/places:searchNearby'
+        
+        headers = {
+            'Content-Type': 'application/json',
+            'X-Goog-Api-Key': GOOGLE_MAPS_API_KEY,
+            'X-Goog-FieldMask': 'places.displayName,places.rating,places.location,places.userRatingCount,places.priceLevel'
+        }
+        
+        payload = {
+            "includedTypes": included_types,
+            "locationRestriction": {
+                "circle": {
+                    "center": {
+                        "latitude": latitude,
+                        "longitude": longitude
+                    },
+                    "radius": radius
+                }
             }
         }
-    }
-    
-    response = requests.post(url, json=payload, headers=headers)
-    response.raise_for_status()
-    
-    return response.json()
+        
+        response = requests.post(url, json=payload, headers=headers)
+        response.raise_for_status()
+        
+        df = create_dataframe_from_response(response.json())
+        
+        df = df[(df['rating'] >= 4.8) & (df['user_rating_count'] >= 500)]
+        return df
 
 
 def create_dataframe_from_response(response_json):
@@ -89,12 +101,14 @@ def create_dataframe_from_response(response_json):
     return pd.DataFrame(data)
 
 
-# Example usage:
-if __name__ == "__main__":
-    result = search_nearby_places(49.460983, 11.061859)
-    print(result)
+# # Example usage:
+# if __name__ == "__main__":
+#     result = search_nearby_places(49.460983, 11.061859)
+#     print(result)
     
-    df = create_dataframe_from_response(result)
-    print("\nDataFrame:")
-    print(df)
+#     df = create_dataframe_from_response(result)
+#     print("\nDataFrame:")
+#     print(df)
+
+
 
