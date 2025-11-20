@@ -1,27 +1,43 @@
 import re
 from typing import Literal
 
+import geopy.distance
 import requests
 import wikitextparser as wtp
 import pandas as pd
+import geopy
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
-# 'https://en.wikipedia.org/wiki/Special:ApiSandbox#action=parse&format=json&page=house&prop=wikitext&section=3&disabletoc=1'
-
-
 class WikivoyageFetcher():
-    def __init__(self, to_fetch_place_name : str) -> None:
+    def __init__(self, to_fetch_place_name : str, to_fetch_place_name_coordinates : tuple[int,int], to_fetch_place_name_distance : int, debug_mode : bool = False) -> None:
         print(to_fetch_place_name)
         self.to_fetch_place_name = to_fetch_place_name.replace(' ', '_')
+        self.to_fetch_place_name_coordinates = to_fetch_place_name_coordinates
+        self.to_fetch_place_name_distance = to_fetch_place_name_distance
+        self.debug_mode = debug_mode
+
         self.final_data_frame = pd.DataFrame()
         self.geolocator = Nominatim(user_agent="wikipedia-map-maker")
         self.geolocator.geocode = RateLimiter(self.geolocator.geocode, min_delay_seconds = 1)
         self.return_frame = pd.DataFrame()
-        pass
+        
+        # Add headers to avoid 403 errors
+        self.headers = {
+            'User-Agent': 'WikipediaMapMaker/1.0 (https://github.com/yourname/Wikipedia_Map_Maker; your.email@example.com)',
+            'Accept': 'application/json',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1'
+        }
 
     def fetch(self) -> pd.DataFrame:
         # self.return_frame = pd.DataFrame()
+        # IMPORTANT currently not usable for Manhattan because Mumbais distritct Article mentions Manhattan
+        if self.to_fetch_place_name == 'Manhattan':
+            return pd.DataFrame()
         content_dict = self.get_contents_of_wikivoyage_article()
         for index, line in content_dict.items():
             if line != 'Go next':
@@ -32,7 +48,8 @@ class WikivoyageFetcher():
             for wikilist in list_of_wikilists:
                 content_list = self.get_dictionary_list_of_wikitext(wikilist,headline='Go next') 
                 frame = self.get_dataframe_from_dictionary_list(content_list,line)
-                self.fill_missing_coordinates_in_frame(frame)
+                if not self.debug_mode:
+                    self.fill_missing_coordinates_in_frame(frame)
                 self.return_frame = pd.concat([self.return_frame,frame])
         
         self.replace_duplicates_in_wikivoyage_frame(self.return_frame)
@@ -44,7 +61,7 @@ class WikivoyageFetcher():
     def get_contents_of_wikivoyage_article(self) -> dict[str,str]:
         url = f'https://en.wikivoyage.org/w/api.php?action=parse&format=json&page={self.to_fetch_place_name}&prop=sections&disabletoc=1'
 
-        response = requests.get(url)
+        response = requests.get(url, headers=self.headers)
         r = response.json()
         response_list_sections = r['parse']['sections']
 
@@ -69,7 +86,8 @@ class WikivoyageFetcher():
         response = requests.get(url_2, params={
                                 'action': 'parse', 'format': 'json',
                                 'page': self.to_fetch_place_name, 'prop': 'wikitext',
-                                'section' : str(section_number), 'disabletoc' : '1' })
+                                'section' : str(section_number), 'disabletoc' : '1' }, 
+                                headers=self.headers)
         parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
         try:
             wikilist = parsed.get_lists()
@@ -151,7 +169,11 @@ class WikivoyageFetcher():
                     y = float(pd_series.at['lon'].strip())
                 except ValueError:
                     x, y = 0, 0
-                
+
+            # last check for whether the lookup has as tremendously different location:
+            if geopy.distance.distance((self.to_fetch_place_name_coordinates), (x,y)) > self.to_fetch_place_name_distance and not 'Go next' in pd_series.at['thingLabel']:
+                x, y = 0, 0
+
             return (x,y)
         df['fetched_coordinates'] = df.apply(help_function,axis=1)
         df['lat'] = df.apply(lambda x : x.at['fetched_coordinates'][0],axis=1)
@@ -166,20 +188,22 @@ class WikivoyageFetcher():
     
     def replace_duplicates_in_wikivoyage_frame(self, wikivoyage_frame : pd.DataFrame):
         wikivoyage_frame = wikivoyage_frame.iloc[::-1]
-        wikivoyage_frame = wikivoyage_frame.drop_duplicates(subset=['fetched_coordinates'])
+        if not self.debug_mode:
+            wikivoyage_frame = wikivoyage_frame.drop_duplicates(subset=['fetched_coordinates'])
     
     def fetch_the_districts(self, section_number : int):
         url_2 = 'https://en.wikivoyage.org/w/api.php'
         response = requests.get(url_2, params={
                                 'action': 'parse', 'format': 'json',
                                 'page': self.to_fetch_place_name, 'prop': 'wikitext',
-                                'section' : str(section_number), 'disabletoc' : '1' })
+                                'section' : str(section_number), 'disabletoc' : '1' }, 
+                                headers=self.headers)
         parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
         for link in parsed.wikilinks:
             if link.target in  ['Manhattan', 'Asia']:
                 continue
             district_name = link.target
-            new_fetcher = WikivoyageFetcher(district_name)
+            new_fetcher = WikivoyageFetcher(district_name, to_fetch_place_name_coordinates=self.to_fetch_place_name_coordinates, to_fetch_place_name_distance=self.to_fetch_place_name_distance, debug_mode=self.debug_mode)
             self.return_frame = pd.concat([self.return_frame,new_fetcher.fetch()])
 
         

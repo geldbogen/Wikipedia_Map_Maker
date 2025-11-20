@@ -1,3 +1,8 @@
 location,distance,item,lat,lon,sitelinks,itemLabel,placeLabel
+<<<<<<< HEAD
 Point(72.833888888 19.025),5.775,http://www.wikidata.org/entity/Q231690,19.025,72.833888888889,147,Bhimrao Ramji Ambedkar,Chaitya Bhoomi
 Point(72.8775 19.075833333),12.522,http://www.wikidata.org/entity/Q231690,19.075833333333,72.8775,147,Bhimrao Ramji Ambedkar,Mumbai
+=======
+Point(72.8775 19.075833333),12.522,http://www.wikidata.org/entity/Q231690,19.075833333333,72.8775,147,Bhimrao Ramji Ambedkar,Mumbai
+Point(72.833888888 19.025),5.775,http://www.wikidata.org/entity/Q231690,19.025,72.833888888889,147,Bhimrao Ramji Ambedkar,Chaitya Bhoomi
+>>>>>>> d5fb79a1a7e1306b4cab692fbed77d5c2b7286d5

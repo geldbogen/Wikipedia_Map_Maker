@@ -40,38 +40,38 @@ class KmlHelper():
         self.style_graves._id = 'icon-1556-FFD600-normal'
 
         self.style_S = simplekml.Style()
-        self.style_S._id = 'icon-1739-E65100-normal'
+        self.style_S._id = 'icon-1739-FF0000-normal'
         self.style_S.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         # self.style_S.labelstyle = simplekml.LabelStyle(0)
 
         self.style_map_S = simplekml.StyleMap(normalstyle=self.style_S,)
-        self.style_map_S._id = 'icon-1739-E65100'
+        self.style_map_S._id = 'icon-1739-FF0000'
 
         self.style_A = simplekml.Style()
         self.style_A._id = 'icon-1739-7CB342-normal'
         self.style_A.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_A = simplekml.StyleMap(normalstyle=self.style_A)
-        self.style_map_A._id = 'icon-1739-7CB342'
+        self.style_map_A._id = 'icon-1739-FF8800'
 
 
         self.style_B = simplekml.Style()
-        self.style_B._id = 'icon-1739-9C27B0-normal'
+        self.style_B._id = 'icon-1739-FFFF00-normal'
         self.style_B.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_B = simplekml.StyleMap(normalstyle=self.style_B)
 
 
         self.style_C = simplekml.Style()
-        self.style_C._id = 'icon-1739-FFEA00-normal'
+        self.style_C._id = 'icon-1739-808080-normal'
         self.style_C.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_C = simplekml.StyleMap(normalstyle=self.style_C)
 
 
         self.style_D = simplekml.Style()
-        self.style_D._id = 'icon-1739-0288D1-normal' 
+        self.style_D._id = 'icon-1739-0A0A0A-normal' 
         self.style_D.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_D = simplekml.StyleMap(normalstyle=self.style_D)

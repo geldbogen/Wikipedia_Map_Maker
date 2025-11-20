@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="icon-1739-E65100-normal">
+            <IconStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="416"/>
+        <Style id="icon-1739-7CB342-normal">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="417"/>
+        <Style id="icon-1739-9C27B0-normal">
+            <IconStyle id="27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="418"/>
+        <Style id="icon-1739-FFEA00-normal">
+            <IconStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="419"/>
+        <Style id="icon-1739-0288D1-normal">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="420"/>
+        <Style id="icon-1556-FFD600-normal">
+            <IconStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="421"/>
+        <Style id="icon-1594-000000-normal">
+            <IconStyle id="39">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="422"/>
+        <Style id="icon-1636-0288D1-normal">
+            <IconStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="423"/>
+        <Style id="icon-1577-0288D1-normal">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="424"/>
+        <Style id="icon-1577-0F9D58-normal">
+            <IconStyle id="79">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="425"/>
+        <Style id="icon-1577-FFEA00-normal">
+            <IconStyle id="83">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="426"/>
+        <Style id="icon-1577-FF5252-normal">
+            <IconStyle id="87">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="427"/>
+        <Style id="icon-1798-0288D1-normal">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="428"/>
+        <Style id="icon-1798-0F9D58-normal">
+            <IconStyle id="59">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="429"/>
+        <Style id="icon-1798-FFEA00-normal">
+            <IconStyle id="63">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="430"/>
+        <Style id="icon-1798-FF5252-normal">
+            <IconStyle id="67">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="431"/>
+        <Style id="icon-1534-0288D1-normal">
+            <IconStyle id="71">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="432"/>
+        <Style id="433"/>
+        <Style id="icon-1602-0288D1-normal">
+            <IconStyle id="91">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="434"/>
+        <Style id="icon-1602-0F9D58-normal">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="435"/>
+        <Style id="icon-1602-FFEA00-normal">
+            <IconStyle id="99">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="436"/>
+        <Style id="icon-1602-FF5252-normal">
+            <IconStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="437"/>
+        <Style id="icon-1502-0288D1-normal">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="438"/>
+        <Style id="icon-1670-0288D1-normal">
+            <IconStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="439"/>
+        <Style id="icon-1591-0288D1-normal">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="440"/>
+        <Style id="icon-1720-0288D1-normal">
+            <IconStyle id="111">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="441"/>
+        <Style id="icon-1706-0288D1-normal">
+            <IconStyle id="123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="124">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="442"/>
+        <Style id="443"/>
+        <Style id="icon-1569-0288D1-normal">
+            <IconStyle id="143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="444"/>
+        <Style id="icon-1532-0288D1-normal">
+            <IconStyle id="139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="140">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="445"/>
+        <Style id="icon-1504-0288D1-normal">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="446"/>
+        <Style id="icon-1716-0288D1-normal">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="447"/>
+        <Style id="icon-1731-0288D1-normal">
+            <IconStyle id="147">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="148">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="448"/>
+        <Style id="icon-1511-0288D1-normal">
+            <IconStyle id="151">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="152">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="449"/>
+        <Style id="icon-1637-0288D1-normal">
+            <IconStyle id="159">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="160">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="450"/>
+        <Style id="icon-1635-0288D1-normal">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="451"/>
+        <Style id="icon-1685-0288D1-normal">
+            <IconStyle id="163">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="164">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="452"/>
+        <Style id="icon-1654-0288D1-normal">
+            <IconStyle id="167">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="453"/>
+        <Style id="icon-1522-0288D1-normal">
+            <IconStyle id="171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="172">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="454"/>
+        <Style id="icon-1726-0288D1-normal">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="455"/>
+        <Style id="icon-1608-0288D1-normal">
+            <IconStyle id="179">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="180">
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="456"/>
+        <StyleMap id="icon-1739-E65100">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-E65100-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#416</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="icon-1739-7CB342">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#417</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="29">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-9C27B0-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#418</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="33">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#419</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="37">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1739-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#420</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="45">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1556-FFD600-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#421</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="41">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1594-000000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#422</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="49">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#423</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="77">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#424</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="81">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#425</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="85">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#426</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="89">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1577-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#427</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="57">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#428</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="61">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#429</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="65">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#430</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="69">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#431</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="73">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1534-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#432</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="53">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1798-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#433</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="93">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#434</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="97">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-0F9D58-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#435</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="101">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FFEA00-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#436</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="105">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1602-FF5252-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#437</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="109">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#438</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="129">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1670-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#439</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="117">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1591-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#440</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="113">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1720-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#441</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="125">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1706-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#442</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="121">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1636-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#443</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="145">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1569-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#444</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="141">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#445</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="137">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1504-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#446</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="133">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1716-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#447</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="149">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1731-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#448</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="153">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1511-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#449</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="161">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1637-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#450</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="157">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1635-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#451</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="165">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1685-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#452</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="169">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1654-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#453</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="173">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1522-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#454</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="177">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1726-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#455</styleUrl>
+            </Pair>
+        </StyleMap>
+        <StyleMap id="181">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1608-0288D1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#456</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder id="11">
+            <name>A</name>
+            <Placemark id="267">
+                <name>Zakir Hussain Rose Garden</name>
+                <description>                    category  : rose garden &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Zakir_Hussain_Rose_Garden &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q8065112</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="266">
+                    <coordinates>76.783739,30.748108,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>Secretariat Building</name>
+                <description>                    category  : architectural structure &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Secretariat_Building,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7444209</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="268">
+                    <coordinates>76.800555555556,30.761111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>Chandigarh Group of Colleges, Landran</name>
+                <description>                    category  : engineering college &lt;br&gt;   
+                    sitelinks : 10.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_Group_of_Colleges &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5071065</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="270">
+                    <coordinates>76.664638888889,30.686416666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>Gandhi Bhawan</name>
+                <description>                    category  : auditorium &lt;br&gt;   
+                    sitelinks : 11.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Gandhi_Bhawan,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5520689</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="272">
+                    <coordinates>76.771410495592,30.761872651759,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>Inderjit Singh Bindra Stadium</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Inderjit_Singh_Bindra_Stadium &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Punjab_Cricket_Association_IS_Bindra_Stadium &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3522142</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="274">
+                    <coordinates>76.737258333333,30.690858333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>Government Museum and Art Gallery, Chandigarh</name>
+                <description>                    category  : art museum &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Government_Museum_and_Art_Gallery,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3112812</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="276">
+                    <coordinates>76.787425,30.748875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>Karoran</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 12.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Karoran &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2311239</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="278">
+                    <coordinates>76.8204,30.8053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>Sukhna Lake</name>
+                <description>                    category  : reservoir &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sukhna_Lake &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7333197</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="280">
+                    <coordinates>76.8189423,30.7402883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="283">
+                <name>Mullanpur Garibdass</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 13.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mullanpur_Garibdass &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2725729</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="282">
+                    <coordinates>76.743,30.799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name>Punjab and Haryana High Court</name>
+                <description>                    category  : appellate court &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Punjab_and_Haryana_High_Court &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Punjab_and_Haryana_High_Court &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q130502</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="284">
+                    <coordinates>76.8066,30.7573,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>Bhabat</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 14.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Bhabat &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2444426</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="286">
+                    <coordinates>76.8076,30.6581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>Panjab University</name>
+                <description>                    category  : public university &lt;br&gt;   
+                    sitelinks : 17.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Panjab_University &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Panjab_University &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q567899</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="288">
+                    <coordinates>76.768208888889,30.757995,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>Open Hand Monument</name>
+                <description>                    category  : monument &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Open_Hand_Monument &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16854086</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="290">
+                    <coordinates>76.8074,30.759,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>Rock Garden of Chandigarh</name>
+                <description>                    category  : sculpture garden &lt;br&gt;   
+                    sitelinks : 18.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Rock_Garden_of_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3041915</description>
+                <styleUrl>#icon-1739-7CB342</styleUrl>
+                <Point id="292">
+                    <coordinates>76.807,30.752,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <name>wikivoyage</name>
+            <Placemark id="311">
+                <name>Chandigarh International Airport </name>
+                <description>
+                category  : Get in_By plane &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : An attractive and pleasant airport. [http://airindia.in/ Air India] and [http://www.goair.in/ GoAir] fly to the city. GoAir offers direct flights from [[Mumbai]] and [[Delhi]]. Tickets cost around ₹3,000 (from Delhi, including taxes) for most of the airlines. AirAsia has a direct flight from [[Bangalore]]. &lt;br&gt;
+                </description>
+                <styleUrl>#137</styleUrl>
+                <Point id="310">
+                    <coordinates>76.790556,30.674722,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>Chandigarh Junction railway station </name>
+                <description>
+                category  : Get in_By train &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#133</styleUrl>
+                <Point id="312">
+                    <coordinates>76.8214,30.7024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>New Inter State Bus Terminus </name>
+                <description>
+                category  : Get in_By bus &lt;br&gt;
+                address  : in Sector 43  &lt;br&gt;
+                url  : https://chdctu.gov.in/about-us/isbt  &lt;br&gt;
+                description  : It provides connectivity from all major destinations in the neighbouring states [[Himachal Pradesh]], [[Punjab (India) &lt;br&gt;
+                </description>
+                <styleUrl>#141</styleUrl>
+                <Point id="314">
+                    <coordinates>76.75083125825773,30.72144325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>Chandigarh Museum </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  : Sector 10  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : This provides an interesting aspect on how Chandigarh was founded. It begins with the principles on which Chandigarh was built, selection of the Architects, the design for the people etc. The correspondence between the Punjabi officials overseeing the construction of the city, and the Federal Government in Delhi is fascinating, and well worth taking a few minutes to read. Close by is the Government Museum and Art Gallery as well as the Museum of Science and Natural History Museum. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="316">
+                    <coordinates>76.78689,30.74819,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>Elante Mall </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Elante Mall at Chandigarh is among the largest malls in North India, covering 20 acres. It is a mixed use development project which includes entertainment, hotels and business. Elante Mall has a retail space of over 1 million square feet. across &quot;ground level and three upper levels&quot;. In the retail area, Elante Mall hosts various national and some huge internal brands like Heckett London,Apple ( eStore..Powered by Beyond Computers), Marks &amp; Spencer, Brook Brothers, Rolex, Harley Davidson, Promod etc. Elante boasts of a great food court, a wonderful courtyard full of cafes, sports bars and has various clothing brands. In the entertainment section Elante Mall has PVR cinemas for entertaining large crowds. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="318">
+                    <coordinates>76.8011,30.70536,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>The High Court </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The letter is fine for looking around the High Court; just show it to security at the entrance, around the back, but if you want to take photos you need to surrender your camera, and head in to fill out some more forms in the protocol office, and then take the forms back to security to get your camera back. It’s worth it as the building is amazing, and extremely photogenic. You can’t take any photos indoors. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="320">
+                    <coordinates>76.8066,30.7573,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>The Japanese Garden </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The Japanese Garden is a park in Sector 31 in union territory of Chandigarh. Built in 2014 in 13 acres of Land, by Indian Government, it was inaugurated by Shivraj Patil on 7th November 2014. It consists of water bodies, pagoda towers, water falls and golden bamboos. This is first ever garden in Chandigarh with Japanese touch and costs around ₹6 crore. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="322">
+                    <coordinates>76.78405,30.7044,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>The Legislative Assembly </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : This is the Assembly for both Punjab and Haryana. It's easy to run out of time, so make sure you have a whole clear weekday to appreciate all the capitol buildings. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="324">
+                    <coordinates>76.803277777778,30.761027777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>Museum and Art Gallery </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : The museum and the combined art gallery is an interesting place to go to. Artefacts range form [[Harappa]]n period relics to paintings and coins from different areas and time periods. The Art Gallery has good collections of ancient and modern Indian art. Fossils of the local dinosaurs found in the region are on show in the adjacent natural history museum. The buildings that the Museums and Art Gallery are housed in are attractive. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="326">
+                    <coordinates>76.78745,30.7489,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="329">
+                <name>Pinjore Gardens </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Also called Yadavindra Gardens, these are 20&amp;nbsp;km (12&amp;nbsp;mi) from Chandigarh and 15&amp;nbsp;km (9&amp;nbsp;mi) from [[Panchkula]], on the Chandigarh-[[Shimla]] road. Taxis and buses ply regularly between Pinjore and Chandigarh. Pinjore lies on the foothills of the lower Shivalik ranges. The fascinating gardens in the Mughal style are one of the most popular picnic spots in the region. A mini zoo, plant nursery, Japanese garden, historic palaces and picnic lawns await visitors. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="328">
+                    <coordinates>76.91169,30.79333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>Rock Garden of Chandigarh </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  : http://www.nekchand.com  &lt;br&gt;
+                description  : In 1992, Nek Chand, a humble transport official, began to clear a little patch of jungle to make himself a small garden area. He set stones around the little clearing and before long had sculpted a few figures recycled from materials he found at hand. Gradually Nek Chand's creation developed and grew; before long it covered several acres and comprised hundreds of sculptures set in a series of interlinking courtyards. After his normal working day Chand worked at night, in total secrecy for fear of being discovered. When they did discover the garden, local government officials were thrown into turmoil. The creation was completely illegal, a development in a forbidden area. However, rather than demolishing the garden, they decided to give Nek Chand a salary so that he could concentrate full-time on his work, plus a workforce of fifty labourers. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="330">
+                    <coordinates>76.80651,30.752855,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="333">
+                <name>Rose Garden</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  : Sector 16  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  The city houses the largest rose garden in Asia. It also hosts an annual rose festival which is quite popular among the local population. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="332">
+                    <coordinates>76.782064,30.745991,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="335">
+                <name>The Secretariat </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : You have to jump through some hoops to visit the Secretariat. First you need to find ‘Reception’, which is just a small building out the back, and show them your letter to get a visitor permit, then you need to see Security, who will let you in, then you need to see the main security officer inside, who will send you up to the Registrar, who will then send you back to the main security office. Thankfully you are escorted through most of this confusing, overly complex procedure, usually by a junior soldier with large machine gun. The whole process takes about 30 min to an hour. Once it’s all clear you can go up to the roof, check out the geranium gardens and take in an expansive view of all of Chandigarh. Then they will let you have a look out the front, which is more interesting. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="334">
+                    <coordinates>76.80054,30.76122,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="337">
+                <name> Sukhna Lake</name>
+                <description>
+                category  : See &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Sukhna Lake is an artificial reservoir. A popular place to hang out, one can expect to find residents of the city jogging or strolling along the banks. There is a walking path, a cafeteria, shops and a mini-amusement park and paddleboats. Shikaras are also available. The Sukhna Lake was created in 1958 by damming the Sukhna Choe, a seasonal stream that flows down from the Shivaliks. Storks and cranes make migratory stops at the lake. The lake, incidentally, has Asia's longest water channel for rowing and yachting. Visiting Sukhna Lake in the evening or early morning is a particularly pleasant experience. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="336">
+                    <coordinates>76.818711,30.742324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="339">
+                <name>Bird Park </name>
+                <description>
+                category  : See &lt;br&gt;
+                address  : Sector 1  &lt;br&gt;
+                url  : https://chandigarhforest.gov.in/wildlife-sanctuary/bird-park/  &lt;br&gt;
+                description  : Opened in 2021, the Chandigarh Bird Park features enclosed aviaries containing aquatic and terrestrial birds, walking paths, and gardens. For an additional fee, you can have a parrot sit on your hand in one of the aviaries. &lt;br&gt;
+                </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="338">
+                    <coordinates>76.80215410424178,30.76115535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="341">
+                <name>Panchkula</name>
+                <description>
+                category  : Do_Amusement and water parks &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''FunCity''' – 20 km (12&amp;nbsp;mi) from Chandigarh on the Panchkula - Barwalla Nadha Sahib Gurudwara Highway near Ramgarh . &lt;br&gt;
+                </description>
+                <styleUrl>#149</styleUrl>
+                <Point id="340">
+                    <coordinates>76.83532938228086,30.7230822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="343">
+                <name>Mohali</name>
+                <description>
+                category  : Do_Amusement and water parks &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : '''Thunderzone''' – A 30-min drive from Chandigarh, located in Landran, Mohali. &lt;br&gt;
+                </description>
+                <styleUrl>#149</styleUrl>
+                <Point id="342">
+                    <coordinates>76.7486214,30.6767354,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="345">
+                <name>Indian Coffee House </name>
+                <description>
+                category  : Eat_Budget &lt;br&gt;
+                address  : Sector.17  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#81</styleUrl>
+                <Point id="344">
+                    <coordinates>76.7825889,30.7400652,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="347">
+                <name>Tandoori express </name>
+                <description>
+                category  : Eat_Budget &lt;br&gt;
+                address  : Booth No. 5, Sector 8 B  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Don't miss this roadside outlet in sector 8. Providing specialised delicacies like kakoris and galoutis from Lucknow, amritsari fish and special waraqi wraps. &lt;br&gt;
+                </description>
+                <styleUrl>#81</styleUrl>
+                <Point id="346">
+                    <coordinates>76.797075,30.740694,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="349">
+                <name>Tiffin Service in Chandigarh </name>
+                <description>
+                category  : Eat_Budget &lt;br&gt;
+                address  : Sector 46  &lt;br&gt;
+                url  : https://tiffinserviceinchandigarh.com  &lt;br&gt;
+                description  : Online tiffin and food delivery service in Chandigarh at very reasonable price. Open 7 days with breakfast, lunch and dinner food service. Make enquiries through call, sms, whatsapp, email, for more details visit website. &lt;br&gt;
+                </description>
+                <styleUrl>#81</styleUrl>
+                <Point id="348">
+                    <coordinates>76.7639,30.7026,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="351">
+                <name>Barbeque Nation </name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  : Sector 26  &lt;br&gt;
+                url  : https://www.barbequenation.com/  &lt;br&gt;
+                description  : buffet grill barbeque restaurant near you. Exciting Offers on lunch dinner with our trademark. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="350">
+                    <coordinates>76.803932,30.727053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="353">
+                <name>Chawla Chicken </name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  : SCO 2458 B, Sector 22C  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : There is a whole chain of Chawlas, the better ones being in Sector 8 and Sector 22. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="352">
+                    <coordinates>76.769766,30.727776,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="355">
+                <name> Hot Millions</name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  : SCO 196-197, Sector 17-C  &lt;br&gt;
+                url  : http://www.hotmillions.biz/  &lt;br&gt;
+                description  : Very popular salad bar. Other locations Sector 35, [[Mohali]], [[Panchkula]]. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="354">
+                    <coordinates>76.785174,30.738543,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="357">
+                <name>Nando's </name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  : Elante Mall bbmb Industrial Area Phase 1,  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Afro-Portuguese chain restaurant serving flame-grilled chicken in spicy chilli sauce. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="356">
+                    <coordinates>76.800726,30.705589,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="359">
+                <name>Nik Baker's </name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  : S.C.O. No. 441-442, Sector-35-C  &lt;br&gt;
+                url  : https://www.nikbakers.com/  &lt;br&gt;
+                description  : Also in Sector 9. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="358">
+                    <coordinates>76.76055,30.721664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="361">
+                <name>Oven Fresh </name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  :  Sector 26 &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Also in Sector 35 &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="360">
+                    <coordinates>76.804658,30.726273,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="363">
+                <name> Sagar Rathna</name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  :  Shopping Plaza, 17D, Sector 17 &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : South Indian vegetarian chain. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="362">
+                    <coordinates>76.783581,30.740709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="365">
+                <name> Tehal Singh Chicken</name>
+                <description>
+                category  : Eat_Mid-range &lt;br&gt;
+                address  :  22B Himalaya Marg, Sector 22, &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : One of the best places to try the famous butter chicken of Punjab. &lt;br&gt;
+                </description>
+                <styleUrl>#85</styleUrl>
+                <Point id="364">
+                    <coordinates>76.77133390477367,30.728222856783407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="367">
+                <name>Orchid Lounge </name>
+                <description>
+                category  : Eat_Splurge &lt;br&gt;
+                address  :  Sector 34B &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : for excellent Thai cuisine. &lt;br&gt;
+                </description>
+                <styleUrl>#89</styleUrl>
+                <Point id="366">
+                    <coordinates>76.768646,30.719165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="369">
+                <name> Crystal bar and lounge</name>
+                <description>
+                category  : Drink_Bars and pubs &lt;br&gt;
+                address  :   &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : Experience trendy nightlife in Chandigarh. &lt;br&gt;
+                </description>
+                <styleUrl>#57</styleUrl>
+                <Point id="368">
+                    <coordinates>76.805452,30.725407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="371">
+                <name>Hotel Orange 35 </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Sector 35-B  &lt;br&gt;
+                url  : http://www.orangehotel35.com  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="370">
+                    <coordinates>76.767143,30.726674,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="373">
+                <name> Hotel ParkView</name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  :  Sector 24 &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : run by the CITCO &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="372">
+                    <coordinates>76.767887,30.74604,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="375">
+                <name>Hotel Punjab Palace </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : No 1092, Sco, 93, Himalaya Marg, Sector 22C  &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="374">
+                    <coordinates>76.776966,30.732313,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="377">
+                <name>Hotel Rajshree </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Industrial area-1  &lt;br&gt;
+                url  : http://www.hotelrajshree.in  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="376">
+                    <coordinates>76.794272,30.702531,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="379">
+                <name>Hometel Chandigarh </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : in Industrial Area Phase-1  &lt;br&gt;
+                url  : https://www.sarovarhotels.com/hometel-chandigarh/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="378">
+                    <coordinates>76.803403,30.707983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="381">
+                <name>OYO 808 Hotel Auzone &amp; Spa </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : in Sector 34  &lt;br&gt;
+                url  : https://www.oyorooms.com/826-oyo-rooms-oyo-808-hotel-auzone-spa-chandigarh/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="380">
+                    <coordinates>76.7714,30.721584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="383">
+                <name> Hotel Aroma</name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Twin Hotel Complex Himalaya Marg, Sector 22-C  &lt;br&gt;
+                url  : http://www.hotelaroma.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="382">
+                    <coordinates>76.773405,30.73015,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="385">
+                <name>Hotel KLG </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Himalaya Marg, Sector 43/B  &lt;br&gt;
+                url  : https://www.hotelklg.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="384">
+                    <coordinates>76.753321,30.717594,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="387">
+                <name>Hotel The Komfort Inn </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : in Sector 17 C  &lt;br&gt;
+                url  : http://the-komfort-inn.hotelsofchandigarh.com/en/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="386">
+                    <coordinates>76.784866,30.739338,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="389">
+                <name>Shivalik View </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Sector 17 E  &lt;br&gt;
+                url  : http://www.citcochandigarh.com/shivalikview/  &lt;br&gt;
+                description  : run by CITCO &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="388">
+                    <coordinates>76.776379,30.740064,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="391">
+                <name>Lemon Tree Hotel </name>
+                <description>
+                category  : Sleep_Mid-range &lt;br&gt;
+                address  : Plot No. 3, MW Industrial Area Phase I  &lt;br&gt;
+                url  : https://www.lemontreehotels.com/lemon-tree-hotel/chandigarh/hotel-chandigarh.aspx  &lt;br&gt;
+                description  : The hotel, with its 81 furnished rooms and suites, offers a wide array of accommodation options. Room categories include Superior Room; Executive Room; Studio Room and Executive Suite. &lt;br&gt;
+                </description>
+                <styleUrl>#101</styleUrl>
+                <Point id="390">
+                    <coordinates>0.0,0.0,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="393">
+                <name>Hotel Taj Chandigarh </name>
+                <description>
+                category  : Sleep_Splurge &lt;br&gt;
+                address  : Block No. 9, Sector 17-A  &lt;br&gt;
+                url  : http://www.tajhotels.com/business/taj%20chandigarh,chandigarh/default.htm  &lt;br&gt;
+                description  : Still reasonably new, it is one of the best and easily one of the most expensive places to stay in Chandigarh, part of the Taj Hotels Resorts and Palaces group with properties in India and abroad (including Zambia, Maldives, and South Africa). Expansive lobby decorated with impressive original sculptural works contrasts starkly with the grubbiness of the neighbourhood outside (but this gives the place its ''raison d'être''). Rooftop swimming pool and all the other usual five-star amenities. Good security; exclusive shopping arcade. Expect to pay for every breath of air you take. &lt;br&gt;
+                </description>
+                <styleUrl>#105</styleUrl>
+                <Point id="392">
+                    <coordinates>76.785142,30.745482,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="395">
+                <name>Hyatt Regency Chandigarh </name>
+                <description>
+                category  : Sleep_Splurge &lt;br&gt;
+                address  : 178 Industrial and Business Park, Phase I  &lt;br&gt;
+                url  : https://chandigarh.regency.hyatt.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#105</styleUrl>
+                <Point id="394">
+                    <coordinates>76.800204,30.704539,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="397">
+                <name> Mount View</name>
+                <description>
+                category  : Sleep_Splurge &lt;br&gt;
+                address  :  Sector 10A &lt;br&gt;
+                url  :   &lt;br&gt;
+                description  : run by CITCO. &lt;br&gt;
+                </description>
+                <styleUrl>#105</styleUrl>
+                <Point id="396">
+                    <coordinates>76.78828,30.754066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="399">
+                <name>Regenta Central Ashok Chandigarh </name>
+                <description>
+                category  : Sleep_Splurge &lt;br&gt;
+                address  : on NH 21, Near Chandigarh Airport  &lt;br&gt;
+                url  : http://www.thechandigarhashok.com/  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#105</styleUrl>
+                <Point id="398">
+                    <coordinates>76.815555,30.665395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="401">
+                <name>--</name>
+                <description>
+                category  : Cope_Hospitals &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  :  &lt;br&gt;
+                </description>
+                <styleUrl>#37</styleUrl>
+                <Point id="400">
+                    <coordinates>76.7797143,30.7334421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="403">
+                <name>Amritsar</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Amritsar – The city with the holiest Sikh temple is 238 km away and also offers a glimpse into the Indian struggle for Independence. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="402">
+                    <coordinates>74.8787496,31.6356659,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="405">
+                <name>Delhi</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Delhi – 250 km by road with excellent connectivity through the NH-1 Highway. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="404">
+                    <coordinates>77.1716954,28.6273928,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="407">
+                <name>Dharamsala</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Dharamsala – Home of the Dalai Lama and the highest cricket ground in the world takes another overnight journey to reach. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="406">
+                    <coordinates>76.3196717,32.2143039,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="409">
+                <name>Kasauli</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Kasauli – Only 90 min drive from Chandigarh is a hill station not very far from the city. If one is lucky, in clear weather it offers a staggering view of Chandigarh from the Himalayan Foothills. Note that foreign visitors will need to present a valid passport to gain entrance since Kasauli is an Army cantonment. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="408">
+                    <coordinates>76.9619744,30.8999479,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="411">
+                <name>Morni</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Morni – '''Morni Hills''' at a height of around 1,100 m (3,500 ft) in the Shivalik hills. Just 45&amp;nbsp;km from Chandigarh, the town is a popular day trip &amp; weekend destination with the '''Tikkar lakes''' just nearby. There are 3 routes from Chandigarh to Morni. The shortest and most popular turne off from the Shimla highway just past the toll barrier at Chandimandir. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="410">
+                    <coordinates>77.0883286,30.6870093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="413">
+                <name>Shimla</name>
+                <description>
+                category  : Go next &lt;br&gt;
+                address  :  &lt;br&gt;
+                url  :  &lt;br&gt;
+                description  : Shimla – Just 110&amp;nbsp;km (70&amp;nbsp;mi) from Chandigarh by road is called the &quot;Queen of Hills&quot; and is the erstwhile summer capital of the British Raj. &lt;br&gt;
+                </description>
+                <styleUrl>#169</styleUrl>
+                <Point id="412">
+                    <coordinates>77.1709729,31.1041526,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="13">
+            <name>atlas_obscura</name>
+            <Placemark id="415">
+                <name>
+Nek Chand Saini's Rock Garden
+</name>
+                <description>nan &lt;br&gt; &lt;br&gt; https://www.atlasobscura.com/places/nek-chand-saini</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="414">
+                    <coordinates>76.806499,30.752869,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="14">
+            <name>S</name>
+            <Placemark id="295">
+                <name>Chandigarh Capitol Complex</name>
+                <description>                    category  : architectural ensemble &lt;br&gt;   
+                    sitelinks : 21.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_Capitol_Complex &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kapitol-Komplex_in_Chandigarh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q25931399</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="294">
+                    <coordinates>76.804722222222,30.759166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="297">
+                <name>Zirakpur</name>
+                <description>                    category  : satellite city &lt;br&gt;   
+                    sitelinks : 21.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Zirakpur &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Zirakpur &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2317411</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="296">
+                    <coordinates>76.82,30.65,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>Pinjore</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 21.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Pinjore &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2557889</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="298">
+                    <coordinates>76.918333333333,30.798611111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>Kharar</name>
+                <description>                    category  : human settlement &lt;br&gt;   
+                    sitelinks : 22.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kharar,_SAS_Nagar &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Kharar &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q2722011</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="300">
+                    <coordinates>76.646944444444,30.746388888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>Shaheed Bhagat Singh International Airport</name>
+                <description>                    category  : international airport &lt;br&gt;   
+                    sitelinks : 25.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_Airport &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Flughafen_Chandigarh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1835533</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="302">
+                    <coordinates>76.788611111111,30.673333333333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>Panchkula</name>
+                <description>                    category  : planned community &lt;br&gt;   
+                    sitelinks : 38.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Panchkula &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Panchkula &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q882172</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="304">
+                    <coordinates>76.850277777778,30.694444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>Mohali</name>
+                <description>                    category  : big city &lt;br&gt;   
+                    sitelinks : 42.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohali &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Sahibzada_Ajit_Singh_Nagar &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q1949069</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="306">
+                    <coordinates>76.718055555556,30.719444444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>Chandigarh</name>
+                <description>                    category  : planned community &lt;br&gt;   
+                    sitelinks : 114.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh &lt;br&gt;             
+                    articleDE : https://de.wikipedia.org/wiki/Chandigarh &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q43433</description>
+                <styleUrl>#icon-1739-E65100</styleUrl>
+                <Point id="308">
+                    <coordinates>76.791111111111,30.735277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="15">
+            <name>C</name>
+            <Placemark id="185">
+                <name>Punjab Lalit Kala Akademi</name>
+                <description>                    category  : art institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Punjab_Lalit_Kala_Akademi &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q96400469</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="184">
+                    <coordinates>76.78175,30.748277777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>Tau Devi Lal Stadium</name>
+                <description>                    category  : venue &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tau_Devi_Lal_Athletic_Stadium_(Panchkula) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q60776072</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="186">
+                    <coordinates>76.869722222222,30.685,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>Siwakh</name>
+                <description>                    category  : mountain system &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN :  &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q26817673</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="188">
+                    <coordinates>76.828055555556,30.853888888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>Garden of Springs, Chandigarh</name>
+                <description>                    category  : park &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Garden_of_Springs,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24484260</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="190">
+                    <coordinates>76.736,30.723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>Masol (paleontology)</name>
+                <description>                    category  : archaeological site &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Masol_(paleontology) &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q23893766</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="192">
+                    <coordinates>76.833333,30.833333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>politics of Chandigarh</name>
+                <description>                    category  : political system &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Politics_of_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21021966</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="194">
+                    <coordinates>76.78,30.75,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>Nayagaon</name>
+                <description>                    category  : human-geographic territorial entity &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nayagaon,_Punjab &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19894711</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="196">
+                    <coordinates>76.72,30.69,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>Institute of Nano Science and Technology</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Institute_of_Nano_Science_and_Technology &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18351683</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="198">
+                    <coordinates>76.736489,30.683529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>National Institute of Pharmaceutical Education and Research, Ahmedabad</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Institute_of_Pharmaceutical_Education_and_Research,_Ahmedabad &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16939054</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="200">
+                    <coordinates>76.7318,30.6835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>International Hockey Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohali_International_Hockey_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q16632762</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="202">
+                    <coordinates>76.7373,30.6909,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>St. John's High School, Chandigarh</name>
+                <description>                    category  : high school &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/St._John%27s_High_School,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7588742</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="204">
+                    <coordinates>76.8122,30.7332,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>Mata Mansa Devi Mandir</name>
+                <description>                    category  : Hindu temple &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mata_Mansa_Devi_Mandir &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6785886</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="206">
+                    <coordinates>76.82694444,30.76527778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>Chandigarh College of Architecture</name>
+                <description>                    category  : academic institution &lt;br&gt;   
+                    sitelinks : 2.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_College_of_Architecture &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5071058</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="208">
+                    <coordinates>76.78361111,30.76555556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>Parrot Bird Sanctuary Chandigarh</name>
+                <description>                    category  : animal sanctuary &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Parrot_Bird_Sanctuary,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21997171</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="210">
+                    <coordinates>76.77916667,30.725,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="213">
+                <name>Mohali Village</name>
+                <description>                    category  : human-geographic territorial entity &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mohali_Village &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19894071</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="212">
+                    <coordinates>76.7159,30.7289,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>Japanese Garden, Chandigarh</name>
+                <description>                    category  : Japanese garden &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Japanese_Garden,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q19892152</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="214">
+                    <coordinates>76.7820573,30.7045301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="217">
+                <name>Semi-Conductor Laboratory</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Semi-Conductor_Laboratory &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7449261</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="216">
+                    <coordinates>76.70912,30.7025914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>Government Medical College and Hospital, Chandigarh</name>
+                <description>                    category  : university hospital &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Government_Medical_College_and_Hospital,_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5513730</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="218">
+                    <coordinates>76.7782991,30.708827,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Chandimandir Cantonment</name>
+                <description>                    category  : cantonment in India &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandimandir_Cantonment &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5071085</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="220">
+                    <coordinates>76.877,30.724,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="223">
+                <name>Chandigarh Metro</name>
+                <description>                    category  : proposed entity &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_Metro &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5068656</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="222">
+                    <coordinates>76.801,30.709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="225">
+                <name>National Institute of Pharmaceutical Education and Research, S.A.S. Nagar</name>
+                <description>                    category  : university &lt;br&gt;   
+                    sitelinks : 3.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/National_Institute_of_Pharmaceutical_Education_and_Research,_S.A.S._Nagar &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3631392</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="224">
+                    <coordinates>76.736397222222,30.682319444444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>Sukhna Lake Wildlife Sanctuary</name>
+                <description>                    category  : protected area &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sukhna_Wildlife_Sanctuary &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q23995986</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="226">
+                    <coordinates>76.8512,30.7757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="229">
+                <name>Sector 42 Stadium</name>
+                <description>                    category  : stadium &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Chandigarh_Hockey_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7444712</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="228">
+                    <coordinates>76.745833,30.728889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="231">
+                <name>Nada Sahib</name>
+                <description>                    category  : gurdwara &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Nada_Sahib &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6957398</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="230">
+                    <coordinates>76.880833333333,30.694166666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>Institute of Microbial Technology</name>
+                <description>                    category  : research institute &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Institute_of_Microbial_Technology &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6040614</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="232">
+                    <coordinates>76.7342,30.7471,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="235">
+                <name>Tagore Theatre</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 4.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Tagore_Theatre &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q580726</description>
+                <styleUrl>#33</styleUrl>
+                <Point id="234">
+                    <coordinates>76.78944444,30.73305556,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="16">
+            <name>B</name>
+            <Placemark id="237">
+                <name>Mullanpur International Cricket Stadium</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Maharaja_Yadavindra_Singh_International_Cricket_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q24747936</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="236">
+                    <coordinates>76.72416667,30.77888889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>Indian Institute of Science Education and Research, Mohali</name>
+                <description>                    category  : higher education institution &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Indian_Institute_of_Science_Education_and_Research,_Mohali &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q6020706</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="238">
+                    <coordinates>76.7275,30.663611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>Fateh Burj</name>
+                <description>                    category  : museum &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Fateh_Burj &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5437386</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="240">
+                    <coordinates>76.667,30.7031,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="243">
+                <name>Chhatbir Zoo</name>
+                <description>                    category  : zoo &lt;br&gt;   
+                    sitelinks : 5.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Mahendra_Chaudhary_Zoological_Park &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q5087827</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="242">
+                    <coordinates>76.7928,30.6036,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="245">
+                <name>Chandigarh</name>
+                <description>                    category  : union territory of India &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Union_Territory_of_Chandigarh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q120971341</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="244">
+                    <coordinates>76.777777777778,30.727777777778,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="247">
+                <name>Burail Fort</name>
+                <description>                    category  : fortification &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Burail_Fort &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q21933307</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="246">
+                    <coordinates>76.76111111,30.7075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="249">
+                <name>Raj Bhavan</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raj_Bhavan,_Punjab &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7285274</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="248">
+                    <coordinates>76.81086,30.738783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Raj Bhavan</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Raj_Bhavan,_Haryana &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7285255</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="250">
+                    <coordinates>76.809882,30.742262,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="253">
+                <name>Post Graduate Institute of Medical Education and Research</name>
+                <description>                    category  : medical school &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Postgraduate_Institute_of_Medical_Education_and_Research &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7233637</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="252">
+                    <coordinates>76.77625,30.76234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
+                <name>Punjab Engineering College</name>
+                <description>                    category  : engineering college &lt;br&gt;   
+                    sitelinks : 6.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Punjab_Engineering_College &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7118905</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="254">
+                    <coordinates>76.78333333,30.76666667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>Sector 16 Stadium</name>
+                <description>                    category  : cricket field &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Sector_16_Stadium &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7444709</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="256">
+                    <coordinates>76.77475556,30.741625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="259">
+                <name>Powadh</name>
+                <description>                    category  : geographic region &lt;br&gt;   
+                    sitelinks : 7.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Puadh &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q889904</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="258">
+                    <coordinates>76.8,30.6,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>Kaushalya Dam</name>
+                <description>                    category  : dam &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Kaushalya_Dam &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q18126675</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="260">
+                    <coordinates>76.9146,30.7753,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>Palace of Assembly</name>
+                <description>                    category  : building &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Palace_of_Assembly &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q7126217</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="262">
+                    <coordinates>76.803055555556,30.761111111111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name>Yadavindra Gardens</name>
+                <description>                    category  : garden &lt;br&gt;   
+                    sitelinks : 9.0 &lt;br&gt;   
+                    articleEN : https://en.wikipedia.org/wiki/Yadavindra_Gardens &lt;br&gt;             
+                    articleDE :  &lt;br&gt;              
+                    wikidata_link : http://www.wikidata.org/entity/Q3763822</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="264">
+                    <coordinates>76.91222222,30.7925,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Placemark id="183">
+            <styleUrl>#181</styleUrl>
+            <Point id="182">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
