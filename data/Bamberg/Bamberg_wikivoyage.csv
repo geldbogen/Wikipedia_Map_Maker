@@ -1,0 +1,89 @@
+,itemLabel,lat,lon,address,url,thingLabel,description,fetched_coordinates,tier,color
+0,--,49.8916044,10.8868478,,,Understand,,"(49.8916044, 10.8868478)",wikivoyage,red
+0,--,49.8916044,10.8868478,,,Understand_Local information,,"(49.8916044, 10.8868478)",wikivoyage,red
+0,Bamberg Main Station ,49.9008,10.8994, ,http://www.stationsdatenbank.bayern-takt.de/StationsdatenbankBEG/Steckbrief.html?lang,Get in,"Deutsche Bahn (or DB) serves Bamberg with a dependable train service. Frequent trains run from/to [[Nuremberg]] (twice an hour by regional express; 40 min), [[Wurzburg]] (twice an hour; 55–70 min), and [[Bayreuth]] (once every two hours; 70 min). ICE high-speed trains from [[Munich]] (1 hr 45 min), [[Berlin]] (2 hr 45 min) call here at least every second hour, also linking Bamberg with Erfurt (45 min) and Leipzig (1 hr 30 min). Several times a day, there is even a direct train from [[Hamburg]] (4 hr 40 min). From Frankfurt, there is a relatively slow regional express connection every other hour (taking 3 hr) or you may take the ICE and change trains in Würzburg (2 hr 10 min–2 hr 30 min). See [http://www.bahn.de Deutsche Bahn's website] for more information.","(49.9008, 10.8994)",wikivoyage,red
+0,Harbor ,49.908,10.869793, , ,Get in,,"(49.908, 10.869793)",wikivoyage,red
+0,Bamberg Main Station ,49.9008,10.8994, ,http://www.stationsdatenbank.bayern-takt.de/StationsdatenbankBEG/Steckbrief.html?lang,Get in_By train,"Deutsche Bahn (or DB) serves Bamberg with a dependable train service. Frequent trains run from/to [[Nuremberg]] (twice an hour by regional express; 40 min), [[Wurzburg]] (twice an hour; 55–70 min), and [[Bayreuth]] (once every two hours; 70 min). ICE high-speed trains from [[Munich]] (1 hr 45 min), [[Berlin]] (2 hr 45 min) call here at least every second hour, also linking Bamberg with Erfurt (45 min) and Leipzig (1 hr 30 min). Several times a day, there is even a direct train from [[Hamburg]] (4 hr 40 min). From Frankfurt, there is a relatively slow regional express connection every other hour (taking 3 hr) or you may take the ICE and change trains in Würzburg (2 hr 10 min–2 hr 30 min). See [http://www.bahn.de Deutsche Bahn's website] for more information.","(49.9008, 10.8994)",wikivoyage,red
+0,Harbor ,49.908,10.869793, , ,Get in_By boat,,"(49.908, 10.869793)",wikivoyage,red
+0,Bamberger Dom ,49.890703,10.882533,Bamberger Dom ,http://www.bamberger-dom.de/ ,See,contains the intruiging Bamberg Rider sculpture. No one knows for sure who the young royal rider is.,"(49.890703, 10.882533)",wikivoyage,red
+1,Kloster Michelsberg ,49.893611,10.877222, , ,See,,"(49.893611, 10.877222)",wikivoyage,red
+2,Altes Rathaus ,49.89157,10.886897, ,http://en.bamberg.info/poi/old_town_hall-4656/ ,See,It is perched in the middle of a bridge above the Regnitz River and is a must-see.,"(49.89157, 10.886897)",wikivoyage,red
+3,Alte Hofhaltung ,49.8911,10.8814, , ,See,,"(49.8911, 10.8814)",wikivoyage,red
+4,Neue Residenz ,49.8917,10.8825, , ,See,,"(49.8917, 10.8825)",wikivoyage,red
+5,Bamberg State Library ,49.891856,10.882333,"Neue Residenz, Domplatz 8 ",https://www.staatsbibliothek-bamberg.de/ ,See,Temporary exhibition of rare books and manuscripts.,"(49.891856, 10.882333)",wikivoyage,red
+0,Sandkerwa ,0.0,0.0, ,http://www.sandkerwa.de/ ,Do,"Is held over the last weekend in August, Sandkerwa is a six day folk festival that consumes the entire town, with some 300,000 people attending. It is a festival with offerings of beer and food that rivals or even exceeds the likes of Oktoberfest and includes local traditions such as ""fish jousting"".","(0, 0)",wikivoyage,red
+1,Christmas ,0.0,0.0, , ,Do,"Occurs during the holiday season with its main Christmas market centered around the Old Town, filled with traditional stalls and a large Nativity scene.","(0, 0)",wikivoyage,red
+0,Weinstube Nüßlein ,49.8909502,10.8853849,Lugbank 1 , ,Eat,,"(49.8909502, 10.8853849)",wikivoyage,red
+1,Brauerei Spezial ,49.8969572,10.8927676,Ob. Königstraße 10 , ,Eat,,"(49.8969572, 10.8927676)",wikivoyage,red
+2,"Schlenkerla, die historische Rauchbierbrauerei ",49.8916695,10.8848779,Dominikanerstraße 6 , ,Eat,,"(49.8916695, 10.8848779)",wikivoyage,red
+3,Tambosi ,49.8937365,10.8915419,Promenadestraße 11 , ,Eat,,"(49.8937365, 10.8915419)",wikivoyage,red
+4,Fässla Stub'n ,49.8957432,10.8901458,Kleberstraße 9 , ,Eat,,"(49.8957432, 10.8901458)",wikivoyage,red
+5,Ornina Imbiss ,49.8935702,10.887773,Jesuitenstraße 1 , ,Eat,,"(49.8935702, 10.887773)",wikivoyage,red
+6,China-Fan Imbiss ,49.8927968,10.886966,Fischstraße 9 , ,Eat,,"(49.8927968, 10.886966)",wikivoyage,red
+0,Ambräusianum ,49.89173,10.88468,Dominikanerstraße 10 ,http://www.ambraeusianum.de/ ,Eat,Inn brewery,"(49.89173, 10.88468)",wikivoyage,red
+1,Restaurant Altenburg ,49.88055,10.86864,Altenburg 1 ,https://www.altenburg1.de/ ,Eat,,"(49.88055, 10.86864)",wikivoyage,red
+2,Restaurant Kleehof in der Gärtnerstadt ,49.8972436,10.8912502,u. Königstraße 6 , ,Eat,,"(49.8972436, 10.8912502)",wikivoyage,red
+3,Die Küche ,49.8925747,10.8829357,Ob. Sandstraße 27 , ,Eat,,"(49.8925747, 10.8829357)",wikivoyage,red
+0,HENRII - casual dining ,49.8906303,10.8875481,Untere Mühlbrücke 5 , ,Eat,,"(49.8906303, 10.8875481)",wikivoyage,red
+1,Kropf - Bamberger Köstlichkeiten ,49.8975676,10.8899956,u. Königstraße 28 , ,Eat,,"(49.8975676, 10.8899956)",wikivoyage,red
+0,Weinstube Nüßlein ,49.8909502,10.8853849,Lugbank 1 , ,Eat_Budget,,"(49.8909502, 10.8853849)",wikivoyage,red
+1,Brauerei Spezial ,49.8969572,10.8927676,Ob. Königstraße 10 , ,Eat_Budget,,"(49.8969572, 10.8927676)",wikivoyage,red
+2,"Schlenkerla, die historische Rauchbierbrauerei ",49.8916695,10.8848779,Dominikanerstraße 6 , ,Eat_Budget,,"(49.8916695, 10.8848779)",wikivoyage,red
+3,Tambosi ,49.8937365,10.8915419,Promenadestraße 11 , ,Eat_Budget,,"(49.8937365, 10.8915419)",wikivoyage,red
+4,Fässla Stub'n ,49.8957432,10.8901458,Kleberstraße 9 , ,Eat_Budget,,"(49.8957432, 10.8901458)",wikivoyage,red
+5,Ornina Imbiss ,49.8935702,10.887773,Jesuitenstraße 1 , ,Eat_Budget,,"(49.8935702, 10.887773)",wikivoyage,red
+6,China-Fan Imbiss ,49.8927968,10.886966,Fischstraße 9 , ,Eat_Budget,,"(49.8927968, 10.886966)",wikivoyage,red
+0,Ambräusianum ,49.89173,10.88468,Dominikanerstraße 10 ,http://www.ambraeusianum.de/ ,Eat_Mid-range,Inn brewery,"(49.89173, 10.88468)",wikivoyage,red
+1,Restaurant Altenburg ,49.88055,10.86864,Altenburg 1 ,https://www.altenburg1.de/ ,Eat_Mid-range,,"(49.88055, 10.86864)",wikivoyage,red
+2,Restaurant Kleehof in der Gärtnerstadt ,49.8972436,10.8912502,u. Königstraße 6 , ,Eat_Mid-range,,"(49.8972436, 10.8912502)",wikivoyage,red
+3,Die Küche ,49.8925747,10.8829357,Ob. Sandstraße 27 , ,Eat_Mid-range,,"(49.8925747, 10.8829357)",wikivoyage,red
+0,HENRII - casual dining ,49.8906303,10.8875481,Untere Mühlbrücke 5 , ,Eat_Splurge,,"(49.8906303, 10.8875481)",wikivoyage,red
+1,Kropf - Bamberger Köstlichkeiten ,49.8975676,10.8899956,u. Königstraße 28 , ,Eat_Splurge,,"(49.8975676, 10.8899956)",wikivoyage,red
+0,Backstübla ,49.89273,10.882722,Obere Sandstr. 31 , ,Drink,"Run by two sisters, this charming place is in an old village house with a magificient courtyard, and in two rooms decorated by the sisters. The casual atmosphere is one thing, but the homebaked cakes are delicious.","(49.89273, 10.882722)",wikivoyage,red
+0,Spezialkeller ,49.8847,10.8875,Sternwartstraße 1 ,http://www.spezial-keller.de/ ,Drink,The open air location to drink Spezial beers with typical local food having a panoramic view over the city.,"(49.8847, 10.8875)",wikivoyage,red
+0,Backstübla ,49.89273,10.882722,Obere Sandstr. 31 , ,Drink_Cafés,"Run by two sisters, this charming place is in an old village house with a magificient courtyard, and in two rooms decorated by the sisters. The casual atmosphere is one thing, but the homebaked cakes are delicious.","(49.89273, 10.882722)",wikivoyage,red
+0,Spezialkeller ,49.8847,10.8875,Sternwartstraße 1 ,http://www.spezial-keller.de/ ,Drink_Bars,The open air location to drink Spezial beers with typical local food having a panoramic view over the city.,"(49.8847, 10.8875)",wikivoyage,red
+0,Backpackers Bamberg ,49.899601,10.895644,Heiliggrabstraße 4 , ,Sleep,,"(49.899601, 10.895644)",wikivoyage,red
+1,"DJH Jugendherberge Bamberg ""Am Kaulberg"" ",49.889,10.8829,Unterer Kaulberg 30 ,https://www.jugendherberge.de/en/youth-hostels/bamberg-am-kaulberg-734/portrait/ ,Sleep,,"(49.889, 10.8829)",wikivoyage,red
+2,Brauerein Fässla ,49.8971,10.8928,Obere Konigsstraße 19-21 ,http://www.faessla.de/ ,Sleep,26 rooms with an on-site brewery.,"(49.8971, 10.8928)",wikivoyage,red
+0,Hotel Alt Ringlein ,49.8916,10.8847,Dominikanerstraße 9 ,http://www.alt-ringlein.com/ ,Sleep,,"(49.8916, 10.8847)",wikivoyage,red
+1,Hotel Central ,49.8927,10.8917,Promenadestraße 3 ,http://central-bamberg.com/ ,Sleep,,"(49.8927, 10.8917)",wikivoyage,red
+2,Hotel garni Berliner Ring ,49.90091,10.92063,Pödeldorfer Straße 146 ,https://www.hotelberlinerring.de/#height_271 ,Sleep,Three-star hotel.,"(49.90091, 10.92063)",wikivoyage,red
+3,Hotel Ibis Bamberg am Schillerplatz ,49.89103,10.89059,Theatergassen 10 ,https://all.accor.com/hotel/1439/index.en.shtml ,Sleep,,"(49.89103, 10.89059)",wikivoyage,red
+4,Hotel National ,49.89886,10.89579,Luitpoldstraße 37 ,https://www.hotel-national-bamberg.de/en ,Sleep,Three-star hotel.,"(49.89886, 10.89579)",wikivoyage,red
+0,Sandschlössla,49.8927079,10.8827991,Obere Sandstraße 31,http://www.sandschloessla.de/,Sleep,two apartments in a traditional city house,"(49.8927079, 10.8827991)",wikivoyage,red
+0,Hotel Europa ,49.8973,10.8911,Untere Königstraße 8 ,http://www.hotel-europa-bamberg.de/ ,Sleep,,"(49.8973, 10.8911)",wikivoyage,red
+1,Villa Geyerswörth Hotel ,49.88972,10.88945,Geyerswörthstraße 15 ,https://villageyerswoerth.de/ ,Sleep,Five-star hotel.,"(49.88972, 10.88945)",wikivoyage,red
+2,Hotel-Restaurant St. Nepomuk ,49.88893,10.88681,Obere Mühlbrücke 9 ,https://www.hotel-nepomuk.de/en/ ,Sleep,,"(49.88893, 10.88681)",wikivoyage,red
+3,Palais Schrottenberg ,49.89201,10.88458,Kasernstraße 1 ,https://palais-schrottenberg.de/index.php/en/ ,Sleep,,"(49.89201, 10.88458)",wikivoyage,red
+4,Romantik Hotel Weinhaus Messerschmitt ,49.8921,10.89189,Lange Straße 41 ,https://hotel-messerschmitt.de/ ,Sleep,,"(49.8921, 10.89189)",wikivoyage,red
+5,Bamberger Hof Bellevue ,49.89133,10.89203,Schönleinsplatz 4 ,https://bambergerhof.de/en/ ,Sleep,Four-star hotel.,"(49.89133, 10.89203)",wikivoyage,red
+6,Best Western Hotel Bamberg ,49.89622,10.89388,Luitpoldstraße 7 , ,Sleep,Three-star hotel.,"(49.89622, 10.89388)",wikivoyage,red
+7,Tandem Hotel ,49.8939,10.88163,Untere Sandstraße 20 ,https://tandem-hotel.de/ ,Sleep,,"(49.8939, 10.88163)",wikivoyage,red
+8,Welcome Hotel Residenzschloss Bamberg ,49.89527,10.87916,Untere Sandstraße 32 ,https://www.welcome-hotels.com/hotels/residenzschloss-bamberg/ ,Sleep,Four-star hotel.,"(49.89527, 10.87916)",wikivoyage,red
+9,Welcome Kongresshotel Bamberg ,49.89745,10.87741,Mußstraße 7 ,https://www.welcome-hotels.com/hotels/bamberg-kongresshotel/ ,Sleep,Four-star hotel.,"(49.89745, 10.87741)",wikivoyage,red
+0,Backpackers Bamberg ,49.899601,10.895644,Heiliggrabstraße 4 , ,Sleep_Budget,,"(49.899601, 10.895644)",wikivoyage,red
+1,"DJH Jugendherberge Bamberg ""Am Kaulberg"" ",49.889,10.8829,Unterer Kaulberg 30 ,https://www.jugendherberge.de/en/youth-hostels/bamberg-am-kaulberg-734/portrait/ ,Sleep_Budget,,"(49.889, 10.8829)",wikivoyage,red
+2,Brauerein Fässla ,49.8971,10.8928,Obere Konigsstraße 19-21 ,http://www.faessla.de/ ,Sleep_Budget,26 rooms with an on-site brewery.,"(49.8971, 10.8928)",wikivoyage,red
+0,Hotel Alt Ringlein ,49.8916,10.8847,Dominikanerstraße 9 ,http://www.alt-ringlein.com/ ,Sleep_Mid-range,,"(49.8916, 10.8847)",wikivoyage,red
+1,Hotel Central ,49.8927,10.8917,Promenadestraße 3 ,http://central-bamberg.com/ ,Sleep_Mid-range,,"(49.8927, 10.8917)",wikivoyage,red
+2,Hotel garni Berliner Ring ,49.90091,10.92063,Pödeldorfer Straße 146 ,https://www.hotelberlinerring.de/#height_271 ,Sleep_Mid-range,Three-star hotel.,"(49.90091, 10.92063)",wikivoyage,red
+3,Hotel Ibis Bamberg am Schillerplatz ,49.89103,10.89059,Theatergassen 10 ,https://all.accor.com/hotel/1439/index.en.shtml ,Sleep_Mid-range,,"(49.89103, 10.89059)",wikivoyage,red
+4,Hotel National ,49.89886,10.89579,Luitpoldstraße 37 ,https://www.hotel-national-bamberg.de/en ,Sleep_Mid-range,Three-star hotel.,"(49.89886, 10.89579)",wikivoyage,red
+0,Sandschlössla,49.8927079,10.8827991,Obere Sandstraße 31,http://www.sandschloessla.de/,Sleep_Mid-range,two apartments in a traditional city house,"(49.8927079, 10.8827991)",wikivoyage,red
+0,Sandschlössla,49.8927079,10.8827991,Obere Sandstraße 31,http://www.sandschloessla.de/,Sleep_Mid-range_Apartments,two apartments in a traditional city house,"(49.8927079, 10.8827991)",wikivoyage,red
+0,Hotel Europa ,49.8973,10.8911,Untere Königstraße 8 ,http://www.hotel-europa-bamberg.de/ ,Sleep_Splurge,,"(49.8973, 10.8911)",wikivoyage,red
+1,Villa Geyerswörth Hotel ,49.88972,10.88945,Geyerswörthstraße 15 ,https://villageyerswoerth.de/ ,Sleep_Splurge,Five-star hotel.,"(49.88972, 10.88945)",wikivoyage,red
+2,Hotel-Restaurant St. Nepomuk ,49.88893,10.88681,Obere Mühlbrücke 9 ,https://www.hotel-nepomuk.de/en/ ,Sleep_Splurge,,"(49.88893, 10.88681)",wikivoyage,red
+3,Palais Schrottenberg ,49.89201,10.88458,Kasernstraße 1 ,https://palais-schrottenberg.de/index.php/en/ ,Sleep_Splurge,,"(49.89201, 10.88458)",wikivoyage,red
+4,Romantik Hotel Weinhaus Messerschmitt ,49.8921,10.89189,Lange Straße 41 ,https://hotel-messerschmitt.de/ ,Sleep_Splurge,,"(49.8921, 10.89189)",wikivoyage,red
+5,Bamberger Hof Bellevue ,49.89133,10.89203,Schönleinsplatz 4 ,https://bambergerhof.de/en/ ,Sleep_Splurge,Four-star hotel.,"(49.89133, 10.89203)",wikivoyage,red
+6,Best Western Hotel Bamberg ,49.89622,10.89388,Luitpoldstraße 7 , ,Sleep_Splurge,Three-star hotel.,"(49.89622, 10.89388)",wikivoyage,red
+7,Tandem Hotel ,49.8939,10.88163,Untere Sandstraße 20 ,https://tandem-hotel.de/ ,Sleep_Splurge,,"(49.8939, 10.88163)",wikivoyage,red
+8,Welcome Hotel Residenzschloss Bamberg ,49.89527,10.87916,Untere Sandstraße 32 ,https://www.welcome-hotels.com/hotels/residenzschloss-bamberg/ ,Sleep_Splurge,Four-star hotel.,"(49.89527, 10.87916)",wikivoyage,red
+9,Welcome Kongresshotel Bamberg ,49.89745,10.87741,Mußstraße 7 ,https://www.welcome-hotels.com/hotels/bamberg-kongresshotel/ ,Sleep_Splurge,Four-star hotel.,"(49.89745, 10.87741)",wikivoyage,red
+0,,0.0,0.0,,,Go next,Coburg,"(0, 0)",wikivoyage,red
+1,,0.0,0.0,,,Go next,Erlangen - university town and site of Franconia's biggest beer festival,"(0, 0)",wikivoyage,red
+2,,0.0,0.0,,,Go next,Nuremberg - biggest city in Franconia with a lovely castle,"(0, 0)",wikivoyage,red
+3,,0.0,0.0,,,Go next,Würzburg,"(0, 0)",wikivoyage,red
+4,,0.0,0.0,,,Go next,Forchheim - former imperial residence with charming old town,"(0, 0)",wikivoyage,red
