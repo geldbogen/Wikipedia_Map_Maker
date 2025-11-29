@@ -200,12 +200,14 @@ class WikivoyageFetcher():
                                 headers=self.headers)
         parsed = wtp.parse(response.json()['parse']['wikitext']['*'])
         for link in parsed.wikilinks:
+            if link.target in  ['Manhattan', 'Asia']:
+                continue
             district_name = link.target
             new_fetcher = WikivoyageFetcher(district_name, to_fetch_place_name_coordinates=self.to_fetch_place_name_coordinates, to_fetch_place_name_distance=self.to_fetch_place_name_distance, debug_mode=self.debug_mode)
             self.return_frame = pd.concat([self.return_frame,new_fetcher.fetch()])
 
         
 if __name__ == '__main__':
-    my_voyage_fetcher = WikivoyageFetcher('Lucknow')
+    my_voyage_fetcher = WikivoyageFetcher('Chandigarh')
     df = my_voyage_fetcher.fetch()
     df.to_csv('test_wikivoyage_fetcher.csv')

@@ -1,0 +1,11 @@
+location,distance,item,lat,lon,sitelinks,itemLabel,placeLabel
+Point(10.882533 49.890703),0.325,http://www.wikidata.org/entity/Q58573,49.890703,10.882533,73,Clement II,Bamberg Cathedral
+Point(10.882533 49.890703),0.325,http://www.wikidata.org/entity/Q103556,49.890703,10.882533,63,"Henry II, Holy Roman Emperor",Bamberg Cathedral
+Point(10.882533 49.890703),0.325,http://www.wikidata.org/entity/Q157133,49.890703,10.882533,54,Conrad III of Germany,Bamberg Cathedral
+Point(10.886006 49.905811),1.581,http://www.wikidata.org/entity/Q77096,49.905811,10.886006,39,Willy Messerschmitt,Hauptfriedhof Bamberg
+Point(10.886006 49.905811),1.581,http://www.wikidata.org/entity/Q77529,49.905811,10.886006,38,Ida Noddack,Hauptfriedhof Bamberg
+Point(10.882533 49.890703),0.325,http://www.wikidata.org/entity/Q61620,49.890703,10.882533,36,Cunigunde of Luxembourg,Bamberg Cathedral
+Point(10.877222222 49.893611111),0.725,http://www.wikidata.org/entity/Q77259,49.893611111111,10.877222222222,28,Otto of Bamberg,Michaelsberg Abbey
+Point(10.886006 49.905811),1.581,http://www.wikidata.org/entity/Q62092,49.905811,10.886006,25,Theodor Boveri,Hauptfriedhof Bamberg
+Point(10.886006 49.905811),1.581,http://www.wikidata.org/entity/Q61678,49.905811,10.886006,23,Johann Lukas Schönlein,Hauptfriedhof Bamberg
+Point(10.886006 49.905811),1.581,http://www.wikidata.org/entity/Q62714,49.905811,10.886006,21,Walter Noddack,Hauptfriedhof Bamberg
