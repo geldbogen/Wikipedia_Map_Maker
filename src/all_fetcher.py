@@ -55,8 +55,8 @@ class AllFetcher():
         places_df = places_df[places_df.apply(lambda x: not check_if_unimportant_things_like_colleges_or_hotels(x),axis=1)]
 
         # drop duplicates
-        places_df.drop_duplicates(inplace=True,subset=['item'])
-        graves_df.drop_duplicates(inplace=True,subset=['item'])
+        places_df.drop_duplicates(inplace=True, subset=['itemLabel'])
+        graves_df.drop_duplicates(inplace=True, subset=['item'])
 
 
         # get tiers and colors for convenience

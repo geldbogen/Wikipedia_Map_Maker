@@ -56,6 +56,11 @@ class WikivoyageFetcher():
 
         self.return_frame['tier'] = self.return_frame.apply(lambda x : 'wikivoyage_' + x['description'], axis = 1)
 
+        
+        self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Sleep')]
+        self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Eat')]
+        self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Drink')]
+
         return self.return_frame
 
     def get_contents_of_wikivoyage_article(self) -> dict[str,str]:
