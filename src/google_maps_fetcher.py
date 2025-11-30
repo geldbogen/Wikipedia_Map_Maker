@@ -118,7 +118,7 @@ if __name__ == "__main__":
     test_latitude = 49.460983
     test_longitude = 11.061859
     test_distance = 2  # km
-    
+    print(GOOGLE_MAPS_API_KEY)
     # Test with restaurants
     print("Fetching restaurants...")
     restaurant_fetcher = GoogleMapsFetcher(
