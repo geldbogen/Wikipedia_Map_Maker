@@ -23,53 +23,75 @@ class GoogleMapsFetcher:
     def fetch(self) -> pd.DataFrame:
         """
         Search for nearby places using Google Maps Places API (New).
+        Fetches all available results using pagination.
         
-        Args:
-        latitude: Center point latitude
-        longitude: Center point longitude
-        radius: Search radius in meters (default: 2000.0)
-        included_types: List of place types to include (default: ["restaurant"])
-    
-    Returns:
-        pandas DataFrame with place information
-        with the following columns:
-            - name
-            - rating
-            - user_rating_count
-            - latitude
-            - longitude
-            - price_level
-    """
+        Returns:
+            pandas DataFrame with place information
+        """
         
         url = 'https://places.googleapis.com/v1/places:searchNearby'
         
         headers = {
             'Content-Type': 'application/json',
-            'X-Goog-Api-Key': GOOGLE_MAPS_API_KEY,
-            'X-Goog-FieldMask': 'places.displayName,places.rating,places.location,places.userRatingCount,places.priceLevel'
+            'X-Goog-Api-Key': self.api_key,
+            'X-Goog-FieldMask': 'places.displayName,places.rating,places.location,places.userRatingCount,places.priceLevel'  # Removed nextPageToken
         }
         
         payload = {
             "includedTypes": self.included_types,
-            "maxResultCount": 200000,
+            "maxResultCount": 20,  # Maximum per request
             "locationRestriction": {
                 "circle": {
                     "center": {
                         "latitude": self.latitude,
                         "longitude": self.longitude
                     },
-                    "radius": self.distance * 1000  # Convert km to meters
+                    "radius": self.distance * 1000.0  # Convert km to meters
                 }
             }
         }
         
-        response = requests.post(url, json=payload, headers=headers)
-        response.raise_for_status()
+        all_dataframes = []
+        next_page_token = None
         
-        df = self.create_dataframe_from_response(response.json())
+        while True:
+            # Add pageToken to payload if we have one
+            if next_page_token:
+                payload["pageToken"] = next_page_token
+            
+            try:
+                response = requests.post(url, json=payload, headers=headers)
+                response.raise_for_status()
+            except requests.exceptions.HTTPError as e:
+                print(f"HTTP Error: {e}")
+                print(f"Response: {response.text}")
+                raise
+            
+            response_json = response.json()
+            
+            # Convert current page to dataframe
+            df = self.create_dataframe_from_response(response_json)
+            if not df.empty:
+                all_dataframes.append(df)
+            
+            # Check for next page - nextPageToken is automatically included in response
+            next_page_token = response_json.get('nextPageToken')
+            if not next_page_token:
+                break  # No more pages
+            
+            # Add a small delay between requests
+            import time
+            time.sleep(0.5)
         
-        df = df[(df['rating'] >= 4.8) & (df['user_rating_count'] >= 500)]
-        return df
+        # Combine all pages
+        if all_dataframes:
+            df_combined = pd.concat(all_dataframes, ignore_index=True)
+        else:
+            df_combined = pd.DataFrame()
+        
+        # Apply filters
+        df_filtered = df_combined[(df_combined['rating'] >= 4.8) & (df_combined['user_rating_count'] >= 500)]
+        return df_filtered
 
 
     def create_dataframe_from_response(self, response_json):
@@ -108,7 +130,7 @@ class GoogleMapsFetcher:
             })
         
         df = pd.DataFrame(data)
-
+        print(df)
         return df
 
 
@@ -117,7 +139,7 @@ if __name__ == "__main__":
     # Example coordinates (Nuremberg, Germany)
     test_latitude = 49.460983
     test_longitude = 11.061859
-    test_distance = 2  # km
+    test_distance = 20  # km
     # Test with restaurants
     print("Fetching restaurants...")
     restaurant_fetcher = GoogleMapsFetcher(

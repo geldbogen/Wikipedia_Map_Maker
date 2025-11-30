@@ -1,0 +1,203 @@
+,location,distance,item,lat,lon,sitelinks,itemLabel,placeLabel,tier,color
+0,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q8413,41.019722222222,28.949722222222,153,Constantine the Great,Church of the Holy Apostles,graves,black
+1,Point(28.964469 41.01569),1.409,http://www.wikidata.org/entity/Q8474,41.01569,28.964469,151,Suleiman the Magnificent,Tomb of Suleiman the Magnificent,graves,black
+2,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q5600,41.0125,28.98,133,Mimar Sinan,Constantinople,graves,black
+3,Point(28.9502674 41.0192788),2.583,http://www.wikidata.org/entity/Q34503,41.0192788,28.9502674,120,Mehmed II,Tomb of Mehmed the Conqueror,graves,black
+4,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q41866,41.01,28.960277777778,116,Justinian I,Istanbul,graves,black
+7,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q43399,41.019722222222,28.949722222222,101,Andrew the Apostle,Church of the Holy Apostles,graves,black
+8,Point(28.9725 41.0085),0.368,http://www.wikidata.org/entity/Q134817,41.0085,28.9725,101,Abdul Hamid II,Mausoleum of Mahmud II,graves,black
+9,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q46696,41.0125,28.98,93,Theodosius I,Constantinople,graves,black
+11,Point(28.9513 41.0266),3.05,http://www.wikidata.org/entity/Q494660,41.0266,28.9513,91,Selim I,Yavuz Selim Mosque,graves,black
+12,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q44011,41.0125,28.98,86,Gregory of Nazianzus,Constantinople,graves,black
+13,Point(28.964833 41.015643),1.385,http://www.wikidata.org/entity/Q255809,41.015643,28.964833,85,Hürrem Sultan,Hurrem Sultan Tomb,graves,black
+14,Point(28.925211 41.026698),4.813,http://www.wikidata.org/entity/Q180280,41.026698,28.925211,81,Turgut Özal,Mausoleum of Turgut Özal,graves,black
+15,Point(28.9725 41.0085),0.368,http://www.wikidata.org/entity/Q174791,41.0085,28.9725,80,Mahmud II,Mausoleum of Mahmud II,graves,black
+16,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q165983,41.01,28.960277777778,78,Bayezid II,Istanbul,graves,black
+17,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q161872,41.008333333333,28.98,78,Selim II,Hagia Sophia,graves,black
+18,Point(28.9559644 41.0097344),1.711,http://www.wikidata.org/entity/Q199633,41.0097344,28.9559644,76,Selim III,III. Tomb of Mustafa,graves,black
+19,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q172056,41.01,28.960277777778,76,Osman II,Istanbul,graves,black
+20,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q174762,41.01,28.960277777778,75,Murad IV,Istanbul,graves,black
+21,Point(28.9725 41.0085),0.368,http://www.wikidata.org/entity/Q151500,41.0085,28.9725,75,Abdülaziz,Mausoleum of Mahmud II,graves,black
+22,Point(28.974138 41.015522),1.027,http://www.wikidata.org/entity/Q170707,41.015522,28.974138,74,Abdul Hamid I,Tomb of Abdulhamid I,graves,black
+23,Point(28.9513 41.0266),3.05,http://www.wikidata.org/entity/Q174772,41.0266,28.9513,74,Abdülmecid I,Yavuz Selim Mosque,graves,black
+24,Point(28.9358 41.0479),5.711,http://www.wikidata.org/entity/Q151494,41.0479,28.9358,74,Mehmed V,Tomb of Mehmed V,graves,black
+25,Point(29.00666667 41.04166667),4.697,http://www.wikidata.org/entity/Q200582,41.04166667,29.00666667,74,Hayreddin Barbarossa,Tomb of Hayreddin Barbarossa,graves,black
+26,Point(28.979887 41.00779),0.372,http://www.wikidata.org/entity/Q171465,41.00779,28.979887,74,Mehmed III,Tomb of Mehmed III,graves,black
+27,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q170514,41.01,28.960277777778,73,Mehmed IV,Istanbul,graves,black
+28,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q199482,41.01,28.960277777778,73,Ahmed III,Istanbul,graves,black
+29,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q46720,41.019722222222,28.949722222222,73,Valentinian I,Church of the Holy Apostles,graves,black
+30,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q174798,41.008333333333,28.98,73,Mustafa I,Hagia Sophia,graves,black
+31,Point(28.9559644 41.0097344),1.711,http://www.wikidata.org/entity/Q199484,41.0097344,28.9559644,70,Mustafa III,III. Tomb of Mustafa,graves,black
+32,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q199481,41.01,28.960277777778,69,Mahmud I,Istanbul,graves,black
+33,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q199659,41.01,28.960277777778,69,Mustafa II,Istanbul,graves,black
+34,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q199660,41.01,28.960277777778,68,Ahmed II,Istanbul,graves,black
+35,Point(28.972141 41.016875),1.208,http://www.wikidata.org/entity/Q199827,41.016875,28.972141,67,Murad V,New Mosque,graves,black
+36,Point(28.974138 41.015522),1.027,http://www.wikidata.org/entity/Q199830,41.015522,28.974138,66,Mustafa IV,Tomb of Abdulhamid I,graves,black
+37,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q199825,41.01,28.960277777778,66,Osman III,Istanbul,graves,black
+38,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41608,41.019722222222,28.949722222222,66,Konstantinos VII,Church of the Holy Apostles,graves,black
+40,Point(28.982083333 41.068138888),6.887,http://www.wikidata.org/entity/Q153899,41.068138888889,28.982083333333,66,Enver Pasha,"Monument of Liberty, Istanbul",graves,black
+41,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q34074,41.019722222222,28.949722222222,64,Jovian,Church of the Holy Apostles,graves,black
+42,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q183452,41.019722222222,28.949722222222,64,Zeno,Church of the Holy Apostles,graves,black
+43,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q178004,41.019722222222,28.949722222222,63,Marcian,Church of the Holy Apostles,graves,black
+44,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q206737,41.019722222222,28.949722222222,63,Irene of Athens,Church of the Holy Apostles,graves,black
+45,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q204843,41.019722222222,28.949722222222,62,Theodora,Church of the Holy Apostles,graves,black
+46,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41618,41.019722222222,28.949722222222,61,Leo VI the Wise,Church of the Holy Apostles,graves,black
+47,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q173470,41.019722222222,28.949722222222,61,Anastasius I,Church of the Holy Apostles,graves,black
+48,Point(28.9269 41.0253),4.616,http://www.wikidata.org/entity/Q238745,41.0253,28.9269,60,Adnan Menderes,Mausoleum of Adnan Menderes,graves,black
+49,Point(28.92084 41.01537),4.724,http://www.wikidata.org/entity/Q243550,41.01537,28.92084,59,Necmettin Erbakan,Merkezefendi Cemetery,graves,black
+50,Point(28.95722222 41.01972222),2.156,http://www.wikidata.org/entity/Q41628,41.01972222,28.95722222,57,John II Komnenos,Zeyrek Mosque,graves,black
+51,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41605,41.019722222222,28.949722222222,57,Constantine IV,Church of the Holy Apostles,graves,black
+52,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q41603,41.0125,28.98,56,John I Tzimiskes,Constantinople,graves,black
+53,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41622,41.019722222222,28.949722222222,55,Michael III,Church of the Holy Apostles,graves,black
+54,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q212647,41.019722222222,28.949722222222,54,Timothy,Church of the Holy Apostles,graves,black
+55,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41625,41.019722222222,28.949722222222,53,Nikephoros II Phokas,Church of the Holy Apostles,graves,black
+56,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q327142,41.0738,29.0079,53,Yaşar Kemal,Zincirlikuyu Cemetery,graves,black
+57,Point(28.982083333 41.068138888),6.887,http://www.wikidata.org/entity/Q315888,41.068138888889,28.982083333333,53,Talaat Paşa,"Monument of Liberty, Istanbul",graves,black
+58,Point(29.05 40.913055555),12.1,http://www.wikidata.org/entity/Q41652,40.913055555556,29.05,53,Michael I Rangabe,Kınalıada,graves,black
+59,Point(28.95555556 41.00861111),1.723,http://www.wikidata.org/entity/Q41646,41.00861111,28.95555556,52,Romanos I Lekapenos,Bodrum Mosque,graves,black
+60,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41643,41.019722222222,28.949722222222,52,Isaac I Komnenos,Church of the Holy Apostles,graves,black
+61,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41663,41.019722222222,28.949722222222,52,Konstantinos VIII,Church of the Holy Apostles,graves,black
+62,Point(28.91346 41.00775),5.239,http://www.wikidata.org/entity/Q110126,41.00775,28.91346,51,Hrant Dink,Balıklı Armenian Cemetery,graves,black
+63,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41659,41.019722222222,28.949722222222,51,Zoe Porphyrogenita,Church of the Holy Apostles,graves,black
+64,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41660,41.019722222222,28.949722222222,50,Konstantinos X Doukas,Church of the Holy Apostles,graves,black
+65,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q327261,41.01,28.960277777778,49,Aziz Nesin,Istanbul,graves,black
+66,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q41657,41.0125,28.98,49,Romanos III Argyros,Constantinople,graves,black
+67,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q41666,41.019722222222,28.949722222222,49,Theodora Porphyrogenita,Church of the Holy Apostles,graves,black
+68,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q41689,41.0125,28.98,48,Nikephoros III Botaneiates,Constantinople,graves,black
+69,Point(28.964469 41.01569),1.409,http://www.wikidata.org/entity/Q80764,41.01569,28.964469,48,Mihrimah Sultan,Tomb of Suleiman the Magnificent,graves,black
+70,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q238091,41.008333333333,28.98,48,Nurbanu Sultan,Hagia Sophia,graves,black
+71,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q2425979,41.01,28.960277777778,47,Hafsa Sultan,Istanbul,graves,black
+72,Point(28.95722222 41.01972222),2.156,http://www.wikidata.org/entity/Q37078,41.01972222,28.95722222,46,Andronikos IV Palaiologos,Zeyrek Mosque,graves,black
+73,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q205688,41.008333333333,28.98,46,Enrico Dandolo,Hagia Sophia,graves,black
+74,Point(28.92084 41.01537),4.724,http://www.wikidata.org/entity/Q234289,41.01537,28.92084,45,Halide Edib Adıvar,Merkezefendi Cemetery,graves,black
+75,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q437197,41.008333333333,28.98,45,Safiye Sultan,Hagia Sophia,graves,black
+76,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q316443,41.032194,28.930575,44,Mehmet Akif Ersoy,Edirnekapı Martyr's Cemetery,graves,black
+77,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q231919,41.019722222222,28.949722222222,44,Pulcheria,Church of the Holy Apostles,graves,black
+78,Point(28.971888888 41.016166666),1.138,http://www.wikidata.org/entity/Q621548,41.016166666667,28.971888888889,43,Turhan Sultan,Tomb of Turhan Hatice Sultan,graves,black
+79,Point(28.97111111 41.00888889),0.487,http://www.wikidata.org/entity/Q83275,41.00888889,28.97111111,41,Ziya Gökalp,Çemberlitaş,graves,black
+80,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q76729,41.032194,28.930575,40,Bruno Taut,Edirnekapı Martyr's Cemetery,graves,black
+81,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q311259,41.032194,28.930575,39,Naim Süleymanoğlu,Edirnekapı Martyr's Cemetery,graves,black
+82,Point(28.979887 41.00779),0.372,http://www.wikidata.org/entity/Q2682334,41.00779,28.979887,39,Handan Sultan,Tomb of Mehmed III,graves,black
+83,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q319461,41.0738,29.0079,39,Sait Faik Abasıyanık,Zincirlikuyu Cemetery,graves,black
+84,Point(29.06602 41.09726),12.619,http://www.wikidata.org/entity/Q366692,41.09726,29.06602,39,Mesut Yılmaz,Kanlıca Cemetery,graves,black
+85,Point(28.9157 41.0065),5.049,http://www.wikidata.org/entity/Q68359,41.0065,28.9157,38,Patriarch Athenagoras I of Constantinople,Church of St. Mary of the Spring,graves,black
+86,Point(28.957175 41.013794444),1.772,http://www.wikidata.org/entity/Q642614,41.013794444444,28.957175,38,Rüstem Paşa,Şehzade Mosque,graves,black
+87,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q6088718,41.01,28.960277777778,38,Halime Sultan,Istanbul,graves,black
+88,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q379595,41.0106,29.0261,38,Reşat Nuri Güntekin,Karacaahmet Cemetery,graves,black
+89,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q116639,41.019722222222,28.949722222222,37,Nikephoros I of Constantinople,Church of the Holy Apostles,graves,black
+90,Point(28.933786111 41.047947222),5.816,http://www.wikidata.org/entity/Q334813,41.047947222222,28.933786111111,37,Abu Ayyub al-Ansari,Eyüp Sultan Mosque,graves,black
+91,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q232981,41.019722222222,28.949722222222,36,Aelia Eudoxia,Church of the Holy Apostles,graves,black
+92,Point(28.971666666 41.048333333),4.678,http://www.wikidata.org/entity/Q1136761,41.048333333333,28.971666666667,36,Fatma Aliye Topuz,Feriköy Cemetery,graves,black
+93,Point(28.933786111 41.047947222),5.816,http://www.wikidata.org/entity/Q529665,41.047947222222,28.933786111111,36,Lala Kara Mustafa Paşa,Eyüp Sultan Mosque,graves,black
+94,Point(28.971666666 41.048333333),4.678,http://www.wikidata.org/entity/Q331896,41.048333333333,28.971666666667,35,Sami Frashëri,Feriköy Cemetery,graves,black
+95,Point(29.06602 41.09726),12.619,http://www.wikidata.org/entity/Q442656,41.09726,29.06602,35,Barış Manço,Kanlıca Cemetery,graves,black
+96,Point(28.9513 41.0266),3.05,http://www.wikidata.org/entity/Q2423137,41.0266,28.9513,34,Hatice Sultan,Yavuz Selim Mosque,graves,black
+97,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q366292,41.0738,29.0079,34,Fethi Okyar,Zincirlikuyu Cemetery,graves,black
+98,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q510679,41.01,28.960277777778,33,Köprülü Fazıl Ahmed Pasha,Istanbul,graves,black
+99,Point(28.957175 41.013794444),1.772,http://www.wikidata.org/entity/Q2991195,41.013794444444,28.957175,33,Şehzade Mehmed,Şehzade Mosque,graves,black
+100,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q311164,41.01,28.960277777778,32,Şehzade Ertuğrul Osman,Istanbul,graves,black
+101,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q2745815,41.01,28.960277777778,32,Gülnuş Sultan,Istanbul,graves,black
+102,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q276098,41.032194,28.930575,32,Ahmed Tevfik Okday,Edirnekapı Martyr's Cemetery,graves,black
+103,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q464994,41.032194,28.930575,32,Latife Uşaki,Edirnekapı Martyr's Cemetery,graves,black
+104,Point(28.9505759 41.018955),2.541,http://www.wikidata.org/entity/Q546595,41.018955,28.9505759,32,Osman Nuri Pasha,Gazi Osman Pasha Tomb,graves,black
+107,Point(28.93329 41.05219),6.221,http://www.wikidata.org/entity/Q2682717,41.05219,28.93329,32,Mahfiruz Sultan,Eyüpsultan Cemetery,graves,black
+108,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q721715,41.0738,29.0079,31,Nihat Erim,Zincirlikuyu Cemetery,graves,black
+109,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q352760,41.01,28.960277777778,30,Ahmet Ertegün,Istanbul,graves,black
+110,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q439237,41.01,28.960277777778,30,Mehmed Emin Âli Paşa,Istanbul,graves,black
+111,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q1571856,41.01,28.960277777778,30,Kara Ahmed Pasha,Istanbul,graves,black
+112,Point(28.9157 41.0065),5.049,http://www.wikidata.org/entity/Q342360,41.0065,28.9157,30,Patriarch Demetrios I of Constantinople,Church of St. Mary of the Spring,graves,black
+113,Point(28.957175 41.013794444),1.772,http://www.wikidata.org/entity/Q4809153,41.013794444444,28.957175,30,Șehzade Cihangir,Şehzade Mosque,graves,black
+114,Point(28.93329 41.05219),6.221,http://www.wikidata.org/entity/Q423644,41.05219,28.93329,30,Ali Qushji,Eyüpsultan Cemetery,graves,black
+115,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q187282,41.0106,29.0261,30,Zeki Velidi Togan,Karacaahmet Cemetery,graves,black
+116,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q401875,41.0825,29.055277777778,30,Ahmet Hamdi Tanpınar,Aşiyan Asri Cemetery,graves,black
+117,Point(28.939167 41.031111),4.128,http://www.wikidata.org/entity/Q441464,41.031111,28.939167,29,Germanus I of Constantinople,Chora Church,graves,black
+118,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q291756,41.019722222222,28.949722222222,29,Ariadne,Church of the Holy Apostles,graves,black
+119,Point(28.950562 41.018934),2.541,http://www.wikidata.org/entity/Q739524,41.018934,28.950562,29,Halil İnalcık,Fatih Mosque Cemetery,graves,black
+120,Point(28.950562 41.018934),2.541,http://www.wikidata.org/entity/Q13420049,41.018934,28.950562,29,Nakşidil Sultan,Fatih Mosque Cemetery,graves,black
+121,Point(28.964469 41.01569),1.409,http://www.wikidata.org/entity/Q2682344,41.01569,28.964469,29,Saliha Dilaşub Sultan,Tomb of Suleiman the Magnificent,graves,black
+122,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q390725,41.0738,29.0079,29,Şükrü Saraçoğlu,Zincirlikuyu Cemetery,graves,black
+123,Point(29.05784 41.11841),14.226,http://www.wikidata.org/entity/Q709859,41.11841,29.05784,29,Ferdi Tayfur,Yeniköy Cemetery,graves,black
+124,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q7034181,41.0825,29.055277777778,29,Nigâr Hanım,Aşiyan Asri Cemetery,graves,black
+125,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q722306,41.01,28.960277777778,28,Mahmud Shevket Pasha,Istanbul,graves,black
+126,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q728324,41.01,28.960277777778,28,Köprülü Mehmed Paşa,Istanbul,graves,black
+127,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q852738,41.032194,28.930575,28,Baki,Edirnekapı Martyr's Cemetery,graves,black
+128,Point(28.9505866 41.0191331),2.552,http://www.wikidata.org/entity/Q2690022,41.0191331,28.9505866,28,Gülbahar Hatun,Gulbahar Hatun Tomb,graves,black
+129,Point(28.93329 41.05219),6.221,http://www.wikidata.org/entity/Q469840,41.05219,28.93329,28,Necip Fazıl Kısakürek,Eyüpsultan Cemetery,graves,black
+130,Point(28.933786111 41.047947222),5.816,http://www.wikidata.org/entity/Q2016684,41.047947222222,28.933786111111,28,Ayas Mehmed Paşa,Eyüp Sultan Mosque,graves,black
+131,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q318014,41.0738,29.0079,28,Abdülhak Hâmid Tarhan,Zincirlikuyu Cemetery,graves,black
+132,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q459081,41.0738,29.0079,28,Duygu Asena,Zincirlikuyu Cemetery,graves,black
+133,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q982848,41.0825,29.055277777778,28,Orhan Veli Kanık,Aşiyan Asri Cemetery,graves,black
+134,Point(29.076669444 40.984169444),8.812,http://www.wikidata.org/entity/Q282179,40.984169444444,29.076669444444,28,Rauf Orbay,Sahrayıcedid Cemetery,graves,black
+135,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q735399,41.032194,28.930575,27,Yusuf Akçura,Edirnekapı Martyr's Cemetery,graves,black
+136,Point(28.9725 41.0085),0.368,http://www.wikidata.org/entity/Q2034890,41.0085,28.9725,27,Said Halim Pasha,Mausoleum of Mahmud II,graves,black
+137,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q242334,41.01,28.960277777778,26,Leylâ Gencer,Istanbul,graves,black
+138,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q717115,41.01,28.960277777778,26,Sinan the Great,Istanbul,graves,black
+139,Point(28.966 41.0446),4.329,http://www.wikidata.org/entity/Q949051,41.0446,28.966,26,Piyale Pasha,Piyale Pasha Mosque,graves,black
+140,Point(28.93329 41.05219),6.221,http://www.wikidata.org/entity/Q470948,41.05219,28.93329,26,Husein Gradaščević,Eyüpsultan Cemetery,graves,black
+141,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q124297,41.0738,29.0079,26,Türkan Saylan,Zincirlikuyu Cemetery,graves,black
+142,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q545945,41.0738,29.0079,26,Leylâ Erbil,Zincirlikuyu Cemetery,graves,black
+143,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q2357350,41.0825,29.055277777778,26,Neslişah Sultan,Aşiyan Asri Cemetery,graves,black
+144,Point(28.87241 40.9817),9.106,http://www.wikidata.org/entity/Q1366693,40.9817,28.87241,25,Halid Ziya Uşaklıgil,Bakırköy Cemetery,graves,black
+145,Point(28.953055555 41.01),1.956,http://www.wikidata.org/entity/Q434159,41.01,28.953055555556,25,Pertevniyal Sultan,Pertevniyal Mosque,graves,black
+146,Point(28.9513 41.0266),3.05,http://www.wikidata.org/entity/Q80454,41.0266,28.9513,25,Şah Huban Sultan,Yavuz Selim Mosque,graves,black
+147,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q401411,41.01,28.960277777778,25,Ahmed Muhtar Pasha,Istanbul,graves,black
+148,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q623135,41.01,28.960277777778,25,Bezmiâlem Sultan,Istanbul,graves,black
+149,Point(28.93916667 41.03111111),4.128,http://www.wikidata.org/entity/Q449254,41.03111111,28.93916667,25,Kemalpaşazade,"Edirnekapı, Istanbul",graves,black
+150,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q235603,41.0125,28.98,25,Aelia Flaccilla,Constantinople,graves,black
+151,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q260119,41.019722222222,28.949722222222,25,Eudokia Ingerina,Church of the Holy Apostles,graves,black
+152,Point(28.970277777 41.010277777),0.639,http://www.wikidata.org/entity/Q623087,41.010277777778,28.970277777778,25,Şehsuvar Sultan,Nuruosmaniye Mosque,graves,black
+153,Point(28.980928 41.026373),2.263,http://www.wikidata.org/entity/Q465269,41.026373,28.980928,25,Kılıç Ali Paşa,Kılıç Ali Pasha Mosque,graves,black
+155,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q735556,41.0106,29.0261,25,Nihal Atsız,Karacaahmet Cemetery,graves,black
+156,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q1226606,41.008333333333,28.98,25,Alexios Komnenos,Hagia Sophia,graves,black
+157,Point(28.937777777 41.08),8.787,http://www.wikidata.org/entity/Q2999351,41.08,28.937777777778,25,Mihrişah Sultan,Eyüp,graves,black
+158,Point(28.971666666 41.048333333),4.678,http://www.wikidata.org/entity/Q10967747,41.048333333333,28.971666666667,25,Süreyya Ağaoğlu,Feriköy Cemetery,graves,black
+159,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q460204,41.01,28.960277777778,24,Amcazade Köprülü Hüseyin Paşa,Istanbul,graves,black
+160,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q6967370,41.01,28.960277777778,24,Paraskeva of the Balkans,Istanbul,graves,black
+161,Point(28.972141 41.016875),1.208,http://www.wikidata.org/entity/Q2746974,41.016875,28.972141,24,Saliha Sultan,New Mosque,graves,black
+162,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q982389,41.0738,29.0079,24,Sırrı Süreyya Önder,Zincirlikuyu Cemetery,graves,black
+163,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q607246,41.0825,29.055277777778,24,Yahya Kemal Beyatlı,Aşiyan Asri Cemetery,graves,black
+164,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q948861,41.0825,29.055277777778,24,Tevfik Fikret,Aşiyan Asri Cemetery,graves,black
+165,Point(28.99032 41.06518),6.649,http://www.wikidata.org/entity/Q623586,41.06518,28.99032,24,Ara Güler,Şişli Armenian Cemetery,graves,black
+166,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q13574559,41.0738,29.0079,24,Nezihe Muhiddin,Zincirlikuyu Cemetery,graves,black
+167,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q3760333,41.0738,29.0079,24,Şefika Gaspıralı,Zincirlikuyu Cemetery,graves,black
+168,Point(28.87241 40.9817),9.106,http://www.wikidata.org/entity/Q2064734,40.9817,28.87241,23,Tarık Akan,Bakırköy Cemetery,graves,black
+169,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q838407,41.01,28.960277777778,23,Piri Mehmed Paşa,Istanbul,graves,black
+170,Point(28.920564587 41.009796601),4.656,http://www.wikidata.org/entity/Q388991,41.009796601953,28.920564587562,23,Serif Gören,Kozlu Cemetery,graves,black
+171,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q728586,41.032194,28.930575,23,Recep Peker,Edirnekapı Martyr's Cemetery,graves,black
+172,Point(28.950562 41.018934),2.541,http://www.wikidata.org/entity/Q46561,41.018934,28.950562,23,Ahmet Mithat Efendi,Fatih Mosque Cemetery,graves,black
+173,Point(28.950562 41.018934),2.541,http://www.wikidata.org/entity/Q509775,41.018934,28.950562,23,Kadir Topbaş,Fatih Mosque Cemetery,graves,black
+174,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q2619547,41.019722222222,28.949722222222,23,Fabia Eudokia,Church of the Holy Apostles,graves,black
+175,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q6380345,41.01,28.960277777778,23,Ismihan Kaya Sultan,Istanbul,graves,black
+176,Point(28.971666666 41.048333333),4.678,http://www.wikidata.org/entity/Q496959,41.048333333333,28.971666666667,23,Ali Sami Yen,Feriköy Cemetery,graves,black
+177,Point(28.933786111 41.047947222),5.816,http://www.wikidata.org/entity/Q4436934,41.047947222222,28.933786111111,23,Ayşe Sineperver Sultan,Eyüp Sultan Mosque,graves,black
+178,Point(28.93329 41.05219),6.221,http://www.wikidata.org/entity/Q4892993,41.05219,28.93329,23,Ebussu'ud Efendi,Eyüpsultan Cemetery,graves,black
+179,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q357260,41.0106,29.0261,23,Adile Naşit,Karacaahmet Cemetery,graves,black
+180,Point(28.972141 41.016875),1.208,http://www.wikidata.org/entity/Q4445392,41.016875,28.972141,23,Şevkefza Sultan,New Mosque,graves,black
+181,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q297504,41.0738,29.0079,23,Ömer Seyfettin,Zincirlikuyu Cemetery,graves,black
+182,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q375687,41.0738,29.0079,23,Bülent Ulusu,Zincirlikuyu Cemetery,graves,black
+183,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q401541,41.0825,29.055277777778,23,Ahmed Vefik Pasha,Aşiyan Asri Cemetery,graves,black
+184,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q2900391,41.0825,29.055277777778,23,Fahri Paşa,Aşiyan Asri Cemetery,graves,black
+185,Point(28.99032 41.06518),6.649,http://www.wikidata.org/entity/Q8063474,41.06518,28.99032,23,Zabel Sibil Asadour,Şişli Armenian Cemetery,graves,black
+186,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q6087410,41.0738,29.0079,23,Ayla Erduran,Zincirlikuyu Cemetery,graves,black
+187,Point(28.9513 41.0266),3.05,http://www.wikidata.org/entity/Q5201950,41.0266,28.9513,22,Beyhan Sultan,Yavuz Selim Mosque,graves,black
+188,Point(28.960277777 41.01),1.369,http://www.wikidata.org/entity/Q971640,41.01,28.960277777778,22,Alemdar Mustafa Paşa,Istanbul,graves,black
+189,Point(28.920564587 41.009796601),4.656,http://www.wikidata.org/entity/Q1300929,41.009796601953,28.920564587562,22,Metin Oktay,Kozlu Cemetery,graves,black
+190,Point(28.930575 41.032194),4.762,http://www.wikidata.org/entity/Q922153,41.032194,28.930575,22,Ruhi Sarıalp,Edirnekapı Martyr's Cemetery,graves,black
+191,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q2426005,41.019722222222,28.949722222222,22,Zoe Zaoutzaina,Church of the Holy Apostles,graves,black
+192,Point(28.98 41.008333333),0.409,http://www.wikidata.org/entity/Q15388533,41.008333333333,28.98,22,Ismihan Sultan,Hagia Sophia,graves,black
+193,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q401118,41.0738,29.0079,22,Ahmed Adnan Saygun,Zincirlikuyu Cemetery,graves,black
+194,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q664549,41.0738,29.0079,22,Cahit Arf,Zincirlikuyu Cemetery,graves,black
+195,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q735585,41.0738,29.0079,22,Kemal Sunal,Zincirlikuyu Cemetery,graves,black
+196,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q739401,41.0738,29.0079,22,Orhan Kemal,Zincirlikuyu Cemetery,graves,black
+197,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q941740,41.0738,29.0079,22,Turgay Şeren,Zincirlikuyu Cemetery,graves,black
+198,Point(28.98 41.0125),0.763,http://www.wikidata.org/entity/Q3657774,41.0125,28.98,21,Theophano of Athens,Constantinople,graves,black
+199,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q1233341,41.019722222222,28.949722222222,21,Marina Severa,Church of the Holy Apostles,graves,black
+200,Point(28.949722222 41.019722222),2.648,http://www.wikidata.org/entity/Q2461901,41.019722222222,28.949722222222,21,Theophano Martiniake,Church of the Holy Apostles,graves,black
+201,Point(28.959388888 41.037694444),3.746,http://www.wikidata.org/entity/Q982905,41.037694444444,28.959388888889,21,Cemal Süreya,Kulaksız Cemetery,graves,black
+202,Point(28.933786111 41.047947222),5.816,http://www.wikidata.org/entity/Q4893443,41.047947222222,28.933786111111,21,Semiz Ali Paşa,Eyüp Sultan Mosque,graves,black
+203,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q924558,41.0106,29.0261,21,Wehib Pasha,Karacaahmet Cemetery,graves,black
+204,Point(29.0261 41.0106),4.24,http://www.wikidata.org/entity/Q1053260,41.0106,29.0261,21,Cem Karaca,Karacaahmet Cemetery,graves,black
+205,Point(28.9768247 41.0053851),0.137,http://www.wikidata.org/entity/Q16911421,41.0053851,28.9768247,21,Fatma Sultan,Sultan Ahmed Mosque,graves,black
+206,Point(29.0079 41.0738),7.963,http://www.wikidata.org/entity/Q555004,41.0738,29.0079,21,Selahattin Ülkümen,Zincirlikuyu Cemetery,graves,black
+207,Point(29.06602 41.09726),12.619,http://www.wikidata.org/entity/Q1347777,41.09726,29.06602,21,Kayahan,Kanlıca Cemetery,graves,black
+208,Point(29.055277777 41.0825),10.769,http://www.wikidata.org/entity/Q758126,41.0825,29.055277777778,21,Attila İlhan,Aşiyan Asri Cemetery,graves,black

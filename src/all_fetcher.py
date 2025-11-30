@@ -11,7 +11,7 @@ from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleg
 from wikidata_fetcher import WikidataFetcher
 from kml_helper import KmlHelper
 from wikivoyage_fetcher import WikivoyageFetcher
-from google_maps_fetcher import GoogleMapsFetcher
+# from google_maps_fetcher import GoogleMapsFetcher
 import atlas_obscura_fetcher
 
 load_dotenv(find_dotenv())
@@ -34,7 +34,6 @@ class AllFetcher():
         
         self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',self.lat,self.lon,distance)
         self.wikivoyage_fetcher = WikivoyageFetcher(place_name, (self.lat, self.lon), self.distance, self.debug_mode)
-        self.google_maps_fetcher = GoogleMapsFetcher(self.lat, self.lon, self.distance)
         self.place_name = place_name
 
         if country_name == '':
@@ -54,8 +53,6 @@ class AllFetcher():
             relevant_ao_df = pd.read_csv(os.path.join('data', 'ao_country_data', f'ao_{self.country_name}.csv'.lower()))
 
         wikivoyage_df = self.wikivoyage_fetcher.fetch()
-        google_maps_df = self.google_maps_fetcher.fetch()
-        wikivoyage_df = pd.concat([wikivoyage_df, google_maps_df], ignore_index=True)
         
         
         # cleaning
