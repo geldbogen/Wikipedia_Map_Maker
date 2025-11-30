@@ -62,6 +62,11 @@ class WikidataFetcher():
                 print(key)
                 df[key] = [self.get_value(x, key) for x in bindings_list]
             df['sitelinks'] = df['sitelinks'].apply(lambda x: int(x))
+            
+            # drop all the rows where articleDE and articleEN is ''
+            if 'articleEN' in df.columns and 'articleDE' in df.columns:
+                df = df[~((df['articleEN'] == '') & (df['articleDE'] == ''))]
+            
             df.to_csv(
                 f'''data/{str(self.lat).replace('.','-')}_{str(self.lon).replace('.','-')}.csv''', index=False)
         return df

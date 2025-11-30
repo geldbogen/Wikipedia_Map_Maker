@@ -60,6 +60,7 @@ class WikivoyageFetcher():
         self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Sleep')]
         self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Eat')]
         self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Drink')]
+        self.return_frame = self.return_frame[~self.return_frame['itemLabel'].str.startswith('Cope')]
 
         return self.return_frame
 
