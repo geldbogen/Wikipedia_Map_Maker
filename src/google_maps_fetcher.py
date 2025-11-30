@@ -10,16 +10,15 @@ GOOGLE_MAPS_API_KEY = os.getenv(('maps_api_key'), 'ERROR_FETCHING_KEY')
 class GoogleMapsFetcher:
     def __init__(self, api_key: str = GOOGLE_MAPS_API_KEY):
         self.api_key = api_key
-    def search_nearby_places(self, latitude, longitude, radius=500.0, included_types=None, max_results=10) -> pd.DataFrame:
+    def search_nearby_places(self, latitude, longitude, radius=2000.0, included_types=None) -> pd.DataFrame:
         """
         Search for nearby places using Google Maps Places API (New).
         
         Args:
         latitude: Center point latitude
         longitude: Center point longitude
-        radius: Search radius in meters (default: 500.0)
+        radius: Search radius in meters (default: 2000.0)
         included_types: List of place types to include (default: ["restaurant"])
-        max_results: Maximum number of results (default: 10)
     
     Returns:
         pandas DataFrame with place information

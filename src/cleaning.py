@@ -1,7 +1,5 @@
 from typing import Literal
-
 import pandas as pd
-import simplekml
 
 with open('data/almost_unimportant_tags.txt', 'r') as f:
     set_of_almost_unimportant_tags = set(f.read().splitlines())
@@ -30,13 +28,11 @@ def  get_tier_and_color(pd_series : pd.Series, which_category : Literal['places'
         case 'places':
             match pd_series.get('sitelinks',-1):
                 case _ if pd_series.get('sitelinks',-1) >= 20:
-                    return ('S','orange')
+                    return ('S','red')
                 case _ if pd_series.get('sitelinks',-1) >= 10:
                     return ('A','green')
                 case _ if pd_series.get('sitelinks',-1) >= 5:
                     return ('B','violet')
-                case _ if pd_series.get('sitelinks',-1) >= 2:
-                    return ('C','yellow')
                 case _ if pd_series.get('sitelinks',-1) >= 2:
                     return ('C','yellow')
                 case _ if pd_series.get('sitelinks',-1) == -1:
