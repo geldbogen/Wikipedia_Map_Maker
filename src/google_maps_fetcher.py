@@ -8,9 +8,19 @@ load_dotenv(find_dotenv())
 GOOGLE_MAPS_API_KEY = os.getenv(('maps_api_key'), 'ERROR_FETCHING_KEY')
 
 class GoogleMapsFetcher:
-    def __init__(self, api_key: str = GOOGLE_MAPS_API_KEY):
+    def __init__(self, latitude: float, longitude: float, distance: int = 2, included_types=None, api_key: str = GOOGLE_MAPS_API_KEY):
         self.api_key = api_key
-    def search_nearby_places(self, latitude, longitude, radius=2000.0, included_types=None) -> pd.DataFrame:
+        self.latitude = latitude
+        self.longitude = longitude
+        self.distance = distance # in km
+        self.included_types = included_types if included_types is not None else ["restaurant"]
+
+        self.dict_thing_to_label = {
+            'restaurant' : 'Eat',
+            'bar' : 'Drink'
+        }
+
+    def fetch(self) -> pd.DataFrame:
         """
         Search for nearby places using Google Maps Places API (New).
         
@@ -30,8 +40,6 @@ class GoogleMapsFetcher:
             - longitude
             - price_level
     """
-        if included_types is None:
-            included_types = ["restaurant"]
         
         url = 'https://places.googleapis.com/v1/places:searchNearby'
         
@@ -42,14 +50,14 @@ class GoogleMapsFetcher:
         }
         
         payload = {
-            "includedTypes": included_types,
+            "includedTypes": self.included_types,
             "locationRestriction": {
                 "circle": {
                     "center": {
-                        "latitude": latitude,
-                        "longitude": longitude
+                        "latitude": self.latitude,
+                        "longitude": self.longitude
                     },
-                    "radius": radius
+                    "radius": self.distance * 1000  # Convert km to meters
                 }
             }
         }
@@ -57,47 +65,50 @@ class GoogleMapsFetcher:
         response = requests.post(url, json=payload, headers=headers)
         response.raise_for_status()
         
-        df = create_dataframe_from_response(response.json())
+        df = self.create_dataframe_from_response(response.json())
         
         df = df[(df['rating'] >= 4.8) & (df['user_rating_count'] >= 500)]
         return df
 
 
-def create_dataframe_from_response(response_json):
-    """
-    Convert Google Maps API response to a pandas DataFrame.
-    
-    Args:
-        response_json: JSON response from the API
-    
-    Returns:
-        pandas DataFrame with place information
-    """
-    # Price level mapping (Google uses PRICE_LEVEL_FREE to PRICE_LEVEL_VERY_EXPENSIVE)
-    price_level_map = {
-        'PRICE_LEVEL_FREE': 'Free',
-        'PRICE_LEVEL_INEXPENSIVE': '€',
-        'PRICE_LEVEL_MODERATE': '€€',
-        'PRICE_LEVEL_EXPENSIVE': '€€€',
-        'PRICE_LEVEL_VERY_EXPENSIVE': '€€€€',
-        'PRICE_LEVEL_UNSPECIFIED': 'N/A'
-    }
-    
-    places = response_json.get('places', [])
-    
-    data = []
-    for place in places:
-        price_level = place.get('priceLevel', 'PRICE_LEVEL_UNSPECIFIED')
-        data.append({
-            'name': place.get('displayName', {}).get('text', 'N/A'),
-            'rating': place.get('rating', None),
-            'user_rating_count': place.get('userRatingCount', None),
-            'latitude': place.get('location', {}).get('latitude', None),
-            'longitude': place.get('location', {}).get('longitude', None),
-            'price_level': price_level_map.get(price_level, 'ERROR')
-        })
-    
-    return pd.DataFrame(data)
+    def create_dataframe_from_response(self, response_json):
+        """
+        Convert Google Maps API response to a pandas DataFrame.
+        
+        Args:
+            response_json: JSON response from the API
+        
+        Returns:
+            pandas DataFrame with place information
+        """
+        # Price level mapping (Google uses PRICE_LEVEL_FREE to PRICE_LEVEL_VERY_EXPENSIVE)
+        price_level_map = {
+            'PRICE_LEVEL_FREE': 'Free',
+            'PRICE_LEVEL_INEXPENSIVE': '€',
+            'PRICE_LEVEL_MODERATE': '€€',
+            'PRICE_LEVEL_EXPENSIVE': '€€€',
+            'PRICE_LEVEL_VERY_EXPENSIVE': '€€€€',
+            'PRICE_LEVEL_UNSPECIFIED': 'N/A'
+        }
+        
+        places = response_json.get('places', [])
+        
+        data = []
+        for place in places:
+            price_level = place.get('priceLevel', 'PRICE_LEVEL_UNSPECIFIED')
+            data.append({
+                'itemLabel': place.get('displayName', {}).get('text', 'N/A'),
+                'thingLabel': self.dict_thing_to_label.get(self.included_types[0], 'N/A') if self.included_types else 'N/A',
+                'rating': place.get('rating', None),
+                'user_rating_count': place.get('userRatingCount', None),
+                'lat': place.get('location', {}).get('latitude', None),
+                'lon': place.get('location', {}).get('longitude', None),
+                'price_level': price_level_map.get(price_level, 'ERROR')
+            })
+        
+        df = pd.DataFrame(data)
+
+        return df
 
 
 # # Example usage:

@@ -1,16 +1,21 @@
 import os
-import math
 
 import pandas as pd
 import geopy.distance
 from geopy.geocoders import Nominatim
 import simplekml
 
+from dotenv import load_dotenv, find_dotenv
+
 from cleaning import get_tier_and_color, check_if_unimportant_things_like_colleges_or_hotels
 from wikidata_fetcher import WikidataFetcher
 from kml_helper import KmlHelper
 from wikivoyage_fetcher import WikivoyageFetcher
+from google_maps_fetcher import GoogleMapsFetcher
 import atlas_obscura_fetcher
+
+load_dotenv(find_dotenv())
+
 
 class AllFetcher():
 
@@ -29,6 +34,7 @@ class AllFetcher():
         
         self.wikidata_fetcher = WikidataFetcher('queries/places_query.sparql','queries/graves_query.sparql',self.lat,self.lon,distance)
         self.wikivoyage_fetcher = WikivoyageFetcher(place_name, (self.lat, self.lon), self.distance, self.debug_mode)
+        self.google_maps_fetcher = GoogleMapsFetcher(self.lat, self.lon, self.distance)
         self.place_name = place_name
 
         if country_name == '':
@@ -48,7 +54,9 @@ class AllFetcher():
             relevant_ao_df = pd.read_csv(os.path.join('data', 'ao_country_data', f'ao_{self.country_name}.csv'.lower()))
 
         wikivoyage_df = self.wikivoyage_fetcher.fetch()
-        # wikivoyage_df = pd.DataFrame()
+        google_maps_df = self.google_maps_fetcher.fetch()
+        wikivoyage_df = pd.concat([wikivoyage_df, google_maps_df], ignore_index=True)
+        
         
         # cleaning
         relevant_ao_df = relevant_ao_df[relevant_ao_df.apply(lambda x : geopy.distance.distance((x['lat'],x['lon']),(self.lat, self.lon)).km < self.distance, axis = 1)]
