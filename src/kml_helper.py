@@ -49,12 +49,11 @@ class KmlHelper():
         self.style_map_S._id = 'icon-1739-FF0000'
 
         self.style_A = simplekml.Style()
-        self.style_A._id = 'icon-1739-7CB342-normal'
+        self.style_A._id = 'icon-1739-008000-normal'
         self.style_A.iconstyle.icon.href = 'https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png'
 
         self.style_map_A = simplekml.StyleMap(normalstyle=self.style_A)
-        self.style_map_A._id = 'icon-1739-FF8800'
-
+        self.style_map_A._id = 'icon-1739-008000'
 
         self.style_B = simplekml.Style()
         self.style_B._id = 'icon-1739-FFFF00-normal'
