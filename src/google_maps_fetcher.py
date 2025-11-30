@@ -51,6 +51,7 @@ class GoogleMapsFetcher:
         
         payload = {
             "includedTypes": self.included_types,
+            "maxResultCount": 200000,
             "locationRestriction": {
                 "circle": {
                     "center": {
@@ -111,14 +112,39 @@ class GoogleMapsFetcher:
         return df
 
 
-# # Example usage:
-# if __name__ == "__main__":
-#     result = search_nearby_places(49.460983, 11.061859)
-#     print(result)
+# Example usage:
+if __name__ == "__main__":
+    # Example coordinates (Nuremberg, Germany)
+    test_latitude = 49.460983
+    test_longitude = 11.061859
+    test_distance = 2  # km
     
-#     df = create_dataframe_from_response(result)
-#     print("\nDataFrame:")
-#     print(df)
+    # Test with restaurants
+    print("Fetching restaurants...")
+    restaurant_fetcher = GoogleMapsFetcher(
+        latitude=test_latitude,
+        longitude=test_longitude,
+        distance=test_distance,
+        included_types=["restaurant"]
+    )
+    restaurants_df = restaurant_fetcher.fetch()
+    print("\nRestaurants DataFrame:")
+    print(restaurants_df)
+    print(f"\nFound {len(restaurants_df)} highly-rated restaurants")
+    
+    # Test with bars
+    print("\n" + "="*50)
+    print("Fetching bars...")
+    bar_fetcher = GoogleMapsFetcher(
+        latitude=test_latitude,
+        longitude=test_longitude,
+        distance=test_distance,
+        included_types=["bar"]
+    )
+    bars_df = bar_fetcher.fetch()
+    print("\nBars DataFrame:")
+    print(bars_df)
+    print(f"\nFound {len(bars_df)} highly-rated bars")
 
 
 
